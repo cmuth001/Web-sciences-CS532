@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T02:15:00Z",
+            "uri": "http://web.archive.org/web/20180209021500/https://www.goal.com/en-us/news/yedlin-says-usas-goal-must-be-to-win-world-cup/le52oh6z0gyq1wsldwv7z5b7z"
+        },
+        "last": {
+            "datetime": "2018-02-09T02:15:00Z",
+            "uri": "http://web.archive.org/web/20180209021500/https://www.goal.com/en-us/news/yedlin-says-usas-goal-must-be-to-win-world-cup/le52oh6z0gyq1wsldwv7z5b7z"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T02:15:00Z",
+                "uri": "http://web.archive.org/web/20180209021500/https://www.goal.com/en-us/news/yedlin-says-usas-goal-must-be-to-win-world-cup/le52oh6z0gyq1wsldwv7z5b7z"
+            }
+        ]
+    },
+    "original_uri": "http://www.goal.com/en-us/news/yedlin-says-usas-goal-must-be-to-win-world-cup/le52oh6z0gyq1wsldwv7z5b7z",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.goal.com/en-us/news/yedlin-says-usas-goal-must-be-to-win-world-cup/le52oh6z0gyq1wsldwv7z5b7z",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.goal.com/en-us/news/yedlin-says-usas-goal-must-be-to-win-world-cup/le52oh6z0gyq1wsldwv7z5b7z",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.goal.com/en-us/news/yedlin-says-usas-goal-must-be-to-win-world-cup/le52oh6z0gyq1wsldwv7z5b7z",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.goal.com/en-us/news/yedlin-says-usas-goal-must-be-to-win-world-cup/le52oh6z0gyq1wsldwv7z5b7z",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.goal.com/en-us/news/yedlin-says-usas-goal-must-be-to-win-world-cup/le52oh6z0gyq1wsldwv7z5b7z"
+    }
+}

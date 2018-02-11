@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2015-12-12T11:32:07Z",
+            "uri": "http://web.archive.org/web/20151212113207/http://www.facebook.com/csitalentcup"
+        },
+        "last": {
+            "datetime": "2015-12-12T11:32:10Z",
+            "uri": "http://web.archive.org/web/20151212113210/https://www.facebook.com/csitalentcup"
+        },
+        "list": [
+            {
+                "datetime": "2015-12-12T11:32:07Z",
+                "uri": "http://web.archive.org/web/20151212113207/http://www.facebook.com/csitalentcup"
+            },
+            {
+                "datetime": "2015-12-12T11:32:10Z",
+                "uri": "http://web.archive.org/web/20151212113210/https://www.facebook.com/csitalentcup"
+            }
+        ]
+    },
+    "original_uri": "https://www.facebook.com/csitalentcup/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.facebook.com/csitalentcup/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.facebook.com/csitalentcup/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.facebook.com/csitalentcup/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.facebook.com/csitalentcup/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.facebook.com/csitalentcup/"
+    }
+}

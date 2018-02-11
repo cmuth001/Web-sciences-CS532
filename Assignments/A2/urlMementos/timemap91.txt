@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-09-28T22:58:33Z",
+            "uri": "http://web.archive.org/web/20170928225833/http://football-ch.net/E3AqEEtKBMyg7YoZt/posts"
+        },
+        "last": {
+            "datetime": "2018-02-02T22:17:32Z",
+            "uri": "http://web.archive.org/web/20180202221732/https://football-ch.net/E3AqEEtKBMyg7YoZt/posts"
+        },
+        "list": [
+            {
+                "datetime": "2017-09-28T22:58:33Z",
+                "uri": "http://web.archive.org/web/20170928225833/http://football-ch.net/E3AqEEtKBMyg7YoZt/posts"
+            },
+            {
+                "datetime": "2018-01-23T07:33:23Z",
+                "uri": "http://web.archive.org/web/20180123073323/http://football-ch.net/E3AqEEtKBMyg7YoZt/posts"
+            },
+            {
+                "datetime": "2018-02-02T22:17:32Z",
+                "uri": "http://web.archive.org/web/20180202221732/https://football-ch.net/E3AqEEtKBMyg7YoZt/posts"
+            }
+        ]
+    },
+    "original_uri": "https://football-ch.net/E3AqEEtKBMyg7YoZt/posts",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://football-ch.net/E3AqEEtKBMyg7YoZt/posts",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://football-ch.net/E3AqEEtKBMyg7YoZt/posts",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://football-ch.net/E3AqEEtKBMyg7YoZt/posts",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://football-ch.net/E3AqEEtKBMyg7YoZt/posts",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://football-ch.net/E3AqEEtKBMyg7YoZt/posts"
+    }
+}

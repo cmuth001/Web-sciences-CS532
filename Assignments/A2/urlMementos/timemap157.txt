@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-06-12T20:48:14Z",
+            "uri": "http://web.archive.org/web/20170612204814/http://footballspider.com:80/fulham/news"
+        },
+        "last": {
+            "datetime": "2018-02-02T12:17:03Z",
+            "uri": "http://web.archive.org/web/20180202121703/http://footballspider.com/fulham/news/"
+        },
+        "list": [
+            {
+                "datetime": "2017-06-12T20:48:14Z",
+                "uri": "http://web.archive.org/web/20170612204814/http://footballspider.com:80/fulham/news"
+            },
+            {
+                "datetime": "2017-09-02T06:21:01Z",
+                "uri": "http://web.archive.org/web/20170902062101/http://footballspider.com/fulham/news"
+            },
+            {
+                "datetime": "2018-02-02T10:15:57Z",
+                "uri": "http://web.archive.org/web/20180202101557/http://footballspider.com/fulham/news"
+            },
+            {
+                "datetime": "2018-02-02T12:17:03Z",
+                "uri": "http://web.archive.org/web/20180202121703/http://footballspider.com/fulham/news/"
+            }
+        ]
+    },
+    "original_uri": "http://footballspider.com/fulham/news",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://footballspider.com/fulham/news",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://footballspider.com/fulham/news",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://footballspider.com/fulham/news",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://footballspider.com/fulham/news",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://footballspider.com/fulham/news"
+    }
+}

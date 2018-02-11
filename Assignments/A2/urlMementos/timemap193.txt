@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2012-01-26T07:44:11Z",
+            "uri": "http://web.archive.org/web/20120126074411/http://www.telegraph.co.uk:80/sport/football/teams/west-ham/6245815/Kieron-Dyer-my-greatest-regret-was-letting-Sir-Bobby-Robson-down.html"
+        },
+        "last": {
+            "datetime": "2015-12-09T00:17:13Z",
+            "uri": "http://web.archive.org/web/20151209001713/http://www.telegraph.co.uk:80/sport/football/teams/west-ham/6245815/Kieron-Dyer-my-greatest-regret-was-letting-Sir-Bobby-Robson-down.html"
+        },
+        "list": [
+            {
+                "datetime": "2012-01-26T07:44:11Z",
+                "uri": "http://web.archive.org/web/20120126074411/http://www.telegraph.co.uk:80/sport/football/teams/west-ham/6245815/Kieron-Dyer-my-greatest-regret-was-letting-Sir-Bobby-Robson-down.html"
+            },
+            {
+                "datetime": "2015-12-09T00:17:13Z",
+                "uri": "http://web.archive.org/web/20151209001713/http://www.telegraph.co.uk:80/sport/football/teams/west-ham/6245815/Kieron-Dyer-my-greatest-regret-was-letting-Sir-Bobby-Robson-down.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.telegraph.co.uk/sport/football/teams/west-ham/6245815/Kieron-Dyer-my-greatest-regret-was-letting-Sir-Bobby-Robson-down.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.telegraph.co.uk/sport/football/teams/west-ham/6245815/Kieron-Dyer-my-greatest-regret-was-letting-Sir-Bobby-Robson-down.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.telegraph.co.uk/sport/football/teams/west-ham/6245815/Kieron-Dyer-my-greatest-regret-was-letting-Sir-Bobby-Robson-down.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.telegraph.co.uk/sport/football/teams/west-ham/6245815/Kieron-Dyer-my-greatest-regret-was-letting-Sir-Bobby-Robson-down.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.telegraph.co.uk/sport/football/teams/west-ham/6245815/Kieron-Dyer-my-greatest-regret-was-letting-Sir-Bobby-Robson-down.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.telegraph.co.uk/sport/football/teams/west-ham/6245815/Kieron-Dyer-my-greatest-regret-was-letting-Sir-Bobby-Robson-down.html"
+    }
+}

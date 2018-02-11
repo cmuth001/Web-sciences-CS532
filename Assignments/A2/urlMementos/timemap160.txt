@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-08-29T09:32:59Z",
+            "uri": "http://web.archive.org/web/20170829093259/http://napohiru.seesaa.net/"
+        },
+        "last": {
+            "datetime": "2018-01-31T14:02:03Z",
+            "uri": "http://web.archive.org/web/20180131140203/http://napohiru.seesaa.net/"
+        },
+        "list": [
+            {
+                "datetime": "2017-08-29T09:32:59Z",
+                "uri": "http://web.archive.org/web/20170829093259/http://napohiru.seesaa.net/"
+            },
+            {
+                "datetime": "2018-01-31T14:02:03Z",
+                "uri": "http://web.archive.org/web/20180131140203/http://napohiru.seesaa.net/"
+            }
+        ]
+    },
+    "original_uri": "http://napohiru.seesaa.net/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://napohiru.seesaa.net/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://napohiru.seesaa.net/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://napohiru.seesaa.net/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://napohiru.seesaa.net/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://napohiru.seesaa.net/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T01:54:54Z",
+            "uri": "http://web.archive.org/web/20180209015454/http://www.expansion.com/directivos/deporte-negocio/2018/02/09/5a7cae58e2704ef23a8b45b0.html"
+        },
+        "last": {
+            "datetime": "2018-02-09T01:54:54Z",
+            "uri": "http://web.archive.org/web/20180209015454/http://www.expansion.com/directivos/deporte-negocio/2018/02/09/5a7cae58e2704ef23a8b45b0.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T01:54:54Z",
+                "uri": "http://web.archive.org/web/20180209015454/http://www.expansion.com/directivos/deporte-negocio/2018/02/09/5a7cae58e2704ef23a8b45b0.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.expansion.com/directivos/deporte-negocio/2018/02/09/5a7cae58e2704ef23a8b45b0.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.expansion.com/directivos/deporte-negocio/2018/02/09/5a7cae58e2704ef23a8b45b0.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.expansion.com/directivos/deporte-negocio/2018/02/09/5a7cae58e2704ef23a8b45b0.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.expansion.com/directivos/deporte-negocio/2018/02/09/5a7cae58e2704ef23a8b45b0.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.expansion.com/directivos/deporte-negocio/2018/02/09/5a7cae58e2704ef23a8b45b0.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.expansion.com/directivos/deporte-negocio/2018/02/09/5a7cae58e2704ef23a8b45b0.html"
+    }
+}

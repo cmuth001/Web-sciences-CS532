@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T12:45:00Z",
+            "uri": "http://web.archive.org/web/20180209124500/https://www.thesun.co.uk/sport/football/5535307/mauricio-pochettino-fears-massive-risk-of-injury-to-tottenham-stars-on-rochdale-pitch/"
+        },
+        "last": {
+            "datetime": "2018-02-09T12:45:06Z",
+            "uri": "http://web.archive.org/web/20180209124506/http://www.thesun.co.uk/sport/football/5535307/mauricio-pochettino-fears-massive-risk-of-injury-to-tottenham-stars-on-rochdale-pitch/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T12:45:00Z",
+                "uri": "http://web.archive.org/web/20180209124500/https://www.thesun.co.uk/sport/football/5535307/mauricio-pochettino-fears-massive-risk-of-injury-to-tottenham-stars-on-rochdale-pitch/"
+            },
+            {
+                "datetime": "2018-02-09T12:45:06Z",
+                "uri": "http://web.archive.org/web/20180209124506/http://www.thesun.co.uk/sport/football/5535307/mauricio-pochettino-fears-massive-risk-of-injury-to-tottenham-stars-on-rochdale-pitch/"
+            }
+        ]
+    },
+    "original_uri": "https://www.thesun.co.uk/sport/football/5535307/mauricio-pochettino-fears-massive-risk-of-injury-to-tottenham-stars-on-rochdale-pitch/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5535307/mauricio-pochettino-fears-massive-risk-of-injury-to-tottenham-stars-on-rochdale-pitch/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thesun.co.uk/sport/football/5535307/mauricio-pochettino-fears-massive-risk-of-injury-to-tottenham-stars-on-rochdale-pitch/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thesun.co.uk/sport/football/5535307/mauricio-pochettino-fears-massive-risk-of-injury-to-tottenham-stars-on-rochdale-pitch/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5535307/mauricio-pochettino-fears-massive-risk-of-injury-to-tottenham-stars-on-rochdale-pitch/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thesun.co.uk/sport/football/5535307/mauricio-pochettino-fears-massive-risk-of-injury-to-tottenham-stars-on-rochdale-pitch/"
+    }
+}

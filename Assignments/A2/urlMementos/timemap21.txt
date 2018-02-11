@@ -1,0 +1,1078 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2015-02-12T02:01:37Z",
+            "uri": "http://web.archive.org/web/20150212020137/http://jenkers.com:80/en"
+        },
+        "last": {
+            "datetime": "2018-01-27T18:29:25Z",
+            "uri": "http://web.archive.org/web/20180127182925/https://jenkers.com/en"
+        },
+        "list": [
+            {
+                "datetime": "2015-02-12T02:01:37Z",
+                "uri": "http://web.archive.org/web/20150212020137/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-03-14T12:52:49Z",
+                "uri": "http://web.archive.org/web/20150314125249/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-04-05T06:54:58Z",
+                "uri": "http://web.archive.org/web/20150405065458/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-04-07T10:15:02Z",
+                "uri": "http://archive.is/20150407101502/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-04-25T07:02:29Z",
+                "uri": "http://web.archive.org/web/20150425070229/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-04-29T22:58:17Z",
+                "uri": "http://web.archive.org/web/20150429225817/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-05-08T05:32:37Z",
+                "uri": "http://web.archive.org/web/20150508053237/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-05-14T00:18:01Z",
+                "uri": "http://wayback.archive-it.org/all/20150514001801/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-05-14T00:18:01Z",
+                "uri": "http://web.archive.org/web/20150514001801/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-05-16T05:43:00Z",
+                "uri": "http://web.archive.org/web/20150516054300/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-05-22T08:28:52Z",
+                "uri": "http://web.archive.org/web/20150522082852/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-05-30T02:44:57Z",
+                "uri": "http://web.archive.org/web/20150530024457/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-06-07T01:59:15Z",
+                "uri": "http://web.archive.org/web/20150607015915/http://jenkers.com:80/en?"
+            },
+            {
+                "datetime": "2015-06-12T09:40:43Z",
+                "uri": "http://web.archive.org/web/20150612094043/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-06-18T03:03:12Z",
+                "uri": "http://web.archive.org/web/20150618030312/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-06-23T15:42:01Z",
+                "uri": "http://web.archive.org/web/20150623154201/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-06-23T21:19:05Z",
+                "uri": "http://webarchive.loc.gov/all/20150623211905/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-06-29T10:03:25Z",
+                "uri": "http://web.archive.org/web/20150629100325/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-07-02T22:21:17Z",
+                "uri": "http://wayback.archive-it.org/all/20150702222117/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-02T22:21:17Z",
+                "uri": "http://web.archive.org/web/20150702222117/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-04T16:43:06Z",
+                "uri": "http://webarchive.loc.gov/all/20150704164306/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-05T06:12:17Z",
+                "uri": "http://web.archive.org/web/20150705061217/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-07-08T02:00:45Z",
+                "uri": "http://web.archive.org/web/20150708020045/http://jenkers.com:80/en?"
+            },
+            {
+                "datetime": "2015-07-10T01:19:47Z",
+                "uri": "http://wayback.archive-it.org/all/20150710011947/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-10T01:19:47Z",
+                "uri": "http://web.archive.org/web/20150710011947/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-11T06:31:37Z",
+                "uri": "http://web.archive.org/web/20150711063137/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-07-11T21:59:35Z",
+                "uri": "http://webarchive.loc.gov/all/20150711215935/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-17T04:26:19Z",
+                "uri": "http://web.archive.org/web/20150717042619/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-17T04:26:23Z",
+                "uri": "http://web.archive.org/web/20150717042623/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-17T05:32:21Z",
+                "uri": "http://web.archive.org/web/20150717053221/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-07-17T06:35:23Z",
+                "uri": "http://web.archive.org/web/20150717063523/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-18T22:54:05Z",
+                "uri": "http://web.archive.org/web/20150718225405/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-20T12:40:57Z",
+                "uri": "http://webarchive.loc.gov/all/20150720124057/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-21T15:01:32Z",
+                "uri": "http://web.archive.org/web/20150721150132/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-21T15:51:52Z",
+                "uri": "http://web.archive.org/web/20150721155152/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-21T23:14:49Z",
+                "uri": "http://web.archive.org/web/20150721231449/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-23T05:24:22Z",
+                "uri": "http://web.archive.org/web/20150723052422/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-07-23T07:28:07Z",
+                "uri": "http://web.archive.org/web/20150723072807/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-23T07:28:11Z",
+                "uri": "http://web.archive.org/web/20150723072811/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-23T07:28:15Z",
+                "uri": "http://web.archive.org/web/20150723072815/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-25T01:33:47Z",
+                "uri": "http://web.archive.org/web/20150725013347/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-26T04:20:13Z",
+                "uri": "http://webarchive.loc.gov/all/20150726042013/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-26T15:58:43Z",
+                "uri": "http://web.archive.org/web/20150726155843/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-29T02:12:11Z",
+                "uri": "http://web.archive.org/web/20150729021211/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-07-30T22:29:50Z",
+                "uri": "http://wayback.archive-it.org/all/20150730222950/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-07-30T22:29:50Z",
+                "uri": "http://web.archive.org/web/20150730222950/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-01T07:32:55Z",
+                "uri": "http://web.archive.org/web/20150801073255/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-01T07:32:58Z",
+                "uri": "http://web.archive.org/web/20150801073258/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-02T11:37:37Z",
+                "uri": "http://webarchive.loc.gov/all/20150802113737/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-02T22:22:07Z",
+                "uri": "http://web.archive.org/web/20150802222207/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-04T06:22:56Z",
+                "uri": "http://web.archive.org/web/20150804062256/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-08-04T14:28:56Z",
+                "uri": "http://web.archive.org/web/20150804142856/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-04T14:29:02Z",
+                "uri": "http://web.archive.org/web/20150804142902/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-04T14:29:07Z",
+                "uri": "http://web.archive.org/web/20150804142907/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-05T18:09:39Z",
+                "uri": "http://web.archive.org/web/20150805180939/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-06T08:45:25Z",
+                "uri": "http://web.archive.org/web/20150806084525/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-06T22:13:54Z",
+                "uri": "http://wayback.archive-it.org/all/20150806221354/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-06T22:13:54Z",
+                "uri": "http://web.archive.org/web/20150806221354/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-07T21:11:45Z",
+                "uri": "http://web.archive.org/web/20150807211145/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-07T21:11:49Z",
+                "uri": "http://web.archive.org/web/20150807211149/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-08T06:50:07Z",
+                "uri": "http://web.archive.org/web/20150808065007/http://jenkers.com:80/en?"
+            },
+            {
+                "datetime": "2015-08-10T03:36:14Z",
+                "uri": "http://web.archive.org/web/20150810033614/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-08-10T13:27:48Z",
+                "uri": "http://web.archive.org/web/20150810132748/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-10T13:27:51Z",
+                "uri": "http://web.archive.org/web/20150810132751/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-11T13:50:03Z",
+                "uri": "http://web.archive.org/web/20150811135003/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-11T18:15:06Z",
+                "uri": "http://web.archive.org/web/20150811181506/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-12T18:51:11Z",
+                "uri": "http://web.archive.org/web/20150812185111/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-12T18:51:15Z",
+                "uri": "http://web.archive.org/web/20150812185115/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-13T02:31:55Z",
+                "uri": "http://web.archive.org/web/20150813023155/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-13T21:28:55Z",
+                "uri": "http://wayback.archive-it.org/all/20150813212855/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-13T21:28:55Z",
+                "uri": "http://web.archive.org/web/20150813212855/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-14T22:42:19Z",
+                "uri": "http://web.archive.org/web/20150814224219/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-15T19:40:14Z",
+                "uri": "http://web.archive.org/web/20150815194014/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-16T11:04:19Z",
+                "uri": "http://web.archive.org/web/20150816110419/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-08-17T13:20:47Z",
+                "uri": "http://web.archive.org/web/20150817132047/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-17T13:20:51Z",
+                "uri": "http://web.archive.org/web/20150817132051/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-17T13:20:55Z",
+                "uri": "http://web.archive.org/web/20150817132055/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-17T13:20:59Z",
+                "uri": "http://web.archive.org/web/20150817132059/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-17T13:21:02Z",
+                "uri": "http://web.archive.org/web/20150817132102/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-20T21:23:46Z",
+                "uri": "http://wayback.archive-it.org/all/20150820212346/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-20T21:23:46Z",
+                "uri": "http://web.archive.org/web/20150820212346/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-21T17:33:04Z",
+                "uri": "http://web.archive.org/web/20150821173304/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-21T17:33:12Z",
+                "uri": "http://web.archive.org/web/20150821173312/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-21T17:33:16Z",
+                "uri": "http://web.archive.org/web/20150821173316/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-22T23:18:38Z",
+                "uri": "http://web.archive.org/web/20150822231838/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-08-23T01:21:25Z",
+                "uri": "http://web.archive.org/web/20150823012125/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-23T01:21:29Z",
+                "uri": "http://web.archive.org/web/20150823012129/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-23T01:21:33Z",
+                "uri": "http://web.archive.org/web/20150823012133/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-24T21:20:28Z",
+                "uri": "http://web.archive.org/web/20150824212028/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-24T21:20:37Z",
+                "uri": "http://web.archive.org/web/20150824212037/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-24T21:20:40Z",
+                "uri": "http://web.archive.org/web/20150824212040/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-24T21:20:44Z",
+                "uri": "http://web.archive.org/web/20150824212044/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-24T21:20:48Z",
+                "uri": "http://web.archive.org/web/20150824212048/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-24T21:20:52Z",
+                "uri": "http://web.archive.org/web/20150824212052/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-24T21:20:57Z",
+                "uri": "http://web.archive.org/web/20150824212057/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-25T20:49:58Z",
+                "uri": "http://web.archive.org/web/20150825204958/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-25T20:50:02Z",
+                "uri": "http://web.archive.org/web/20150825205002/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-25T20:50:06Z",
+                "uri": "http://web.archive.org/web/20150825205006/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-25T20:50:09Z",
+                "uri": "http://web.archive.org/web/20150825205009/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-25T20:50:13Z",
+                "uri": "http://web.archive.org/web/20150825205013/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-25T20:50:16Z",
+                "uri": "http://web.archive.org/web/20150825205016/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-26T11:57:46Z",
+                "uri": "http://web.archive.org/web/20150826115746/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-26T16:09:40Z",
+                "uri": "http://web.archive.org/web/20150826160940/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-26T20:16:22Z",
+                "uri": "http://wayback.archive-it.org/all/20150826201622/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-26T20:16:22Z",
+                "uri": "http://web.archive.org/web/20150826201622/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-27T15:18:12Z",
+                "uri": "http://web.archive.org/web/20150827151812/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-29T00:14:25Z",
+                "uri": "http://web.archive.org/web/20150829001425/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-08-29T01:05:49Z",
+                "uri": "http://web.archive.org/web/20150829010549/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-29T01:05:54Z",
+                "uri": "http://web.archive.org/web/20150829010554/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-29T01:06:02Z",
+                "uri": "http://web.archive.org/web/20150829010602/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-29T01:06:06Z",
+                "uri": "http://web.archive.org/web/20150829010606/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-29T01:06:09Z",
+                "uri": "http://web.archive.org/web/20150829010609/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-30T18:12:39Z",
+                "uri": "http://web.archive.org/web/20150830181239/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-30T18:12:47Z",
+                "uri": "http://web.archive.org/web/20150830181247/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-30T18:12:51Z",
+                "uri": "http://web.archive.org/web/20150830181251/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-30T18:12:54Z",
+                "uri": "http://web.archive.org/web/20150830181254/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-08-30T18:12:58Z",
+                "uri": "http://web.archive.org/web/20150830181258/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-01T22:13:09Z",
+                "uri": "http://web.archive.org/web/20150901221309/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-01T22:13:13Z",
+                "uri": "http://web.archive.org/web/20150901221313/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-01T22:13:16Z",
+                "uri": "http://web.archive.org/web/20150901221316/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-01T22:13:20Z",
+                "uri": "http://web.archive.org/web/20150901221320/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-01T22:13:24Z",
+                "uri": "http://web.archive.org/web/20150901221324/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-01T22:13:27Z",
+                "uri": "http://web.archive.org/web/20150901221327/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-01T22:13:36Z",
+                "uri": "http://web.archive.org/web/20150901221336/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-02T14:38:09Z",
+                "uri": "http://web.archive.org/web/20150902143809/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-03T23:24:34Z",
+                "uri": "http://wayback.archive-it.org/all/20150903232434/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-03T23:24:34Z",
+                "uri": "http://web.archive.org/web/20150903232434/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-04T02:52:39Z",
+                "uri": "http://web.archive.org/web/20150904025239/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-09-05T17:14:55Z",
+                "uri": "http://web.archive.org/web/20150905171455/http://jenkers.com:80/en#!t=5115424"
+            },
+            {
+                "datetime": "2015-09-05T18:55:42Z",
+                "uri": "http://web.archive.org/web/20150905185542/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-05T18:55:47Z",
+                "uri": "http://web.archive.org/web/20150905185547/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-06T09:37:38Z",
+                "uri": "http://web.archive.org/web/20150906093738/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-06T20:27:22Z",
+                "uri": "http://web.archive.org/web/20150906202722/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-07T00:21:22Z",
+                "uri": "http://web.archive.org/web/20150907002122/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-07T21:44:50Z",
+                "uri": "http://web.archive.org/web/20150907214450/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-07T21:44:54Z",
+                "uri": "http://web.archive.org/web/20150907214454/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-07T21:44:57Z",
+                "uri": "http://web.archive.org/web/20150907214457/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-08T22:07:45Z",
+                "uri": "http://web.archive.org/web/20150908220745/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-08T22:07:50Z",
+                "uri": "http://web.archive.org/web/20150908220750/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-09T04:34:20Z",
+                "uri": "http://web.archive.org/web/20150909043420/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-09-09T06:43:07Z",
+                "uri": "http://web.archive.org/web/20150909064307/http://jenkers.com:80/en?"
+            },
+            {
+                "datetime": "2015-09-09T13:24:21Z",
+                "uri": "http://web.archive.org/web/20150909132421/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-11T03:07:22Z",
+                "uri": "http://web.archive.org/web/20150911030722/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-12T06:23:56Z",
+                "uri": "http://web.archive.org/web/20150912062356/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-12T07:23:52Z",
+                "uri": "http://web.archive.org/web/20150912072352/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-13T21:02:13Z",
+                "uri": "http://web.archive.org/web/20150913210213/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-14T03:01:59Z",
+                "uri": "http://web.archive.org/web/20150914030159/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-09-14T11:50:28Z",
+                "uri": "http://web.archive.org/web/20150914115028/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-14T11:50:32Z",
+                "uri": "http://web.archive.org/web/20150914115032/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-14T11:50:37Z",
+                "uri": "http://web.archive.org/web/20150914115037/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-14T11:50:41Z",
+                "uri": "http://web.archive.org/web/20150914115041/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-14T11:50:45Z",
+                "uri": "http://web.archive.org/web/20150914115045/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-14T11:50:49Z",
+                "uri": "http://web.archive.org/web/20150914115049/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-14T14:46:37Z",
+                "uri": "http://web.archive.org/web/20150914144637/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-14T14:46:41Z",
+                "uri": "http://web.archive.org/web/20150914144641/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-15T00:41:00Z",
+                "uri": "http://wayback.archive-it.org/all/20150915004100/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-15T00:41:00Z",
+                "uri": "http://web.archive.org/web/20150915004100/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-15T01:06:55Z",
+                "uri": "http://web.archive.org/web/20150915010655/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-15T01:06:58Z",
+                "uri": "http://web.archive.org/web/20150915010658/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-15T01:07:02Z",
+                "uri": "http://web.archive.org/web/20150915010702/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-15T01:07:06Z",
+                "uri": "http://web.archive.org/web/20150915010706/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-15T01:07:09Z",
+                "uri": "http://web.archive.org/web/20150915010709/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-15T01:07:13Z",
+                "uri": "http://web.archive.org/web/20150915010713/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-16T12:26:33Z",
+                "uri": "http://web.archive.org/web/20150916122633/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-16T12:26:36Z",
+                "uri": "http://web.archive.org/web/20150916122636/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-16T14:27:27Z",
+                "uri": "http://web.archive.org/web/20150916142727/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-16T15:57:56Z",
+                "uri": "http://web.archive.org/web/20150916155756/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-19T13:43:45Z",
+                "uri": "http://web.archive.org/web/20150919134345/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-09-19T19:29:52Z",
+                "uri": "http://web.archive.org/web/20150919192952/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-19T19:29:56Z",
+                "uri": "http://web.archive.org/web/20150919192956/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-20T17:08:42Z",
+                "uri": "http://web.archive.org/web/20150920170842/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-21T06:59:40Z",
+                "uri": "http://web.archive.org/web/20150921065940/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-21T19:38:05Z",
+                "uri": "http://web.archive.org/web/20150921193805/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-09-25T07:03:59Z",
+                "uri": "http://web.archive.org/web/20150925070359/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-10-01T05:26:19Z",
+                "uri": "http://web.archive.org/web/20151001052619/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-10-08T01:10:09Z",
+                "uri": "http://web.archive.org/web/20151008011009/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-10-09T20:15:28Z",
+                "uri": "http://web.archive.org/web/20151009201528/http://jenkers.com:80/en?"
+            },
+            {
+                "datetime": "2015-10-15T03:24:09Z",
+                "uri": "http://web.archive.org/web/20151015032409/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-10-22T02:41:16Z",
+                "uri": "http://web.archive.org/web/20151022024116/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-10-23T04:28:40Z",
+                "uri": "http://web.archive.org/web/20151023042840/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-10-29T03:02:14Z",
+                "uri": "http://web.archive.org/web/20151029030214/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-11-04T05:52:17Z",
+                "uri": "http://web.archive.org/web/20151104055217/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-11-04T14:33:28Z",
+                "uri": "http://webarchive.loc.gov/all/20151104143328/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-11-10T06:02:40Z",
+                "uri": "http://web.archive.org/web/20151110060240/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-11-14T14:44:48Z",
+                "uri": "http://web.archive.org/web/20151114144448/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-11-16T08:00:46Z",
+                "uri": "http://web.archive.org/web/20151116080046/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-11-16T11:47:38Z",
+                "uri": "http://web.archive.org/web/20151116114738/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-11-17T02:22:35Z",
+                "uri": "http://web.archive.org/web/20151117022235/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-11-17T19:09:29Z",
+                "uri": "http://web.archive.org/web/20151117190929/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-11-25T09:56:26Z",
+                "uri": "http://web.archive.org/web/20151125095626/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-11-25T16:59:37Z",
+                "uri": "http://webarchive.loc.gov/all/20151125165937/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2015-12-03T18:56:37Z",
+                "uri": "http://web.archive.org/web/20151203185637/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-12-11T20:11:50Z",
+                "uri": "http://web.archive.org/web/20151211201150/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-12-19T09:39:33Z",
+                "uri": "http://web.archive.org/web/20151219093933/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2015-12-27T04:07:49Z",
+                "uri": "http://web.archive.org/web/20151227040749/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2016-01-06T13:46:22Z",
+                "uri": "http://web.archive.org/web/20160106134622/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2016-01-23T13:06:09Z",
+                "uri": "http://web.archive.org/web/20160123130609/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2016-02-08T17:19:54Z",
+                "uri": "http://wayback.archive-it.org/all/20160208171954/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2016-02-08T17:19:54Z",
+                "uri": "http://web.archive.org/web/20160208171954/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2016-02-23T11:47:13Z",
+                "uri": "http://web.archive.org/web/20160223114713/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2016-03-06T11:15:01Z",
+                "uri": "http://web.archive.org/web/20160306111501/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2016-03-22T02:13:35Z",
+                "uri": "http://web.archive.org/web/20160322021335/http://jenkers.com:80/en?"
+            },
+            {
+                "datetime": "2016-03-23T12:21:06Z",
+                "uri": "http://web.archive.org/web/20160323122106/http://jenkers.com:80/en?"
+            },
+            {
+                "datetime": "2016-03-25T13:22:57Z",
+                "uri": "http://web.archive.org/web/20160325132257/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2016-04-15T17:29:39Z",
+                "uri": "http://wayback.archive-it.org/all/20160415172939/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2016-04-15T17:29:39Z",
+                "uri": "http://web.archive.org/web/20160415172939/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2016-04-24T00:21:29Z",
+                "uri": "http://web.archive.org/web/20160424002129/http://jenkers.com:80/en?"
+            },
+            {
+                "datetime": "2016-04-26T04:34:21Z",
+                "uri": "http://web.archive.org/web/20160426043421/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2016-05-25T14:23:15Z",
+                "uri": "http://web.archive.org/web/20160525142315/http://jenkers.com:80/en?"
+            },
+            {
+                "datetime": "2016-06-05T17:15:34Z",
+                "uri": "http://web.archive.org/web/20160605171534/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2016-06-28T18:15:27Z",
+                "uri": "http://web.archive.org/web/20160628181527/http://jenkers.com:80/en?"
+            },
+            {
+                "datetime": "2016-06-30T07:13:54Z",
+                "uri": "http://web.archive.org/web/20160630071354/http://jenkers.com:80/en?"
+            },
+            {
+                "datetime": "2016-07-07T20:58:46Z",
+                "uri": "http://web.archive.org/web/20160707205846/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2016-08-03T19:30:40Z",
+                "uri": "http://web.archive.org/web/20160803193040/http://jenkers.com:80/en?"
+            },
+            {
+                "datetime": "2016-08-10T19:31:22Z",
+                "uri": "http://web.archive.org/web/20160810193122/http://jenkers.com:80/en"
+            },
+            {
+                "datetime": "2016-09-09T04:02:53Z",
+                "uri": "http://wayback.archive-it.org/all/20160909040253/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2016-09-09T04:02:53Z",
+                "uri": "http://web.archive.org/web/20160909040253/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2016-12-16T04:56:35Z",
+                "uri": "http://web.archive.org/web/20161216045635/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2016-12-30T22:17:40Z",
+                "uri": "http://web.archive.org/web/20161230221740/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-02-03T03:52:33Z",
+                "uri": "http://web.archive.org/web/20170203035233/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-06-06T23:21:14Z",
+                "uri": "http://web.archive.org/web/20170606232114/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-08-23T16:29:53Z",
+                "uri": "http://web.archive.org/web/20170823162953/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-08-23T16:29:57Z",
+                "uri": "http://web.archive.org/web/20170823162957/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-08-23T16:35:56Z",
+                "uri": "http://web.archive.org/web/20170823163556/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-08-29T01:55:44Z",
+                "uri": "http://web.archive.org/web/20170829015544/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-09-11T17:15:37Z",
+                "uri": "http://wayback.archive-it.org/all/20170911171537/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-09-11T17:15:37Z",
+                "uri": "http://web.archive.org/web/20170911171537/http://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-09-11T17:17:43Z",
+                "uri": "http://wayback.archive-it.org/all/20170911171743/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-09-11T17:17:43Z",
+                "uri": "http://web.archive.org/web/20170911171743/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-09-13T00:32:29Z",
+                "uri": "http://web.archive.org/web/20170913003229/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-11-08T21:31:14Z",
+                "uri": "http://web.archive.org/web/20171108213114/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-11-11T19:31:01Z",
+                "uri": "http://web.archive.org/web/20171111193101/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-11-19T20:22:16Z",
+                "uri": "http://web.archive.org/web/20171119202216/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-11-24T01:27:47Z",
+                "uri": "http://web.archive.org/web/20171124012747/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-11-24T23:37:10Z",
+                "uri": "http://web.archive.org/web/20171124233710/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-11-27T14:03:26Z",
+                "uri": "http://web.archive.org/web/20171127140326/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-11-28T06:43:49Z",
+                "uri": "http://web.archive.org/web/20171128064349/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-11-28T07:58:40Z",
+                "uri": "http://web.archive.org/web/20171128075840/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-11-29T01:09:24Z",
+                "uri": "http://web.archive.org/web/20171129010924/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-12-01T04:24:10Z",
+                "uri": "http://web.archive.org/web/20171201042410/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-12-02T08:45:25Z",
+                "uri": "http://web.archive.org/web/20171202084525/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-12-05T05:06:31Z",
+                "uri": "http://web.archive.org/web/20171205050631/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-12-08T21:56:46Z",
+                "uri": "http://web.archive.org/web/20171208215646/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2017-12-29T01:56:23Z",
+                "uri": "http://web.archive.org/web/20171229015623/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-17T20:12:30Z",
+                "uri": "http://web.archive.org/web/20180117201230/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-17T20:12:30Z",
+                "uri": "http://web.archive.org/web/20180117201230/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-19T00:35:29Z",
+                "uri": "http://web.archive.org/web/20180119003529/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-19T00:35:30Z",
+                "uri": "http://web.archive.org/web/20180119003530/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-24T22:40:28Z",
+                "uri": "http://wayback.archive-it.org/all/20180124224028/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-24T22:40:28Z",
+                "uri": "http://web.archive.org/web/20180124224028/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-25T00:17:44Z",
+                "uri": "http://wayback.archive-it.org/all/20180125001744/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-25T00:17:44Z",
+                "uri": "http://web.archive.org/web/20180125001744/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-25T01:06:13Z",
+                "uri": "http://wayback.archive-it.org/all/20180125010613/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-25T01:06:13Z",
+                "uri": "http://web.archive.org/web/20180125010613/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-25T02:32:13Z",
+                "uri": "http://wayback.archive-it.org/all/20180125023213/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-25T02:32:13Z",
+                "uri": "http://web.archive.org/web/20180125023213/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-25T05:02:45Z",
+                "uri": "http://wayback.archive-it.org/all/20180125050245/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-25T05:02:45Z",
+                "uri": "http://web.archive.org/web/20180125050245/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-25T15:04:32Z",
+                "uri": "http://wayback.archive-it.org/all/20180125150432/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-25T15:04:32Z",
+                "uri": "http://web.archive.org/web/20180125150432/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-25T15:27:11Z",
+                "uri": "http://web.archive.org/web/20180125152711/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-26T20:52:34Z",
+                "uri": "http://wayback.archive-it.org/all/20180126205234/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-26T20:52:34Z",
+                "uri": "http://web.archive.org/web/20180126205234/https://jenkers.com/en"
+            },
+            {
+                "datetime": "2018-01-27T18:29:25Z",
+                "uri": "http://web.archive.org/web/20180127182925/https://jenkers.com/en"
+            }
+        ]
+    },
+    "original_uri": "https://jenkers.com/en",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://jenkers.com/en",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://jenkers.com/en",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://jenkers.com/en",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://jenkers.com/en",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://jenkers.com/en"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T01:06:54Z",
+            "uri": "http://web.archive.org/web/20180209010654/https://www.indiatoday.in/sports/cricket/story/virat-kohli-happy-to-push-his-body-beyond-limits-for-team-india-1163560-2018-02-08"
+        },
+        "last": {
+            "datetime": "2018-02-09T01:06:54Z",
+            "uri": "http://web.archive.org/web/20180209010654/https://www.indiatoday.in/sports/cricket/story/virat-kohli-happy-to-push-his-body-beyond-limits-for-team-india-1163560-2018-02-08"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T01:06:54Z",
+                "uri": "http://web.archive.org/web/20180209010654/https://www.indiatoday.in/sports/cricket/story/virat-kohli-happy-to-push-his-body-beyond-limits-for-team-india-1163560-2018-02-08"
+            }
+        ]
+    },
+    "original_uri": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-happy-to-push-his-body-beyond-limits-for-team-india-1163560-2018-02-08",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.indiatoday.in/sports/cricket/story/virat-kohli-happy-to-push-his-body-beyond-limits-for-team-india-1163560-2018-02-08",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.indiatoday.in/sports/cricket/story/virat-kohli-happy-to-push-his-body-beyond-limits-for-team-india-1163560-2018-02-08",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.indiatoday.in/sports/cricket/story/virat-kohli-happy-to-push-his-body-beyond-limits-for-team-india-1163560-2018-02-08",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.indiatoday.in/sports/cricket/story/virat-kohli-happy-to-push-his-body-beyond-limits-for-team-india-1163560-2018-02-08",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.indiatoday.in/sports/cricket/story/virat-kohli-happy-to-push-his-body-beyond-limits-for-team-india-1163560-2018-02-08"
+    }
+}

@@ -1,0 +1,3110 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-10-25T01:20:21Z",
+            "uri": "http://wayback.archive-it.org/all/20171025012021/https://news.google.com/news/?gl=US&ned=us&hl=en"
+        },
+        "last": {
+            "datetime": "2018-02-09T17:35:23Z",
+            "uri": "http://web.archive.org/web/20180209173523/https://news.google.com/news/?ned=us&gl=US&hl=en"
+        },
+        "list": [
+            {
+                "datetime": "2017-10-25T01:20:21Z",
+                "uri": "http://wayback.archive-it.org/all/20171025012021/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-25T12:21:17Z",
+                "uri": "http://web.archive.org/web/20171025122117/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-25T13:12:38Z",
+                "uri": "http://web.archive.org/web/20171025131238/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-26T00:25:06Z",
+                "uri": "http://web.archive.org/web/20171026002506/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-26T01:17:24Z",
+                "uri": "http://web.archive.org/web/20171026011724/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-26T01:20:23Z",
+                "uri": "http://wayback.archive-it.org/all/20171026012023/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-26T01:20:23Z",
+                "uri": "http://web.archive.org/web/20171026012023/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-26T02:59:46Z",
+                "uri": "http://web.archive.org/web/20171026025946/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-27T01:20:36Z",
+                "uri": "http://wayback.archive-it.org/all/20171027012036/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-27T01:20:36Z",
+                "uri": "http://web.archive.org/web/20171027012036/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-27T06:56:35Z",
+                "uri": "http://web.archive.org/web/20171027065635/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-27T15:17:14Z",
+                "uri": "http://wayback.archive-it.org/all/20171027151714/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-27T15:17:14Z",
+                "uri": "http://web.archive.org/web/20171027151714/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-27T15:20:28Z",
+                "uri": "http://wayback.archive-it.org/all/20171027152028/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-27T15:20:28Z",
+                "uri": "http://web.archive.org/web/20171027152028/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-27T19:52:35Z",
+                "uri": "http://wayback.archive-it.org/all/20171027195235/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-27T19:52:35Z",
+                "uri": "http://web.archive.org/web/20171027195235/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-27T20:45:20Z",
+                "uri": "http://web.archive.org/web/20171027204520/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-28T00:06:43Z",
+                "uri": "http://wayback.archive-it.org/all/20171028000643/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-28T00:06:43Z",
+                "uri": "http://web.archive.org/web/20171028000643/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-28T01:21:23Z",
+                "uri": "http://wayback.archive-it.org/all/20171028012123/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-28T01:21:23Z",
+                "uri": "http://web.archive.org/web/20171028012123/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-29T01:21:11Z",
+                "uri": "http://wayback.archive-it.org/all/20171029012111/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-29T01:21:11Z",
+                "uri": "http://web.archive.org/web/20171029012111/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-29T05:00:36Z",
+                "uri": "http://wayback.archive-it.org/all/20171029050036/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-29T05:00:36Z",
+                "uri": "http://web.archive.org/web/20171029050036/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-29T05:00:41Z",
+                "uri": "http://wayback.archive-it.org/all/20171029050041/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-29T05:00:41Z",
+                "uri": "http://web.archive.org/web/20171029050041/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-29T05:39:46Z",
+                "uri": "http://web.archive.org/web/20171029053946/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-29T14:51:55Z",
+                "uri": "http://web.archive.org/web/20171029145155/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-30T01:21:16Z",
+                "uri": "http://wayback.archive-it.org/all/20171030012116/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-30T01:21:16Z",
+                "uri": "http://web.archive.org/web/20171030012116/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-31T01:21:03Z",
+                "uri": "http://wayback.archive-it.org/all/20171031012103/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-31T01:21:03Z",
+                "uri": "http://web.archive.org/web/20171031012103/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-31T14:51:55Z",
+                "uri": "http://web.archive.org/web/20171031145155/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-31T15:09:44Z",
+                "uri": "http://web.archive.org/web/20171031150944/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-31T18:48:25Z",
+                "uri": "http://wayback.archive-it.org/all/20171031184825/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-10-31T18:48:25Z",
+                "uri": "http://web.archive.org/web/20171031184825/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-01T01:20:30Z",
+                "uri": "http://wayback.archive-it.org/all/20171101012030/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-01T01:20:30Z",
+                "uri": "http://web.archive.org/web/20171101012030/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-01T19:28:36Z",
+                "uri": "http://wayback.archive-it.org/all/20171101192836/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-01T19:28:36Z",
+                "uri": "http://web.archive.org/web/20171101192836/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-02T01:20:34Z",
+                "uri": "http://wayback.archive-it.org/all/20171102012034/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-02T01:20:34Z",
+                "uri": "http://web.archive.org/web/20171102012034/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-02T02:59:29Z",
+                "uri": "http://web.archive.org/web/20171102025929/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-02T07:27:37Z",
+                "uri": "http://wayback.archive-it.org/all/20171102072737/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-02T07:27:37Z",
+                "uri": "http://web.archive.org/web/20171102072737/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-02T13:46:31Z",
+                "uri": "http://wayback.archive-it.org/all/20171102134631/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-02T13:46:31Z",
+                "uri": "http://web.archive.org/web/20171102134631/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-03T01:18:40Z",
+                "uri": "http://wayback.archive-it.org/all/20171103011840/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-03T01:18:40Z",
+                "uri": "http://web.archive.org/web/20171103011840/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-03T23:53:17Z",
+                "uri": "http://wayback.archive-it.org/all/20171103235317/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-03T23:53:17Z",
+                "uri": "http://web.archive.org/web/20171103235317/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-04T01:18:35Z",
+                "uri": "http://wayback.archive-it.org/all/20171104011835/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-04T01:18:35Z",
+                "uri": "http://web.archive.org/web/20171104011835/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-05T01:18:57Z",
+                "uri": "http://wayback.archive-it.org/all/20171105011857/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-05T01:18:57Z",
+                "uri": "http://web.archive.org/web/20171105011857/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-05T05:00:31Z",
+                "uri": "http://wayback.archive-it.org/all/20171105050031/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-05T05:00:31Z",
+                "uri": "http://web.archive.org/web/20171105050031/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-05T05:00:37Z",
+                "uri": "http://wayback.archive-it.org/all/20171105050037/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-05T05:00:37Z",
+                "uri": "http://web.archive.org/web/20171105050037/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-06T00:26:35Z",
+                "uri": "http://wayback.archive-it.org/all/20171106002635/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-06T00:26:35Z",
+                "uri": "http://web.archive.org/web/20171106002635/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-06T01:18:49Z",
+                "uri": "http://wayback.archive-it.org/all/20171106011849/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-06T01:18:49Z",
+                "uri": "http://web.archive.org/web/20171106011849/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-06T04:54:00Z",
+                "uri": "http://wayback.archive-it.org/all/20171106045400/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-06T04:54:00Z",
+                "uri": "http://web.archive.org/web/20171106045400/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-07T01:19:06Z",
+                "uri": "http://wayback.archive-it.org/all/20171107011906/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-07T01:19:06Z",
+                "uri": "http://web.archive.org/web/20171107011906/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-07T16:36:32Z",
+                "uri": "http://web.archive.org/web/20171107163632/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-07T18:34:12Z",
+                "uri": "http://web.archive.org/web/20171107183412/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-07T18:36:39Z",
+                "uri": "http://wayback.archive-it.org/all/20171107183639/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-07T18:36:39Z",
+                "uri": "http://web.archive.org/web/20171107183639/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-07T18:48:17Z",
+                "uri": "http://web.archive.org/web/20171107184817/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-07T18:49:20Z",
+                "uri": "http://web.archive.org/web/20171107184920/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-08T01:18:48Z",
+                "uri": "http://wayback.archive-it.org/all/20171108011848/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-08T01:18:48Z",
+                "uri": "http://web.archive.org/web/20171108011848/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-08T18:45:50Z",
+                "uri": "http://wayback.archive-it.org/all/20171108184550/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-08T18:45:50Z",
+                "uri": "http://web.archive.org/web/20171108184550/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-08T18:47:39Z",
+                "uri": "http://wayback.archive-it.org/all/20171108184739/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-08T18:47:39Z",
+                "uri": "http://web.archive.org/web/20171108184739/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-08T18:52:10Z",
+                "uri": "http://wayback.archive-it.org/all/20171108185210/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-08T18:52:10Z",
+                "uri": "http://web.archive.org/web/20171108185210/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-08T18:52:42Z",
+                "uri": "http://wayback.archive-it.org/all/20171108185242/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-08T18:52:42Z",
+                "uri": "http://web.archive.org/web/20171108185242/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-08T20:23:59Z",
+                "uri": "http://wayback.archive-it.org/all/20171108202359/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-08T20:23:59Z",
+                "uri": "http://web.archive.org/web/20171108202359/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-08T23:37:14Z",
+                "uri": "http://web.archive.org/web/20171108233714/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-09T00:59:08Z",
+                "uri": "http://web.archive.org/web/20171109005908/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-09T01:19:13Z",
+                "uri": "http://wayback.archive-it.org/all/20171109011913/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-09T01:19:13Z",
+                "uri": "http://web.archive.org/web/20171109011913/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-09T02:59:47Z",
+                "uri": "http://web.archive.org/web/20171109025947/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-10T01:18:42Z",
+                "uri": "http://wayback.archive-it.org/all/20171110011842/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-10T01:18:42Z",
+                "uri": "http://web.archive.org/web/20171110011842/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-10T02:03:06Z",
+                "uri": "http://web.archive.org/web/20171110020306/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-10T02:15:22Z",
+                "uri": "http://web.archive.org/web/20171110021522/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-10T23:59:30Z",
+                "uri": "http://wayback.archive-it.org/all/20171110235930/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-10T23:59:30Z",
+                "uri": "http://web.archive.org/web/20171110235930/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-11T01:18:55Z",
+                "uri": "http://wayback.archive-it.org/all/20171111011855/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-11T01:18:55Z",
+                "uri": "http://web.archive.org/web/20171111011855/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-11T17:28:38Z",
+                "uri": "http://web.archive.org/web/20171111172838/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-12T01:05:28Z",
+                "uri": "http://wayback.archive-it.org/all/20171112010528/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-12T01:05:28Z",
+                "uri": "http://web.archive.org/web/20171112010528/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-12T01:18:49Z",
+                "uri": "http://wayback.archive-it.org/all/20171112011849/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-12T01:18:49Z",
+                "uri": "http://web.archive.org/web/20171112011849/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-12T05:00:36Z",
+                "uri": "http://wayback.archive-it.org/all/20171112050036/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-12T05:00:36Z",
+                "uri": "http://web.archive.org/web/20171112050036/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-12T05:01:14Z",
+                "uri": "http://wayback.archive-it.org/all/20171112050114/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-12T05:01:14Z",
+                "uri": "http://web.archive.org/web/20171112050114/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-13T01:18:47Z",
+                "uri": "http://wayback.archive-it.org/all/20171113011847/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-13T01:18:47Z",
+                "uri": "http://web.archive.org/web/20171113011847/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-13T01:22:38Z",
+                "uri": "http://web.archive.org/web/20171113012238/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-13T15:52:33Z",
+                "uri": "http://web.archive.org/web/20171113155233/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-14T01:18:29Z",
+                "uri": "http://wayback.archive-it.org/all/20171114011829/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-14T01:18:29Z",
+                "uri": "http://web.archive.org/web/20171114011829/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-14T04:51:26Z",
+                "uri": "http://web.archive.org/web/20171114045126/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-14T18:34:40Z",
+                "uri": "http://wayback.archive-it.org/all/20171114183440/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-14T18:34:40Z",
+                "uri": "http://web.archive.org/web/20171114183440/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-14T18:42:17Z",
+                "uri": "http://wayback.archive-it.org/all/20171114184217/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-14T18:42:17Z",
+                "uri": "http://web.archive.org/web/20171114184217/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-14T19:13:02Z",
+                "uri": "http://web.archive.org/web/20171114191302/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-14T19:24:11Z",
+                "uri": "http://web.archive.org/web/20171114192411/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-14T22:45:36Z",
+                "uri": "http://web.archive.org/web/20171114224536/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-15T01:18:47Z",
+                "uri": "http://wayback.archive-it.org/all/20171115011847/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-15T01:18:47Z",
+                "uri": "http://web.archive.org/web/20171115011847/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-15T18:34:26Z",
+                "uri": "http://wayback.archive-it.org/all/20171115183426/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-15T18:34:26Z",
+                "uri": "http://web.archive.org/web/20171115183426/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-16T01:20:06Z",
+                "uri": "http://wayback.archive-it.org/all/20171116012006/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-16T01:20:06Z",
+                "uri": "http://web.archive.org/web/20171116012006/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-16T02:59:50Z",
+                "uri": "http://web.archive.org/web/20171116025950/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-16T11:22:04Z",
+                "uri": "http://web.archive.org/web/20171116112204/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-16T19:49:44Z",
+                "uri": "http://web.archive.org/web/20171116194944/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-16T20:22:28Z",
+                "uri": "http://web.archive.org/web/20171116202228/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-17T00:27:51Z",
+                "uri": "http://wayback.archive-it.org/all/20171117002751/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-17T00:27:51Z",
+                "uri": "http://web.archive.org/web/20171117002751/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-17T01:18:52Z",
+                "uri": "http://wayback.archive-it.org/all/20171117011852/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-17T01:18:52Z",
+                "uri": "http://web.archive.org/web/20171117011852/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-17T23:15:27Z",
+                "uri": "http://wayback.archive-it.org/all/20171117231527/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-17T23:15:27Z",
+                "uri": "http://web.archive.org/web/20171117231527/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-18T00:46:20Z",
+                "uri": "http://wayback.archive-it.org/all/20171118004620/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-18T00:46:20Z",
+                "uri": "http://web.archive.org/web/20171118004620/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-18T01:22:22Z",
+                "uri": "http://wayback.archive-it.org/all/20171118012222/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-18T01:22:22Z",
+                "uri": "http://web.archive.org/web/20171118012222/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-18T13:34:36Z",
+                "uri": "http://web.archive.org/web/20171118133436/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-18T13:38:14Z",
+                "uri": "http://wayback.archive-it.org/all/20171118133814/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-18T13:38:14Z",
+                "uri": "http://web.archive.org/web/20171118133814/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-19T01:19:07Z",
+                "uri": "http://wayback.archive-it.org/all/20171119011907/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-19T01:19:07Z",
+                "uri": "http://web.archive.org/web/20171119011907/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-19T05:00:41Z",
+                "uri": "http://wayback.archive-it.org/all/20171119050041/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-19T05:00:41Z",
+                "uri": "http://web.archive.org/web/20171119050041/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-19T05:00:47Z",
+                "uri": "http://wayback.archive-it.org/all/20171119050047/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-19T05:00:47Z",
+                "uri": "http://web.archive.org/web/20171119050047/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-19T17:25:24Z",
+                "uri": "http://web.archive.org/web/20171119172524/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-20T01:19:03Z",
+                "uri": "http://wayback.archive-it.org/all/20171120011903/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-20T01:19:03Z",
+                "uri": "http://web.archive.org/web/20171120011903/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-21T01:19:22Z",
+                "uri": "http://wayback.archive-it.org/all/20171121011922/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-21T01:19:22Z",
+                "uri": "http://web.archive.org/web/20171121011922/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-21T02:22:01Z",
+                "uri": "http://web.archive.org/web/20171121022201/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-21T03:22:47Z",
+                "uri": "http://web.archive.org/web/20171121032247/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T01:18:48Z",
+                "uri": "http://wayback.archive-it.org/all/20171122011848/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T01:18:48Z",
+                "uri": "http://web.archive.org/web/20171122011848/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T14:50:02Z",
+                "uri": "http://web.archive.org/web/20171122145002/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T20:30:46Z",
+                "uri": "http://wayback.archive-it.org/all/20171122203046/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T20:30:46Z",
+                "uri": "http://web.archive.org/web/20171122203046/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T20:44:11Z",
+                "uri": "http://web.archive.org/web/20171122204411/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T21:08:11Z",
+                "uri": "http://web.archive.org/web/20171122210811/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T21:19:38Z",
+                "uri": "http://web.archive.org/web/20171122211938/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T21:34:50Z",
+                "uri": "http://web.archive.org/web/20171122213450/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T21:49:59Z",
+                "uri": "http://web.archive.org/web/20171122214959/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T22:05:06Z",
+                "uri": "http://web.archive.org/web/20171122220506/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T22:20:16Z",
+                "uri": "http://web.archive.org/web/20171122222016/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T22:35:27Z",
+                "uri": "http://web.archive.org/web/20171122223527/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T22:50:37Z",
+                "uri": "http://web.archive.org/web/20171122225037/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T23:05:44Z",
+                "uri": "http://web.archive.org/web/20171122230544/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T23:20:55Z",
+                "uri": "http://web.archive.org/web/20171122232055/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T23:36:05Z",
+                "uri": "http://web.archive.org/web/20171122233605/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-22T23:51:12Z",
+                "uri": "http://web.archive.org/web/20171122235112/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T00:06:37Z",
+                "uri": "http://web.archive.org/web/20171123000637/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T00:21:44Z",
+                "uri": "http://web.archive.org/web/20171123002144/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T00:21:46Z",
+                "uri": "http://web.archive.org/web/20171123002146/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T00:21:46Z",
+                "uri": "http://web.archive.org/web/20171123002146/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T00:36:56Z",
+                "uri": "http://web.archive.org/web/20171123003656/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T00:52:04Z",
+                "uri": "http://web.archive.org/web/20171123005204/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T01:07:11Z",
+                "uri": "http://web.archive.org/web/20171123010711/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T01:19:08Z",
+                "uri": "http://wayback.archive-it.org/all/20171123011908/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T01:19:08Z",
+                "uri": "http://web.archive.org/web/20171123011908/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T01:22:19Z",
+                "uri": "http://web.archive.org/web/20171123012219/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T01:37:27Z",
+                "uri": "http://web.archive.org/web/20171123013727/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T01:52:35Z",
+                "uri": "http://web.archive.org/web/20171123015235/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T02:07:45Z",
+                "uri": "http://web.archive.org/web/20171123020745/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T02:22:53Z",
+                "uri": "http://web.archive.org/web/20171123022253/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T02:38:18Z",
+                "uri": "http://web.archive.org/web/20171123023818/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T02:53:25Z",
+                "uri": "http://web.archive.org/web/20171123025325/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T02:59:54Z",
+                "uri": "http://web.archive.org/web/20171123025954/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T03:08:36Z",
+                "uri": "http://web.archive.org/web/20171123030836/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T03:23:47Z",
+                "uri": "http://web.archive.org/web/20171123032347/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T03:38:56Z",
+                "uri": "http://web.archive.org/web/20171123033856/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T03:54:05Z",
+                "uri": "http://web.archive.org/web/20171123035405/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T04:09:17Z",
+                "uri": "http://web.archive.org/web/20171123040917/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T04:24:25Z",
+                "uri": "http://web.archive.org/web/20171123042425/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-23T04:39:40Z",
+                "uri": "http://web.archive.org/web/20171123043940/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-24T01:18:33Z",
+                "uri": "http://wayback.archive-it.org/all/20171124011833/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-24T01:18:33Z",
+                "uri": "http://web.archive.org/web/20171124011833/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-24T03:21:36Z",
+                "uri": "http://web.archive.org/web/20171124032136/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-25T00:03:50Z",
+                "uri": "http://wayback.archive-it.org/all/20171125000350/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-25T00:03:50Z",
+                "uri": "http://web.archive.org/web/20171125000350/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-25T01:18:56Z",
+                "uri": "http://wayback.archive-it.org/all/20171125011856/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-25T01:18:56Z",
+                "uri": "http://web.archive.org/web/20171125011856/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-25T07:18:49Z",
+                "uri": "http://web.archive.org/web/20171125071849/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-26T01:18:45Z",
+                "uri": "http://wayback.archive-it.org/all/20171126011845/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-26T01:18:45Z",
+                "uri": "http://web.archive.org/web/20171126011845/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-26T03:16:32Z",
+                "uri": "http://web.archive.org/web/20171126031632/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-26T05:00:32Z",
+                "uri": "http://wayback.archive-it.org/all/20171126050032/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-26T05:00:32Z",
+                "uri": "http://web.archive.org/web/20171126050032/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-26T05:00:57Z",
+                "uri": "http://wayback.archive-it.org/all/20171126050057/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-26T05:00:57Z",
+                "uri": "http://web.archive.org/web/20171126050057/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-26T05:23:12Z",
+                "uri": "http://web.archive.org/web/20171126052312/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-27T00:44:22Z",
+                "uri": "http://web.archive.org/web/20171127004422/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-27T01:19:03Z",
+                "uri": "http://wayback.archive-it.org/all/20171127011903/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-27T01:19:03Z",
+                "uri": "http://web.archive.org/web/20171127011903/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-27T17:27:25Z",
+                "uri": "http://web.archive.org/web/20171127172725/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-28T01:18:53Z",
+                "uri": "http://wayback.archive-it.org/all/20171128011853/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-28T01:18:53Z",
+                "uri": "http://web.archive.org/web/20171128011853/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-28T11:06:22Z",
+                "uri": "http://web.archive.org/web/20171128110622/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-29T01:18:42Z",
+                "uri": "http://wayback.archive-it.org/all/20171129011842/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-29T01:18:42Z",
+                "uri": "http://web.archive.org/web/20171129011842/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-29T13:51:35Z",
+                "uri": "http://web.archive.org/web/20171129135135/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-29T15:47:43Z",
+                "uri": "http://wayback.archive-it.org/all/20171129154743/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-29T15:47:43Z",
+                "uri": "http://web.archive.org/web/20171129154743/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-29T19:43:17Z",
+                "uri": "http://web.archive.org/web/20171129194317/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-11-30T00:26:00Z",
+                "uri": "http://web.archive.org/web/20171130002600/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-11-30T01:18:56Z",
+                "uri": "http://wayback.archive-it.org/all/20171130011856/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-30T01:18:56Z",
+                "uri": "http://web.archive.org/web/20171130011856/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-30T02:00:31Z",
+                "uri": "http://web.archive.org/web/20171130020031/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-11-30T02:02:39Z",
+                "uri": "http://web.archive.org/web/20171130020239/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-11-30T03:00:06Z",
+                "uri": "http://web.archive.org/web/20171130030006/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-30T03:20:53Z",
+                "uri": "http://web.archive.org/web/20171130032053/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-11-30T17:17:13Z",
+                "uri": "http://web.archive.org/web/20171130171713/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-30T19:11:22Z",
+                "uri": "http://web.archive.org/web/20171130191122/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-11-30T20:27:55Z",
+                "uri": "http://web.archive.org/web/20171130202755/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-01T01:19:21Z",
+                "uri": "http://wayback.archive-it.org/all/20171201011921/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-01T01:19:21Z",
+                "uri": "http://web.archive.org/web/20171201011921/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-01T17:06:31Z",
+                "uri": "http://wayback.archive-it.org/all/20171201170631/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-01T17:06:31Z",
+                "uri": "http://web.archive.org/web/20171201170631/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-01T17:09:32Z",
+                "uri": "http://wayback.archive-it.org/all/20171201170932/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-01T17:09:32Z",
+                "uri": "http://web.archive.org/web/20171201170932/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-01T17:11:33Z",
+                "uri": "http://wayback.archive-it.org/all/20171201171133/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-01T17:11:33Z",
+                "uri": "http://web.archive.org/web/20171201171133/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-01T17:14:33Z",
+                "uri": "http://wayback.archive-it.org/all/20171201171433/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-01T17:14:33Z",
+                "uri": "http://web.archive.org/web/20171201171433/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-01T17:24:52Z",
+                "uri": "http://wayback.archive-it.org/all/20171201172452/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-01T17:24:52Z",
+                "uri": "http://web.archive.org/web/20171201172452/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-01T21:04:11Z",
+                "uri": "http://web.archive.org/web/20171201210411/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-02T00:04:49Z",
+                "uri": "http://wayback.archive-it.org/all/20171202000449/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-02T00:04:49Z",
+                "uri": "http://web.archive.org/web/20171202000449/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-02T01:18:58Z",
+                "uri": "http://wayback.archive-it.org/all/20171202011858/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-02T01:18:58Z",
+                "uri": "http://web.archive.org/web/20171202011858/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-02T01:46:10Z",
+                "uri": "http://web.archive.org/web/20171202014610/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-02T05:02:13Z",
+                "uri": "http://wayback.archive-it.org/all/20171202050213/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-02T05:02:13Z",
+                "uri": "http://web.archive.org/web/20171202050213/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-02T19:02:07Z",
+                "uri": "http://web.archive.org/web/20171202190207/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-02T21:46:45Z",
+                "uri": "http://web.archive.org/web/20171202214645/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-03T01:18:51Z",
+                "uri": "http://wayback.archive-it.org/all/20171203011851/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-03T01:18:51Z",
+                "uri": "http://web.archive.org/web/20171203011851/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-03T03:39:44Z",
+                "uri": "http://web.archive.org/web/20171203033944/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-03T05:01:19Z",
+                "uri": "http://wayback.archive-it.org/all/20171203050119/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-03T05:01:19Z",
+                "uri": "http://web.archive.org/web/20171203050119/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-03T05:02:45Z",
+                "uri": "http://wayback.archive-it.org/all/20171203050245/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-03T05:02:45Z",
+                "uri": "http://web.archive.org/web/20171203050245/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-03T08:29:47Z",
+                "uri": "http://wayback.archive-it.org/all/20171203082947/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-03T08:29:47Z",
+                "uri": "http://web.archive.org/web/20171203082947/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-03T15:43:49Z",
+                "uri": "http://web.archive.org/web/20171203154349/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-03T22:03:48Z",
+                "uri": "http://web.archive.org/web/20171203220348/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-04T01:19:02Z",
+                "uri": "http://wayback.archive-it.org/all/20171204011902/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-04T01:19:02Z",
+                "uri": "http://web.archive.org/web/20171204011902/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-04T03:53:05Z",
+                "uri": "http://web.archive.org/web/20171204035305/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-04T06:46:12Z",
+                "uri": "http://wayback.archive-it.org/all/20171204064612/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-04T06:46:12Z",
+                "uri": "http://web.archive.org/web/20171204064612/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-04T16:12:00Z",
+                "uri": "http://web.archive.org/web/20171204161200/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-04T22:27:01Z",
+                "uri": "http://web.archive.org/web/20171204222701/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-05T01:19:06Z",
+                "uri": "http://wayback.archive-it.org/all/20171205011906/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-05T01:19:06Z",
+                "uri": "http://web.archive.org/web/20171205011906/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-05T23:21:03Z",
+                "uri": "http://web.archive.org/web/20171205232103/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-06T00:16:14Z",
+                "uri": "http://wayback.archive-it.org/all/20171206001614/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-06T00:16:14Z",
+                "uri": "http://web.archive.org/web/20171206001614/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-06T00:27:34Z",
+                "uri": "http://web.archive.org/web/20171206002734/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-06T01:19:06Z",
+                "uri": "http://wayback.archive-it.org/all/20171206011906/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-06T01:19:06Z",
+                "uri": "http://web.archive.org/web/20171206011906/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-06T23:49:10Z",
+                "uri": "http://web.archive.org/web/20171206234910/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-07T01:19:05Z",
+                "uri": "http://wayback.archive-it.org/all/20171207011905/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-07T01:19:05Z",
+                "uri": "http://web.archive.org/web/20171207011905/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-07T02:02:08Z",
+                "uri": "http://web.archive.org/web/20171207020208/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-07T02:08:30Z",
+                "uri": "http://web.archive.org/web/20171207020830/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-07T03:01:51Z",
+                "uri": "http://web.archive.org/web/20171207030151/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-07T03:04:07Z",
+                "uri": "http://web.archive.org/web/20171207030407/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-07T03:23:00Z",
+                "uri": "http://web.archive.org/web/20171207032300/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-07T05:39:56Z",
+                "uri": "http://web.archive.org/web/20171207053956/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-07T19:52:13Z",
+                "uri": "http://web.archive.org/web/20171207195213/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-08T00:04:29Z",
+                "uri": "http://web.archive.org/web/20171208000429/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-08T01:19:07Z",
+                "uri": "http://wayback.archive-it.org/all/20171208011907/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-08T01:19:07Z",
+                "uri": "http://web.archive.org/web/20171208011907/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-08T01:55:46Z",
+                "uri": "http://web.archive.org/web/20171208015546/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-08T03:16:59Z",
+                "uri": "http://web.archive.org/web/20171208031659/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-08T08:46:07Z",
+                "uri": "http://web.archive.org/web/20171208084607/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-08T13:44:36Z",
+                "uri": "http://wayback.archive-it.org/all/20171208134436/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-08T13:44:36Z",
+                "uri": "http://web.archive.org/web/20171208134436/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-09T00:34:59Z",
+                "uri": "http://web.archive.org/web/20171209003459/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-09T01:07:14Z",
+                "uri": "http://wayback.archive-it.org/all/20171209010714/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-09T01:07:14Z",
+                "uri": "http://web.archive.org/web/20171209010714/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-09T01:19:04Z",
+                "uri": "http://wayback.archive-it.org/all/20171209011904/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-09T01:19:04Z",
+                "uri": "http://web.archive.org/web/20171209011904/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-09T18:50:18Z",
+                "uri": "http://web.archive.org/web/20171209185018/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-10T01:05:33Z",
+                "uri": "http://web.archive.org/web/20171210010533/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-10T01:18:53Z",
+                "uri": "http://wayback.archive-it.org/all/20171210011853/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-10T01:18:53Z",
+                "uri": "http://web.archive.org/web/20171210011853/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-10T05:01:01Z",
+                "uri": "http://wayback.archive-it.org/all/20171210050101/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-10T05:01:01Z",
+                "uri": "http://web.archive.org/web/20171210050101/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-10T07:54:58Z",
+                "uri": "http://wayback.archive-it.org/all/20171210075458/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-10T07:54:58Z",
+                "uri": "http://web.archive.org/web/20171210075458/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-11T01:18:43Z",
+                "uri": "http://wayback.archive-it.org/all/20171211011843/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-11T01:18:43Z",
+                "uri": "http://web.archive.org/web/20171211011843/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-11T01:54:54Z",
+                "uri": "http://web.archive.org/web/20171211015454/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-11T15:50:21Z",
+                "uri": "http://web.archive.org/web/20171211155021/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-11T18:03:36Z",
+                "uri": "http://web.archive.org/web/20171211180336/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-11T20:55:23Z",
+                "uri": "http://wayback.archive-it.org/all/20171211205523/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-11T20:55:23Z",
+                "uri": "http://web.archive.org/web/20171211205523/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-12T01:16:02Z",
+                "uri": "http://wayback.archive-it.org/all/20171212011602/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-12T01:16:02Z",
+                "uri": "http://web.archive.org/web/20171212011602/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-12T01:19:04Z",
+                "uri": "http://wayback.archive-it.org/all/20171212011904/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-12T01:19:04Z",
+                "uri": "http://web.archive.org/web/20171212011904/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-12T02:44:51Z",
+                "uri": "http://web.archive.org/web/20171212024451/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-12T03:43:57Z",
+                "uri": "http://web.archive.org/web/20171212034357/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-12T18:03:24Z",
+                "uri": "http://web.archive.org/web/20171212180324/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-13T01:19:13Z",
+                "uri": "http://wayback.archive-it.org/all/20171213011913/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-13T01:19:13Z",
+                "uri": "http://web.archive.org/web/20171213011913/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-13T03:38:04Z",
+                "uri": "http://web.archive.org/web/20171213033804/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-13T17:07:50Z",
+                "uri": "http://web.archive.org/web/20171213170750/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-13T18:54:45Z",
+                "uri": "http://web.archive.org/web/20171213185445/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-13T19:08:45Z",
+                "uri": "http://web.archive.org/web/20171213190845/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-13T19:32:02Z",
+                "uri": "http://web.archive.org/web/20171213193202/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-13T22:36:05Z",
+                "uri": "http://wayback.archive-it.org/all/20171213223605/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-13T22:36:05Z",
+                "uri": "http://web.archive.org/web/20171213223605/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-14T01:19:10Z",
+                "uri": "http://wayback.archive-it.org/all/20171214011910/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-14T01:19:10Z",
+                "uri": "http://web.archive.org/web/20171214011910/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-14T01:49:12Z",
+                "uri": "http://web.archive.org/web/20171214014912/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-14T02:40:23Z",
+                "uri": "http://web.archive.org/web/20171214024023/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-14T03:00:13Z",
+                "uri": "http://web.archive.org/web/20171214030013/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-14T03:40:27Z",
+                "uri": "http://web.archive.org/web/20171214034027/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-14T03:53:07Z",
+                "uri": "http://web.archive.org/web/20171214035307/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-14T04:09:03Z",
+                "uri": "http://web.archive.org/web/20171214040903/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-15T01:19:07Z",
+                "uri": "http://wayback.archive-it.org/all/20171215011907/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-15T01:19:07Z",
+                "uri": "http://web.archive.org/web/20171215011907/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-15T04:09:11Z",
+                "uri": "http://web.archive.org/web/20171215040911/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-15T14:28:50Z",
+                "uri": "http://wayback.archive-it.org/all/20171215142850/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-15T14:28:50Z",
+                "uri": "http://web.archive.org/web/20171215142850/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-15T16:25:22Z",
+                "uri": "http://web.archive.org/web/20171215162522/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-15T16:25:22Z",
+                "uri": "http://web.archive.org/web/20171215162522/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-16T00:40:59Z",
+                "uri": "http://wayback.archive-it.org/all/20171216004059/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-16T00:40:59Z",
+                "uri": "http://web.archive.org/web/20171216004059/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-16T01:20:17Z",
+                "uri": "http://wayback.archive-it.org/all/20171216012017/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-16T01:20:17Z",
+                "uri": "http://web.archive.org/web/20171216012017/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-16T04:41:17Z",
+                "uri": "http://web.archive.org/web/20171216044117/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-16T21:52:28Z",
+                "uri": "http://web.archive.org/web/20171216215228/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-17T01:19:19Z",
+                "uri": "http://wayback.archive-it.org/all/20171217011919/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-17T01:19:19Z",
+                "uri": "http://web.archive.org/web/20171217011919/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-17T05:00:45Z",
+                "uri": "http://wayback.archive-it.org/all/20171217050045/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-17T05:00:45Z",
+                "uri": "http://web.archive.org/web/20171217050045/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-17T05:01:55Z",
+                "uri": "http://wayback.archive-it.org/all/20171217050155/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-17T05:01:55Z",
+                "uri": "http://web.archive.org/web/20171217050155/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-18T01:19:00Z",
+                "uri": "http://wayback.archive-it.org/all/20171218011900/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-18T01:19:00Z",
+                "uri": "http://web.archive.org/web/20171218011900/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-18T05:45:55Z",
+                "uri": "http://web.archive.org/web/20171218054555/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-18T19:22:08Z",
+                "uri": "http://web.archive.org/web/20171218192208/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-18T19:40:53Z",
+                "uri": "http://web.archive.org/web/20171218194053/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-18T20:10:37Z",
+                "uri": "http://wayback.archive-it.org/all/20171218201037/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-18T20:10:37Z",
+                "uri": "http://web.archive.org/web/20171218201037/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-18T20:12:05Z",
+                "uri": "http://wayback.archive-it.org/all/20171218201205/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-18T20:12:05Z",
+                "uri": "http://web.archive.org/web/20171218201205/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-18T20:29:38Z",
+                "uri": "http://wayback.archive-it.org/all/20171218202938/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-18T20:29:38Z",
+                "uri": "http://web.archive.org/web/20171218202938/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-18T21:52:44Z",
+                "uri": "http://web.archive.org/web/20171218215244/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-19T01:18:57Z",
+                "uri": "http://wayback.archive-it.org/all/20171219011857/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-19T01:18:57Z",
+                "uri": "http://web.archive.org/web/20171219011857/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-19T03:09:19Z",
+                "uri": "http://web.archive.org/web/20171219030919/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-19T10:26:48Z",
+                "uri": "http://web.archive.org/web/20171219102648/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-20T01:18:56Z",
+                "uri": "http://wayback.archive-it.org/all/20171220011856/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-20T01:18:56Z",
+                "uri": "http://web.archive.org/web/20171220011856/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-20T17:19:12Z",
+                "uri": "http://web.archive.org/web/20171220171912/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-20T23:03:14Z",
+                "uri": "http://web.archive.org/web/20171220230314/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-21T00:56:24Z",
+                "uri": "http://web.archive.org/web/20171221005624/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-21T01:18:44Z",
+                "uri": "http://wayback.archive-it.org/all/20171221011844/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-21T01:18:44Z",
+                "uri": "http://web.archive.org/web/20171221011844/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-21T03:00:48Z",
+                "uri": "http://web.archive.org/web/20171221030048/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-21T03:10:19Z",
+                "uri": "http://web.archive.org/web/20171221031019/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-21T03:54:16Z",
+                "uri": "http://web.archive.org/web/20171221035416/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-21T05:32:32Z",
+                "uri": "http://web.archive.org/web/20171221053232/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-21T23:37:52Z",
+                "uri": "http://web.archive.org/web/20171221233752/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-22T01:19:19Z",
+                "uri": "http://wayback.archive-it.org/all/20171222011919/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-22T01:19:19Z",
+                "uri": "http://web.archive.org/web/20171222011919/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-22T23:35:37Z",
+                "uri": "http://wayback.archive-it.org/all/20171222233537/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-22T23:35:37Z",
+                "uri": "http://web.archive.org/web/20171222233537/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-23T00:02:38Z",
+                "uri": "http://web.archive.org/web/20171223000238/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-23T01:19:02Z",
+                "uri": "http://wayback.archive-it.org/all/20171223011902/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-23T01:19:02Z",
+                "uri": "http://web.archive.org/web/20171223011902/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-23T04:46:41Z",
+                "uri": "http://web.archive.org/web/20171223044641/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-23T08:38:18Z",
+                "uri": "http://web.archive.org/web/20171223083818/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-23T21:24:33Z",
+                "uri": "http://wayback.archive-it.org/all/20171223212433/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-23T21:24:33Z",
+                "uri": "http://web.archive.org/web/20171223212433/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-24T00:12:42Z",
+                "uri": "http://web.archive.org/web/20171224001242/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-24T01:18:52Z",
+                "uri": "http://wayback.archive-it.org/all/20171224011852/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-24T01:18:52Z",
+                "uri": "http://web.archive.org/web/20171224011852/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-24T03:52:49Z",
+                "uri": "http://web.archive.org/web/20171224035249/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-24T05:00:50Z",
+                "uri": "http://wayback.archive-it.org/all/20171224050050/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-24T05:00:50Z",
+                "uri": "http://web.archive.org/web/20171224050050/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-24T05:00:56Z",
+                "uri": "http://wayback.archive-it.org/all/20171224050056/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-24T05:00:56Z",
+                "uri": "http://web.archive.org/web/20171224050056/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-24T05:15:29Z",
+                "uri": "http://web.archive.org/web/20171224051529/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-25T00:40:40Z",
+                "uri": "http://web.archive.org/web/20171225004040/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-25T01:18:47Z",
+                "uri": "http://wayback.archive-it.org/all/20171225011847/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-25T01:18:47Z",
+                "uri": "http://web.archive.org/web/20171225011847/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-26T01:03:20Z",
+                "uri": "http://web.archive.org/web/20171226010320/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-26T01:18:58Z",
+                "uri": "http://wayback.archive-it.org/all/20171226011858/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-26T01:18:58Z",
+                "uri": "http://web.archive.org/web/20171226011858/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-26T23:17:48Z",
+                "uri": "http://web.archive.org/web/20171226231748/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-27T01:18:53Z",
+                "uri": "http://wayback.archive-it.org/all/20171227011853/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-27T01:18:53Z",
+                "uri": "http://web.archive.org/web/20171227011853/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-27T01:24:36Z",
+                "uri": "http://web.archive.org/web/20171227012436/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-27T07:34:57Z",
+                "uri": "http://web.archive.org/web/20171227073457/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-27T12:58:18Z",
+                "uri": "http://web.archive.org/web/20171227125818/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-27T18:21:46Z",
+                "uri": "http://web.archive.org/web/20171227182146/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-28T00:26:03Z",
+                "uri": "http://web.archive.org/web/20171228002603/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-28T01:15:28Z",
+                "uri": "http://web.archive.org/web/20171228011528/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-28T01:18:48Z",
+                "uri": "http://wayback.archive-it.org/all/20171228011848/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-28T01:18:48Z",
+                "uri": "http://web.archive.org/web/20171228011848/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-28T01:24:56Z",
+                "uri": "http://web.archive.org/web/20171228012456/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-28T03:01:39Z",
+                "uri": "http://web.archive.org/web/20171228030139/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-28T04:03:54Z",
+                "uri": "http://web.archive.org/web/20171228040354/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-28T04:14:53Z",
+                "uri": "http://web.archive.org/web/20171228041453/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-28T05:32:38Z",
+                "uri": "http://web.archive.org/web/20171228053238/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-28T05:48:28Z",
+                "uri": "http://web.archive.org/web/20171228054828/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-28T11:50:42Z",
+                "uri": "http://web.archive.org/web/20171228115042/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-28T14:42:50Z",
+                "uri": "http://web.archive.org/web/20171228144250/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-28T21:45:25Z",
+                "uri": "http://web.archive.org/web/20171228214525/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-29T01:18:48Z",
+                "uri": "http://wayback.archive-it.org/all/20171229011848/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-29T01:18:48Z",
+                "uri": "http://web.archive.org/web/20171229011848/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-29T23:53:26Z",
+                "uri": "http://wayback.archive-it.org/all/20171229235326/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-29T23:53:26Z",
+                "uri": "http://web.archive.org/web/20171229235326/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-30T01:18:53Z",
+                "uri": "http://wayback.archive-it.org/all/20171230011853/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-30T01:18:53Z",
+                "uri": "http://web.archive.org/web/20171230011853/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-30T23:11:43Z",
+                "uri": "http://web.archive.org/web/20171230231143/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-31T01:18:45Z",
+                "uri": "http://wayback.archive-it.org/all/20171231011845/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-31T01:18:45Z",
+                "uri": "http://web.archive.org/web/20171231011845/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-31T05:00:28Z",
+                "uri": "http://wayback.archive-it.org/all/20171231050028/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-31T05:00:28Z",
+                "uri": "http://web.archive.org/web/20171231050028/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-31T05:01:18Z",
+                "uri": "http://wayback.archive-it.org/all/20171231050118/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-31T05:01:18Z",
+                "uri": "http://web.archive.org/web/20171231050118/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-31T06:25:43Z",
+                "uri": "http://wayback.archive-it.org/all/20171231062543/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-31T06:25:43Z",
+                "uri": "http://web.archive.org/web/20171231062543/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2017-12-31T10:35:29Z",
+                "uri": "http://web.archive.org/web/20171231103529/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-31T15:49:18Z",
+                "uri": "http://web.archive.org/web/20171231154918/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2017-12-31T16:28:03Z",
+                "uri": "http://web.archive.org/web/20171231162803/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2018-01-01T01:18:43Z",
+                "uri": "http://wayback.archive-it.org/all/20180101011843/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2018-01-01T01:18:43Z",
+                "uri": "http://web.archive.org/web/20180101011843/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2018-01-02T01:18:40Z",
+                "uri": "http://wayback.archive-it.org/all/20180102011840/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2018-01-02T01:18:40Z",
+                "uri": "http://web.archive.org/web/20180102011840/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2018-01-02T22:36:23Z",
+                "uri": "http://web.archive.org/web/20180102223623/https://news.google.com/news/?gl=US&ned=us&hl=en"
+            },
+            {
+                "datetime": "2018-01-03T01:18:52Z",
+                "uri": "http://wayback.archive-it.org/all/20180103011852/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-03T01:18:52Z",
+                "uri": "http://web.archive.org/web/20180103011852/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-03T08:31:03Z",
+                "uri": "http://web.archive.org/web/20180103083103/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-03T17:42:33Z",
+                "uri": "http://wayback.archive-it.org/all/20180103174233/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-03T17:42:33Z",
+                "uri": "http://web.archive.org/web/20180103174233/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-03T17:46:53Z",
+                "uri": "http://wayback.archive-it.org/all/20180103174653/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-03T17:46:53Z",
+                "uri": "http://web.archive.org/web/20180103174653/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-03T17:52:43Z",
+                "uri": "http://wayback.archive-it.org/all/20180103175243/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-03T17:52:43Z",
+                "uri": "http://web.archive.org/web/20180103175243/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-04T00:03:34Z",
+                "uri": "http://web.archive.org/web/20180104000334/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-04T01:18:44Z",
+                "uri": "http://wayback.archive-it.org/all/20180104011844/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-04T01:18:44Z",
+                "uri": "http://web.archive.org/web/20180104011844/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-04T02:27:26Z",
+                "uri": "http://wayback.archive-it.org/all/20180104022726/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-04T02:27:26Z",
+                "uri": "http://web.archive.org/web/20180104022726/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-04T02:59:15Z",
+                "uri": "http://web.archive.org/web/20180104025915/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-04T04:12:17Z",
+                "uri": "http://web.archive.org/web/20180104041217/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-04T05:57:32Z",
+                "uri": "http://web.archive.org/web/20180104055732/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-04T16:49:55Z",
+                "uri": "http://web.archive.org/web/20180104164955/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-05T01:18:58Z",
+                "uri": "http://wayback.archive-it.org/all/20180105011858/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-05T01:18:58Z",
+                "uri": "http://web.archive.org/web/20180105011858/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-05T06:21:08Z",
+                "uri": "http://web.archive.org/web/20180105062108/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-05T19:27:34Z",
+                "uri": "http://wayback.archive-it.org/all/20180105192734/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-05T19:27:34Z",
+                "uri": "http://web.archive.org/web/20180105192734/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-05T19:37:56Z",
+                "uri": "http://wayback.archive-it.org/all/20180105193756/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-05T19:37:56Z",
+                "uri": "http://web.archive.org/web/20180105193756/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-06T00:13:20Z",
+                "uri": "http://wayback.archive-it.org/all/20180106001320/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-06T00:13:20Z",
+                "uri": "http://web.archive.org/web/20180106001320/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-06T00:42:30Z",
+                "uri": "http://web.archive.org/web/20180106004230/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-06T00:49:38Z",
+                "uri": "http://wayback.archive-it.org/all/20180106004938/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-06T00:49:38Z",
+                "uri": "http://web.archive.org/web/20180106004938/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-06T01:19:16Z",
+                "uri": "http://wayback.archive-it.org/all/20180106011916/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-06T01:19:16Z",
+                "uri": "http://web.archive.org/web/20180106011916/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-06T02:51:47Z",
+                "uri": "http://web.archive.org/web/20180106025147/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-07T01:18:40Z",
+                "uri": "http://wayback.archive-it.org/all/20180107011840/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-07T01:18:40Z",
+                "uri": "http://web.archive.org/web/20180107011840/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-07T05:00:33Z",
+                "uri": "http://wayback.archive-it.org/all/20180107050033/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-07T05:00:33Z",
+                "uri": "http://web.archive.org/web/20180107050033/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-07T05:01:03Z",
+                "uri": "http://wayback.archive-it.org/all/20180107050103/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-07T05:01:03Z",
+                "uri": "http://web.archive.org/web/20180107050103/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-07T22:53:41Z",
+                "uri": "http://web.archive.org/web/20180107225341/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-08T01:18:39Z",
+                "uri": "http://wayback.archive-it.org/all/20180108011839/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-08T01:18:39Z",
+                "uri": "http://web.archive.org/web/20180108011839/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-08T13:55:46Z",
+                "uri": "http://web.archive.org/web/20180108135546/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-08T16:48:28Z",
+                "uri": "http://web.archive.org/web/20180108164828/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-09T01:18:53Z",
+                "uri": "http://wayback.archive-it.org/all/20180109011853/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-09T01:18:53Z",
+                "uri": "http://web.archive.org/web/20180109011853/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-09T02:27:12Z",
+                "uri": "http://wayback.archive-it.org/all/20180109022712/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-09T02:27:12Z",
+                "uri": "http://web.archive.org/web/20180109022712/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-10T01:18:55Z",
+                "uri": "http://wayback.archive-it.org/all/20180110011855/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-10T01:18:55Z",
+                "uri": "http://web.archive.org/web/20180110011855/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-10T04:40:04Z",
+                "uri": "http://web.archive.org/web/20180110044004/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-10T19:53:00Z",
+                "uri": "http://web.archive.org/web/20180110195300/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-10T20:15:58Z",
+                "uri": "http://web.archive.org/web/20180110201558/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-11T01:19:45Z",
+                "uri": "http://wayback.archive-it.org/all/20180111011945/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-11T01:19:45Z",
+                "uri": "http://web.archive.org/web/20180111011945/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-11T02:59:17Z",
+                "uri": "http://web.archive.org/web/20180111025917/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-11T04:03:58Z",
+                "uri": "http://web.archive.org/web/20180111040358/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-11T04:48:37Z",
+                "uri": "http://web.archive.org/web/20180111044837/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-11T06:08:10Z",
+                "uri": "http://web.archive.org/web/20180111060810/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-11T17:00:58Z",
+                "uri": "http://web.archive.org/web/20180111170058/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-11T19:59:58Z",
+                "uri": "http://web.archive.org/web/20180111195958/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-11T20:40:04Z",
+                "uri": "http://web.archive.org/web/20180111204004/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-12T01:12:25Z",
+                "uri": "http://wayback.archive-it.org/all/20180112011225/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-12T01:12:25Z",
+                "uri": "http://web.archive.org/web/20180112011225/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-12T01:19:14Z",
+                "uri": "http://wayback.archive-it.org/all/20180112011914/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-12T01:19:14Z",
+                "uri": "http://web.archive.org/web/20180112011914/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-12T21:19:13Z",
+                "uri": "http://web.archive.org/web/20180112211913/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-13T00:39:39Z",
+                "uri": "http://wayback.archive-it.org/all/20180113003939/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-13T00:39:39Z",
+                "uri": "http://web.archive.org/web/20180113003939/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-13T01:19:17Z",
+                "uri": "http://wayback.archive-it.org/all/20180113011917/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-13T01:19:17Z",
+                "uri": "http://web.archive.org/web/20180113011917/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-13T01:49:27Z",
+                "uri": "http://web.archive.org/web/20180113014927/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-13T09:35:43Z",
+                "uri": "http://web.archive.org/web/20180113093543/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-13T16:44:56Z",
+                "uri": "http://web.archive.org/web/20180113164456/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-13T22:13:51Z",
+                "uri": "http://web.archive.org/web/20180113221351/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-14T01:19:02Z",
+                "uri": "http://wayback.archive-it.org/all/20180114011902/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-14T01:19:02Z",
+                "uri": "http://web.archive.org/web/20180114011902/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-14T02:54:39Z",
+                "uri": "http://web.archive.org/web/20180114025439/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-14T05:00:49Z",
+                "uri": "http://wayback.archive-it.org/all/20180114050049/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-14T05:00:49Z",
+                "uri": "http://web.archive.org/web/20180114050049/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-14T05:34:06Z",
+                "uri": "http://wayback.archive-it.org/all/20180114053406/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-14T05:34:06Z",
+                "uri": "http://web.archive.org/web/20180114053406/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-14T22:57:43Z",
+                "uri": "http://web.archive.org/web/20180114225743/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-15T01:18:54Z",
+                "uri": "http://wayback.archive-it.org/all/20180115011854/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-15T01:18:54Z",
+                "uri": "http://web.archive.org/web/20180115011854/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-15T01:46:19Z",
+                "uri": "http://web.archive.org/web/20180115014619/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-15T02:14:54Z",
+                "uri": "http://web.archive.org/web/20180115021454/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-15T10:39:21Z",
+                "uri": "http://web.archive.org/web/20180115103921/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-15T23:33:52Z",
+                "uri": "http://web.archive.org/web/20180115233352/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-16T01:18:58Z",
+                "uri": "http://wayback.archive-it.org/all/20180116011858/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-16T01:18:58Z",
+                "uri": "http://web.archive.org/web/20180116011858/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-16T17:33:28Z",
+                "uri": "http://web.archive.org/web/20180116173328/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-17T00:25:27Z",
+                "uri": "http://web.archive.org/web/20180117002527/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-17T01:00:13Z",
+                "uri": "http://web.archive.org/web/20180117010013/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-17T01:19:11Z",
+                "uri": "http://wayback.archive-it.org/all/20180117011911/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-17T01:19:11Z",
+                "uri": "http://web.archive.org/web/20180117011911/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-17T23:50:03Z",
+                "uri": "http://web.archive.org/web/20180117235003/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-18T00:32:24Z",
+                "uri": "http://web.archive.org/web/20180118003224/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-18T00:51:23Z",
+                "uri": "http://web.archive.org/web/20180118005123/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-18T01:19:04Z",
+                "uri": "http://wayback.archive-it.org/all/20180118011904/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-18T01:19:04Z",
+                "uri": "http://web.archive.org/web/20180118011904/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-18T02:59:04Z",
+                "uri": "http://web.archive.org/web/20180118025904/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-18T05:08:24Z",
+                "uri": "http://web.archive.org/web/20180118050824/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-18T09:13:20Z",
+                "uri": "http://web.archive.org/web/20180118091320/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-19T01:19:02Z",
+                "uri": "http://wayback.archive-it.org/all/20180119011902/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-19T01:19:02Z",
+                "uri": "http://web.archive.org/web/20180119011902/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-19T01:39:28Z",
+                "uri": "http://web.archive.org/web/20180119013928/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-19T08:40:16Z",
+                "uri": "http://web.archive.org/web/20180119084016/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-19T14:32:11Z",
+                "uri": "http://wayback.archive-it.org/all/20180119143211/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-19T14:32:11Z",
+                "uri": "http://web.archive.org/web/20180119143211/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-19T16:23:29Z",
+                "uri": "http://wayback.archive-it.org/all/20180119162329/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-19T16:23:29Z",
+                "uri": "http://web.archive.org/web/20180119162329/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-19T16:25:38Z",
+                "uri": "http://wayback.archive-it.org/all/20180119162538/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-19T16:25:38Z",
+                "uri": "http://web.archive.org/web/20180119162538/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-19T17:29:26Z",
+                "uri": "http://web.archive.org/web/20180119172926/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-19T18:18:06Z",
+                "uri": "http://web.archive.org/web/20180119181806/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-20T00:11:56Z",
+                "uri": "http://wayback.archive-it.org/all/20180120001156/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-20T00:11:56Z",
+                "uri": "http://web.archive.org/web/20180120001156/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-20T01:18:54Z",
+                "uri": "http://wayback.archive-it.org/all/20180120011854/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-20T01:18:54Z",
+                "uri": "http://web.archive.org/web/20180120011854/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-20T02:38:11Z",
+                "uri": "http://web.archive.org/web/20180120023811/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-20T03:40:09Z",
+                "uri": "http://web.archive.org/web/20180120034009/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-21T01:19:07Z",
+                "uri": "http://wayback.archive-it.org/all/20180121011907/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-21T01:19:07Z",
+                "uri": "http://web.archive.org/web/20180121011907/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-21T01:50:21Z",
+                "uri": "http://web.archive.org/web/20180121015021/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-21T03:02:02Z",
+                "uri": "http://web.archive.org/web/20180121030202/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-21T05:00:41Z",
+                "uri": "http://wayback.archive-it.org/all/20180121050041/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-21T05:00:41Z",
+                "uri": "http://web.archive.org/web/20180121050041/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-21T05:01:07Z",
+                "uri": "http://wayback.archive-it.org/all/20180121050107/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-21T05:01:07Z",
+                "uri": "http://web.archive.org/web/20180121050107/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-21T14:20:52Z",
+                "uri": "http://web.archive.org/web/20180121142052/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-21T14:20:55Z",
+                "uri": "http://web.archive.org/web/20180121142055/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-22T01:18:56Z",
+                "uri": "http://wayback.archive-it.org/all/20180122011856/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-22T01:18:56Z",
+                "uri": "http://web.archive.org/web/20180122011856/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-22T03:12:47Z",
+                "uri": "http://web.archive.org/web/20180122031247/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-22T03:59:19Z",
+                "uri": "http://web.archive.org/web/20180122035919/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-22T14:54:10Z",
+                "uri": "http://web.archive.org/web/20180122145410/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-22T18:04:24Z",
+                "uri": "http://wayback.archive-it.org/all/20180122180424/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-22T18:04:24Z",
+                "uri": "http://web.archive.org/web/20180122180424/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-22T20:33:07Z",
+                "uri": "http://wayback.archive-it.org/all/20180122203307/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-22T20:33:07Z",
+                "uri": "http://web.archive.org/web/20180122203307/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-22T23:21:41Z",
+                "uri": "http://web.archive.org/web/20180122232141/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-23T01:22:21Z",
+                "uri": "http://wayback.archive-it.org/all/20180123012221/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-23T01:22:21Z",
+                "uri": "http://web.archive.org/web/20180123012221/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-23T04:42:46Z",
+                "uri": "http://web.archive.org/web/20180123044246/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-23T09:00:53Z",
+                "uri": "http://web.archive.org/web/20180123090053/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-23T17:00:33Z",
+                "uri": "http://web.archive.org/web/20180123170033/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-23T19:48:07Z",
+                "uri": "http://web.archive.org/web/20180123194807/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-23T21:48:46Z",
+                "uri": "http://web.archive.org/web/20180123214846/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T01:18:54Z",
+                "uri": "http://wayback.archive-it.org/all/20180124011854/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T01:18:54Z",
+                "uri": "http://web.archive.org/web/20180124011854/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T05:02:40Z",
+                "uri": "http://web.archive.org/web/20180124050240/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T10:41:21Z",
+                "uri": "http://web.archive.org/web/20180124104121/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T13:22:13Z",
+                "uri": "http://web.archive.org/web/20180124132213/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T17:12:20Z",
+                "uri": "http://wayback.archive-it.org/all/20180124171220/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T17:12:20Z",
+                "uri": "http://web.archive.org/web/20180124171220/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T17:15:31Z",
+                "uri": "http://wayback.archive-it.org/all/20180124171531/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T17:15:31Z",
+                "uri": "http://web.archive.org/web/20180124171531/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T17:24:37Z",
+                "uri": "http://wayback.archive-it.org/all/20180124172437/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T17:24:37Z",
+                "uri": "http://web.archive.org/web/20180124172437/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T17:42:21Z",
+                "uri": "http://web.archive.org/web/20180124174221/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T19:07:54Z",
+                "uri": "http://web.archive.org/web/20180124190754/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T22:21:37Z",
+                "uri": "http://web.archive.org/web/20180124222137/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T23:13:27Z",
+                "uri": "http://wayback.archive-it.org/all/20180124231327/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T23:13:27Z",
+                "uri": "http://web.archive.org/web/20180124231327/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T23:35:00Z",
+                "uri": "http://wayback.archive-it.org/all/20180124233500/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-24T23:35:00Z",
+                "uri": "http://web.archive.org/web/20180124233500/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T01:16:18Z",
+                "uri": "http://wayback.archive-it.org/all/20180125011618/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T01:16:18Z",
+                "uri": "http://web.archive.org/web/20180125011618/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T01:17:00Z",
+                "uri": "http://wayback.archive-it.org/all/20180125011700/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T01:17:00Z",
+                "uri": "http://web.archive.org/web/20180125011700/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T01:19:07Z",
+                "uri": "http://wayback.archive-it.org/all/20180125011907/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T01:19:07Z",
+                "uri": "http://web.archive.org/web/20180125011907/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T01:26:42Z",
+                "uri": "http://wayback.archive-it.org/all/20180125012642/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T01:26:42Z",
+                "uri": "http://web.archive.org/web/20180125012642/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T02:40:36Z",
+                "uri": "http://wayback.archive-it.org/all/20180125024036/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T02:40:36Z",
+                "uri": "http://web.archive.org/web/20180125024036/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T02:58:48Z",
+                "uri": "http://wayback.archive-it.org/all/20180125025848/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T02:58:48Z",
+                "uri": "http://web.archive.org/web/20180125025848/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T02:59:15Z",
+                "uri": "http://web.archive.org/web/20180125025915/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T03:53:49Z",
+                "uri": "http://wayback.archive-it.org/all/20180125035349/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T03:53:49Z",
+                "uri": "http://web.archive.org/web/20180125035349/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T04:33:59Z",
+                "uri": "http://wayback.archive-it.org/all/20180125043359/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T04:33:59Z",
+                "uri": "http://web.archive.org/web/20180125043359/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T04:34:05Z",
+                "uri": "http://wayback.archive-it.org/all/20180125043405/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T04:34:05Z",
+                "uri": "http://web.archive.org/web/20180125043405/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T05:34:57Z",
+                "uri": "http://web.archive.org/web/20180125053457/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T05:47:40Z",
+                "uri": "http://web.archive.org/web/20180125054740/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T07:17:49Z",
+                "uri": "http://web.archive.org/web/20180125071749/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T10:50:02Z",
+                "uri": "http://wayback.archive-it.org/all/20180125105002/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T10:50:02Z",
+                "uri": "http://web.archive.org/web/20180125105002/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T15:26:11Z",
+                "uri": "http://wayback.archive-it.org/all/20180125152611/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T15:26:11Z",
+                "uri": "http://web.archive.org/web/20180125152611/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T20:39:42Z",
+                "uri": "http://web.archive.org/web/20180125203942/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-25T21:13:37Z",
+                "uri": "http://archive.is/20180125211337/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-26T01:19:00Z",
+                "uri": "http://wayback.archive-it.org/all/20180126011900/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-26T01:19:00Z",
+                "uri": "http://web.archive.org/web/20180126011900/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-26T06:03:37Z",
+                "uri": "http://web.archive.org/web/20180126060337/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-26T20:04:31Z",
+                "uri": "http://web.archive.org/web/20180126200431/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-26T21:20:15Z",
+                "uri": "http://web.archive.org/web/20180126212015/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-27T00:04:33Z",
+                "uri": "http://wayback.archive-it.org/all/20180127000433/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-27T00:04:33Z",
+                "uri": "http://web.archive.org/web/20180127000433/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-27T01:19:02Z",
+                "uri": "http://wayback.archive-it.org/all/20180127011902/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-27T01:19:02Z",
+                "uri": "http://web.archive.org/web/20180127011902/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-27T06:20:35Z",
+                "uri": "http://web.archive.org/web/20180127062035/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-27T21:30:34Z",
+                "uri": "http://web.archive.org/web/20180127213034/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-28T01:19:01Z",
+                "uri": "http://wayback.archive-it.org/all/20180128011901/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-28T01:19:01Z",
+                "uri": "http://web.archive.org/web/20180128011901/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-28T03:12:34Z",
+                "uri": "http://web.archive.org/web/20180128031234/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-28T05:00:27Z",
+                "uri": "http://wayback.archive-it.org/all/20180128050027/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-28T05:00:27Z",
+                "uri": "http://web.archive.org/web/20180128050027/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-28T05:00:53Z",
+                "uri": "http://wayback.archive-it.org/all/20180128050053/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-28T05:00:53Z",
+                "uri": "http://web.archive.org/web/20180128050053/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-28T06:57:20Z",
+                "uri": "http://web.archive.org/web/20180128065720/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-28T14:41:46Z",
+                "uri": "http://web.archive.org/web/20180128144146/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-28T15:18:44Z",
+                "uri": "http://web.archive.org/web/20180128151844/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-28T20:26:28Z",
+                "uri": "http://web.archive.org/web/20180128202628/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-29T01:18:53Z",
+                "uri": "http://wayback.archive-it.org/all/20180129011853/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-29T01:18:53Z",
+                "uri": "http://web.archive.org/web/20180129011853/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-29T07:10:46Z",
+                "uri": "http://web.archive.org/web/20180129071046/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-29T13:15:31Z",
+                "uri": "http://web.archive.org/web/20180129131531/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-30T01:18:56Z",
+                "uri": "http://wayback.archive-it.org/all/20180130011856/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-30T01:18:56Z",
+                "uri": "http://web.archive.org/web/20180130011856/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-30T08:00:43Z",
+                "uri": "http://web.archive.org/web/20180130080043/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-30T09:59:25Z",
+                "uri": "http://web.archive.org/web/20180130095925/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-30T16:08:39Z",
+                "uri": "http://web.archive.org/web/20180130160839/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-30T16:14:46Z",
+                "uri": "http://web.archive.org/web/20180130161446/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-30T16:34:11Z",
+                "uri": "http://web.archive.org/web/20180130163411/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-30T18:30:02Z",
+                "uri": "http://web.archive.org/web/20180130183002/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-30T23:02:20Z",
+                "uri": "http://web.archive.org/web/20180130230220/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-31T01:22:40Z",
+                "uri": "http://web.archive.org/web/20180131012240/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-31T08:38:52Z",
+                "uri": "http://web.archive.org/web/20180131083852/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-31T17:24:47Z",
+                "uri": "http://wayback.archive-it.org/all/20180131172447/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-31T17:24:47Z",
+                "uri": "http://web.archive.org/web/20180131172447/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-31T17:34:28Z",
+                "uri": "http://web.archive.org/web/20180131173428/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-01-31T17:36:53Z",
+                "uri": "http://web.archive.org/web/20180131173653/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-01T01:19:03Z",
+                "uri": "http://wayback.archive-it.org/all/20180201011903/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-01T01:19:03Z",
+                "uri": "http://web.archive.org/web/20180201011903/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-01T03:01:16Z",
+                "uri": "http://web.archive.org/web/20180201030116/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-01T06:39:21Z",
+                "uri": "http://web.archive.org/web/20180201063921/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-01T07:00:36Z",
+                "uri": "http://web.archive.org/web/20180201070036/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-01T08:23:46Z",
+                "uri": "http://web.archive.org/web/20180201082346/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-01T08:57:51Z",
+                "uri": "http://web.archive.org/web/20180201085751/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-01T20:07:51Z",
+                "uri": "http://web.archive.org/web/20180201200751/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-02T01:19:05Z",
+                "uri": "http://wayback.archive-it.org/all/20180202011905/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-02T01:19:05Z",
+                "uri": "http://web.archive.org/web/20180202011905/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-02T03:28:01Z",
+                "uri": "http://web.archive.org/web/20180202032801/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-02T09:50:01Z",
+                "uri": "http://web.archive.org/web/20180202095001/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-02T23:34:08Z",
+                "uri": "http://wayback.archive-it.org/all/20180202233408/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-02T23:34:08Z",
+                "uri": "http://web.archive.org/web/20180202233408/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-02T23:43:06Z",
+                "uri": "http://web.archive.org/web/20180202234306/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-03T01:19:09Z",
+                "uri": "http://wayback.archive-it.org/all/20180203011909/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-03T01:19:09Z",
+                "uri": "http://web.archive.org/web/20180203011909/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-03T09:55:59Z",
+                "uri": "http://web.archive.org/web/20180203095559/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-03T15:56:34Z",
+                "uri": "http://web.archive.org/web/20180203155634/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-04T01:19:23Z",
+                "uri": "http://wayback.archive-it.org/all/20180204011923/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-04T01:19:23Z",
+                "uri": "http://web.archive.org/web/20180204011923/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-04T01:32:57Z",
+                "uri": "http://wayback.archive-it.org/all/20180204013257/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-04T01:32:57Z",
+                "uri": "http://web.archive.org/web/20180204013257/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-04T05:00:34Z",
+                "uri": "http://wayback.archive-it.org/all/20180204050034/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-04T05:00:34Z",
+                "uri": "http://web.archive.org/web/20180204050034/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-04T05:01:03Z",
+                "uri": "http://wayback.archive-it.org/all/20180204050103/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-04T05:01:03Z",
+                "uri": "http://web.archive.org/web/20180204050103/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-04T10:42:47Z",
+                "uri": "http://web.archive.org/web/20180204104247/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-04T17:03:19Z",
+                "uri": "http://web.archive.org/web/20180204170319/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-04T17:03:20Z",
+                "uri": "http://web.archive.org/web/20180204170320/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-04T17:03:20Z",
+                "uri": "http://web.archive.org/web/20180204170320/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-04T17:03:20Z",
+                "uri": "http://web.archive.org/web/20180204170320/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-04T17:03:21Z",
+                "uri": "http://web.archive.org/web/20180204170321/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-05T01:18:47Z",
+                "uri": "http://wayback.archive-it.org/all/20180205011847/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-05T01:18:47Z",
+                "uri": "http://web.archive.org/web/20180205011847/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-05T11:01:15Z",
+                "uri": "http://web.archive.org/web/20180205110115/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-05T20:51:21Z",
+                "uri": "http://web.archive.org/web/20180205205121/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-05T22:10:26Z",
+                "uri": "http://web.archive.org/web/20180205221026/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-05T22:40:22Z",
+                "uri": "http://web.archive.org/web/20180205224022/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-06T00:34:42Z",
+                "uri": "http://wayback.archive-it.org/all/20180206003442/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-06T00:34:42Z",
+                "uri": "http://web.archive.org/web/20180206003442/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-06T00:37:11Z",
+                "uri": "http://web.archive.org/web/20180206003711/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-06T01:18:49Z",
+                "uri": "http://wayback.archive-it.org/all/20180206011849/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-06T01:18:49Z",
+                "uri": "http://web.archive.org/web/20180206011849/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-06T11:42:22Z",
+                "uri": "http://web.archive.org/web/20180206114222/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-07T01:19:11Z",
+                "uri": "http://wayback.archive-it.org/all/20180207011911/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-07T01:19:11Z",
+                "uri": "http://web.archive.org/web/20180207011911/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-07T12:27:58Z",
+                "uri": "http://web.archive.org/web/20180207122758/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-07T18:00:48Z",
+                "uri": "http://web.archive.org/web/20180207180048/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-07T18:32:56Z",
+                "uri": "http://web.archive.org/web/20180207183256/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-07T20:35:54Z",
+                "uri": "http://web.archive.org/web/20180207203554/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-07T20:48:43Z",
+                "uri": "http://web.archive.org/web/20180207204843/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-07T22:25:59Z",
+                "uri": "http://web.archive.org/web/20180207222559/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-07T22:58:48Z",
+                "uri": "http://web.archive.org/web/20180207225848/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-08T01:18:59Z",
+                "uri": "http://wayback.archive-it.org/all/20180208011859/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-08T01:18:59Z",
+                "uri": "http://web.archive.org/web/20180208011859/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-08T02:59:16Z",
+                "uri": "http://web.archive.org/web/20180208025916/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-08T07:04:24Z",
+                "uri": "http://web.archive.org/web/20180208070424/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-08T09:26:50Z",
+                "uri": "http://web.archive.org/web/20180208092650/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-08T09:26:51Z",
+                "uri": "http://web.archive.org/web/20180208092651/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-08T13:53:07Z",
+                "uri": "http://web.archive.org/web/20180208135307/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-08T19:28:37Z",
+                "uri": "http://web.archive.org/web/20180208192837/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-08T19:28:37Z",
+                "uri": "http://web.archive.org/web/20180208192837/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-08T21:17:42Z",
+                "uri": "http://web.archive.org/web/20180208211742/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-08T21:17:42Z",
+                "uri": "http://web.archive.org/web/20180208211742/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-09T01:19:15Z",
+                "uri": "http://web.archive.org/web/20180209011915/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-09T11:40:03Z",
+                "uri": "http://web.archive.org/web/20180209114003/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-09T11:40:03Z",
+                "uri": "http://web.archive.org/web/20180209114003/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-09T14:42:09Z",
+                "uri": "http://web.archive.org/web/20180209144209/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            },
+            {
+                "datetime": "2018-02-09T17:35:23Z",
+                "uri": "http://web.archive.org/web/20180209173523/https://news.google.com/news/?ned=us&gl=US&hl=en"
+            }
+        ]
+    },
+    "original_uri": "https://news.google.com/news/?ned=us&gl=US&hl=en",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://news.google.com/news/?ned=us&gl=US&hl=en",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://news.google.com/news/?ned=us&gl=US&hl=en",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://news.google.com/news/?ned=us&gl=US&hl=en",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://news.google.com/news/?ned=us&gl=US&hl=en",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://news.google.com/news/?ned=us&gl=US&hl=en"
+    }
+}

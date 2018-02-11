@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-12-03T18:46:55Z",
+            "uri": "http://web.archive.org/web/20161203184655/https://www.youtube.com/user/Corzioli"
+        },
+        "last": {
+            "datetime": "2016-12-03T18:46:58Z",
+            "uri": "http://web.archive.org/web/20161203184658/http://www.youtube.com/user/Corzioli"
+        },
+        "list": [
+            {
+                "datetime": "2016-12-03T18:46:55Z",
+                "uri": "http://web.archive.org/web/20161203184655/https://www.youtube.com/user/Corzioli"
+            },
+            {
+                "datetime": "2016-12-03T18:46:55Z",
+                "uri": "http://web.archive.org/web/20161203184655/http://youtube.com/user/Corzioli"
+            },
+            {
+                "datetime": "2016-12-03T18:46:58Z",
+                "uri": "http://web.archive.org/web/20161203184658/http://www.youtube.com/user/Corzioli"
+            }
+        ]
+    },
+    "original_uri": "https://www.youtube.com/user/Corzioli",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.youtube.com/user/Corzioli",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.youtube.com/user/Corzioli",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.youtube.com/user/Corzioli",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.youtube.com/user/Corzioli",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.youtube.com/user/Corzioli"
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2015-01-02T00:58:07Z",
+            "uri": "http://web.archive.org/web/20150102005807/http://www.thinkfootballideas.co.uk:80/"
+        },
+        "last": {
+            "datetime": "2017-09-11T23:33:02Z",
+            "uri": "http://web.archive.org/web/20170911233302/http://thinkfootballideas.co.uk/"
+        },
+        "list": [
+            {
+                "datetime": "2015-01-02T00:58:07Z",
+                "uri": "http://web.archive.org/web/20150102005807/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2015-02-03T05:34:24Z",
+                "uri": "http://web.archive.org/web/20150203053424/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2015-03-02T10:33:17Z",
+                "uri": "http://web.archive.org/web/20150302103317/http://www.thinkfootballideas.co.uk/"
+            },
+            {
+                "datetime": "2015-03-02T10:33:19Z",
+                "uri": "http://web.archive.org/web/20150302103319/http://thinkfootballideas.co.uk/"
+            },
+            {
+                "datetime": "2015-06-01T00:41:22Z",
+                "uri": "http://web.archive.org/web/20150601004122/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2015-07-02T14:56:59Z",
+                "uri": "http://web.archive.org/web/20150702145659/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2015-08-22T15:17:51Z",
+                "uri": "http://web.archive.org/web/20150822151751/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2015-09-11T17:12:02Z",
+                "uri": "http://web.archive.org/web/20150911171202/http://www.thinkfootballideas.co.uk/"
+            },
+            {
+                "datetime": "2015-09-23T04:02:59Z",
+                "uri": "http://web.archive.org/web/20150923040259/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2015-10-23T23:19:47Z",
+                "uri": "http://web.archive.org/web/20151023231947/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2015-11-22T08:08:51Z",
+                "uri": "http://web.archive.org/web/20151122080851/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2015-12-22T21:56:49Z",
+                "uri": "http://web.archive.org/web/20151222215649/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2016-01-10T01:41:55Z",
+                "uri": "http://web.archive.org/web/20160110014155/http://thinkfootballideas.co.uk/"
+            },
+            {
+                "datetime": "2016-01-23T14:25:15Z",
+                "uri": "http://web.archive.org/web/20160123142515/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2016-02-23T09:39:14Z",
+                "uri": "http://web.archive.org/web/20160223093914/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2016-03-09T01:53:46Z",
+                "uri": "http://web.archive.org/web/20160309015346/http://thinkfootballideas.co.uk/"
+            },
+            {
+                "datetime": "2016-03-24T22:06:38Z",
+                "uri": "http://web.archive.org/web/20160324220638/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2016-03-29T21:10:29Z",
+                "uri": "http://web.archive.org/web/20160329211029/http://www.thinkfootballideas.co.uk/"
+            },
+            {
+                "datetime": "2016-05-06T07:38:34Z",
+                "uri": "http://web.archive.org/web/20160506073834/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2016-06-05T19:49:30Z",
+                "uri": "http://web.archive.org/web/20160605194930/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2016-06-28T13:22:18Z",
+                "uri": "http://web.archive.org/web/20160628132218/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2016-07-29T13:17:19Z",
+                "uri": "http://web.archive.org/web/20160729131719/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2016-08-27T18:58:09Z",
+                "uri": "http://web.archive.org/web/20160827185809/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2016-09-27T15:07:44Z",
+                "uri": "http://web.archive.org/web/20160927150744/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2016-10-02T16:15:49Z",
+                "uri": "http://web.archive.org/web/20161002161549/http://thinkfootballideas.co.uk/"
+            },
+            {
+                "datetime": "2016-10-17T13:00:32Z",
+                "uri": "http://web.archive.org/web/20161017130032/http://www.thinkfootballideas.co.uk/"
+            },
+            {
+                "datetime": "2016-10-29T04:04:47Z",
+                "uri": "http://web.archive.org/web/20161029040447/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2016-11-24T15:46:43Z",
+                "uri": "http://archive.is/20161124154643/http://www.thinkfootballideas.co.uk/"
+            },
+            {
+                "datetime": "2017-01-17T00:14:45Z",
+                "uri": "http://web.archive.org/web/20170117001445/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2017-04-24T08:06:12Z",
+                "uri": "http://web.archive.org/web/20170424080612/http://thinkfootballideas.co.uk/"
+            },
+            {
+                "datetime": "2017-05-02T02:40:42Z",
+                "uri": "http://web.archive.org/web/20170502024042/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2017-06-05T12:07:51Z",
+                "uri": "http://web.archive.org/web/20170605120751/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2017-07-02T17:25:18Z",
+                "uri": "http://web.archive.org/web/20170702172518/http://www.thinkfootballideas.co.uk/"
+            },
+            {
+                "datetime": "2017-07-12T17:13:30Z",
+                "uri": "http://web.archive.org/web/20170712171330/http://www.thinkfootballideas.co.uk/"
+            },
+            {
+                "datetime": "2017-08-05T04:22:44Z",
+                "uri": "http://web.archive.org/web/20170805042244/http://www.thinkfootballideas.co.uk:80/"
+            },
+            {
+                "datetime": "2017-09-11T23:33:02Z",
+                "uri": "http://web.archive.org/web/20170911233302/http://thinkfootballideas.co.uk/"
+            }
+        ]
+    },
+    "original_uri": "http://www.thinkfootballideas.co.uk/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.thinkfootballideas.co.uk/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.thinkfootballideas.co.uk/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.thinkfootballideas.co.uk/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.thinkfootballideas.co.uk/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.thinkfootballideas.co.uk/"
+    }
+}

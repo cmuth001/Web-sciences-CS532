@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T12:48:31Z",
+            "uri": "http://web.archive.org/web/20180209124831/https://www.thesun.co.uk/sport/football/5534270/antonio-valencia-manchester-united-manchester-city-premier-league/"
+        },
+        "last": {
+            "datetime": "2018-02-09T12:48:33Z",
+            "uri": "http://web.archive.org/web/20180209124833/http://www.thesun.co.uk/sport/football/5534270/antonio-valencia-manchester-united-manchester-city-premier-league/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T12:48:31Z",
+                "uri": "http://web.archive.org/web/20180209124831/https://www.thesun.co.uk/sport/football/5534270/antonio-valencia-manchester-united-manchester-city-premier-league/"
+            },
+            {
+                "datetime": "2018-02-09T12:48:33Z",
+                "uri": "http://web.archive.org/web/20180209124833/http://www.thesun.co.uk/sport/football/5534270/antonio-valencia-manchester-united-manchester-city-premier-league/"
+            }
+        ]
+    },
+    "original_uri": "https://www.thesun.co.uk/sport/football/5534270/antonio-valencia-manchester-united-manchester-city-premier-league/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5534270/antonio-valencia-manchester-united-manchester-city-premier-league/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thesun.co.uk/sport/football/5534270/antonio-valencia-manchester-united-manchester-city-premier-league/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thesun.co.uk/sport/football/5534270/antonio-valencia-manchester-united-manchester-city-premier-league/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5534270/antonio-valencia-manchester-united-manchester-city-premier-league/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thesun.co.uk/sport/football/5534270/antonio-valencia-manchester-united-manchester-city-premier-league/"
+    }
+}

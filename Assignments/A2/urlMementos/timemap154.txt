@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-08-17T00:18:03Z",
+            "uri": "http://web.archive.org/web/20160817001803/https://store.line.me/stickershop/product/1208849/ja"
+        },
+        "last": {
+            "datetime": "2018-01-29T05:53:29Z",
+            "uri": "http://web.archive.org/web/20180129055329/https://store.line.me/stickershop/product/1208849/ja"
+        },
+        "list": [
+            {
+                "datetime": "2016-08-17T00:18:03Z",
+                "uri": "http://web.archive.org/web/20160817001803/https://store.line.me/stickershop/product/1208849/ja"
+            },
+            {
+                "datetime": "2016-08-17T00:42:49Z",
+                "uri": "http://web.archive.org/web/20160817004249/https://store.line.me/stickershop/product/1208849/ja"
+            },
+            {
+                "datetime": "2017-08-29T20:35:54Z",
+                "uri": "http://web.archive.org/web/20170829203554/https://store.line.me/stickershop/product/1208849/ja"
+            },
+            {
+                "datetime": "2018-01-29T05:53:29Z",
+                "uri": "http://web.archive.org/web/20180129055329/https://store.line.me/stickershop/product/1208849/ja"
+            }
+        ]
+    },
+    "original_uri": "https://store.line.me/stickershop/product/1208849/ja",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://store.line.me/stickershop/product/1208849/ja",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://store.line.me/stickershop/product/1208849/ja",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://store.line.me/stickershop/product/1208849/ja",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://store.line.me/stickershop/product/1208849/ja",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://store.line.me/stickershop/product/1208849/ja"
+    }
+}

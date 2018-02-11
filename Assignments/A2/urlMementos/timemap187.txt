@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T20:16:52Z",
+            "uri": "http://web.archive.org/web/20180208201652/http://www.bbc.com/sport/football/42996254"
+        },
+        "last": {
+            "datetime": "2018-02-08T20:16:52Z",
+            "uri": "http://web.archive.org/web/20180208201652/http://www.bbc.com/sport/football/42996254"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T20:16:52Z",
+                "uri": "http://web.archive.org/web/20180208201652/http://www.bbc.com/sport/football/42996254"
+            }
+        ]
+    },
+    "original_uri": "http://www.bbc.com/sport/football/42996254",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.com/sport/football/42996254",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.bbc.com/sport/football/42996254",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.bbc.com/sport/football/42996254",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.com/sport/football/42996254",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.bbc.com/sport/football/42996254"
+    }
+}

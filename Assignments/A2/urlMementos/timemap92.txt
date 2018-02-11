@@ -1,0 +1,1786 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2006-12-08T02:43:10Z",
+            "uri": "http://web.archive.org/web/20061208024310/http://www.madeinlens.com:80/"
+        },
+        "last": {
+            "datetime": "2018-01-21T12:50:06Z",
+            "uri": "http://web.archive.org/web/20180121125006/http://www.madeinlens.com/"
+        },
+        "list": [
+            {
+                "datetime": "2006-12-08T02:43:10Z",
+                "uri": "http://web.archive.org/web/20061208024310/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2006-12-17T10:08:55Z",
+                "uri": "http://web.archive.org/web/20061217100855/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2006-12-30T11:28:32Z",
+                "uri": "http://web.archive.org/web/20061230112832/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-01-06T16:04:19Z",
+                "uri": "http://web.archive.org/web/20070106160419/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-01-11T13:33:37Z",
+                "uri": "http://web.archive.org/web/20070111133337/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-01-12T06:16:04Z",
+                "uri": "http://web.archive.org/web/20070112061604/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-01-16T12:37:49Z",
+                "uri": "http://web.archive.org/web/20070116123749/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-01-21T06:58:56Z",
+                "uri": "http://web.archive.org/web/20070121065856/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-01-27T01:28:03Z",
+                "uri": "http://web.archive.org/web/20070127012803/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-01-27T05:57:07Z",
+                "uri": "http://web.archive.org/web/20070127055707/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-02-06T21:37:24Z",
+                "uri": "http://web.archive.org/web/20070206213724/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-02-10T19:35:53Z",
+                "uri": "http://web.archive.org/web/20070210193553/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-02-17T01:03:10Z",
+                "uri": "http://web.archive.org/web/20070217010310/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-02-24T16:28:52Z",
+                "uri": "http://web.archive.org/web/20070224162852/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-03-04T10:57:54Z",
+                "uri": "http://web.archive.org/web/20070304105754/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-03-12T16:18:47Z",
+                "uri": "http://web.archive.org/web/20070312161847/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-03-21T02:11:57Z",
+                "uri": "http://web.archive.org/web/20070321021157/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-04-06T18:50:26Z",
+                "uri": "http://web.archive.org/web/20070406185026/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-05-02T07:52:09Z",
+                "uri": "http://web.archive.org/web/20070502075209/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-05-04T17:31:06Z",
+                "uri": "http://web.archive.org/web/20070504173106/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-05-29T16:50:36Z",
+                "uri": "http://web.archive.org/web/20070529165036/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-06-09T02:27:28Z",
+                "uri": "http://web.archive.org/web/20070609022728/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-06-21T09:43:59Z",
+                "uri": "http://web.archive.org/web/20070621094359/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-07-04T02:45:12Z",
+                "uri": "http://web.archive.org/web/20070704024512/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-07-04T14:55:33Z",
+                "uri": "http://web.archive.org/web/20070704145533/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-08-09T13:43:58Z",
+                "uri": "http://web.archive.org/web/20070809134358/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-08-12T02:22:28Z",
+                "uri": "http://web.archive.org/web/20070812022228/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-08-13T19:04:15Z",
+                "uri": "http://web.archive.org/web/20070813190415/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-09-09T08:36:56Z",
+                "uri": "http://web.archive.org/web/20070909083656/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-09-10T09:06:06Z",
+                "uri": "http://web.archive.org/web/20070910090606/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-09-11T00:45:27Z",
+                "uri": "http://web.archive.org/web/20070911004527/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-09-13T03:01:06Z",
+                "uri": "http://web.archive.org/web/20070913030106/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-09-14T03:51:59Z",
+                "uri": "http://web.archive.org/web/20070914035159/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-09-15T05:02:55Z",
+                "uri": "http://web.archive.org/web/20070915050255/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-09-16T06:26:37Z",
+                "uri": "http://web.archive.org/web/20070916062637/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-09-17T03:55:02Z",
+                "uri": "http://web.archive.org/web/20070917035502/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2007-09-17T07:13:36Z",
+                "uri": "http://web.archive.org/web/20070917071336/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-09-18T09:18:15Z",
+                "uri": "http://web.archive.org/web/20070918091815/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-09-19T00:56:32Z",
+                "uri": "http://web.archive.org/web/20070919005632/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-09-22T08:21:06Z",
+                "uri": "http://web.archive.org/web/20070922082106/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-09-24T22:26:16Z",
+                "uri": "http://web.archive.org/web/20070924222616/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-09-26T04:09:04Z",
+                "uri": "http://web.archive.org/web/20070926040904/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-09-28T22:22:22Z",
+                "uri": "http://web.archive.org/web/20070928222222/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2007-09-29T06:57:10Z",
+                "uri": "http://web.archive.org/web/20070929065710/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-09-30T19:36:45Z",
+                "uri": "http://web.archive.org/web/20070930193645/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-10-02T05:15:38Z",
+                "uri": "http://web.archive.org/web/20071002051538/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-10-03T22:19:55Z",
+                "uri": "http://web.archive.org/web/20071003221955/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-10-04T23:53:26Z",
+                "uri": "http://web.archive.org/web/20071004235326/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-10-06T04:39:48Z",
+                "uri": "http://web.archive.org/web/20071006043948/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-10-07T09:45:14Z",
+                "uri": "http://web.archive.org/web/20071007094514/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-10-08T15:31:38Z",
+                "uri": "http://web.archive.org/web/20071008153138/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-10-09T20:26:32Z",
+                "uri": "http://web.archive.org/web/20071009202632/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-10-11T00:12:32Z",
+                "uri": "http://web.archive.org/web/20071011001232/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-10-13T23:30:59Z",
+                "uri": "http://web.archive.org/web/20071013233059/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-10-17T03:44:10Z",
+                "uri": "http://web.archive.org/web/20071017034410/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-10-20T05:10:02Z",
+                "uri": "http://web.archive.org/web/20071020051002/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-10-23T06:35:37Z",
+                "uri": "http://web.archive.org/web/20071023063537/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-11-06T22:12:12Z",
+                "uri": "http://web.archive.org/web/20071106221212/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2007-12-13T00:59:38Z",
+                "uri": "http://web.archive.org/web/20071213005938/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-12-14T01:56:53Z",
+                "uri": "http://web.archive.org/web/20071214015653/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-12-15T14:47:25Z",
+                "uri": "http://web.archive.org/web/20071215144725/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-12-17T10:39:19Z",
+                "uri": "http://web.archive.org/web/20071217103919/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-12-19T09:29:27Z",
+                "uri": "http://web.archive.org/web/20071219092927/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-12-22T10:36:16Z",
+                "uri": "http://web.archive.org/web/20071222103616/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-12-23T10:44:07Z",
+                "uri": "http://web.archive.org/web/20071223104407/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-12-24T20:20:35Z",
+                "uri": "http://web.archive.org/web/20071224202035/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-12-27T02:14:49Z",
+                "uri": "http://web.archive.org/web/20071227021449/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-12-28T02:49:41Z",
+                "uri": "http://web.archive.org/web/20071228024941/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2007-12-29T13:29:39Z",
+                "uri": "http://web.archive.org/web/20071229132939/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-01-01T02:35:29Z",
+                "uri": "http://web.archive.org/web/20080101023529/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-01-03T19:45:18Z",
+                "uri": "http://web.archive.org/web/20080103194518/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-01-06T07:30:06Z",
+                "uri": "http://web.archive.org/web/20080106073006/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-01-08T15:08:58Z",
+                "uri": "http://web.archive.org/web/20080108150858/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-01-11T02:51:48Z",
+                "uri": "http://web.archive.org/web/20080111025148/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-01-12T16:36:35Z",
+                "uri": "http://web.archive.org/web/20080112163635/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-01-14T02:31:29Z",
+                "uri": "http://web.archive.org/web/20080114023129/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-01-16T05:16:37Z",
+                "uri": "http://web.archive.org/web/20080116051637/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-01-20T05:05:19Z",
+                "uri": "http://web.archive.org/web/20080120050519/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-01-24T11:35:41Z",
+                "uri": "http://web.archive.org/web/20080124113541/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-01-26T22:04:57Z",
+                "uri": "http://web.archive.org/web/20080126220457/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-01-29T08:52:17Z",
+                "uri": "http://web.archive.org/web/20080129085217/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-01-31T14:42:06Z",
+                "uri": "http://web.archive.org/web/20080131144206/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-02-02T23:23:04Z",
+                "uri": "http://web.archive.org/web/20080202232304/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-02-05T11:00:21Z",
+                "uri": "http://web.archive.org/web/20080205110021/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-02-07T19:23:27Z",
+                "uri": "http://web.archive.org/web/20080207192327/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-02-10T06:10:10Z",
+                "uri": "http://web.archive.org/web/20080210061010/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-02-11T23:51:03Z",
+                "uri": "http://web.archive.org/web/20080211235103/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-02-12T07:39:03Z",
+                "uri": "http://web.archive.org/web/20080212073903/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-02-14T04:30:46Z",
+                "uri": "http://web.archive.org/web/20080214043046/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-02-16T23:58:43Z",
+                "uri": "http://web.archive.org/web/20080216235843/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-02-22T03:50:50Z",
+                "uri": "http://web.archive.org/web/20080222035050/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-03-02T07:14:26Z",
+                "uri": "http://web.archive.org/web/20080302071426/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-03-06T03:16:33Z",
+                "uri": "http://web.archive.org/web/20080306031633/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-03-14T05:01:25Z",
+                "uri": "http://web.archive.org/web/20080314050125/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-03-16T04:18:51Z",
+                "uri": "http://web.archive.org/web/20080316041851/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-04-13T09:51:13Z",
+                "uri": "http://web.archive.org/web/20080413095113/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-04-16T20:54:20Z",
+                "uri": "http://web.archive.org/web/20080416205420/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-04-20T13:47:03Z",
+                "uri": "http://web.archive.org/web/20080420134703/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-04-24T11:58:58Z",
+                "uri": "http://web.archive.org/web/20080424115858/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-04-28T07:14:50Z",
+                "uri": "http://web.archive.org/web/20080428071450/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-05-02T10:00:03Z",
+                "uri": "http://web.archive.org/web/20080502100003/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-05-10T09:26:12Z",
+                "uri": "http://web.archive.org/web/20080510092612/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-05-13T12:24:11Z",
+                "uri": "http://web.archive.org/web/20080513122411/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2008-05-14T05:26:44Z",
+                "uri": "http://web.archive.org/web/20080514052644/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-05-17T16:24:40Z",
+                "uri": "http://web.archive.org/web/20080517162440/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-05-21T08:55:42Z",
+                "uri": "http://web.archive.org/web/20080521085542/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-05-25T05:50:31Z",
+                "uri": "http://web.archive.org/web/20080525055031/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-05-29T04:15:35Z",
+                "uri": "http://web.archive.org/web/20080529041535/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-06-01T07:58:52Z",
+                "uri": "http://web.archive.org/web/20080601075852/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-06-03T20:30:24Z",
+                "uri": "http://web.archive.org/web/20080603203024/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-06-06T01:52:07Z",
+                "uri": "http://web.archive.org/web/20080606015207/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-06-08T08:37:21Z",
+                "uri": "http://web.archive.org/web/20080608083721/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-06-10T12:54:56Z",
+                "uri": "http://web.archive.org/web/20080610125456/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-06-12T16:22:27Z",
+                "uri": "http://web.archive.org/web/20080612162227/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-06-14T22:21:45Z",
+                "uri": "http://web.archive.org/web/20080614222145/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-06-17T03:25:47Z",
+                "uri": "http://web.archive.org/web/20080617032547/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-07-05T09:17:21Z",
+                "uri": "http://web.archive.org/web/20080705091721/http://www.madeinlens.com:80/?"
+            },
+            {
+                "datetime": "2008-07-24T15:56:59Z",
+                "uri": "http://web.archive.org/web/20080724155659/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2008-09-16T12:07:04Z",
+                "uri": "http://web.archive.org/web/20080916120704/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-09-19T04:40:09Z",
+                "uri": "http://web.archive.org/web/20080919044009/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-09-22T10:06:24Z",
+                "uri": "http://web.archive.org/web/20080922100624/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-09-25T17:00:49Z",
+                "uri": "http://web.archive.org/web/20080925170049/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-09-29T19:29:46Z",
+                "uri": "http://web.archive.org/web/20080929192946/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-10-03T10:12:27Z",
+                "uri": "http://web.archive.org/web/20081003101227/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-10-07T08:22:47Z",
+                "uri": "http://web.archive.org/web/20081007082247/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-10-11T11:03:02Z",
+                "uri": "http://web.archive.org/web/20081011110302/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-10-15T13:18:13Z",
+                "uri": "http://web.archive.org/web/20081015131813/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-10-19T18:34:35Z",
+                "uri": "http://web.archive.org/web/20081019183435/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-10-23T20:09:23Z",
+                "uri": "http://web.archive.org/web/20081023200923/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-10-28T00:57:12Z",
+                "uri": "http://web.archive.org/web/20081028005712/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-11-01T02:16:44Z",
+                "uri": "http://web.archive.org/web/20081101021644/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-11-01T02:16:44Z",
+                "uri": "http://web.archive.org/web/20081101021644/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-11-04T22:45:38Z",
+                "uri": "http://web.archive.org/web/20081104224538/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-11-04T22:45:38Z",
+                "uri": "http://web.archive.org/web/20081104224538/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-11-08T01:09:03Z",
+                "uri": "http://web.archive.org/web/20081108010903/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2008-11-08T02:10:40Z",
+                "uri": "http://web.archive.org/web/20081108021040/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2008-11-08T22:56:20Z",
+                "uri": "http://web.archive.org/web/20081108225620/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-11-12T08:37:48Z",
+                "uri": "http://web.archive.org/web/20081112083748/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-12-07T06:26:06Z",
+                "uri": "http://web.archive.org/web/20081207062606/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-12-18T00:08:38Z",
+                "uri": "http://web.archive.org/web/20081218000838/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2008-12-26T14:25:05Z",
+                "uri": "http://web.archive.org/web/20081226142505/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2009-01-03T15:02:51Z",
+                "uri": "http://web.archive.org/web/20090103150251/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2009-01-05T21:45:11Z",
+                "uri": "http://web.archive.org/web/20090105214511/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2009-01-13T02:10:11Z",
+                "uri": "http://web.archive.org/web/20090113021011/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2009-01-20T15:55:00Z",
+                "uri": "http://web.archive.org/web/20090120155500/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2009-01-29T20:04:23Z",
+                "uri": "http://web.archive.org/web/20090129200423/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2009-02-03T12:44:54Z",
+                "uri": "http://web.archive.org/web/20090203124454/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2009-02-05T15:07:58Z",
+                "uri": "http://web.archive.org/web/20090205150758/http://madeinlens.com:80/?"
+            },
+            {
+                "datetime": "2009-02-08T05:21:04Z",
+                "uri": "http://web.archive.org/web/20090208052104/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2009-02-13T13:49:38Z",
+                "uri": "http://web.archive.org/web/20090213134938/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2009-02-18T12:02:53Z",
+                "uri": "http://web.archive.org/web/20090218120253/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2009-02-24T16:04:04Z",
+                "uri": "http://web.archive.org/web/20090224160404/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2009-03-02T05:31:58Z",
+                "uri": "http://web.archive.org/web/20090302053158/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2009-03-07T23:26:38Z",
+                "uri": "http://web.archive.org/web/20090307232638/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2009-03-08T07:25:39Z",
+                "uri": "http://web.archive.org/web/20090308072539/http://madeinlens.com:80/?"
+            },
+            {
+                "datetime": "2009-03-13T11:54:09Z",
+                "uri": "http://web.archive.org/web/20090313115409/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2009-03-19T05:30:39Z",
+                "uri": "http://web.archive.org/web/20090319053039/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2009-04-18T02:25:17Z",
+                "uri": "http://web.archive.org/web/20090418022517/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2009-04-20T02:31:58Z",
+                "uri": "http://web.archive.org/web/20090420023158/http://madeinlens.com:80/?"
+            },
+            {
+                "datetime": "2010-01-02T19:20:32Z",
+                "uri": "http://web.archive.org/web/20100102192032/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2010-01-13T08:04:27Z",
+                "uri": "http://web.archive.org/web/20100113080427/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2010-02-06T06:44:08Z",
+                "uri": "http://web.archive.org/web/20100206064408/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-02-12T20:42:27Z",
+                "uri": "http://web.archive.org/web/20100212204227/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-02-18T02:35:39Z",
+                "uri": "http://web.archive.org/web/20100218023539/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-02-28T03:28:42Z",
+                "uri": "http://web.archive.org/web/20100228032842/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-03-05T23:34:45Z",
+                "uri": "http://web.archive.org/web/20100305233445/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-03-12T23:30:03Z",
+                "uri": "http://web.archive.org/web/20100312233003/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-03-23T17:49:53Z",
+                "uri": "http://web.archive.org/web/20100323174953/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-03-29T22:08:01Z",
+                "uri": "http://web.archive.org/web/20100329220801/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-04-05T06:06:27Z",
+                "uri": "http://web.archive.org/web/20100405060627/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-04-12T13:19:13Z",
+                "uri": "http://web.archive.org/web/20100412131913/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-04-12T13:19:13Z",
+                "uri": "http://web.archive.org/web/20100412131913/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-04-20T01:07:02Z",
+                "uri": "http://web.archive.org/web/20100420010702/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-04-20T01:07:02Z",
+                "uri": "http://web.archive.org/web/20100420010702/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-04-27T14:07:17Z",
+                "uri": "http://web.archive.org/web/20100427140717/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-04-27T14:07:17Z",
+                "uri": "http://web.archive.org/web/20100427140717/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-05-05T00:45:21Z",
+                "uri": "http://web.archive.org/web/20100505004521/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-05-12T17:41:15Z",
+                "uri": "http://web.archive.org/web/20100512174115/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-05-15T08:17:23Z",
+                "uri": "http://web.archive.org/web/20100515081723/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2010-06-03T07:28:55Z",
+                "uri": "http://web.archive.org/web/20100603072855/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-06-12T03:11:26Z",
+                "uri": "http://web.archive.org/web/20100612031126/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-06-20T12:06:25Z",
+                "uri": "http://web.archive.org/web/20100620120625/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-06-28T20:10:32Z",
+                "uri": "http://web.archive.org/web/20100628201032/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-07-06T16:50:47Z",
+                "uri": "http://web.archive.org/web/20100706165047/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-07-14T07:29:25Z",
+                "uri": "http://web.archive.org/web/20100714072925/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-07-21T21:39:26Z",
+                "uri": "http://web.archive.org/web/20100721213926/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-07-30T06:22:42Z",
+                "uri": "http://web.archive.org/web/20100730062242/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-08-08T01:47:37Z",
+                "uri": "http://web.archive.org/web/20100808014737/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-08-17T12:23:56Z",
+                "uri": "http://web.archive.org/web/20100817122356/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-08-25T07:45:55Z",
+                "uri": "http://web.archive.org/web/20100825074555/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-09-13T06:43:51Z",
+                "uri": "http://web.archive.org/web/20100913064351/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-09-25T04:16:44Z",
+                "uri": "http://web.archive.org/web/20100925041644/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-11-02T12:07:31Z",
+                "uri": "http://web.archive.org/web/20101102120731/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2010-11-21T12:05:58Z",
+                "uri": "http://web.archive.org/web/20101121120558/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-11-25T12:17:49Z",
+                "uri": "http://web.archive.org/web/20101125121749/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2010-11-29T19:09:29Z",
+                "uri": "http://web.archive.org/web/20101129190929/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-12-09T07:42:13Z",
+                "uri": "http://web.archive.org/web/20101209074213/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-12-19T05:33:05Z",
+                "uri": "http://web.archive.org/web/20101219053305/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2010-12-23T09:38:20Z",
+                "uri": "http://web.archive.org/web/20101223093820/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2010-12-31T01:44:44Z",
+                "uri": "http://web.archive.org/web/20101231014444/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-01-11T15:36:36Z",
+                "uri": "http://web.archive.org/web/20110111153636/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-01-18T03:24:29Z",
+                "uri": "http://web.archive.org/web/20110118032429/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-01-28T08:56:43Z",
+                "uri": "http://web.archive.org/web/20110128085643/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-02-08T03:52:04Z",
+                "uri": "http://web.archive.org/web/20110208035204/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2011-02-10T02:26:43Z",
+                "uri": "http://web.archive.org/web/20110210022643/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-02-17T20:05:59Z",
+                "uri": "http://web.archive.org/web/20110217200559/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-02-25T08:10:56Z",
+                "uri": "http://web.archive.org/web/20110225081056/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2011-02-25T11:38:34Z",
+                "uri": "http://web.archive.org/web/20110225113834/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-03-06T04:36:09Z",
+                "uri": "http://web.archive.org/web/20110306043609/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-03-07T07:03:25Z",
+                "uri": "http://web.archive.org/web/20110307070325/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-03-09T01:23:02Z",
+                "uri": "http://web.archive.org/web/20110309012302/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2011-03-17T00:40:49Z",
+                "uri": "http://web.archive.org/web/20110317004049/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-03-18T03:25:20Z",
+                "uri": "http://web.archive.org/web/20110318032520/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2011-04-26T17:58:10Z",
+                "uri": "http://web.archive.org/web/20110426175810/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2011-05-18T17:51:48Z",
+                "uri": "http://web.archive.org/web/20110518175148/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-08-07T07:09:37Z",
+                "uri": "http://web.archive.org/web/20110807070937/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-08-18T11:00:07Z",
+                "uri": "http://web.archive.org/web/20110818110007/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-08-28T10:50:43Z",
+                "uri": "http://web.archive.org/web/20110828105043/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2011-09-02T02:44:37Z",
+                "uri": "http://web.archive.org/web/20110902024437/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-10-02T12:02:48Z",
+                "uri": "http://web.archive.org/web/20111002120248/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-10-04T01:24:48Z",
+                "uri": "http://web.archive.org/web/20111004012448/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2011-10-31T03:33:12Z",
+                "uri": "http://web.archive.org/web/20111031033312/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-11-14T21:22:15Z",
+                "uri": "http://web.archive.org/web/20111114212215/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-11-30T14:27:37Z",
+                "uri": "http://web.archive.org/web/20111130142737/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2011-12-23T23:27:46Z",
+                "uri": "http://web.archive.org/web/20111223232746/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2012-01-22T02:30:55Z",
+                "uri": "http://web.archive.org/web/20120122023055/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2012-04-10T03:15:03Z",
+                "uri": "http://web.archive.org/web/20120410031503/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2012-05-03T21:28:36Z",
+                "uri": "http://web.archive.org/web/20120503212836/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-04T03:06:43Z",
+                "uri": "http://web.archive.org/web/20120504030643/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-04T05:23:36Z",
+                "uri": "http://web.archive.org/web/20120504052336/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-04T08:04:24Z",
+                "uri": "http://web.archive.org/web/20120504080424/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-04T09:39:24Z",
+                "uri": "http://web.archive.org/web/20120504093924/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-04T12:10:47Z",
+                "uri": "http://web.archive.org/web/20120504121047/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-04T20:26:32Z",
+                "uri": "http://web.archive.org/web/20120504202632/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-04T23:31:06Z",
+                "uri": "http://web.archive.org/web/20120504233106/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-05T01:47:02Z",
+                "uri": "http://web.archive.org/web/20120505014702/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-05T03:52:45Z",
+                "uri": "http://web.archive.org/web/20120505035245/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-05T09:14:33Z",
+                "uri": "http://web.archive.org/web/20120505091433/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-05T10:50:27Z",
+                "uri": "http://web.archive.org/web/20120505105027/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-05T12:49:16Z",
+                "uri": "http://web.archive.org/web/20120505124916/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-05T15:12:45Z",
+                "uri": "http://web.archive.org/web/20120505151245/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-05T17:39:51Z",
+                "uri": "http://web.archive.org/web/20120505173951/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-05T22:24:02Z",
+                "uri": "http://web.archive.org/web/20120505222402/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-06T02:07:05Z",
+                "uri": "http://web.archive.org/web/20120506020705/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-06T02:19:58Z",
+                "uri": "http://web.archive.org/web/20120506021958/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-06T07:43:05Z",
+                "uri": "http://web.archive.org/web/20120506074305/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-06T10:40:54Z",
+                "uri": "http://web.archive.org/web/20120506104054/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-06T12:08:50Z",
+                "uri": "http://web.archive.org/web/20120506120850/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-06T12:53:44Z",
+                "uri": "http://web.archive.org/web/20120506125344/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-06T17:35:12Z",
+                "uri": "http://web.archive.org/web/20120506173512/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-06T22:40:46Z",
+                "uri": "http://web.archive.org/web/20120506224046/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-07T00:27:12Z",
+                "uri": "http://web.archive.org/web/20120507002712/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-07T01:43:20Z",
+                "uri": "http://web.archive.org/web/20120507014320/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-07T03:59:21Z",
+                "uri": "http://web.archive.org/web/20120507035921/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-07T06:52:58Z",
+                "uri": "http://web.archive.org/web/20120507065258/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-07T10:45:59Z",
+                "uri": "http://web.archive.org/web/20120507104559/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-07T21:56:26Z",
+                "uri": "http://web.archive.org/web/20120507215626/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-08T00:23:11Z",
+                "uri": "http://web.archive.org/web/20120508002311/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-08T02:12:42Z",
+                "uri": "http://web.archive.org/web/20120508021242/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-08T04:21:30Z",
+                "uri": "http://web.archive.org/web/20120508042130/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-08T06:30:23Z",
+                "uri": "http://web.archive.org/web/20120508063023/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-08T10:24:57Z",
+                "uri": "http://web.archive.org/web/20120508102457/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-08T12:47:55Z",
+                "uri": "http://web.archive.org/web/20120508124755/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-08T14:09:20Z",
+                "uri": "http://web.archive.org/web/20120508140920/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-08T21:49:15Z",
+                "uri": "http://web.archive.org/web/20120508214915/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-09T02:24:22Z",
+                "uri": "http://web.archive.org/web/20120509022422/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-09T07:44:37Z",
+                "uri": "http://web.archive.org/web/20120509074437/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-09T09:48:53Z",
+                "uri": "http://web.archive.org/web/20120509094853/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-09T13:26:09Z",
+                "uri": "http://web.archive.org/web/20120509132609/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-09T17:25:34Z",
+                "uri": "http://web.archive.org/web/20120509172534/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-10T01:53:12Z",
+                "uri": "http://web.archive.org/web/20120510015312/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-10T02:48:09Z",
+                "uri": "http://web.archive.org/web/20120510024809/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-10T11:43:24Z",
+                "uri": "http://web.archive.org/web/20120510114324/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-10T23:50:34Z",
+                "uri": "http://web.archive.org/web/20120510235034/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-11T12:43:18Z",
+                "uri": "http://web.archive.org/web/20120511124318/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-12T08:56:38Z",
+                "uri": "http://web.archive.org/web/20120512085638/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-13T04:06:22Z",
+                "uri": "http://web.archive.org/web/20120513040622/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-13T14:14:46Z",
+                "uri": "http://web.archive.org/web/20120513141446/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-14T08:23:16Z",
+                "uri": "http://web.archive.org/web/20120514082316/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-14T22:50:04Z",
+                "uri": "http://web.archive.org/web/20120514225004/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-16T00:39:02Z",
+                "uri": "http://web.archive.org/web/20120516003902/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-16T12:07:18Z",
+                "uri": "http://web.archive.org/web/20120516120718/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-17T05:42:08Z",
+                "uri": "http://web.archive.org/web/20120517054208/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-18T07:32:34Z",
+                "uri": "http://web.archive.org/web/20120518073234/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-20T08:12:58Z",
+                "uri": "http://web.archive.org/web/20120520081258/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-21T06:30:26Z",
+                "uri": "http://web.archive.org/web/20120521063026/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-22T08:06:10Z",
+                "uri": "http://web.archive.org/web/20120522080610/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-23T09:40:50Z",
+                "uri": "http://web.archive.org/web/20120523094050/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-24T08:44:00Z",
+                "uri": "http://web.archive.org/web/20120524084400/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-25T03:07:23Z",
+                "uri": "http://web.archive.org/web/20120525030723/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2012-05-25T05:21:28Z",
+                "uri": "http://web.archive.org/web/20120525052128/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-26T02:56:58Z",
+                "uri": "http://web.archive.org/web/20120526025658/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-27T01:13:30Z",
+                "uri": "http://web.archive.org/web/20120527011330/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-28T02:11:54Z",
+                "uri": "http://web.archive.org/web/20120528021154/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-28T22:05:42Z",
+                "uri": "http://web.archive.org/web/20120528220542/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-30T01:50:56Z",
+                "uri": "http://web.archive.org/web/20120530015056/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-05-31T06:06:19Z",
+                "uri": "http://web.archive.org/web/20120531060619/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2012-06-09T04:57:19Z",
+                "uri": "http://web.archive.org/web/20120609045719/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2012-11-24T00:33:45Z",
+                "uri": "http://web.archive.org/web/20121124003345/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2012-12-05T21:12:55Z",
+                "uri": "http://archive.is/20121205211255/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2013-02-09T20:49:15Z",
+                "uri": "http://web.archive.org/web/20130209204915/http://www.madeinlens.com:80/?"
+            },
+            {
+                "datetime": "2013-04-05T13:20:35Z",
+                "uri": "http://web.archive.org/web/20130405132035/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2013-05-01T06:36:37Z",
+                "uri": "http://web.archive.org/web/20130501063637/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2013-06-01T18:20:36Z",
+                "uri": "http://web.archive.org/web/20130601182036/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2013-06-03T07:22:57Z",
+                "uri": "http://web.archive.org/web/20130603072257/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2013-06-20T10:58:56Z",
+                "uri": "http://web.archive.org/web/20130620105856/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2013-07-08T00:34:38Z",
+                "uri": "http://web.archive.org/web/20130708003438/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2013-07-08T15:18:00Z",
+                "uri": "http://web.archive.org/web/20130708151800/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2013-07-22T13:59:00Z",
+                "uri": "http://web.archive.org/web/20130722135900/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2013-08-05T06:34:50Z",
+                "uri": "http://web.archive.org/web/20130805063450/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2013-08-05T19:57:49Z",
+                "uri": "http://web.archive.org/web/20130805195749/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2013-08-25T02:32:04Z",
+                "uri": "http://web.archive.org/web/20130825023204/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2013-10-05T06:55:53Z",
+                "uri": "http://web.archive.org/web/20131005065553/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2013-10-05T10:22:08Z",
+                "uri": "http://web.archive.org/web/20131005102208/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2013-11-11T05:02:44Z",
+                "uri": "http://web.archive.org/web/20131111050244/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2014-01-12T10:43:07Z",
+                "uri": "http://web.archive.org/web/20140112104307/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2014-02-07T23:32:14Z",
+                "uri": "http://web.archive.org/web/20140207233214/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2014-02-08T06:37:11Z",
+                "uri": "http://web.archive.org/web/20140208063711/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2014-02-13T18:21:00Z",
+                "uri": "http://web.archive.org/web/20140213182100/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2014-05-18T12:29:27Z",
+                "uri": "http://web.archive.org/web/20140518122927/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2014-06-25T03:57:50Z",
+                "uri": "http://web.archive.org/web/20140625035750/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2014-06-25T09:34:50Z",
+                "uri": "http://web.archive.org/web/20140625093450/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2014-09-20T22:26:11Z",
+                "uri": "http://web.archive.org/web/20140920222611/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2014-09-26T11:02:13Z",
+                "uri": "http://web.archive.org/web/20140926110213/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2014-10-07T23:28:49Z",
+                "uri": "http://web.archive.org/web/20141007232849/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2014-10-11T21:17:07Z",
+                "uri": "http://web.archive.org/web/20141011211707/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2014-10-25T11:49:51Z",
+                "uri": "http://web.archive.org/web/20141025114951/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2014-11-02T10:24:39Z",
+                "uri": "http://web.archive.org/web/20141102102439/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2014-11-11T10:01:04Z",
+                "uri": "http://web.archive.org/web/20141111100104/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2014-12-07T14:11:56Z",
+                "uri": "http://web.archive.org/web/20141207141156/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2014-12-17T14:22:37Z",
+                "uri": "http://web.archive.org/web/20141217142237/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2014-12-26T14:02:40Z",
+                "uri": "http://web.archive.org/web/20141226140240/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-01-14T04:45:56Z",
+                "uri": "http://web.archive.org/web/20150114044556/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-02-05T22:13:29Z",
+                "uri": "http://web.archive.org/web/20150205221329/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-02-05T22:13:29Z",
+                "uri": "http://web.archive.org/web/20150205221329/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-02-06T23:50:25Z",
+                "uri": "http://web.archive.org/web/20150206235025/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-02-06T23:50:25Z",
+                "uri": "http://web.archive.org/web/20150206235025/http://madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-02-08T09:40:51Z",
+                "uri": "http://web.archive.org/web/20150208094051/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2015-02-14T13:05:45Z",
+                "uri": "http://web.archive.org/web/20150214130545/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-02-22T05:12:08Z",
+                "uri": "http://web.archive.org/web/20150222051208/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-03-03T14:03:56Z",
+                "uri": "http://web.archive.org/web/20150303140356/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-03-14T03:35:46Z",
+                "uri": "http://web.archive.org/web/20150314033546/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-03-14T21:04:47Z",
+                "uri": "http://web.archive.org/web/20150314210447/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2015-03-15T00:59:13Z",
+                "uri": "http://web.archive.org/web/20150315005913/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2015-03-27T05:59:09Z",
+                "uri": "http://web.archive.org/web/20150327055909/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-03-28T14:44:31Z",
+                "uri": "http://web.archive.org/web/20150328144431/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2015-04-21T04:46:58Z",
+                "uri": "http://web.archive.org/web/20150421044658/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-05-11T01:53:49Z",
+                "uri": "http://web.archive.org/web/20150511015349/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-05-18T09:44:56Z",
+                "uri": "http://web.archive.org/web/20150518094456/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2015-07-02T06:22:51Z",
+                "uri": "http://web.archive.org/web/20150702062251/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2015-07-10T01:31:49Z",
+                "uri": "http://web.archive.org/web/20150710013149/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-08-01T20:45:23Z",
+                "uri": "http://web.archive.org/web/20150801204523/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2015-10-11T11:08:26Z",
+                "uri": "http://web.archive.org/web/20151011110826/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-11-07T05:37:28Z",
+                "uri": "http://web.archive.org/web/20151107053728/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-11-27T05:44:32Z",
+                "uri": "http://web.archive.org/web/20151127054432/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2015-12-29T09:06:00Z",
+                "uri": "http://web.archive.org/web/20151229090600/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-01-10T22:23:05Z",
+                "uri": "http://web.archive.org/web/20160110222305/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2016-01-26T14:23:31Z",
+                "uri": "http://web.archive.org/web/20160126142331/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-01-28T04:52:07Z",
+                "uri": "http://web.archive.org/web/20160128045207/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2016-02-19T23:37:07Z",
+                "uri": "http://web.archive.org/web/20160219233707/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-02-20T09:23:19Z",
+                "uri": "http://web.archive.org/web/20160220092319/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-02-25T08:00:40Z",
+                "uri": "http://web.archive.org/web/20160225080040/http://www.madeinlens.com:80/?"
+            },
+            {
+                "datetime": "2016-02-29T21:01:36Z",
+                "uri": "http://web.archive.org/web/20160229210136/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-03-05T12:27:17Z",
+                "uri": "http://web.archive.org/web/20160305122717/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2016-03-08T15:43:35Z",
+                "uri": "http://web.archive.org/web/20160308154335/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-03-15T02:56:54Z",
+                "uri": "http://web.archive.org/web/20160315025654/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2016-03-16T03:24:30Z",
+                "uri": "http://web.archive.org/web/20160316032430/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-03-22T21:07:21Z",
+                "uri": "http://web.archive.org/web/20160322210721/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-03-29T11:25:39Z",
+                "uri": "http://web.archive.org/web/20160329112539/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-04-05T03:30:41Z",
+                "uri": "http://web.archive.org/web/20160405033041/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-04-12T12:46:42Z",
+                "uri": "http://web.archive.org/web/20160412124642/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-04-19T03:21:46Z",
+                "uri": "http://web.archive.org/web/20160419032146/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-04-23T22:17:55Z",
+                "uri": "http://web.archive.org/web/20160423221755/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-04-28T08:07:28Z",
+                "uri": "http://web.archive.org/web/20160428080728/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-04-29T05:42:49Z",
+                "uri": "http://web.archive.org/web/20160429054249/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2016-05-02T15:24:56Z",
+                "uri": "http://web.archive.org/web/20160502152456/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-05-07T00:12:34Z",
+                "uri": "http://web.archive.org/web/20160507001234/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-05-11T15:34:40Z",
+                "uri": "http://web.archive.org/web/20160511153440/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-05-16T18:49:26Z",
+                "uri": "http://web.archive.org/web/20160516184926/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-05-21T09:12:01Z",
+                "uri": "http://web.archive.org/web/20160521091201/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-05-25T18:15:10Z",
+                "uri": "http://web.archive.org/web/20160525181510/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-05-30T04:29:35Z",
+                "uri": "http://web.archive.org/web/20160530042935/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-06-04T14:11:45Z",
+                "uri": "http://web.archive.org/web/20160604141145/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-06-09T14:52:26Z",
+                "uri": "http://web.archive.org/web/20160609145226/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-06-14T01:39:48Z",
+                "uri": "http://web.archive.org/web/20160614013948/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-06-18T14:01:25Z",
+                "uri": "http://web.archive.org/web/20160618140125/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-06-23T01:32:53Z",
+                "uri": "http://web.archive.org/web/20160623013253/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-06-27T15:51:21Z",
+                "uri": "http://web.archive.org/web/20160627155121/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-07-02T10:53:49Z",
+                "uri": "http://web.archive.org/web/20160702105349/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-07-07T04:02:41Z",
+                "uri": "http://web.archive.org/web/20160707040241/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-07-11T22:16:41Z",
+                "uri": "http://web.archive.org/web/20160711221641/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-07-16T08:11:49Z",
+                "uri": "http://web.archive.org/web/20160716081149/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-07-21T00:12:34Z",
+                "uri": "http://web.archive.org/web/20160721001234/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-07-26T01:40:43Z",
+                "uri": "http://web.archive.org/web/20160726014043/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-07-27T07:36:55Z",
+                "uri": "http://web.archive.org/web/20160727073655/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-08-01T10:37:26Z",
+                "uri": "http://web.archive.org/web/20160801103726/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-08-07T15:32:41Z",
+                "uri": "http://web.archive.org/web/20160807153241/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-08-13T14:02:21Z",
+                "uri": "http://web.archive.org/web/20160813140221/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-08-19T23:33:21Z",
+                "uri": "http://web.archive.org/web/20160819233321/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-08-26T21:11:33Z",
+                "uri": "http://web.archive.org/web/20160826211133/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-09-02T02:41:44Z",
+                "uri": "http://web.archive.org/web/20160902024144/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-09-08T16:37:43Z",
+                "uri": "http://web.archive.org/web/20160908163743/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-09-17T16:36:30Z",
+                "uri": "http://web.archive.org/web/20160917163630/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-09-24T21:59:19Z",
+                "uri": "http://web.archive.org/web/20160924215919/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-09-30T16:14:41Z",
+                "uri": "http://web.archive.org/web/20160930161441/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-10-01T19:32:54Z",
+                "uri": "http://web.archive.org/web/20161001193254/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-10-07T05:56:04Z",
+                "uri": "http://web.archive.org/web/20161007055604/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2016-10-08T03:42:13Z",
+                "uri": "http://web.archive.org/web/20161008034213/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-10-15T11:17:11Z",
+                "uri": "http://web.archive.org/web/20161015111711/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-10-24T15:14:25Z",
+                "uri": "http://web.archive.org/web/20161024151425/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-10-30T19:44:49Z",
+                "uri": "http://web.archive.org/web/20161030194449/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2016-11-01T07:22:45Z",
+                "uri": "http://web.archive.org/web/20161101072245/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-11-02T07:38:56Z",
+                "uri": "http://web.archive.org/web/20161102073856/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-11-10T10:50:10Z",
+                "uri": "http://web.archive.org/web/20161110105010/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2016-11-19T02:41:38Z",
+                "uri": "http://web.archive.org/web/20161119024138/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2017-03-01T11:38:59Z",
+                "uri": "http://wayback.archive-it.org/all/20170301113859/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2017-03-01T11:38:59Z",
+                "uri": "http://web.archive.org/web/20170301113859/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2017-05-07T18:55:38Z",
+                "uri": "http://web.archive.org/web/20170507185538/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2017-05-18T07:44:11Z",
+                "uri": "http://web.archive.org/web/20170518074411/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2017-05-26T10:11:01Z",
+                "uri": "http://web.archive.org/web/20170526101101/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2017-06-03T21:01:06Z",
+                "uri": "http://web.archive.org/web/20170603210106/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2017-06-03T21:22:16Z",
+                "uri": "http://web.archive.org/web/20170603212216/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2017-06-05T02:41:55Z",
+                "uri": "http://web.archive.org/web/20170605024155/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2017-06-05T08:06:52Z",
+                "uri": "http://web.archive.org/web/20170605080652/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2017-06-12T13:07:35Z",
+                "uri": "http://web.archive.org/web/20170612130735/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2017-06-16T05:40:44Z",
+                "uri": "http://web.archive.org/web/20170616054044/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2017-06-27T19:27:02Z",
+                "uri": "http://web.archive.org/web/20170627192702/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2017-07-10T06:25:59Z",
+                "uri": "http://web.archive.org/web/20170710062559/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2017-07-13T21:10:26Z",
+                "uri": "http://web.archive.org/web/20170713211026/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2017-07-15T01:07:34Z",
+                "uri": "http://web.archive.org/web/20170715010734/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2017-08-04T14:50:21Z",
+                "uri": "http://web.archive.org/web/20170804145021/http://www.madeinlens.com:80/"
+            },
+            {
+                "datetime": "2017-08-30T05:35:59Z",
+                "uri": "http://web.archive.org/web/20170830053559/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2017-09-11T18:26:22Z",
+                "uri": "http://web.archive.org/web/20170911182622/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2017-09-20T15:50:34Z",
+                "uri": "http://web.archive.org/web/20170920155034/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2017-10-13T01:23:12Z",
+                "uri": "http://web.archive.org/web/20171013012312/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2017-10-27T06:47:20Z",
+                "uri": "http://web.archive.org/web/20171027064720/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2017-10-27T06:47:21Z",
+                "uri": "http://web.archive.org/web/20171027064721/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2017-10-27T07:05:41Z",
+                "uri": "http://web.archive.org/web/20171027070541/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2017-10-27T07:05:42Z",
+                "uri": "http://web.archive.org/web/20171027070542/http://www.madeinlens.com/"
+            },
+            {
+                "datetime": "2017-11-18T23:30:51Z",
+                "uri": "http://web.archive.org/web/20171118233051/http://madeinlens.com/"
+            },
+            {
+                "datetime": "2018-01-21T12:50:06Z",
+                "uri": "http://web.archive.org/web/20180121125006/http://www.madeinlens.com/"
+            }
+        ]
+    },
+    "original_uri": "http://www.madeinlens.com/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.madeinlens.com/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.madeinlens.com/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.madeinlens.com/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.madeinlens.com/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.madeinlens.com/"
+    }
+}

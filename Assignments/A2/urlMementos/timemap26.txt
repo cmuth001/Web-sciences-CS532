@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T01:05:03Z",
+            "uri": "http://web.archive.org/web/20180209010503/http://www.marca.com/en/football/spanish-football/2018/02/08/5a7c764fe5fdea691e8b469c.html"
+        },
+        "last": {
+            "datetime": "2018-02-09T01:05:03Z",
+            "uri": "http://web.archive.org/web/20180209010503/http://www.marca.com/en/football/spanish-football/2018/02/08/5a7c764fe5fdea691e8b469c.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T01:05:03Z",
+                "uri": "http://web.archive.org/web/20180209010503/http://www.marca.com/en/football/spanish-football/2018/02/08/5a7c764fe5fdea691e8b469c.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.marca.com/en/football/spanish-football/2018/02/08/5a7c764fe5fdea691e8b469c.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.marca.com/en/football/spanish-football/2018/02/08/5a7c764fe5fdea691e8b469c.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.marca.com/en/football/spanish-football/2018/02/08/5a7c764fe5fdea691e8b469c.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.marca.com/en/football/spanish-football/2018/02/08/5a7c764fe5fdea691e8b469c.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.marca.com/en/football/spanish-football/2018/02/08/5a7c764fe5fdea691e8b469c.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.marca.com/en/football/spanish-football/2018/02/08/5a7c764fe5fdea691e8b469c.html"
+    }
+}

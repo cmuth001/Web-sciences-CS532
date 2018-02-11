@@ -1,0 +1,114 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2014-06-26T17:16:39Z",
+            "uri": "http://web.archive.org/web/20140626171639/http://lowlifeculture.com:80/"
+        },
+        "last": {
+            "datetime": "2018-02-03T07:11:28Z",
+            "uri": "http://web.archive.org/web/20180203071128/http://www.lowlifeculture.com/"
+        },
+        "list": [
+            {
+                "datetime": "2014-06-26T17:16:39Z",
+                "uri": "http://web.archive.org/web/20140626171639/http://lowlifeculture.com:80/"
+            },
+            {
+                "datetime": "2015-08-01T21:48:22Z",
+                "uri": "http://web.archive.org/web/20150801214822/http://lowlifeculture.com/"
+            },
+            {
+                "datetime": "2016-01-11T04:55:21Z",
+                "uri": "http://web.archive.org/web/20160111045521/http://lowlifeculture.com/"
+            },
+            {
+                "datetime": "2016-02-05T13:37:31Z",
+                "uri": "http://web.archive.org/web/20160205133731/http://www.lowlifeculture.com/"
+            },
+            {
+                "datetime": "2016-03-05T20:28:39Z",
+                "uri": "http://web.archive.org/web/20160305202839/http://lowlifeculture.com/"
+            },
+            {
+                "datetime": "2016-03-21T02:59:40Z",
+                "uri": "http://web.archive.org/web/20160321025940/http://www.lowlifeculture.com/"
+            },
+            {
+                "datetime": "2016-06-09T17:30:14Z",
+                "uri": "http://web.archive.org/web/20160609173014/http://www.lowlifeculture.com:80/"
+            },
+            {
+                "datetime": "2016-06-15T21:58:48Z",
+                "uri": "http://webarchive.loc.gov/all/20160615215848/http://lowlifeculture.com/"
+            },
+            {
+                "datetime": "2016-06-15T21:58:49Z",
+                "uri": "http://webarchive.loc.gov/all/20160615215849/http://www.lowlifeculture.com/"
+            },
+            {
+                "datetime": "2016-10-06T02:22:41Z",
+                "uri": "http://web.archive.org/web/20161006022241/http://lowlifeculture.com/"
+            },
+            {
+                "datetime": "2016-11-02T22:40:05Z",
+                "uri": "http://web.archive.org/web/20161102224005/http://www.lowlifeculture.com/"
+            },
+            {
+                "datetime": "2017-05-03T23:12:08Z",
+                "uri": "http://web.archive.org/web/20170503231208/http://www.lowlifeculture.com:80/"
+            },
+            {
+                "datetime": "2017-05-28T07:06:19Z",
+                "uri": "http://web.archive.org/web/20170528070619/http://lowlifeculture.com/"
+            },
+            {
+                "datetime": "2017-06-21T05:50:02Z",
+                "uri": "http://web.archive.org/web/20170621055002/http://lowlifeculture.com/"
+            },
+            {
+                "datetime": "2017-07-10T10:12:49Z",
+                "uri": "http://web.archive.org/web/20170710101249/http://www.lowlifeculture.com/"
+            },
+            {
+                "datetime": "2017-07-24T02:14:27Z",
+                "uri": "http://web.archive.org/web/20170724021427/http://www.lowlifeculture.com/"
+            },
+            {
+                "datetime": "2017-09-01T22:47:21Z",
+                "uri": "http://web.archive.org/web/20170901224721/http://lowlifeculture.com/"
+            },
+            {
+                "datetime": "2017-09-03T23:02:31Z",
+                "uri": "http://web.archive.org/web/20170903230231/http://www.lowlifeculture.com/"
+            },
+            {
+                "datetime": "2017-09-10T17:32:57Z",
+                "uri": "http://web.archive.org/web/20170910173257/https://www.lowlifeculture.com/"
+            },
+            {
+                "datetime": "2017-10-07T17:54:15Z",
+                "uri": "http://web.archive.org/web/20171007175415/http://www.lowlifeculture.com/"
+            },
+            {
+                "datetime": "2017-10-25T15:13:45Z",
+                "uri": "http://web.archive.org/web/20171025151345/https://www.lowlifeculture.com/"
+            },
+            {
+                "datetime": "2018-01-21T05:34:32Z",
+                "uri": "http://web.archive.org/web/20180121053432/http://lowlifeculture.com/"
+            },
+            {
+                "datetime": "2018-02-03T07:11:28Z",
+                "uri": "http://web.archive.org/web/20180203071128/http://www.lowlifeculture.com/"
+            }
+        ]
+    },
+    "original_uri": "https://www.lowlifeculture.com/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.lowlifeculture.com/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.lowlifeculture.com/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.lowlifeculture.com/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.lowlifeculture.com/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.lowlifeculture.com/"
+    }
+}

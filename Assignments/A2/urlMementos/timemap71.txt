@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-06-20T00:15:16Z",
+            "uri": "http://web.archive.org/web/20170620001516/http://footballspider.com:80/leicester-city/news"
+        },
+        "last": {
+            "datetime": "2018-02-09T11:02:02Z",
+            "uri": "http://web.archive.org/web/20180209110202/http://footballspider.com/leicester-city/news"
+        },
+        "list": [
+            {
+                "datetime": "2017-06-20T00:15:16Z",
+                "uri": "http://web.archive.org/web/20170620001516/http://footballspider.com:80/leicester-city/news"
+            },
+            {
+                "datetime": "2017-09-04T09:37:37Z",
+                "uri": "http://web.archive.org/web/20170904093737/http://footballspider.com/leicester-city/news"
+            },
+            {
+                "datetime": "2018-01-21T00:38:15Z",
+                "uri": "http://web.archive.org/web/20180121003815/http://footballspider.com/leicester-city/news/"
+            },
+            {
+                "datetime": "2018-01-21T00:38:18Z",
+                "uri": "http://web.archive.org/web/20180121003818/http://footballspider.com/leicester-city/news/"
+            },
+            {
+                "datetime": "2018-02-03T14:21:11Z",
+                "uri": "http://web.archive.org/web/20180203142111/http://footballspider.com/leicester-city/news/"
+            },
+            {
+                "datetime": "2018-02-09T11:02:02Z",
+                "uri": "http://web.archive.org/web/20180209110202/http://footballspider.com/leicester-city/news"
+            }
+        ]
+    },
+    "original_uri": "http://footballspider.com/leicester-city/news",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://footballspider.com/leicester-city/news",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://footballspider.com/leicester-city/news",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://footballspider.com/leicester-city/news",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://footballspider.com/leicester-city/news",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://footballspider.com/leicester-city/news"
+    }
+}

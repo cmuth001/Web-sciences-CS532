@@ -1,0 +1,834 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2008-05-05T11:20:49Z",
+            "uri": "http://web.archive.org/web/20080505112049/http://www.footofeminin.fr:80/"
+        },
+        "last": {
+            "datetime": "2017-11-19T11:08:29Z",
+            "uri": "http://web.archive.org/web/20171119110829/http://www.footofeminin.fr/"
+        },
+        "list": [
+            {
+                "datetime": "2008-05-05T11:20:49Z",
+                "uri": "http://web.archive.org/web/20080505112049/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-05-17T04:46:40Z",
+                "uri": "http://web.archive.org/web/20080517044640/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-05-31T08:04:14Z",
+                "uri": "http://web.archive.org/web/20080531080414/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-06-09T21:02:08Z",
+                "uri": "http://web.archive.org/web/20080609210208/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-06-15T20:52:55Z",
+                "uri": "http://web.archive.org/web/20080615205255/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-06-21T15:40:16Z",
+                "uri": "http://web.archive.org/web/20080621154016/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-09-13T11:05:59Z",
+                "uri": "http://web.archive.org/web/20080913110559/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-09-21T04:28:43Z",
+                "uri": "http://web.archive.org/web/20080921042843/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-09-27T13:32:53Z",
+                "uri": "http://web.archive.org/web/20080927133253/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-10-03T08:46:03Z",
+                "uri": "http://web.archive.org/web/20081003084603/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-10-09T07:54:10Z",
+                "uri": "http://web.archive.org/web/20081009075410/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-10-13T18:39:37Z",
+                "uri": "http://web.archive.org/web/20081013183937/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-10-18T21:18:03Z",
+                "uri": "http://web.archive.org/web/20081018211803/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-10-23T03:46:20Z",
+                "uri": "http://web.archive.org/web/20081023034620/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-10-29T01:15:29Z",
+                "uri": "http://web.archive.org/web/20081029011529/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-11-03T01:09:38Z",
+                "uri": "http://web.archive.org/web/20081103010938/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-11-03T01:09:38Z",
+                "uri": "http://web.archive.org/web/20081103010938/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-11-06T07:10:30Z",
+                "uri": "http://web.archive.org/web/20081106071030/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2008-11-06T10:15:39Z",
+                "uri": "http://web.archive.org/web/20081106101539/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2008-11-06T16:17:02Z",
+                "uri": "http://web.archive.org/web/20081106161702/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2008-11-06T20:42:43Z",
+                "uri": "http://web.archive.org/web/20081106204243/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2008-11-09T05:26:47Z",
+                "uri": "http://web.archive.org/web/20081109052647/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-11-11T07:23:52Z",
+                "uri": "http://web.archive.org/web/20081111072352/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2008-11-11T07:33:05Z",
+                "uri": "http://web.archive.org/web/20081111073305/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2008-12-01T15:51:53Z",
+                "uri": "http://web.archive.org/web/20081201155153/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-12-06T11:31:08Z",
+                "uri": "http://web.archive.org/web/20081206113108/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-12-11T11:23:44Z",
+                "uri": "http://web.archive.org/web/20081211112344/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-12-16T04:56:11Z",
+                "uri": "http://web.archive.org/web/20081216045611/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2008-12-17T14:00:01Z",
+                "uri": "http://web.archive.org/web/20081217140001/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2009-01-26T21:16:25Z",
+                "uri": "http://web.archive.org/web/20090126211625/http://footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2009-02-07T08:18:18Z",
+                "uri": "http://web.archive.org/web/20090207081818/http://footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2009-02-16T11:47:07Z",
+                "uri": "http://web.archive.org/web/20090216114707/http://footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2009-02-25T10:49:57Z",
+                "uri": "http://web.archive.org/web/20090225104957/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2010-01-21T06:54:44Z",
+                "uri": "http://web.archive.org/web/20100121065444/http://www.footofeminin.fr:80/?"
+            },
+            {
+                "datetime": "2010-02-08T08:21:24Z",
+                "uri": "http://web.archive.org/web/20100208082124/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2010-11-30T19:32:25Z",
+                "uri": "http://web.archive.org/web/20101130193225/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2010-12-21T12:51:31Z",
+                "uri": "http://web.archive.org/web/20101221125131/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2011-02-24T03:24:41Z",
+                "uri": "http://web.archive.org/web/20110224032441/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2011-03-04T21:11:34Z",
+                "uri": "http://web.archive.org/web/20110304211134/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2011-03-04T21:11:49Z",
+                "uri": "http://web.archive.org/web/20110304211149/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2011-05-12T20:43:37Z",
+                "uri": "http://web.archive.org/web/20110512204337/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2011-05-13T10:19:20Z",
+                "uri": "http://web.archive.org/web/20110513101920/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2011-08-11T06:54:05Z",
+                "uri": "http://web.archive.org/web/20110811065405/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2011-08-25T10:24:46Z",
+                "uri": "http://web.archive.org/web/20110825102446/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2011-09-02T09:56:57Z",
+                "uri": "http://web.archive.org/web/20110902095657/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2011-09-24T01:17:35Z",
+                "uri": "http://web.archive.org/web/20110924011735/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2011-10-04T16:08:20Z",
+                "uri": "http://web.archive.org/web/20111004160820/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2011-10-05T19:59:09Z",
+                "uri": "http://web.archive.org/web/20111005195909/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2011-10-07T04:27:55Z",
+                "uri": "http://web.archive.org/web/20111007042755/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2011-10-11T06:24:03Z",
+                "uri": "http://web.archive.org/web/20111011062403/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2011-10-16T16:46:10Z",
+                "uri": "http://web.archive.org/web/20111016164610/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2011-10-18T19:50:13Z",
+                "uri": "http://web.archive.org/web/20111018195013/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2011-10-31T04:10:33Z",
+                "uri": "http://web.archive.org/web/20111031041033/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2011-11-13T01:22:51Z",
+                "uri": "http://web.archive.org/web/20111113012251/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2011-11-23T13:01:19Z",
+                "uri": "http://web.archive.org/web/20111123130119/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2011-12-02T18:15:49Z",
+                "uri": "http://web.archive.org/web/20111202181549/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2011-12-12T05:38:19Z",
+                "uri": "http://web.archive.org/web/20111212053819/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2011-12-24T03:17:05Z",
+                "uri": "http://web.archive.org/web/20111224031705/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2012-01-13T04:02:13Z",
+                "uri": "http://web.archive.org/web/20120113040213/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-02-12T10:40:36Z",
+                "uri": "http://web.archive.org/web/20120212104036/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-02-20T20:27:57Z",
+                "uri": "http://web.archive.org/web/20120220202757/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2012-03-02T14:29:46Z",
+                "uri": "http://web.archive.org/web/20120302142946/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2012-03-12T22:07:45Z",
+                "uri": "http://web.archive.org/web/20120312220745/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2012-04-13T15:00:41Z",
+                "uri": "http://web.archive.org/web/20120413150041/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2012-04-24T09:46:40Z",
+                "uri": "http://web.archive.org/web/20120424094640/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2012-05-01T17:59:37Z",
+                "uri": "http://web.archive.org/web/20120501175937/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-05-01T19:32:40Z",
+                "uri": "http://web.archive.org/web/20120501193240/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-05-06T09:33:27Z",
+                "uri": "http://web.archive.org/web/20120506093327/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2012-06-20T18:24:23Z",
+                "uri": "http://web.archive.org/web/20120620182423/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2012-06-30T03:29:23Z",
+                "uri": "http://web.archive.org/web/20120630032923/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2012-07-17T18:24:54Z",
+                "uri": "http://wayback.archive-it.org/all/20120717182454/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-07-17T18:24:54Z",
+                "uri": "http://web.archive.org/web/20120717182454/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-07-18T01:11:55Z",
+                "uri": "http://wayback.archive-it.org/all/20120718011155/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-07-18T01:11:55Z",
+                "uri": "http://web.archive.org/web/20120718011155/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-07-18T01:11:55Z",
+                "uri": "http://web.archive.org/web/20120718011155/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-07-18T01:11:55Z",
+                "uri": "http://web.archive.org/web/20120718011155/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-07-19T18:53:43Z",
+                "uri": "http://web.archive.org/web/20120719185343/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-07-30T20:44:18Z",
+                "uri": "http://web.archive.org/web/20120730204418/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-07-31T17:50:48Z",
+                "uri": "http://wayback.archive-it.org/all/20120731175048/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-07-31T17:50:48Z",
+                "uri": "http://web.archive.org/web/20120731175048/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-07-31T17:50:48Z",
+                "uri": "http://web.archive.org/web/20120731175048/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-02T07:54:09Z",
+                "uri": "http://wayback.archive-it.org/all/20120802075409/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-02T07:54:09Z",
+                "uri": "http://web.archive.org/web/20120802075409/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-02T07:54:09Z",
+                "uri": "http://web.archive.org/web/20120802075409/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-02T14:28:19Z",
+                "uri": "http://archive.is/20120802142819/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-05T02:47:41Z",
+                "uri": "http://web.archive.org/web/20120805024741/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2012-08-07T16:40:25Z",
+                "uri": "http://wayback.archive-it.org/all/20120807164025/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-07T16:40:25Z",
+                "uri": "http://web.archive.org/web/20120807164025/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-07T16:40:25Z",
+                "uri": "http://web.archive.org/web/20120807164025/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-09T19:31:13Z",
+                "uri": "http://wayback.archive-it.org/all/20120809193113/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-09T19:31:13Z",
+                "uri": "http://web.archive.org/web/20120809193113/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-09T19:31:13Z",
+                "uri": "http://web.archive.org/web/20120809193113/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-14T19:55:06Z",
+                "uri": "http://wayback.archive-it.org/all/20120814195506/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-14T19:55:06Z",
+                "uri": "http://web.archive.org/web/20120814195506/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-14T19:55:06Z",
+                "uri": "http://web.archive.org/web/20120814195506/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-14T19:55:06Z",
+                "uri": "http://web.archive.org/web/20120814195506/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-16T11:02:54Z",
+                "uri": "http://wayback.archive-it.org/all/20120816110254/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-16T11:02:54Z",
+                "uri": "http://web.archive.org/web/20120816110254/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-16T11:02:54Z",
+                "uri": "http://web.archive.org/web/20120816110254/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-16T11:02:54Z",
+                "uri": "http://web.archive.org/web/20120816110254/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2012-08-27T05:36:28Z",
+                "uri": "http://web.archive.org/web/20120827053628/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2012-10-28T17:23:52Z",
+                "uri": "http://web.archive.org/web/20121028172352/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2012-12-25T14:37:02Z",
+                "uri": "http://web.archive.org/web/20121225143702/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2013-01-17T05:32:38Z",
+                "uri": "http://web.archive.org/web/20130117053238/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-01-18T13:49:15Z",
+                "uri": "http://web.archive.org/web/20130118134915/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2013-03-02T22:37:43Z",
+                "uri": "http://web.archive.org/web/20130302223743/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-03-16T07:07:04Z",
+                "uri": "http://web.archive.org/web/20130316070704/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-04-02T18:53:10Z",
+                "uri": "http://web.archive.org/web/20130402185310/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-04-20T04:49:02Z",
+                "uri": "http://web.archive.org/web/20130420044902/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-04-30T03:49:55Z",
+                "uri": "http://web.archive.org/web/20130430034955/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-05-09T07:01:23Z",
+                "uri": "http://web.archive.org/web/20130509070123/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-05-10T11:04:08Z",
+                "uri": "http://archive.is/20130510110408/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-05-26T08:37:46Z",
+                "uri": "http://web.archive.org/web/20130526083746/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-05-27T06:54:24Z",
+                "uri": "http://web.archive.org/web/20130527065424/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2013-05-29T15:32:05Z",
+                "uri": "http://web.archive.org/web/20130529153205/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-07-28T01:26:02Z",
+                "uri": "http://web.archive.org/web/20130728012602/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2013-08-05T07:04:51Z",
+                "uri": "http://web.archive.org/web/20130805070451/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-08-06T11:12:30Z",
+                "uri": "http://web.archive.org/web/20130806111230/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-08-11T05:48:16Z",
+                "uri": "http://web.archive.org/web/20130811054816/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-08-18T04:32:08Z",
+                "uri": "http://web.archive.org/web/20130818043208/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-09-22T06:05:47Z",
+                "uri": "http://web.archive.org/web/20130922060547/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-10-04T10:50:15Z",
+                "uri": "http://web.archive.org/web/20131004105015/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-10-11T00:11:19Z",
+                "uri": "http://web.archive.org/web/20131011001119/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-10-15T01:02:48Z",
+                "uri": "http://web.archive.org/web/20131015010248/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-12-02T23:19:32Z",
+                "uri": "http://web.archive.org/web/20131202231932/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2013-12-30T13:23:40Z",
+                "uri": "http://web.archive.org/web/20131230132340/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2014-01-05T23:59:57Z",
+                "uri": "http://web.archive.org/web/20140105235957/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2014-02-07T20:14:00Z",
+                "uri": "http://web.archive.org/web/20140207201400/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2014-02-07T23:38:11Z",
+                "uri": "http://web.archive.org/web/20140207233811/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2014-02-24T14:23:35Z",
+                "uri": "http://web.archive.org/web/20140224142335/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2014-05-17T11:33:11Z",
+                "uri": "http://web.archive.org/web/20140517113311/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2014-06-25T03:51:05Z",
+                "uri": "http://web.archive.org/web/20140625035105/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2014-06-25T11:52:15Z",
+                "uri": "http://web.archive.org/web/20140625115215/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2014-10-07T12:21:38Z",
+                "uri": "http://web.archive.org/web/20141007122138/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2014-12-07T02:47:24Z",
+                "uri": "http://web.archive.org/web/20141207024724/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2014-12-17T07:40:48Z",
+                "uri": "http://web.archive.org/web/20141217074048/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2014-12-19T21:27:33Z",
+                "uri": "http://web.archive.org/web/20141219212733/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2015-02-05T23:19:01Z",
+                "uri": "http://web.archive.org/web/20150205231901/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2015-02-05T23:19:01Z",
+                "uri": "http://web.archive.org/web/20150205231901/http://footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2015-02-07T01:27:09Z",
+                "uri": "http://web.archive.org/web/20150207012709/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2015-02-07T01:27:09Z",
+                "uri": "http://web.archive.org/web/20150207012709/http://footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2015-02-16T08:33:08Z",
+                "uri": "http://web.archive.org/web/20150216083308/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2015-02-23T16:48:43Z",
+                "uri": "http://web.archive.org/web/20150223164843/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2015-03-14T21:01:34Z",
+                "uri": "http://web.archive.org/web/20150314210134/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2015-03-15T01:03:57Z",
+                "uri": "http://web.archive.org/web/20150315010357/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2015-03-26T05:49:01Z",
+                "uri": "http://web.archive.org/web/20150326054901/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2015-05-12T13:27:08Z",
+                "uri": "http://web.archive.org/web/20150512132708/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2015-06-29T15:11:38Z",
+                "uri": "http://web.archive.org/web/20150629151138/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2015-07-25T10:06:24Z",
+                "uri": "http://web.archive.org/web/20150725100624/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2015-08-01T15:23:48Z",
+                "uri": "http://web.archive.org/web/20150801152348/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2015-08-21T07:47:11Z",
+                "uri": "http://web.archive.org/web/20150821074711/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2015-09-17T00:08:10Z",
+                "uri": "http://web.archive.org/web/20150917000810/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2015-09-21T19:30:48Z",
+                "uri": "http://web.archive.org/web/20150921193048/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2015-09-23T15:19:12Z",
+                "uri": "http://web.archive.org/web/20150923151912/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2015-10-20T07:36:48Z",
+                "uri": "http://web.archive.org/web/20151020073648/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2015-11-20T06:38:30Z",
+                "uri": "http://web.archive.org/web/20151120063830/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2015-12-25T22:38:29Z",
+                "uri": "http://web.archive.org/web/20151225223829/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-01-10T00:08:49Z",
+                "uri": "http://web.archive.org/web/20160110000849/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-01-12T22:18:43Z",
+                "uri": "http://web.archive.org/web/20160112221843/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-01-19T06:05:19Z",
+                "uri": "http://web.archive.org/web/20160119060519/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-01-24T09:57:04Z",
+                "uri": "http://web.archive.org/web/20160124095704/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-02-04T07:06:57Z",
+                "uri": "http://web.archive.org/web/20160204070657/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-03-03T17:20:16Z",
+                "uri": "http://web.archive.org/web/20160303172016/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-03-03T21:32:36Z",
+                "uri": "http://web.archive.org/web/20160303213236/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-03-03T23:30:11Z",
+                "uri": "http://web.archive.org/web/20160303233011/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-03-04T03:04:58Z",
+                "uri": "http://web.archive.org/web/20160304030458/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-03-04T03:08:03Z",
+                "uri": "http://web.archive.org/web/20160304030803/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-04-02T15:33:33Z",
+                "uri": "http://web.archive.org/web/20160402153333/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-04-23T01:03:14Z",
+                "uri": "http://web.archive.org/web/20160423010314/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-05-12T15:24:36Z",
+                "uri": "http://web.archive.org/web/20160512152436/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-05-24T16:41:34Z",
+                "uri": "http://web.archive.org/web/20160524164134/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-06-02T21:41:16Z",
+                "uri": "http://web.archive.org/web/20160602214116/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-06-11T03:16:13Z",
+                "uri": "http://web.archive.org/web/20160611031613/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-06-20T10:48:35Z",
+                "uri": "http://web.archive.org/web/20160620104835/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-06-30T15:13:39Z",
+                "uri": "http://web.archive.org/web/20160630151339/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-07-10T14:57:07Z",
+                "uri": "http://web.archive.org/web/20160710145707/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-07-21T00:16:21Z",
+                "uri": "http://web.archive.org/web/20160721001621/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-08-02T17:24:17Z",
+                "uri": "http://web.archive.org/web/20160802172417/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-08-04T17:07:07Z",
+                "uri": "http://wayback.archive-it.org/all/20160804170707/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-08-04T17:07:07Z",
+                "uri": "http://web.archive.org/web/20160804170707/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-08-05T00:50:32Z",
+                "uri": "http://web.archive.org/web/20160805005032/http://Contact@footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-08-17T14:15:21Z",
+                "uri": "http://web.archive.org/web/20160817141521/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-08-24T16:31:31Z",
+                "uri": "http://wayback.archive-it.org/all/20160824163131/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-08-24T16:31:31Z",
+                "uri": "http://web.archive.org/web/20160824163131/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-08-24T19:05:39Z",
+                "uri": "http://web.archive.org/web/20160824190539/http://Contact@footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-09-06T14:02:53Z",
+                "uri": "http://web.archive.org/web/20160906140253/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-09-27T10:16:51Z",
+                "uri": "http://web.archive.org/web/20160927101651/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-10-02T22:54:24Z",
+                "uri": "http://web.archive.org/web/20161002225424/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-10-10T05:26:31Z",
+                "uri": "http://web.archive.org/web/20161010052631/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-10-18T15:22:02Z",
+                "uri": "http://web.archive.org/web/20161018152202/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-10-26T10:59:25Z",
+                "uri": "http://web.archive.org/web/20161026105925/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2016-11-17T13:30:11Z",
+                "uri": "http://arquivo.pt/wayback/20161117133011/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2016-11-22T09:07:59Z",
+                "uri": "http://web.archive.org/web/20161122090759/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2017-02-23T14:27:52Z",
+                "uri": "http://web.archive.org/web/20170223142752/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2017-04-25T12:30:29Z",
+                "uri": "http://web.archive.org/web/20170425123029/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2017-05-09T11:21:12Z",
+                "uri": "http://web.archive.org/web/20170509112112/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2017-06-11T20:54:27Z",
+                "uri": "http://web.archive.org/web/20170611205427/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2017-06-28T12:04:30Z",
+                "uri": "http://web.archive.org/web/20170628120430/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2017-07-10T09:39:58Z",
+                "uri": "http://web.archive.org/web/20170710093958/http://www.footofeminin.fr:80/"
+            },
+            {
+                "datetime": "2017-09-09T17:54:34Z",
+                "uri": "http://web.archive.org/web/20170909175434/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2017-09-12T01:40:23Z",
+                "uri": "http://web.archive.org/web/20170912014023/http://footofeminin.fr/"
+            },
+            {
+                "datetime": "2017-09-29T15:40:46Z",
+                "uri": "http://web.archive.org/web/20170929154046/http://www.footofeminin.fr/"
+            },
+            {
+                "datetime": "2017-11-19T11:08:29Z",
+                "uri": "http://web.archive.org/web/20171119110829/http://www.footofeminin.fr/"
+            }
+        ]
+    },
+    "original_uri": "http://www.footofeminin.fr/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.footofeminin.fr/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.footofeminin.fr/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.footofeminin.fr/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.footofeminin.fr/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.footofeminin.fr/"
+    }
+}

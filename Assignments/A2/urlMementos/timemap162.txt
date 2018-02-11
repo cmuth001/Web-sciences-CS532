@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T14:42:44Z",
+            "uri": "http://web.archive.org/web/20180209144244/http://newsblogged.com/when-and-where-to-watch-india-vs-south-africa-4th-odi-live-coverage/"
+        },
+        "last": {
+            "datetime": "2018-02-09T14:42:44Z",
+            "uri": "http://web.archive.org/web/20180209144244/http://newsblogged.com/when-and-where-to-watch-india-vs-south-africa-4th-odi-live-coverage/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T14:42:44Z",
+                "uri": "http://web.archive.org/web/20180209144244/http://newsblogged.com/when-and-where-to-watch-india-vs-south-africa-4th-odi-live-coverage/"
+            }
+        ]
+    },
+    "original_uri": "http://newsblogged.com/when-and-where-to-watch-india-vs-south-africa-4th-odi-live-coverage/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://newsblogged.com/when-and-where-to-watch-india-vs-south-africa-4th-odi-live-coverage/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://newsblogged.com/when-and-where-to-watch-india-vs-south-africa-4th-odi-live-coverage/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://newsblogged.com/when-and-where-to-watch-india-vs-south-africa-4th-odi-live-coverage/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://newsblogged.com/when-and-where-to-watch-india-vs-south-africa-4th-odi-live-coverage/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://newsblogged.com/when-and-where-to-watch-india-vs-south-africa-4th-odi-live-coverage/"
+    }
+}

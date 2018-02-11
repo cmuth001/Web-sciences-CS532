@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2015-11-20T14:21:25Z",
+            "uri": "http://web.archive.org/web/20151120142125/https://play.google.com/store/apps/details?id=com.nextwave.wcc2"
+        },
+        "last": {
+            "datetime": "2018-02-03T08:56:25Z",
+            "uri": "http://web.archive.org/web/20180203085625/https://play.google.com/store/apps/details?id=com.nextwave.wcc2"
+        },
+        "list": [
+            {
+                "datetime": "2015-11-20T14:21:25Z",
+                "uri": "http://web.archive.org/web/20151120142125/https://play.google.com/store/apps/details?id=com.nextwave.wcc2"
+            },
+            {
+                "datetime": "2015-11-30T13:52:48Z",
+                "uri": "http://web.archive.org/web/20151130135248/https://play.google.com/store/apps/details?id=com.nextwave.wcc2"
+            },
+            {
+                "datetime": "2016-08-10T13:33:18Z",
+                "uri": "http://web.archive.org/web/20160810133318/https://play.google.com/store/apps/details?id=com.nextwave.wcc2"
+            },
+            {
+                "datetime": "2016-09-13T21:36:15Z",
+                "uri": "http://web.archive.org/web/20160913213615/https://play.google.com/store/apps/details?id=com.nextwave.wcc2"
+            },
+            {
+                "datetime": "2016-09-18T00:58:10Z",
+                "uri": "http://web.archive.org/web/20160918005810/https://play.google.com/store/apps/details?id=com.nextwave.wcc2"
+            },
+            {
+                "datetime": "2016-12-23T23:12:27Z",
+                "uri": "http://web.archive.org/web/20161223231227/https://play.google.com/store/apps/details?id=com.nextwave.wcc2"
+            },
+            {
+                "datetime": "2018-02-03T08:56:25Z",
+                "uri": "http://web.archive.org/web/20180203085625/https://play.google.com/store/apps/details?id=com.nextwave.wcc2"
+            }
+        ]
+    },
+    "original_uri": "https://play.google.com/store/apps/details?id=com.nextwave.wcc2",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://play.google.com/store/apps/details?id=com.nextwave.wcc2",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://play.google.com/store/apps/details?id=com.nextwave.wcc2",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://play.google.com/store/apps/details?id=com.nextwave.wcc2",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://play.google.com/store/apps/details?id=com.nextwave.wcc2",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://play.google.com/store/apps/details?id=com.nextwave.wcc2"
+    }
+}

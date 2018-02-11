@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T09:45:08Z",
+            "uri": "http://web.archive.org/web/20180209094508/http://www.bbc.co.uk/sport/football/43001730"
+        },
+        "last": {
+            "datetime": "2018-02-09T19:25:45Z",
+            "uri": "http://web.archive.org/web/20180209192545/http://www.bbc.co.uk/sport/football/43001730"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T09:45:08Z",
+                "uri": "http://web.archive.org/web/20180209094508/http://www.bbc.co.uk/sport/football/43001730"
+            },
+            {
+                "datetime": "2018-02-09T09:45:08Z",
+                "uri": "http://web.archive.org/web/20180209094508/http://www.bbc.co.uk/sport/football/43001730"
+            },
+            {
+                "datetime": "2018-02-09T13:59:04Z",
+                "uri": "http://web.archive.org/web/20180209135904/http://www.bbc.co.uk/sport/football/43001730"
+            },
+            {
+                "datetime": "2018-02-09T13:59:04Z",
+                "uri": "http://web.archive.org/web/20180209135904/http://www.bbc.co.uk/sport/football/43001730"
+            },
+            {
+                "datetime": "2018-02-09T16:43:20Z",
+                "uri": "http://web.archive.org/web/20180209164320/http://www.bbc.co.uk/sport/football/43001730"
+            },
+            {
+                "datetime": "2018-02-09T16:43:20Z",
+                "uri": "http://web.archive.org/web/20180209164320/http://www.bbc.co.uk/sport/football/43001730"
+            },
+            {
+                "datetime": "2018-02-09T19:25:45Z",
+                "uri": "http://web.archive.org/web/20180209192545/http://www.bbc.co.uk/sport/football/43001730"
+            }
+        ]
+    },
+    "original_uri": "http://www.bbc.co.uk/sport/football/43001730",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.co.uk/sport/football/43001730",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.bbc.co.uk/sport/football/43001730",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.bbc.co.uk/sport/football/43001730",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.co.uk/sport/football/43001730",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.bbc.co.uk/sport/football/43001730"
+    }
+}

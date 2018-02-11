@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T01:15:36Z",
+            "uri": "http://web.archive.org/web/20180209011536/http://www.lavoixdunord.fr/313898/article/2018-02-08/le-defenseur-de-lens-brice-dja-djedje-en-garde-vue"
+        },
+        "last": {
+            "datetime": "2018-02-09T01:15:36Z",
+            "uri": "http://web.archive.org/web/20180209011536/http://www.lavoixdunord.fr/313898/article/2018-02-08/le-defenseur-de-lens-brice-dja-djedje-en-garde-vue"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T01:15:36Z",
+                "uri": "http://web.archive.org/web/20180209011536/http://www.lavoixdunord.fr/313898/article/2018-02-08/le-defenseur-de-lens-brice-dja-djedje-en-garde-vue"
+            }
+        ]
+    },
+    "original_uri": "http://www.lavoixdunord.fr/313898/article/2018-02-08/le-defenseur-de-lens-brice-dja-djedje-en-garde-vue",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.lavoixdunord.fr/313898/article/2018-02-08/le-defenseur-de-lens-brice-dja-djedje-en-garde-vue",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.lavoixdunord.fr/313898/article/2018-02-08/le-defenseur-de-lens-brice-dja-djedje-en-garde-vue",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.lavoixdunord.fr/313898/article/2018-02-08/le-defenseur-de-lens-brice-dja-djedje-en-garde-vue",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.lavoixdunord.fr/313898/article/2018-02-08/le-defenseur-de-lens-brice-dja-djedje-en-garde-vue",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.lavoixdunord.fr/313898/article/2018-02-08/le-defenseur-de-lens-brice-dja-djedje-en-garde-vue"
+    }
+}

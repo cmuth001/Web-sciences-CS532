@@ -1,0 +1,226 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2005-02-09T00:51:30Z",
+            "uri": "http://web.archive.org/web/20050209005130/http://www.helpingugandaschools.org:80/"
+        },
+        "last": {
+            "datetime": "2018-01-23T03:24:16Z",
+            "uri": "http://web.archive.org/web/20180123032416/http://helpingugandaschools.org/"
+        },
+        "list": [
+            {
+                "datetime": "2005-02-09T00:51:30Z",
+                "uri": "http://web.archive.org/web/20050209005130/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2005-02-09T07:23:21Z",
+                "uri": "http://web.archive.org/web/20050209072321/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2005-03-11T04:18:44Z",
+                "uri": "http://web.archive.org/web/20050311041844/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2006-05-25T02:47:01Z",
+                "uri": "http://web.archive.org/web/20060525024701/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2007-07-14T22:02:27Z",
+                "uri": "http://web.archive.org/web/20070714220227/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2008-08-21T10:58:36Z",
+                "uri": "http://web.archive.org/web/20080821105836/http://www.helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2009-09-18T02:53:35Z",
+                "uri": "http://web.archive.org/web/20090918025335/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2010-02-19T09:11:36Z",
+                "uri": "http://web.archive.org/web/20100219091136/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2011-02-06T02:00:10Z",
+                "uri": "http://web.archive.org/web/20110206020010/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2011-03-16T05:29:38Z",
+                "uri": "http://web.archive.org/web/20110316052938/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2011-07-15T21:26:09Z",
+                "uri": "http://web.archive.org/web/20110715212609/http://helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2011-12-28T10:11:49Z",
+                "uri": "http://web.archive.org/web/20111228101149/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2012-04-30T22:47:38Z",
+                "uri": "http://web.archive.org/web/20120430224738/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2012-10-29T01:18:48Z",
+                "uri": "http://web.archive.org/web/20121029011848/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2013-06-03T08:32:02Z",
+                "uri": "http://web.archive.org/web/20130603083202/http://helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2013-06-19T18:10:12Z",
+                "uri": "http://web.archive.org/web/20130619181012/http://www.helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2013-10-22T13:16:47Z",
+                "uri": "http://web.archive.org/web/20131022131647/http://www.helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2013-12-30T20:59:39Z",
+                "uri": "http://web.archive.org/web/20131230205939/http://helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2014-01-08T15:13:11Z",
+                "uri": "http://web.archive.org/web/20140108151311/http://www.helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2014-02-07T13:51:46Z",
+                "uri": "http://web.archive.org/web/20140207135146/http://www.helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2014-05-17T09:30:33Z",
+                "uri": "http://web.archive.org/web/20140517093033/http://helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2014-12-17T05:25:20Z",
+                "uri": "http://web.archive.org/web/20141217052520/http://helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2014-12-19T17:15:00Z",
+                "uri": "http://web.archive.org/web/20141219171500/http://www.helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2015-03-19T16:43:59Z",
+                "uri": "http://web.archive.org/web/20150319164359/http://www.helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2015-06-30T22:56:39Z",
+                "uri": "http://web.archive.org/web/20150630225639/http://www.helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2015-07-25T08:27:53Z",
+                "uri": "http://web.archive.org/web/20150725082753/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2015-08-01T13:08:56Z",
+                "uri": "http://web.archive.org/web/20150801130856/http://helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2015-08-29T05:49:36Z",
+                "uri": "http://web.archive.org/web/20150829054936/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2015-09-29T06:44:43Z",
+                "uri": "http://web.archive.org/web/20150929064443/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2015-10-14T13:00:04Z",
+                "uri": "http://web.archive.org/web/20151014130004/http://helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2016-01-09T18:53:46Z",
+                "uri": "http://web.archive.org/web/20160109185346/http://helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2016-01-14T06:32:54Z",
+                "uri": "http://web.archive.org/web/20160114063254/http://www.helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2016-02-21T09:11:44Z",
+                "uri": "http://archive.is/20160221091144/http://helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2016-03-07T18:28:44Z",
+                "uri": "http://web.archive.org/web/20160307182844/http://helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2016-03-19T00:33:45Z",
+                "uri": "http://web.archive.org/web/20160319003345/http://www.helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2016-03-24T11:34:56Z",
+                "uri": "http://web.archive.org/web/20160324113456/http://www.helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2016-04-05T00:54:53Z",
+                "uri": "http://web.archive.org/web/20160405005453/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2016-05-07T08:22:38Z",
+                "uri": "http://web.archive.org/web/20160507082238/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2016-07-16T08:30:29Z",
+                "uri": "http://web.archive.org/web/20160716083029/http://www.helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2016-10-02T01:23:57Z",
+                "uri": "http://web.archive.org/web/20161002012357/http://helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2016-10-14T08:57:29Z",
+                "uri": "http://web.archive.org/web/20161014085729/http://www.helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2017-01-21T09:18:42Z",
+                "uri": "http://web.archive.org/web/20170121091842/http://helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2017-05-09T12:35:52Z",
+                "uri": "http://web.archive.org/web/20170509123552/http://helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2017-05-20T00:20:48Z",
+                "uri": "http://web.archive.org/web/20170520002048/http://helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2017-05-23T21:10:21Z",
+                "uri": "http://web.archive.org/web/20170523211021/http://helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2017-06-16T17:54:52Z",
+                "uri": "http://web.archive.org/web/20170616175452/http://helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2017-06-17T05:17:45Z",
+                "uri": "http://web.archive.org/web/20170617051745/http://helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2017-06-17T05:21:39Z",
+                "uri": "http://web.archive.org/web/20170617052139/http://helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2017-06-21T13:58:20Z",
+                "uri": "http://web.archive.org/web/20170621135820/http://helpingugandaschools.org:80/"
+            },
+            {
+                "datetime": "2017-11-20T05:54:34Z",
+                "uri": "http://web.archive.org/web/20171120055434/http://www.helpingugandaschools.org/"
+            },
+            {
+                "datetime": "2018-01-23T03:24:16Z",
+                "uri": "http://web.archive.org/web/20180123032416/http://helpingugandaschools.org/"
+            }
+        ]
+    },
+    "original_uri": "http://helpingugandaschools.org",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://helpingugandaschools.org",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://helpingugandaschools.org",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://helpingugandaschools.org",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://helpingugandaschools.org",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://helpingugandaschools.org"
+    }
+}

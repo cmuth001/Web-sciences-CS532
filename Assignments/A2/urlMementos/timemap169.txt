@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-10-13T01:00:18Z",
+            "uri": "http://web.archive.org/web/20161013010018/http://giftcanyon.com:80/football-gift-ideas/"
+        },
+        "last": {
+            "datetime": "2017-07-15T10:35:31Z",
+            "uri": "http://web.archive.org/web/20170715103531/http://giftcanyon.com/football-gift-ideas/"
+        },
+        "list": [
+            {
+                "datetime": "2016-10-13T01:00:18Z",
+                "uri": "http://web.archive.org/web/20161013010018/http://giftcanyon.com:80/football-gift-ideas/"
+            },
+            {
+                "datetime": "2017-07-15T10:35:31Z",
+                "uri": "http://web.archive.org/web/20170715103531/http://giftcanyon.com/football-gift-ideas/"
+            }
+        ]
+    },
+    "original_uri": "http://giftcanyon.com/football-gift-ideas/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://giftcanyon.com/football-gift-ideas/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://giftcanyon.com/football-gift-ideas/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://giftcanyon.com/football-gift-ideas/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://giftcanyon.com/football-gift-ideas/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://giftcanyon.com/football-gift-ideas/"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-08-31T03:50:29Z",
+            "uri": "http://web.archive.org/web/20170831035029/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+        },
+        "last": {
+            "datetime": "2018-01-25T13:41:55Z",
+            "uri": "http://wayback.archive-it.org/all/20180125134155/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+        },
+        "list": [
+            {
+                "datetime": "2017-08-31T03:50:29Z",
+                "uri": "http://web.archive.org/web/20170831035029/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+            },
+            {
+                "datetime": "2017-08-31T03:50:29Z",
+                "uri": "http://wayback.archive-it.org/all/20170831035029/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+            },
+            {
+                "datetime": "2017-09-01T08:00:36Z",
+                "uri": "http://web.archive.org/web/20170901080036/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+            },
+            {
+                "datetime": "2017-09-01T08:00:36Z",
+                "uri": "http://wayback.archive-it.org/all/20170901080036/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+            },
+            {
+                "datetime": "2017-10-01T00:17:08Z",
+                "uri": "http://web.archive.org/web/20171001001708/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+            },
+            {
+                "datetime": "2017-10-01T00:17:08Z",
+                "uri": "http://wayback.archive-it.org/all/20171001001708/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+            },
+            {
+                "datetime": "2017-10-02T00:17:47Z",
+                "uri": "http://web.archive.org/web/20171002001747/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+            },
+            {
+                "datetime": "2017-10-02T00:17:47Z",
+                "uri": "http://wayback.archive-it.org/all/20171002001747/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+            },
+            {
+                "datetime": "2017-10-03T00:17:04Z",
+                "uri": "http://wayback.archive-it.org/all/20171003001704/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+            },
+            {
+                "datetime": "2017-10-26T22:50:35Z",
+                "uri": "http://web.archive.org/web/20171026225035/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+            },
+            {
+                "datetime": "2018-01-25T08:52:47Z",
+                "uri": "http://web.archive.org/web/20180125085247/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+            },
+            {
+                "datetime": "2018-01-25T08:52:47Z",
+                "uri": "http://wayback.archive-it.org/all/20180125085247/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+            },
+            {
+                "datetime": "2018-01-25T13:28:00Z",
+                "uri": "http://web.archive.org/web/20180125132800/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+            },
+            {
+                "datetime": "2018-01-25T13:28:00Z",
+                "uri": "http://wayback.archive-it.org/all/20180125132800/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+            },
+            {
+                "datetime": "2018-01-25T13:41:55Z",
+                "uri": "http://web.archive.org/web/20180125134155/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+            },
+            {
+                "datetime": "2018-01-25T13:41:55Z",
+                "uri": "http://wayback.archive-it.org/all/20180125134155/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+            }
+        ]
+    },
+    "original_uri": "https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.google.com/url?sa=D&q=http://www.twitob.com/%3Fut&usg=AFQjCNETISeE4eIPqLwMthTsn1SOe-8vog"
+    }
+}

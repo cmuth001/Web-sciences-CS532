@@ -1,0 +1,282 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2015-03-10T07:22:53Z",
+            "uri": "http://web.archive.org/web/20150310072253/http://mycujoo.tv:80/"
+        },
+        "last": {
+            "datetime": "2018-02-02T00:06:43Z",
+            "uri": "http://web.archive.org/web/20180202000643/https://mycujoo.tv/"
+        },
+        "list": [
+            {
+                "datetime": "2015-03-10T07:22:53Z",
+                "uri": "http://web.archive.org/web/20150310072253/http://mycujoo.tv:80/"
+            },
+            {
+                "datetime": "2015-03-11T09:31:58Z",
+                "uri": "http://web.archive.org/web/20150311093158/http://mycujoo.tv"
+            },
+            {
+                "datetime": "2015-03-11T09:32:01Z",
+                "uri": "http://web.archive.org/web/20150311093201/https://www.mycujoo.tv/"
+            },
+            {
+                "datetime": "2015-03-14T19:14:49Z",
+                "uri": "http://web.archive.org/web/20150314191449/http://mycujoo.tv/"
+            },
+            {
+                "datetime": "2015-03-15T01:12:50Z",
+                "uri": "http://web.archive.org/web/20150315011250/https://www.mycujoo.tv/"
+            },
+            {
+                "datetime": "2015-04-07T15:48:10Z",
+                "uri": "http://archive.is/20150407154810/http://mycujoo.tv/"
+            },
+            {
+                "datetime": "2015-08-01T18:24:55Z",
+                "uri": "http://web.archive.org/web/20150801182455/http://mycujoo.tv/"
+            },
+            {
+                "datetime": "2015-08-11T01:05:37Z",
+                "uri": "http://web.archive.org/web/20150811010537/https://www.mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-01-10T14:27:46Z",
+                "uri": "http://web.archive.org/web/20160110142746/http://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-01-30T18:01:07Z",
+                "uri": "http://web.archive.org/web/20160130180107/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-01-31T05:19:33Z",
+                "uri": "http://web.archive.org/web/20160131051933/https://www.mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-02-24T19:05:54Z",
+                "uri": "http://web.archive.org/web/20160224190554/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-03-24T02:44:57Z",
+                "uri": "http://web.archive.org/web/20160324024457/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-04-07T21:49:48Z",
+                "uri": "http://arquivo.pt/wayback/20160407214948/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-04-11T18:56:33Z",
+                "uri": "http://web.archive.org/web/20160411185633/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-05-12T20:18:59Z",
+                "uri": "http://web.archive.org/web/20160512201859/http://mycujoo.tv:80/"
+            },
+            {
+                "datetime": "2016-05-13T21:36:16Z",
+                "uri": "http://web.archive.org/web/20160513213616/http://mycujoo.tv:80/"
+            },
+            {
+                "datetime": "2016-07-29T18:04:03Z",
+                "uri": "http://web.archive.org/web/20160729180403/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-08-06T06:26:40Z",
+                "uri": "http://web.archive.org/web/20160806062640/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-09-03T19:10:10Z",
+                "uri": "http://wayback.archive-it.org/all/20160903191010/http://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-09-03T19:10:10Z",
+                "uri": "http://web.archive.org/web/20160903191010/http://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-09-03T19:10:10Z",
+                "uri": "http://web.archive.org/web/20160903191010/http://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-09-03T19:10:54Z",
+                "uri": "http://wayback.archive-it.org/all/20160903191054/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-09-03T19:10:54Z",
+                "uri": "http://web.archive.org/web/20160903191054/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-09-03T19:10:54Z",
+                "uri": "http://web.archive.org/web/20160903191054/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-09-09T02:35:55Z",
+                "uri": "http://wayback.archive-it.org/all/20160909023555/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-09-09T02:35:55Z",
+                "uri": "http://web.archive.org/web/20160909023555/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-09-24T07:02:19Z",
+                "uri": "http://web.archive.org/web/20160924070219/http://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-09-24T07:02:24Z",
+                "uri": "http://web.archive.org/web/20160924070224/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-10-03T15:58:49Z",
+                "uri": "http://web.archive.org/web/20161003155849/http://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-10-18T13:37:57Z",
+                "uri": "http://web.archive.org/web/20161018133757/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-10-23T07:49:28Z",
+                "uri": "http://web.archive.org/web/20161023074928/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2016-11-07T21:11:11Z",
+                "uri": "http://web.archive.org/web/20161107211111/http://mycujoo.tv:80/"
+            },
+            {
+                "datetime": "2016-11-09T09:39:00Z",
+                "uri": "http://web.archive.org/web/20161109093900/http://mycujoo.tv:80/"
+            },
+            {
+                "datetime": "2017-02-03T17:21:14Z",
+                "uri": "http://web.archive.org/web/20170203172114/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-02-15T13:49:02Z",
+                "uri": "http://web.archive.org/web/20170215134902/https://www.mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-03-20T01:57:00Z",
+                "uri": "http://web.archive.org/web/20170320015700/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-04-24T04:00:26Z",
+                "uri": "http://web.archive.org/web/20170424040026/http://www.mycujoo.tv:80/"
+            },
+            {
+                "datetime": "2017-05-18T09:18:52Z",
+                "uri": "http://web.archive.org/web/20170518091852/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-06-01T00:02:38Z",
+                "uri": "http://web.archive.org/web/20170601000238/http://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-06-03T20:53:32Z",
+                "uri": "http://web.archive.org/web/20170603205332/http://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-06-03T21:10:12Z",
+                "uri": "http://web.archive.org/web/20170603211012/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-06-07T21:23:22Z",
+                "uri": "http://web.archive.org/web/20170607212322/http://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-06-07T21:24:14Z",
+                "uri": "http://web.archive.org/web/20170607212414/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-07-09T01:09:16Z",
+                "uri": "http://web.archive.org/web/20170709010916/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-07-14T02:06:26Z",
+                "uri": "http://web.archive.org/web/20170714020626/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-07-31T03:17:27Z",
+                "uri": "http://web.archive.org/web/20170731031727/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-08-01T07:40:19Z",
+                "uri": "http://web.archive.org/web/20170801074019/http://www.mycujoo.tv:80/"
+            },
+            {
+                "datetime": "2017-08-23T15:47:17Z",
+                "uri": "http://web.archive.org/web/20170823154717/http://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-08-23T15:47:19Z",
+                "uri": "http://web.archive.org/web/20170823154719/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-09-01T16:41:18Z",
+                "uri": "http://web.archive.org/web/20170901164118/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-09-10T16:23:39Z",
+                "uri": "http://web.archive.org/web/20170910162339/https://www.mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-09-14T06:18:28Z",
+                "uri": "http://web.archive.org/web/20170914061828/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-10-02T21:16:47Z",
+                "uri": "http://web.archive.org/web/20171002211647/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-10-29T19:10:57Z",
+                "uri": "http://web.archive.org/web/20171029191057/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-11-08T20:51:23Z",
+                "uri": "http://web.archive.org/web/20171108205123/http://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-11-08T23:05:15Z",
+                "uri": "http://web.archive.org/web/20171108230515/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-11-09T12:23:28Z",
+                "uri": "http://web.archive.org/web/20171109122328/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-11-11T18:19:57Z",
+                "uri": "http://wayback.vefsafn.is/wayback/20171111181957/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-11-14T16:54:12Z",
+                "uri": "http://wayback.vefsafn.is/wayback/20171114165412/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-12-25T15:22:53Z",
+                "uri": "http://web.archive.org/web/20171225152253/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2017-12-27T13:29:21Z",
+                "uri": "http://web.archive.org/web/20171227132921/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2018-01-05T12:52:24Z",
+                "uri": "http://web.archive.org/web/20180105125224/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2018-01-23T04:17:31Z",
+                "uri": "http://web.archive.org/web/20180123041731/https://mycujoo.tv/"
+            },
+            {
+                "datetime": "2018-02-02T00:06:43Z",
+                "uri": "http://web.archive.org/web/20180202000643/https://mycujoo.tv/"
+            }
+        ]
+    },
+    "original_uri": "https://mycujoo.tv/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://mycujoo.tv/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://mycujoo.tv/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://mycujoo.tv/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://mycujoo.tv/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://mycujoo.tv/"
+    }
+}

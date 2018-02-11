@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-03T06:33:55Z",
+            "uri": "http://web.archive.org/web/20180203063355/https://www.betstars.uk/en-gb/news/football/football-accumulator-tips.shtml"
+        },
+        "last": {
+            "datetime": "2018-02-03T06:33:55Z",
+            "uri": "http://web.archive.org/web/20180203063355/https://www.betstars.uk/en-gb/news/football/football-accumulator-tips.shtml"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-03T06:33:55Z",
+                "uri": "http://web.archive.org/web/20180203063355/https://www.betstars.uk/en-gb/news/football/football-accumulator-tips.shtml"
+            }
+        ]
+    },
+    "original_uri": "https://www.betstars.uk/en-gb/news/football/football-accumulator-tips.shtml",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.betstars.uk/en-gb/news/football/football-accumulator-tips.shtml",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.betstars.uk/en-gb/news/football/football-accumulator-tips.shtml",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.betstars.uk/en-gb/news/football/football-accumulator-tips.shtml",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.betstars.uk/en-gb/news/football/football-accumulator-tips.shtml",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.betstars.uk/en-gb/news/football/football-accumulator-tips.shtml"
+    }
+}

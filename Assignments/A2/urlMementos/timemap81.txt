@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T14:15:40Z",
+            "uri": "http://web.archive.org/web/20180209141540/https://www.thesun.co.uk/sport/football/5530060/manchester-united-chelsea-liverpool-lazio-stefan-de-vrij/"
+        },
+        "last": {
+            "datetime": "2018-02-09T14:15:42Z",
+            "uri": "http://web.archive.org/web/20180209141542/http://www.thesun.co.uk/sport/football/5530060/manchester-united-chelsea-liverpool-lazio-stefan-de-vrij/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T14:15:40Z",
+                "uri": "http://web.archive.org/web/20180209141540/https://www.thesun.co.uk/sport/football/5530060/manchester-united-chelsea-liverpool-lazio-stefan-de-vrij/"
+            },
+            {
+                "datetime": "2018-02-09T14:15:42Z",
+                "uri": "http://web.archive.org/web/20180209141542/http://www.thesun.co.uk/sport/football/5530060/manchester-united-chelsea-liverpool-lazio-stefan-de-vrij/"
+            }
+        ]
+    },
+    "original_uri": "https://www.thesun.co.uk/sport/football/5530060/manchester-united-chelsea-liverpool-lazio-stefan-de-vrij/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5530060/manchester-united-chelsea-liverpool-lazio-stefan-de-vrij/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thesun.co.uk/sport/football/5530060/manchester-united-chelsea-liverpool-lazio-stefan-de-vrij/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thesun.co.uk/sport/football/5530060/manchester-united-chelsea-liverpool-lazio-stefan-de-vrij/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5530060/manchester-united-chelsea-liverpool-lazio-stefan-de-vrij/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thesun.co.uk/sport/football/5530060/manchester-united-chelsea-liverpool-lazio-stefan-de-vrij/"
+    }
+}

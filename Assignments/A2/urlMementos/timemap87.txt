@@ -1,0 +1,770 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2015-04-03T01:43:35Z",
+            "uri": "http://web.archive.org/web/20150403014335/http://www.apkpure.com:80/"
+        },
+        "last": {
+            "datetime": "2018-02-01T06:46:19Z",
+            "uri": "http://web.archive.org/web/20180201064619/https://apkpure.com/"
+        },
+        "list": [
+            {
+                "datetime": "2015-04-03T01:43:35Z",
+                "uri": "http://web.archive.org/web/20150403014335/http://www.apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-06-25T08:36:33Z",
+                "uri": "http://web.archive.org/web/20150625083633/http://www.apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-07-21T18:31:29Z",
+                "uri": "http://web.archive.org/web/20150721183129/http://apkpure.com"
+            },
+            {
+                "datetime": "2015-08-01T01:08:11Z",
+                "uri": "http://web.archive.org/web/20150801010811/http://apkpure.com/"
+            },
+            {
+                "datetime": "2015-08-09T07:40:50Z",
+                "uri": "http://web.archive.org/web/20150809074050/http://www.apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-08-12T07:40:32Z",
+                "uri": "http://web.archive.org/web/20150812074032/http://www.apkpure.com:80/?"
+            },
+            {
+                "datetime": "2015-08-14T11:18:40Z",
+                "uri": "http://web.archive.org/web/20150814111840/http://www.apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-08-18T15:35:26Z",
+                "uri": "http://web.archive.org/web/20150818153526/http://www.apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-08-20T14:40:31Z",
+                "uri": "http://web.archive.org/web/20150820144031/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-08-25T08:27:28Z",
+                "uri": "http://web.archive.org/web/20150825082728/http://www.apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-08-28T16:20:50Z",
+                "uri": "http://web.archive.org/web/20150828162050/http://www.apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-09-01T05:07:48Z",
+                "uri": "http://web.archive.org/web/20150901050748/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-09-12T15:51:53Z",
+                "uri": "http://web.archive.org/web/20150912155153/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-09-23T00:02:49Z",
+                "uri": "http://web.archive.org/web/20150923000249/http://apkpure.com/"
+            },
+            {
+                "datetime": "2015-09-23T01:07:19Z",
+                "uri": "http://web.archive.org/web/20150923010719/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-09-26T09:50:26Z",
+                "uri": "http://web.archive.org/web/20150926095026/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-09-26T13:31:43Z",
+                "uri": "http://web.archive.org/web/20150926133143/http://www.apkpure.com/"
+            },
+            {
+                "datetime": "2015-09-30T04:54:34Z",
+                "uri": "http://web.archive.org/web/20150930045434/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-10-03T12:54:55Z",
+                "uri": "http://web.archive.org/web/20151003125455/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-10-07T00:57:53Z",
+                "uri": "http://web.archive.org/web/20151007005753/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-10-15T01:01:19Z",
+                "uri": "http://archive.is/20151015010119/http://apkpure.com/"
+            },
+            {
+                "datetime": "2015-10-21T04:26:46Z",
+                "uri": "http://web.archive.org/web/20151021042646/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-10-21T13:13:04Z",
+                "uri": "http://web.archive.org/web/20151021131304/http://apkpure.com/"
+            },
+            {
+                "datetime": "2015-10-25T05:36:03Z",
+                "uri": "http://web.archive.org/web/20151025053603/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-10-29T10:44:15Z",
+                "uri": "http://web.archive.org/web/20151029104415/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-11-01T13:53:57Z",
+                "uri": "http://web.archive.org/web/20151101135357/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-11-04T09:27:52Z",
+                "uri": "http://web.archive.org/web/20151104092752/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-11-07T21:15:28Z",
+                "uri": "http://web.archive.org/web/20151107211528/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-11-14T13:56:51Z",
+                "uri": "http://web.archive.org/web/20151114135651/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-11-17T10:29:22Z",
+                "uri": "http://web.archive.org/web/20151117102922/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-11-21T15:18:28Z",
+                "uri": "http://web.archive.org/web/20151121151828/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-11-28T01:21:51Z",
+                "uri": "http://web.archive.org/web/20151128012151/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-12-06T19:31:12Z",
+                "uri": "http://web.archive.org/web/20151206193112/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2015-12-12T22:08:37Z",
+                "uri": "http://web.archive.org/web/20151212220837/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-01-02T11:17:33Z",
+                "uri": "http://web.archive.org/web/20160102111733/http://www.apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-01-09T11:01:50Z",
+                "uri": "http://web.archive.org/web/20160109110150/http://apkpure.com/"
+            },
+            {
+                "datetime": "2016-01-10T12:55:08Z",
+                "uri": "http://archive.is/20160110125508/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-01-11T10:33:06Z",
+                "uri": "http://web.archive.org/web/20160111103306/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-01-11T19:29:23Z",
+                "uri": "http://web.archive.org/web/20160111192923/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-01-16T04:49:06Z",
+                "uri": "http://web.archive.org/web/20160116044906/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-01-24T06:51:28Z",
+                "uri": "http://web.archive.org/web/20160124065128/http://www.apkpure.com/"
+            },
+            {
+                "datetime": "2016-02-02T23:12:56Z",
+                "uri": "http://web.archive.org/web/20160202231256/http://www.apkpure.com/"
+            },
+            {
+                "datetime": "2016-02-03T19:35:44Z",
+                "uri": "http://web.archive.org/web/20160203193544/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-02-05T02:59:17Z",
+                "uri": "http://web.archive.org/web/20160205025917/http://apkpure.com/"
+            },
+            {
+                "datetime": "2016-02-05T02:59:20Z",
+                "uri": "http://web.archive.org/web/20160205025920/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-02-05T11:03:14Z",
+                "uri": "http://web.archive.org/web/20160205110314/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-02-16T09:39:49Z",
+                "uri": "http://web.archive.org/web/20160216093949/http://apkpure.com/"
+            },
+            {
+                "datetime": "2016-02-16T09:39:50Z",
+                "uri": "http://web.archive.org/web/20160216093950/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-03-01T16:31:45Z",
+                "uri": "http://web.archive.org/web/20160301163145/http://apkpure.com/"
+            },
+            {
+                "datetime": "2016-03-05T02:31:44Z",
+                "uri": "http://web.archive.org/web/20160305023144/http://apkpure.com/"
+            },
+            {
+                "datetime": "2016-03-06T20:32:19Z",
+                "uri": "http://web.archive.org/web/20160306203219/http://www.apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-03-08T15:16:02Z",
+                "uri": "http://web.archive.org/web/20160308151602/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-03-09T19:21:10Z",
+                "uri": "http://web.archive.org/web/20160309192110/http://apkpure.com/"
+            },
+            {
+                "datetime": "2016-03-16T11:30:17Z",
+                "uri": "http://web.archive.org/web/20160316113017/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-03-23T19:11:22Z",
+                "uri": "http://web.archive.org/web/20160323191122/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-03-26T20:40:48Z",
+                "uri": "http://web.archive.org/web/20160326204048/http://www.apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-03-30T19:39:41Z",
+                "uri": "http://web.archive.org/web/20160330193941/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-03-31T19:22:49Z",
+                "uri": "http://web.archive.org/web/20160331192249/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-04-10T02:52:41Z",
+                "uri": "http://web.archive.org/web/20160410025241/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-04-11T14:05:34Z",
+                "uri": "http://web.archive.org/web/20160411140534/http://www.apkpure.com/"
+            },
+            {
+                "datetime": "2016-04-13T06:00:14Z",
+                "uri": "http://web.archive.org/web/20160413060014/https://www.apkpure.com/"
+            },
+            {
+                "datetime": "2016-04-13T07:42:31Z",
+                "uri": "http://web.archive.org/web/20160413074231/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-04-17T19:23:45Z",
+                "uri": "http://web.archive.org/web/20160417192345/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-04-17T19:37:42Z",
+                "uri": "http://web.archive.org/web/20160417193742/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-04-18T04:56:55Z",
+                "uri": "http://web.archive.org/web/20160418045655/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-04-22T12:28:20Z",
+                "uri": "http://web.archive.org/web/20160422122820/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-04-28T21:45:39Z",
+                "uri": "http://web.archive.org/web/20160428214539/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-05-05T04:04:28Z",
+                "uri": "http://web.archive.org/web/20160505040428/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-05-14T06:13:48Z",
+                "uri": "http://web.archive.org/web/20160514061348/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-05-15T08:03:38Z",
+                "uri": "http://webarchive.loc.gov/all/20160515080338/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-05-20T22:35:43Z",
+                "uri": "http://web.archive.org/web/20160520223543/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-05-27T01:06:58Z",
+                "uri": "http://web.archive.org/web/20160527010658/http://www.apkpure.com/"
+            },
+            {
+                "datetime": "2016-05-28T16:50:49Z",
+                "uri": "http://web.archive.org/web/20160528165049/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-06-09T16:04:51Z",
+                "uri": "http://archive.is/20160609160451/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-06-09T16:28:04Z",
+                "uri": "http://web.archive.org/web/20160609162804/http://www.apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-06-18T08:43:08Z",
+                "uri": "http://web.archive.org/web/20160618084308/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-06-19T16:19:37Z",
+                "uri": "http://web.archive.org/web/20160619161937/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-06-19T16:19:54Z",
+                "uri": "http://web.archive.org/web/20160619161954/http://www.apkpure.com/"
+            },
+            {
+                "datetime": "2016-06-21T01:05:08Z",
+                "uri": "http://web.archive.org/web/20160621010508/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-06-22T06:41:33Z",
+                "uri": "http://web.archive.org/web/20160622064133/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-07-01T07:54:51Z",
+                "uri": "http://web.archive.org/web/20160701075451/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-07-16T21:25:43Z",
+                "uri": "http://archive.is/20160716212543/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-07-19T06:35:33Z",
+                "uri": "http://archive.is/20160719063533/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-08-01T15:39:45Z",
+                "uri": "http://web.archive.org/web/20160801153945/http://apkpure.com/"
+            },
+            {
+                "datetime": "2016-08-14T09:09:31Z",
+                "uri": "http://web.archive.org/web/20160814090931/http://www.apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-09-07T15:19:07Z",
+                "uri": "http://web.archive.org/web/20160907151907/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-09-18T01:28:09Z",
+                "uri": "http://web.archive.org/web/20160918012809/http://apkpure.com"
+            },
+            {
+                "datetime": "2016-09-18T01:28:10Z",
+                "uri": "http://web.archive.org/web/20160918012810/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-09-25T07:09:16Z",
+                "uri": "http://web.archive.org/web/20160925070916/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-09-26T10:55:14Z",
+                "uri": "http://web.archive.org/web/20160926105514/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-10-02T01:17:18Z",
+                "uri": "http://web.archive.org/web/20161002011718/http://apkpure.com/"
+            },
+            {
+                "datetime": "2016-10-07T17:49:07Z",
+                "uri": "http://archive.is/20161007174907/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-10-09T23:27:45Z",
+                "uri": "http://web.archive.org/web/20161009232745/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-10-15T15:20:36Z",
+                "uri": "http://web.archive.org/web/20161015152036/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-10-17T21:08:53Z",
+                "uri": "http://web.archive.org/web/20161017210853/http://www.apkpure.com/"
+            },
+            {
+                "datetime": "2016-10-21T22:13:17Z",
+                "uri": "http://web.archive.org/web/20161021221317/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-10-26T22:13:38Z",
+                "uri": "http://web.archive.org/web/20161026221338/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-11-05T02:50:36Z",
+                "uri": "http://web.archive.org/web/20161105025036/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-11-15T13:19:49Z",
+                "uri": "http://web.archive.org/web/20161115131949/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-11-19T01:36:57Z",
+                "uri": "http://web.archive.org/web/20161119013657/http://apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-11-19T17:21:47Z",
+                "uri": "http://web.archive.org/web/20161119172147/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-11-19T20:54:55Z",
+                "uri": "http://web.archive.org/web/20161119205455/http://www.apkpure.com:80/"
+            },
+            {
+                "datetime": "2016-11-28T05:11:51Z",
+                "uri": "http://web.archive.org/web/20161128051151/http://www.apkpure.com:80/?"
+            },
+            {
+                "datetime": "2016-12-19T17:42:17Z",
+                "uri": "http://web.archive.org/web/20161219174217/https://apkpure.com/"
+            },
+            {
+                "datetime": "2016-12-19T21:54:27Z",
+                "uri": "http://web.archive.org/web/20161219215427/https://www.apkpure.com/"
+            },
+            {
+                "datetime": "2016-12-27T08:52:02Z",
+                "uri": "http://web.archive.org/web/20161227085202/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-01-10T14:09:14Z",
+                "uri": "http://web.archive.org/web/20170110140914/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-01-17T19:54:57Z",
+                "uri": "http://web.archive.org/web/20170117195457/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-01-21T19:48:48Z",
+                "uri": "http://web.archive.org/web/20170121194848/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-01-22T05:54:47Z",
+                "uri": "http://web.archive.org/web/20170122055447/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-01-22T08:46:06Z",
+                "uri": "http://web.archive.org/web/20170122084606/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-01-22T09:51:51Z",
+                "uri": "http://web.archive.org/web/20170122095151/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-01-24T10:45:58Z",
+                "uri": "http://web.archive.org/web/20170124104558/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-01-24T11:38:53Z",
+                "uri": "http://web.archive.org/web/20170124113853/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-01-24T19:13:12Z",
+                "uri": "http://web.archive.org/web/20170124191312/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-01-25T04:44:30Z",
+                "uri": "http://web.archive.org/web/20170125044430/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-02-06T04:18:36Z",
+                "uri": "http://web.archive.org/web/20170206041836/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-02-18T06:31:20Z",
+                "uri": "http://web.archive.org/web/20170218063120/http://www.apkpure.com/"
+            },
+            {
+                "datetime": "2017-02-18T14:41:21Z",
+                "uri": "http://web.archive.org/web/20170218144121/https://www.apkpure.com/"
+            },
+            {
+                "datetime": "2017-02-20T21:53:06Z",
+                "uri": "http://web.archive.org/web/20170220215306/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-02-23T12:59:06Z",
+                "uri": "http://web.archive.org/web/20170223125906/http://www.apkpure.com/"
+            },
+            {
+                "datetime": "2017-02-23T12:59:08Z",
+                "uri": "http://web.archive.org/web/20170223125908/https://www.apkpure.com/"
+            },
+            {
+                "datetime": "2017-02-23T12:59:11Z",
+                "uri": "http://web.archive.org/web/20170223125911/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-03-10T06:30:49Z",
+                "uri": "http://web.archive.org/web/20170310063049/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-04-18T14:05:07Z",
+                "uri": "http://web.archive.org/web/20170418140507/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-05-18T01:58:15Z",
+                "uri": "http://web.archive.org/web/20170518015815/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-05-20T09:07:58Z",
+                "uri": "http://web.archive.org/web/20170520090758/http://apkpure.com/"
+            },
+            {
+                "datetime": "2017-05-20T09:08:02Z",
+                "uri": "http://web.archive.org/web/20170520090802/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-06-01T07:30:28Z",
+                "uri": "http://web.archive.org/web/20170601073028/http://apkpure.com/"
+            },
+            {
+                "datetime": "2017-06-01T07:31:45Z",
+                "uri": "http://web.archive.org/web/20170601073145/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-06-03T00:45:42Z",
+                "uri": "http://web.archive.org/web/20170603004542/http://apkpure.com/"
+            },
+            {
+                "datetime": "2017-06-03T00:58:36Z",
+                "uri": "http://web.archive.org/web/20170603005836/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-06-06T03:05:36Z",
+                "uri": "http://web.archive.org/web/20170606030536/http://www.apkpure.com/"
+            },
+            {
+                "datetime": "2017-06-07T03:51:46Z",
+                "uri": "http://web.archive.org/web/20170607035146/https://www.apkpure.com/"
+            },
+            {
+                "datetime": "2017-06-08T16:40:06Z",
+                "uri": "http://web.archive.org/web/20170608164006/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-06-17T02:25:43Z",
+                "uri": "http://web.archive.org/web/20170617022543/http://apkpure.com/"
+            },
+            {
+                "datetime": "2017-07-06T12:56:26Z",
+                "uri": "http://web.archive.org/web/20170706125626/http://www.apkpure.com/"
+            },
+            {
+                "datetime": "2017-07-24T14:37:24Z",
+                "uri": "http://web.archive.org/web/20170724143724/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-08-10T13:11:32Z",
+                "uri": "http://web.archive.org/web/20170810131132/https://apkpure.com"
+            },
+            {
+                "datetime": "2017-08-22T15:23:57Z",
+                "uri": "http://web.archive.org/web/20170822152357/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-08-22T15:24:18Z",
+                "uri": "http://web.archive.org/web/20170822152418/http://apkpure.com/"
+            },
+            {
+                "datetime": "2017-08-22T15:24:20Z",
+                "uri": "http://web.archive.org/web/20170822152420/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-08-22T15:24:44Z",
+                "uri": "http://web.archive.org/web/20170822152444/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-08-24T20:34:23Z",
+                "uri": "http://web.archive.org/web/20170824203423/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-08-24T20:34:47Z",
+                "uri": "http://archive.is/20170824203447/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-09-04T12:24:48Z",
+                "uri": "http://web.archive.org/web/20170904122448/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-09-07T03:27:42Z",
+                "uri": "http://web.archive.org/web/20170907032742/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-09-12T19:26:33Z",
+                "uri": "http://web.archive.org/web/20170912192633/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-09-22T07:07:19Z",
+                "uri": "http://archive.is/20170922070719/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-09-23T16:03:44Z",
+                "uri": "http://web.archive.org/web/20170923160344/http://apkpure.com/"
+            },
+            {
+                "datetime": "2017-09-26T12:28:59Z",
+                "uri": "http://web.archive.org/web/20170926122859/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-10-08T05:53:19Z",
+                "uri": "http://web.archive.org/web/20171008055319/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-10-08T06:03:30Z",
+                "uri": "http://web.archive.org/web/20171008060330/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-10-11T22:36:50Z",
+                "uri": "http://archive.is/20171011223650/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-11-06T17:02:46Z",
+                "uri": "http://web.archive.org/web/20171106170246/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-11-19T09:29:46Z",
+                "uri": "http://web.archive.org/web/20171119092946/http://apkpure.com/"
+            },
+            {
+                "datetime": "2017-11-25T01:23:30Z",
+                "uri": "http://web.archive.org/web/20171125012330/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-11-29T12:31:23Z",
+                "uri": "http://web.archive.org/web/20171129123123/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-11-29T21:56:30Z",
+                "uri": "http://wayback.archive-it.org/all/20171129215630/http://apkpure.com/"
+            },
+            {
+                "datetime": "2017-11-29T21:56:30Z",
+                "uri": "http://web.archive.org/web/20171129215630/http://apkpure.com/"
+            },
+            {
+                "datetime": "2017-11-29T21:56:31Z",
+                "uri": "http://wayback.archive-it.org/all/20171129215631/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-11-29T21:56:31Z",
+                "uri": "http://web.archive.org/web/20171129215631/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-11-29T22:48:22Z",
+                "uri": "http://web.archive.org/web/20171129224822/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-01T02:16:32Z",
+                "uri": "http://web.archive.org/web/20171201021632/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-01T19:47:51Z",
+                "uri": "http://web.archive.org/web/20171201194751/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-03T19:34:40Z",
+                "uri": "http://web.archive.org/web/20171203193440/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-08T00:31:54Z",
+                "uri": "http://wayback.archive-it.org/all/20171208003154/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-08T00:31:54Z",
+                "uri": "http://web.archive.org/web/20171208003154/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-21T06:52:16Z",
+                "uri": "http://web.archive.org/web/20171221065216/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-21T07:03:00Z",
+                "uri": "http://web.archive.org/web/20171221070300/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-21T07:14:29Z",
+                "uri": "http://web.archive.org/web/20171221071429/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-21T07:31:14Z",
+                "uri": "http://web.archive.org/web/20171221073114/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-21T07:41:43Z",
+                "uri": "http://web.archive.org/web/20171221074143/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-24T15:27:41Z",
+                "uri": "http://web.archive.org/web/20171224152741/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-26T03:19:41Z",
+                "uri": "http://web.archive.org/web/20171226031941/http://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-26T03:19:42Z",
+                "uri": "http://web.archive.org/web/20171226031942/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-27T13:08:49Z",
+                "uri": "http://web.archive.org/web/20171227130849/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-31T02:04:58Z",
+                "uri": "http://wayback.archive-it.org/all/20171231020458/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-31T02:04:58Z",
+                "uri": "http://web.archive.org/web/20171231020458/https://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-31T22:47:23Z",
+                "uri": "http://wayback.archive-it.org/all/20171231224723/http://apkpure.com/"
+            },
+            {
+                "datetime": "2017-12-31T22:47:23Z",
+                "uri": "http://web.archive.org/web/20171231224723/http://apkpure.com/"
+            },
+            {
+                "datetime": "2018-01-24T11:14:16Z",
+                "uri": "http://web.archive.org/web/20180124111416/https://apkpure.com/"
+            },
+            {
+                "datetime": "2018-01-25T09:20:08Z",
+                "uri": "http://web.archive.org/web/20180125092008/http://apkpure.com/"
+            },
+            {
+                "datetime": "2018-01-27T20:31:30Z",
+                "uri": "http://web.archive.org/web/20180127203130/https://apkpure.com/"
+            },
+            {
+                "datetime": "2018-01-30T07:02:29Z",
+                "uri": "http://web.archive.org/web/20180130070229/https://www.apkpure.com/"
+            },
+            {
+                "datetime": "2018-01-30T13:03:22Z",
+                "uri": "http://archive.is/20180130130322/https://apkpure.com/"
+            },
+            {
+                "datetime": "2018-02-01T06:46:19Z",
+                "uri": "http://web.archive.org/web/20180201064619/https://apkpure.com/"
+            }
+        ]
+    },
+    "original_uri": "https://apkpure.com/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://apkpure.com/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://apkpure.com/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://apkpure.com/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://apkpure.com/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://apkpure.com/"
+    }
+}

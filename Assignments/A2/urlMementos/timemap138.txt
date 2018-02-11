@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T21:46:10Z",
+            "uri": "http://web.archive.org/web/20180208214610/https://www.theguardian.com/football/blog/2018/feb/08/arsene-wenger-arsenal-great-leaders-parodies"
+        },
+        "last": {
+            "datetime": "2018-02-09T03:16:16Z",
+            "uri": "http://web.archive.org/web/20180209031616/https://www.theguardian.com/football/blog/2018/feb/08/arsene-wenger-arsenal-great-leaders-parodies"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T21:46:10Z",
+                "uri": "http://web.archive.org/web/20180208214610/https://www.theguardian.com/football/blog/2018/feb/08/arsene-wenger-arsenal-great-leaders-parodies"
+            },
+            {
+                "datetime": "2018-02-09T03:16:16Z",
+                "uri": "http://web.archive.org/web/20180209031616/https://www.theguardian.com/football/blog/2018/feb/08/arsene-wenger-arsenal-great-leaders-parodies"
+            }
+        ]
+    },
+    "original_uri": "https://www.theguardian.com/football/blog/2018/feb/08/arsene-wenger-arsenal-great-leaders-parodies",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/football/blog/2018/feb/08/arsene-wenger-arsenal-great-leaders-parodies",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/football/blog/2018/feb/08/arsene-wenger-arsenal-great-leaders-parodies",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/football/blog/2018/feb/08/arsene-wenger-arsenal-great-leaders-parodies",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/football/blog/2018/feb/08/arsene-wenger-arsenal-great-leaders-parodies",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/football/blog/2018/feb/08/arsene-wenger-arsenal-great-leaders-parodies"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-09-01T03:41:43Z",
+            "uri": "http://web.archive.org/web/20170901034143/http://www.firefan.com/?code=mlb2017"
+        },
+        "last": {
+            "datetime": "2017-09-05T09:15:05Z",
+            "uri": "http://web.archive.org/web/20170905091505/https://www.firefan.com/?code=mlb2017"
+        },
+        "list": [
+            {
+                "datetime": "2017-09-01T03:41:43Z",
+                "uri": "http://web.archive.org/web/20170901034143/http://www.firefan.com/?code=mlb2017"
+            },
+            {
+                "datetime": "2017-09-05T09:15:05Z",
+                "uri": "http://web.archive.org/web/20170905091505/https://www.firefan.com/?code=mlb2017"
+            }
+        ]
+    },
+    "original_uri": "https://www.firefan.com/?code=mlb2017",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.firefan.com/?code=mlb2017",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.firefan.com/?code=mlb2017",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.firefan.com/?code=mlb2017",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.firefan.com/?code=mlb2017",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.firefan.com/?code=mlb2017"
+    }
+}

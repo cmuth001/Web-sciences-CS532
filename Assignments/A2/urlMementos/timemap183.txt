@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-03-24T10:56:16Z",
+            "uri": "http://web.archive.org/web/20160324105616/http://cricketcap.co.uk/bespoke-cricket-club-club-shops/Bespoke-Club-Shop-of-Aigburth-Cricket-Club"
+        },
+        "last": {
+            "datetime": "2017-04-22T22:02:34Z",
+            "uri": "http://web.archive.org/web/20170422220234/http://cricketcap.co.uk:80/bespoke-cricket-club-club-shops/Bespoke-Club-Shop-of-Aigburth-Cricket-Club"
+        },
+        "list": [
+            {
+                "datetime": "2016-03-24T10:56:16Z",
+                "uri": "http://web.archive.org/web/20160324105616/http://cricketcap.co.uk/bespoke-cricket-club-club-shops/Bespoke-Club-Shop-of-Aigburth-Cricket-Club"
+            },
+            {
+                "datetime": "2016-05-12T22:05:53Z",
+                "uri": "http://web.archive.org/web/20160512220553/http://cricketcap.co.uk:80/bespoke-cricket-club-club-shops/Bespoke-Club-Shop-of-Aigburth-Cricket-Club"
+            },
+            {
+                "datetime": "2016-10-10T00:23:54Z",
+                "uri": "http://web.archive.org/web/20161010002354/http://cricketcap.co.uk:80/bespoke-cricket-club-club-shops/Bespoke-Club-Shop-of-Aigburth-Cricket-Club"
+            },
+            {
+                "datetime": "2016-10-23T14:08:34Z",
+                "uri": "http://web.archive.org/web/20161023140834/http://cricketcap.co.uk/bespoke-cricket-club-club-shops/Bespoke-Club-Shop-of-Aigburth-Cricket-Club"
+            },
+            {
+                "datetime": "2017-04-22T22:02:34Z",
+                "uri": "http://web.archive.org/web/20170422220234/http://cricketcap.co.uk:80/bespoke-cricket-club-club-shops/Bespoke-Club-Shop-of-Aigburth-Cricket-Club"
+            }
+        ]
+    },
+    "original_uri": "https://cricketcap.co.uk/bespoke-cricket-club-club-shops/Bespoke-Club-Shop-of-Aigburth-Cricket-Club",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://cricketcap.co.uk/bespoke-cricket-club-club-shops/Bespoke-Club-Shop-of-Aigburth-Cricket-Club",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://cricketcap.co.uk/bespoke-cricket-club-club-shops/Bespoke-Club-Shop-of-Aigburth-Cricket-Club",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://cricketcap.co.uk/bespoke-cricket-club-club-shops/Bespoke-Club-Shop-of-Aigburth-Cricket-Club",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://cricketcap.co.uk/bespoke-cricket-club-club-shops/Bespoke-Club-Shop-of-Aigburth-Cricket-Club",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://cricketcap.co.uk/bespoke-cricket-club-club-shops/Bespoke-Club-Shop-of-Aigburth-Cricket-Club"
+    }
+}

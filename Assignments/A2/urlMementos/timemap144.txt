@@ -1,0 +1,2786 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "1999-11-17T01:57:50Z",
+            "uri": "http://web.archive.org/web/19991117015750/http://purdue.rivals.com:80/"
+        },
+        "last": {
+            "datetime": "2018-02-08T06:21:03Z",
+            "uri": "http://web.archive.org/web/20180208062103/https://purdue.rivals.com/"
+        },
+        "list": [
+            {
+                "datetime": "1999-11-17T01:57:50Z",
+                "uri": "http://web.archive.org/web/19991117015750/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2000-01-16T10:23:05Z",
+                "uri": "http://web.archive.org/web/20000116102305/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2000-02-29T03:42:39Z",
+                "uri": "http://web.archive.org/web/20000229034239/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2000-03-01T11:42:02Z",
+                "uri": "http://web.archive.org/web/20000301114202/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2000-03-01T12:35:16Z",
+                "uri": "http://web.archive.org/web/20000301123516/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2000-03-02T06:37:07Z",
+                "uri": "http://web.archive.org/web/20000302063707/http://purdue.rivals.com:80/?"
+            },
+            {
+                "datetime": "2000-05-10T05:31:14Z",
+                "uri": "http://web.archive.org/web/20000510053114/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2000-05-19T22:41:29Z",
+                "uri": "http://web.archive.org/web/20000519224129/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2000-06-10T13:23:18Z",
+                "uri": "http://web.archive.org/web/20000610132318/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2000-06-10T16:30:45Z",
+                "uri": "http://web.archive.org/web/20000610163045/http://purdue.rivals.com:80/?"
+            },
+            {
+                "datetime": "2000-06-19T18:24:13Z",
+                "uri": "http://web.archive.org/web/20000619182413/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2000-06-21T00:50:09Z",
+                "uri": "http://web.archive.org/web/20000621005009/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2000-06-21T02:31:10Z",
+                "uri": "http://web.archive.org/web/20000621023110/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2000-08-18T19:36:49Z",
+                "uri": "http://web.archive.org/web/20000818193649/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2000-08-27T23:27:04Z",
+                "uri": "http://web.archive.org/web/20000827232704/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2000-11-09T07:30:00Z",
+                "uri": "http://web.archive.org/web/20001109073000/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2000-12-05T22:28:00Z",
+                "uri": "http://web.archive.org/web/20001205222800/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-03-01T18:10:26Z",
+                "uri": "http://web.archive.org/web/20010301181026/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-03-08T23:29:35Z",
+                "uri": "http://web.archive.org/web/20010308232935/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-03-09T09:19:20Z",
+                "uri": "http://web.archive.org/web/20010309091920/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-04-01T11:52:55Z",
+                "uri": "http://web.archive.org/web/20010401115255/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-04-04T23:30:53Z",
+                "uri": "http://web.archive.org/web/20010404233053/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-04-18T14:33:29Z",
+                "uri": "http://web.archive.org/web/20010418143329/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-05-15T18:48:09Z",
+                "uri": "http://web.archive.org/web/20010515184809/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-05-15T23:16:12Z",
+                "uri": "http://web.archive.org/web/20010515231612/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-05-19T07:41:07Z",
+                "uri": "http://web.archive.org/web/20010519074107/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-05-24T04:16:09Z",
+                "uri": "http://web.archive.org/web/20010524041609/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-05-24T09:45:25Z",
+                "uri": "http://web.archive.org/web/20010524094525/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-05-25T20:01:38Z",
+                "uri": "http://web.archive.org/web/20010525200138/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-05-26T21:43:43Z",
+                "uri": "http://web.archive.org/web/20010526214343/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-06-13T13:19:43Z",
+                "uri": "http://web.archive.org/web/20010613131943/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-06-27T13:10:27Z",
+                "uri": "http://web.archive.org/web/20010627131027/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-06-28T15:55:23Z",
+                "uri": "http://web.archive.org/web/20010628155523/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-07-10T08:06:03Z",
+                "uri": "http://web.archive.org/web/20010710080603/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-07-10T08:11:00Z",
+                "uri": "http://web.archive.org/web/20010710081100/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-07-20T13:21:27Z",
+                "uri": "http://web.archive.org/web/20010720132127/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-09-09T00:05:38Z",
+                "uri": "http://web.archive.org/web/20010909000538/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-09-09T00:12:58Z",
+                "uri": "http://web.archive.org/web/20010909001258/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-11-08T06:45:34Z",
+                "uri": "http://webarchive.loc.gov/all/20011108064534/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2001-11-08T06:45:34Z",
+                "uri": "http://web.archive.org/web/20011108064534/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-11-09T00:55:56Z",
+                "uri": "http://webarchive.loc.gov/all/20011109005556/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2001-11-09T22:57:15Z",
+                "uri": "http://webarchive.loc.gov/all/20011109225715/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2001-11-09T22:57:15Z",
+                "uri": "http://web.archive.org/web/20011109225715/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-11-10T08:03:50Z",
+                "uri": "http://webarchive.loc.gov/all/20011110080350/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2001-11-10T08:03:50Z",
+                "uri": "http://web.archive.org/web/20011110080350/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-11-11T09:22:10Z",
+                "uri": "http://webarchive.loc.gov/all/20011111092210/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2001-11-11T09:22:10Z",
+                "uri": "http://web.archive.org/web/20011111092210/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-11-16T06:36:51Z",
+                "uri": "http://webarchive.loc.gov/all/20011116063651/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2001-11-16T06:36:51Z",
+                "uri": "http://web.archive.org/web/20011116063651/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-11-24T23:36:54Z",
+                "uri": "http://webarchive.loc.gov/all/20011124233654/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2001-11-24T23:36:54Z",
+                "uri": "http://web.archive.org/web/20011124233654/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-11-27T13:01:16Z",
+                "uri": "http://webarchive.loc.gov/all/20011127130116/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2001-11-27T13:01:16Z",
+                "uri": "http://web.archive.org/web/20011127130116/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2001-11-30T21:23:32Z",
+                "uri": "http://web.archive.org/web/20011130212332/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2002-01-19T09:25:23Z",
+                "uri": "http://web.archive.org/web/20020119092523/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2002-01-25T06:18:04Z",
+                "uri": "http://web.archive.org/web/20020125061804/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2002-06-01T18:38:26Z",
+                "uri": "http://web.archive.org/web/20020601183826/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2002-06-09T05:38:42Z",
+                "uri": "http://web.archive.org/web/20020609053842/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2002-07-19T10:32:18Z",
+                "uri": "http://web.archive.org/web/20020719103218/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2002-09-23T09:24:47Z",
+                "uri": "http://web.archive.org/web/20020923092447/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2002-09-28T07:56:55Z",
+                "uri": "http://web.archive.org/web/20020928075655/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2002-11-24T01:49:12Z",
+                "uri": "http://web.archive.org/web/20021124014912/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2002-11-26T22:11:26Z",
+                "uri": "http://web.archive.org/web/20021126221126/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2002-11-27T10:19:27Z",
+                "uri": "http://web.archive.org/web/20021127101927/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2002-11-30T18:27:56Z",
+                "uri": "http://web.archive.org/web/20021130182756/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-01-27T13:05:29Z",
+                "uri": "http://web.archive.org/web/20030127130529/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-02-05T08:27:15Z",
+                "uri": "http://web.archive.org/web/20030205082715/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-02-18T20:34:14Z",
+                "uri": "http://web.archive.org/web/20030218203414/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-04-01T10:08:55Z",
+                "uri": "http://web.archive.org/web/20030401100855/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-04-08T01:15:05Z",
+                "uri": "http://web.archive.org/web/20030408011505/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-04-22T23:31:42Z",
+                "uri": "http://web.archive.org/web/20030422233142/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-04-23T20:49:34Z",
+                "uri": "http://web.archive.org/web/20030423204934/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-06-03T09:30:02Z",
+                "uri": "http://web.archive.org/web/20030603093002/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-06-07T18:33:17Z",
+                "uri": "http://web.archive.org/web/20030607183317/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-06-09T12:11:42Z",
+                "uri": "http://web.archive.org/web/20030609121142/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-06-09T13:48:02Z",
+                "uri": "http://web.archive.org/web/20030609134802/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-06-10T02:28:41Z",
+                "uri": "http://web.archive.org/web/20030610022841/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-06-13T09:13:37Z",
+                "uri": "http://web.archive.org/web/20030613091337/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-07-18T22:09:55Z",
+                "uri": "http://web.archive.org/web/20030718220955/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-08-02T17:49:51Z",
+                "uri": "http://web.archive.org/web/20030802174951/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-08-09T01:26:27Z",
+                "uri": "http://web.archive.org/web/20030809012627/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-09-24T23:41:15Z",
+                "uri": "http://web.archive.org/web/20030924234115/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-09-26T10:12:58Z",
+                "uri": "http://web.archive.org/web/20030926101258/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-10-11T22:34:07Z",
+                "uri": "http://web.archive.org/web/20031011223407/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-10-26T00:04:35Z",
+                "uri": "http://web.archive.org/web/20031026000435/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-12-01T13:44:46Z",
+                "uri": "http://web.archive.org/web/20031201134446/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-12-13T10:09:10Z",
+                "uri": "http://web.archive.org/web/20031213100910/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-12-13T18:40:22Z",
+                "uri": "http://web.archive.org/web/20031213184022/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2003-12-14T21:47:28Z",
+                "uri": "http://web.archive.org/web/20031214214728/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-01-31T01:26:10Z",
+                "uri": "http://web.archive.org/web/20040131012610/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-04-01T08:43:55Z",
+                "uri": "http://web.archive.org/web/20040401084355/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-05-09T16:55:25Z",
+                "uri": "http://web.archive.org/web/20040509165525/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-05-10T02:34:24Z",
+                "uri": "http://web.archive.org/web/20040510023424/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-05-18T09:25:04Z",
+                "uri": "http://web.archive.org/web/20040518092504/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-05-23T17:59:51Z",
+                "uri": "http://web.archive.org/web/20040523175951/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-06-04T08:49:39Z",
+                "uri": "http://web.archive.org/web/20040604084939/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-06-06T14:53:35Z",
+                "uri": "http://web.archive.org/web/20040606145335/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-06-07T06:52:58Z",
+                "uri": "http://web.archive.org/web/20040607065258/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-06-09T07:59:46Z",
+                "uri": "http://web.archive.org/web/20040609075946/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-07-10T10:36:54Z",
+                "uri": "http://web.archive.org/web/20040710103654/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-07-12T08:01:50Z",
+                "uri": "http://web.archive.org/web/20040712080150/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-07-25T12:16:21Z",
+                "uri": "http://web.archive.org/web/20040725121621/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-08-11T08:54:35Z",
+                "uri": "http://web.archive.org/web/20040811085435/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-08-15T07:54:33Z",
+                "uri": "http://web.archive.org/web/20040815075433/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-08-19T08:18:57Z",
+                "uri": "http://web.archive.org/web/20040819081857/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-08-26T07:12:34Z",
+                "uri": "http://web.archive.org/web/20040826071234/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-08-28T22:53:11Z",
+                "uri": "http://web.archive.org/web/20040828225311/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-08-30T08:20:29Z",
+                "uri": "http://web.archive.org/web/20040830082029/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-09-01T07:56:17Z",
+                "uri": "http://web.archive.org/web/20040901075617/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-09-04T10:16:00Z",
+                "uri": "http://web.archive.org/web/20040904101600/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-09-24T04:42:59Z",
+                "uri": "http://web.archive.org/web/20040924044259/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-09-26T13:23:46Z",
+                "uri": "http://web.archive.org/web/20040926132346/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-10-22T08:18:44Z",
+                "uri": "http://web.archive.org/web/20041022081844/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-10-26T07:44:38Z",
+                "uri": "http://web.archive.org/web/20041026074438/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-10-30T08:13:10Z",
+                "uri": "http://web.archive.org/web/20041030081310/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-11-14T09:44:02Z",
+                "uri": "http://web.archive.org/web/20041114094402/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-11-26T09:03:52Z",
+                "uri": "http://web.archive.org/web/20041126090352/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-11-27T09:43:56Z",
+                "uri": "http://web.archive.org/web/20041127094356/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-12-03T04:33:56Z",
+                "uri": "http://web.archive.org/web/20041203043356/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2004-12-13T17:01:06Z",
+                "uri": "http://web.archive.org/web/20041213170106/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-01-24T02:57:50Z",
+                "uri": "http://web.archive.org/web/20050124025750/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-01-30T09:13:11Z",
+                "uri": "http://web.archive.org/web/20050130091311/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-02-04T13:23:23Z",
+                "uri": "http://web.archive.org/web/20050204132323/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-02-04T22:08:47Z",
+                "uri": "http://web.archive.org/web/20050204220847/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-02-07T20:51:40Z",
+                "uri": "http://web.archive.org/web/20050207205140/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-02-09T14:30:23Z",
+                "uri": "http://web.archive.org/web/20050209143023/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-02-10T04:24:09Z",
+                "uri": "http://web.archive.org/web/20050210042409/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-02-12T02:52:39Z",
+                "uri": "http://web.archive.org/web/20050212025239/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-06-18T00:19:31Z",
+                "uri": "http://web.archive.org/web/20050618001931/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-08-01T08:38:40Z",
+                "uri": "http://web.archive.org/web/20050801083840/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-08-26T05:28:56Z",
+                "uri": "http://web.archive.org/web/20050826052856/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-08-30T15:53:11Z",
+                "uri": "http://web.archive.org/web/20050830155311/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-10-13T08:10:03Z",
+                "uri": "http://web.archive.org/web/20051013081003/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-10-24T03:21:59Z",
+                "uri": "http://web.archive.org/web/20051024032159/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-10-28T08:00:35Z",
+                "uri": "http://web.archive.org/web/20051028080035/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-10-31T20:53:59Z",
+                "uri": "http://web.archive.org/web/20051031205359/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-11-01T10:04:00Z",
+                "uri": "http://web.archive.org/web/20051101100400/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-11-04T01:13:54Z",
+                "uri": "http://web.archive.org/web/20051104011354/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-11-05T11:38:55Z",
+                "uri": "http://web.archive.org/web/20051105113855/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-11-25T15:33:27Z",
+                "uri": "http://web.archive.org/web/20051125153327/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-11-26T11:32:01Z",
+                "uri": "http://web.archive.org/web/20051126113201/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-11-26T22:55:49Z",
+                "uri": "http://web.archive.org/web/20051126225549/http://purdue.rivals.com:80/?"
+            },
+            {
+                "datetime": "2005-11-28T04:14:57Z",
+                "uri": "http://web.archive.org/web/20051128041457/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-12-03T04:41:59Z",
+                "uri": "http://web.archive.org/web/20051203044159/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-12-05T03:20:21Z",
+                "uri": "http://web.archive.org/web/20051205032021/http://www.purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-12-06T02:16:43Z",
+                "uri": "http://web.archive.org/web/20051206021643/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-12-20T22:12:04Z",
+                "uri": "http://web.archive.org/web/20051220221204/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-12-21T05:12:04Z",
+                "uri": "http://web.archive.org/web/20051221051204/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-12-23T13:07:30Z",
+                "uri": "http://web.archive.org/web/20051223130730/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-12-24T04:46:30Z",
+                "uri": "http://web.archive.org/web/20051224044630/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-12-24T20:10:50Z",
+                "uri": "http://web.archive.org/web/20051224201050/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-12-25T08:14:15Z",
+                "uri": "http://web.archive.org/web/20051225081415/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-12-26T08:38:54Z",
+                "uri": "http://web.archive.org/web/20051226083854/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-12-27T09:51:26Z",
+                "uri": "http://web.archive.org/web/20051227095126/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-12-28T09:44:35Z",
+                "uri": "http://web.archive.org/web/20051228094435/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-12-30T03:00:38Z",
+                "uri": "http://web.archive.org/web/20051230030038/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2005-12-31T03:39:09Z",
+                "uri": "http://web.archive.org/web/20051231033909/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-01T04:01:36Z",
+                "uri": "http://web.archive.org/web/20060101040136/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-04T07:04:15Z",
+                "uri": "http://web.archive.org/web/20060104070415/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-05T03:56:39Z",
+                "uri": "http://web.archive.org/web/20060105035639/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-06T04:41:50Z",
+                "uri": "http://web.archive.org/web/20060106044150/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-10T04:26:59Z",
+                "uri": "http://web.archive.org/web/20060110042659/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-10T14:30:00Z",
+                "uri": "http://web.archive.org/web/20060110143000/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-10T15:48:36Z",
+                "uri": "http://web.archive.org/web/20060110154836/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-11T00:58:36Z",
+                "uri": "http://web.archive.org/web/20060111005836/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-11T06:32:39Z",
+                "uri": "http://web.archive.org/web/20060111063239/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-11T17:27:50Z",
+                "uri": "http://web.archive.org/web/20060111172750/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-12T03:39:01Z",
+                "uri": "http://web.archive.org/web/20060112033901/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-13T04:56:31Z",
+                "uri": "http://web.archive.org/web/20060113045631/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-14T08:19:37Z",
+                "uri": "http://web.archive.org/web/20060114081937/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-16T05:54:30Z",
+                "uri": "http://web.archive.org/web/20060116055430/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-17T03:39:52Z",
+                "uri": "http://web.archive.org/web/20060117033952/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-18T04:32:12Z",
+                "uri": "http://web.archive.org/web/20060118043212/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-01-27T00:03:25Z",
+                "uri": "http://web.archive.org/web/20060127000325/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-02-03T04:26:52Z",
+                "uri": "http://web.archive.org/web/20060203042652/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-02-04T14:44:49Z",
+                "uri": "http://web.archive.org/web/20060204144449/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-02-06T02:08:04Z",
+                "uri": "http://web.archive.org/web/20060206020804/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-02-07T03:12:52Z",
+                "uri": "http://web.archive.org/web/20060207031252/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-02-08T02:51:20Z",
+                "uri": "http://web.archive.org/web/20060208025120/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-02-09T02:05:59Z",
+                "uri": "http://web.archive.org/web/20060209020559/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-04-11T00:49:17Z",
+                "uri": "http://web.archive.org/web/20060411004917/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-04-11T19:58:01Z",
+                "uri": "http://web.archive.org/web/20060411195801/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-04-12T17:50:39Z",
+                "uri": "http://web.archive.org/web/20060412175039/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-04-13T19:20:49Z",
+                "uri": "http://web.archive.org/web/20060413192049/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-04-14T18:23:49Z",
+                "uri": "http://web.archive.org/web/20060414182349/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-04-15T17:12:09Z",
+                "uri": "http://web.archive.org/web/20060415171209/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-04-17T17:04:17Z",
+                "uri": "http://web.archive.org/web/20060417170417/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-04-22T08:31:18Z",
+                "uri": "http://web.archive.org/web/20060422083118/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-04-22T08:31:49Z",
+                "uri": "http://web.archive.org/web/20060422083149/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-04-23T01:00:57Z",
+                "uri": "http://web.archive.org/web/20060423010057/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-04-23T16:14:57Z",
+                "uri": "http://web.archive.org/web/20060423161457/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-04-24T16:47:57Z",
+                "uri": "http://web.archive.org/web/20060424164757/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-04-27T15:15:35Z",
+                "uri": "http://web.archive.org/web/20060427151535/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-05-21T21:07:40Z",
+                "uri": "http://web.archive.org/web/20060521210740/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2006-06-09T08:24:58Z",
+                "uri": "http://webarchive.loc.gov/all/20060609082458/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2006-06-09T08:24:58Z",
+                "uri": "http://web.archive.org/web/20060609082458/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2006-07-02T17:21:24Z",
+                "uri": "http://web.archive.org/web/20060702172124/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-07-05T10:04:33Z",
+                "uri": "http://web.archive.org/web/20060705100433/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-08-10T19:39:22Z",
+                "uri": "http://web.archive.org/web/20060810193922/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-08-29T22:31:58Z",
+                "uri": "http://web.archive.org/web/20060829223158/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2006-11-02T01:03:27Z",
+                "uri": "http://web.archive.org/web/20061102010327/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2007-07-11T15:55:26Z",
+                "uri": "http://web.archive.org/web/20070711155526/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2007-07-19T11:24:03Z",
+                "uri": "http://web.archive.org/web/20070719112403/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2007-09-29T08:46:42Z",
+                "uri": "http://web.archive.org/web/20070929084642/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2007-09-30T18:34:07Z",
+                "uri": "http://web.archive.org/web/20070930183407/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2007-10-02T11:13:17Z",
+                "uri": "http://web.archive.org/web/20071002111317/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2007-10-04T10:05:11Z",
+                "uri": "http://web.archive.org/web/20071004100511/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2007-10-05T15:15:06Z",
+                "uri": "http://web.archive.org/web/20071005151506/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2007-10-06T16:11:38Z",
+                "uri": "http://web.archive.org/web/20071006161138/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2007-10-08T02:07:13Z",
+                "uri": "http://web.archive.org/web/20071008020713/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2007-10-09T15:07:19Z",
+                "uri": "http://web.archive.org/web/20071009150719/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2008-01-07T07:43:26Z",
+                "uri": "http://web.archive.org/web/20080107074326/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2008-04-10T08:13:50Z",
+                "uri": "http://web.archive.org/web/20080410081350/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2008-04-19T06:33:42Z",
+                "uri": "http://web.archive.org/web/20080419063342/http://purdue.rivals.com:80/"
+            },
+            {
+                "datetime": "2008-05-09T16:37:42Z",
+                "uri": "http://web.archive.org/web/20080509163742/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2008-05-12T08:54:36Z",
+                "uri": "http://web.archive.org/web/20080512085436/http://www.purdue.rivals.com/"
+            },
+            {
+                "datetime": "2009-10-22T13:36:06Z",
+                "uri": "http://web.archive.org/web/20091022133606/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2010-11-12T12:07:14Z",
+                "uri": "http://web.archive.org/web/20101112120714/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2010-11-12T12:25:13Z",
+                "uri": "http://webarchive.loc.gov/all/20101112122513/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2010-11-12T12:25:13Z",
+                "uri": "http://web.archive.org/web/20101112122513/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2010-11-21T08:46:41Z",
+                "uri": "http://webarchive.loc.gov/all/20101121084641/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2010-11-21T08:46:41Z",
+                "uri": "http://web.archive.org/web/20101121084641/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2010-11-26T23:07:59Z",
+                "uri": "http://web.archive.org/web/20101126230759/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2010-11-27T11:53:38Z",
+                "uri": "http://webarchive.loc.gov/all/20101127115338/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2010-11-27T11:53:38Z",
+                "uri": "http://web.archive.org/web/20101127115338/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2011-02-01T16:16:53Z",
+                "uri": "http://web.archive.org/web/20110201161653/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2011-03-03T08:09:35Z",
+                "uri": "http://web.archive.org/web/20110303080935/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2011-04-27T03:48:29Z",
+                "uri": "http://web.archive.org/web/20110427034829/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2011-04-27T03:48:35Z",
+                "uri": "http://web.archive.org/web/20110427034835/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2011-07-15T19:09:41Z",
+                "uri": "http://web.archive.org/web/20110715190941/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2011-07-19T05:10:42Z",
+                "uri": "http://web.archive.org/web/20110719051042/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2011-08-09T11:15:04Z",
+                "uri": "http://web.archive.org/web/20110809111504/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2011-08-11T04:46:01Z",
+                "uri": "http://web.archive.org/web/20110811044601/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2011-09-29T14:40:58Z",
+                "uri": "http://web.archive.org/web/20110929144058/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2011-10-10T22:46:41Z",
+                "uri": "http://web.archive.org/web/20111010224641/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2011-10-26T05:51:48Z",
+                "uri": "http://web.archive.org/web/20111026055148/http://www.purdue.rivals.com/"
+            },
+            {
+                "datetime": "2012-01-11T18:39:02Z",
+                "uri": "http://web.archive.org/web/20120111183902/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2012-01-12T07:13:00Z",
+                "uri": "http://web.archive.org/web/20120112071300/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2012-01-13T05:37:28Z",
+                "uri": "http://web.archive.org/web/20120113053728/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2012-01-13T17:47:24Z",
+                "uri": "http://web.archive.org/web/20120113174724/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2012-01-14T01:29:39Z",
+                "uri": "http://web.archive.org/web/20120114012939/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2012-01-15T05:27:09Z",
+                "uri": "http://web.archive.org/web/20120115052709/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2012-02-05T20:27:10Z",
+                "uri": "http://web.archive.org/web/20120205202710/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2012-02-25T05:57:16Z",
+                "uri": "http://web.archive.org/web/20120225055716/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2012-02-28T08:39:50Z",
+                "uri": "http://web.archive.org/web/20120228083950/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2012-05-02T02:34:44Z",
+                "uri": "http://web.archive.org/web/20120502023444/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2012-05-02T09:13:04Z",
+                "uri": "http://web.archive.org/web/20120502091304/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2012-07-21T12:21:20Z",
+                "uri": "http://webarchive.loc.gov/all/20120721122120/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2012-07-22T20:38:40Z",
+                "uri": "http://web.archive.org/web/20120722203840/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2012-10-17T12:00:38Z",
+                "uri": "http://web.archive.org/web/20121017120038/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2012-12-15T22:42:59Z",
+                "uri": "http://webarchive.loc.gov/all/20121215224259/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-01-24T00:07:20Z",
+                "uri": "http://web.archive.org/web/20130124000720/http://www.purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-01-24T10:19:12Z",
+                "uri": "http://archive.is/20130124101912/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-02-24T03:29:40Z",
+                "uri": "http://web.archive.org/web/20130224032940/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-03-21T19:57:27Z",
+                "uri": "http://web.archive.org/web/20130321195727/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-04-06T20:43:21Z",
+                "uri": "http://web.archive.org/web/20130406204321/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-04-12T01:54:56Z",
+                "uri": "http://web.archive.org/web/20130412015456/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-04-15T17:25:47Z",
+                "uri": "http://web.archive.org/web/20130415172547/http://www.purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-04-18T17:36:47Z",
+                "uri": "http://wayback.archive-it.org/all/20130418173647/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-04-18T17:36:47Z",
+                "uri": "http://web.archive.org/web/20130418173647/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-04-20T04:44:22Z",
+                "uri": "http://wayback.archive-it.org/all/20130420044422/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-04-20T04:44:22Z",
+                "uri": "http://web.archive.org/web/20130420044422/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-04-20T09:18:31Z",
+                "uri": "http://wayback.archive-it.org/all/20130420091831/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-04-20T09:18:31Z",
+                "uri": "http://web.archive.org/web/20130420091831/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-04-20T12:12:51Z",
+                "uri": "http://wayback.archive-it.org/all/20130420121251/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-04-20T12:12:51Z",
+                "uri": "http://web.archive.org/web/20130420121251/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-04-21T00:09:57Z",
+                "uri": "http://wayback.archive-it.org/all/20130421000957/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-04-21T00:09:57Z",
+                "uri": "http://web.archive.org/web/20130421000957/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-04-29T20:13:59Z",
+                "uri": "http://web.archive.org/web/20130429201359/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-08-14T17:56:44Z",
+                "uri": "http://web.archive.org/web/20130814175644/http://purdue.rivals.com"
+            },
+            {
+                "datetime": "2013-08-22T02:52:22Z",
+                "uri": "http://web.archive.org/web/20130822025222/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-09-27T13:44:34Z",
+                "uri": "http://web.archive.org/web/20130927134434/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-10-09T03:46:33Z",
+                "uri": "http://web.archive.org/web/20131009034633/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-10-14T14:24:49Z",
+                "uri": "http://web.archive.org/web/20131014142449/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-10-22T16:53:51Z",
+                "uri": "http://web.archive.org/web/20131022165351/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-12-09T16:44:38Z",
+                "uri": "http://wayback.archive-it.org/all/20131209164438/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-12-09T16:44:38Z",
+                "uri": "http://web.archive.org/web/20131209164438/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-12-09T19:48:06Z",
+                "uri": "http://wayback.archive-it.org/all/20131209194806/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2013-12-09T19:48:06Z",
+                "uri": "http://web.archive.org/web/20131209194806/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-01-01T06:47:02Z",
+                "uri": "http://web.archive.org/web/20140101064702/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-01-22T21:16:31Z",
+                "uri": "http://web.archive.org/web/20140122211631/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-01-23T11:41:25Z",
+                "uri": "http://web.archive.org/web/20140123114125/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-01-24T08:31:12Z",
+                "uri": "http://wayback.archive-it.org/all/20140124083112/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-01-24T08:31:12Z",
+                "uri": "http://web.archive.org/web/20140124083112/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-01-24T13:55:07Z",
+                "uri": "http://web.archive.org/web/20140124135507/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-01-31T16:46:55Z",
+                "uri": "http://web.archive.org/web/20140131164655/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-02-07T12:30:55Z",
+                "uri": "http://web.archive.org/web/20140207123055/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-02-08T03:51:20Z",
+                "uri": "http://web.archive.org/web/20140208035120/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-02-14T15:23:41Z",
+                "uri": "http://web.archive.org/web/20140214152341/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-02-21T15:32:01Z",
+                "uri": "http://web.archive.org/web/20140221153201/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-02-22T05:04:21Z",
+                "uri": "http://webarchive.loc.gov/all/20140222050421/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-02-28T15:56:42Z",
+                "uri": "http://web.archive.org/web/20140228155642/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-03-02T11:50:00Z",
+                "uri": "http://webarchive.loc.gov/all/20140302115000/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-03-07T17:10:27Z",
+                "uri": "http://web.archive.org/web/20140307171027/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-03-09T18:27:44Z",
+                "uri": "http://webarchive.loc.gov/all/20140309182744/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-03-14T18:43:50Z",
+                "uri": "http://web.archive.org/web/20140314184350/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-03-21T22:07:53Z",
+                "uri": "http://web.archive.org/web/20140321220753/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-03-27T01:30:24Z",
+                "uri": "http://web.archive.org/web/20140327013024/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-03-29T04:04:37Z",
+                "uri": "http://web.archive.org/web/20140329040437/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-04-04T20:20:43Z",
+                "uri": "http://web.archive.org/web/20140404202043/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-04-09T09:24:34Z",
+                "uri": "http://web.archive.org/web/20140409092434/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-04-11T20:12:25Z",
+                "uri": "http://web.archive.org/web/20140411201225/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-04-18T19:43:42Z",
+                "uri": "http://web.archive.org/web/20140418194342/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-04-25T20:26:13Z",
+                "uri": "http://web.archive.org/web/20140425202613/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-05-02T20:13:27Z",
+                "uri": "http://web.archive.org/web/20140502201327/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-05-16T20:30:33Z",
+                "uri": "http://web.archive.org/web/20140516203033/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-05-23T19:59:45Z",
+                "uri": "http://web.archive.org/web/20140523195945/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-05-30T22:01:08Z",
+                "uri": "http://web.archive.org/web/20140530220108/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-06-06T21:22:56Z",
+                "uri": "http://web.archive.org/web/20140606212256/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-06-13T22:55:25Z",
+                "uri": "http://web.archive.org/web/20140613225525/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-06-21T00:32:43Z",
+                "uri": "http://web.archive.org/web/20140621003243/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-06-28T01:55:28Z",
+                "uri": "http://web.archive.org/web/20140628015528/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-07-01T19:52:16Z",
+                "uri": "http://wayback.archive-it.org/all/20140701195216/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-07-01T19:52:16Z",
+                "uri": "http://wayback.archive-it.org/all/20140701195216/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-07-01T19:52:16Z",
+                "uri": "http://web.archive.org/web/20140701195216/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-07-02T22:53:30Z",
+                "uri": "http://web.archive.org/web/20140702225330/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-07-03T22:58:28Z",
+                "uri": "http://web.archive.org/web/20140703225828/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-07-05T00:50:55Z",
+                "uri": "http://web.archive.org/web/20140705005055/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-07-12T00:57:35Z",
+                "uri": "http://web.archive.org/web/20140712005735/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-07-19T13:05:14Z",
+                "uri": "http://web.archive.org/web/20140719130514/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-07-26T03:01:41Z",
+                "uri": "http://web.archive.org/web/20140726030141/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-08-02T10:27:09Z",
+                "uri": "http://web.archive.org/web/20140802102709/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-08-07T16:33:41Z",
+                "uri": "http://wayback.archive-it.org/all/20140807163341/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-08-07T16:33:41Z",
+                "uri": "http://wayback.archive-it.org/all/20140807163341/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-08-07T16:33:41Z",
+                "uri": "http://web.archive.org/web/20140807163341/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-08-09T03:56:07Z",
+                "uri": "http://web.archive.org/web/20140809035607/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-08-09T03:56:15Z",
+                "uri": "http://web.archive.org/web/20140809035615/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-08-13T04:06:29Z",
+                "uri": "http://web.archive.org/web/20140813040629/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-08-16T06:04:58Z",
+                "uri": "http://web.archive.org/web/20140816060458/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-08-23T06:57:04Z",
+                "uri": "http://web.archive.org/web/20140823065704/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-08-30T10:07:41Z",
+                "uri": "http://web.archive.org/web/20140830100741/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-09-04T03:48:33Z",
+                "uri": "http://web.archive.org/web/20140904034833/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-09-06T08:29:13Z",
+                "uri": "http://web.archive.org/web/20140906082913/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-09-13T10:08:08Z",
+                "uri": "http://web.archive.org/web/20140913100808/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-09-20T10:26:29Z",
+                "uri": "http://web.archive.org/web/20140920102629/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-09-27T17:56:08Z",
+                "uri": "http://web.archive.org/web/20140927175608/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-10-07T05:13:49Z",
+                "uri": "http://web.archive.org/web/20141007051349/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-10-09T16:00:15Z",
+                "uri": "http://web.archive.org/web/20141009160015/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-10-16T02:25:22Z",
+                "uri": "http://web.archive.org/web/20141016022522/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-10-19T16:16:08Z",
+                "uri": "http://web.archive.org/web/20141019161608/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-10-23T04:04:54Z",
+                "uri": "http://web.archive.org/web/20141023040454/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-10-30T08:29:38Z",
+                "uri": "http://web.archive.org/web/20141030082938/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-11-11T06:39:52Z",
+                "uri": "http://web.archive.org/web/20141111063952/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-11-20T07:01:27Z",
+                "uri": "http://web.archive.org/web/20141120070127/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-11-26T21:41:13Z",
+                "uri": "http://web.archive.org/web/20141126214113/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-12-04T12:10:54Z",
+                "uri": "http://web.archive.org/web/20141204121054/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-12-11T06:50:00Z",
+                "uri": "http://web.archive.org/web/20141211065000/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-12-19T12:05:06Z",
+                "uri": "http://web.archive.org/web/20141219120506/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-12-19T21:41:54Z",
+                "uri": "http://web.archive.org/web/20141219214154/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2014-12-26T07:11:04Z",
+                "uri": "http://web.archive.org/web/20141226071104/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-01-02T06:17:18Z",
+                "uri": "http://web.archive.org/web/20150102061718/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-01-09T13:57:11Z",
+                "uri": "http://web.archive.org/web/20150109135711/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-01-16T04:09:58Z",
+                "uri": "http://wayback.archive-it.org/all/20150116040958/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-01-16T04:09:58Z",
+                "uri": "http://wayback.archive-it.org/all/20150116040958/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-01-16T04:09:58Z",
+                "uri": "http://web.archive.org/web/20150116040958/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-01-16T04:10:07Z",
+                "uri": "http://wayback.archive-it.org/all/20150116041007/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-01-16T04:10:07Z",
+                "uri": "http://wayback.archive-it.org/all/20150116041007/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-01-16T04:10:07Z",
+                "uri": "http://web.archive.org/web/20150116041007/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-01-16T08:03:36Z",
+                "uri": "http://web.archive.org/web/20150116080336/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-01-23T07:42:02Z",
+                "uri": "http://web.archive.org/web/20150123074202/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-03-16T08:11:43Z",
+                "uri": "http://web.archive.org/web/20150316081143/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-03-18T23:58:07Z",
+                "uri": "http://web.archive.org/web/20150318235807/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-04-17T21:05:55Z",
+                "uri": "http://web.archive.org/web/20150417210555/http://www.purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-04-20T21:05:28Z",
+                "uri": "http://web.archive.org/web/20150420210528/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-05-11T12:06:57Z",
+                "uri": "http://webarchive.loc.gov/all/20150511120657/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-05-26T13:12:06Z",
+                "uri": "http://web.archive.org/web/20150526131206/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-05-26T13:12:18Z",
+                "uri": "http://web.archive.org/web/20150526131218/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-05-26T23:34:38Z",
+                "uri": "http://web.archive.org/web/20150526233438/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-06-02T22:05:39Z",
+                "uri": "http://web.archive.org/web/20150602220539/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-06-10T21:39:45Z",
+                "uri": "http://webarchive.loc.gov/all/20150610213945/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-06-15T08:40:19Z",
+                "uri": "http://web.archive.org/web/20150615084019/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-06-17T03:06:07Z",
+                "uri": "http://web.archive.org/web/20150617030607/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-06-29T00:55:35Z",
+                "uri": "http://web.archive.org/web/20150629005535/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-07-06T23:10:45Z",
+                "uri": "http://web.archive.org/web/20150706231045/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-07-17T03:16:22Z",
+                "uri": "http://web.archive.org/web/20150717031622/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-07-23T02:26:53Z",
+                "uri": "http://webarchive.loc.gov/all/20150723022653/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-08-14T12:24:02Z",
+                "uri": "http://web.archive.org/web/20150814122402/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-08-24T19:04:01Z",
+                "uri": "http://web.archive.org/web/20150824190401/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-09-06T01:30:08Z",
+                "uri": "http://web.archive.org/web/20150906013008/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-09-06T17:20:59Z",
+                "uri": "http://web.archive.org/web/20150906172059/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-10-16T05:13:43Z",
+                "uri": "http://web.archive.org/web/20151016051343/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-10-23T09:57:40Z",
+                "uri": "http://web.archive.org/web/20151023095740/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-10-30T13:51:59Z",
+                "uri": "http://web.archive.org/web/20151030135159/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-11-06T16:31:49Z",
+                "uri": "http://web.archive.org/web/20151106163149/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-11-10T23:39:19Z",
+                "uri": "http://wayback.archive-it.org/all/20151110233919/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-11-10T23:39:19Z",
+                "uri": "http://web.archive.org/web/20151110233919/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-11-14T15:17:29Z",
+                "uri": "http://web.archive.org/web/20151114151729/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-11-21T18:36:45Z",
+                "uri": "http://web.archive.org/web/20151121183645/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-11-28T07:29:26Z",
+                "uri": "http://web.archive.org/web/20151128072926/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-12-05T17:50:38Z",
+                "uri": "http://web.archive.org/web/20151205175038/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-12-12T13:46:52Z",
+                "uri": "http://web.archive.org/web/20151212134652/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2015-12-26T09:46:29Z",
+                "uri": "http://web.archive.org/web/20151226094629/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-01-02T11:17:29Z",
+                "uri": "http://web.archive.org/web/20160102111729/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-01-09T22:17:44Z",
+                "uri": "http://web.archive.org/web/20160109221744/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-01-15T04:34:11Z",
+                "uri": "http://web.archive.org/web/20160115043411/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-01-16T12:14:47Z",
+                "uri": "http://web.archive.org/web/20160116121447/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-01-26T17:43:51Z",
+                "uri": "http://web.archive.org/web/20160126174351/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-01-29T04:03:44Z",
+                "uri": "http://web.archive.org/web/20160129040344/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-01-29T12:13:18Z",
+                "uri": "http://web.archive.org/web/20160129121318/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-02-05T05:34:18Z",
+                "uri": "http://web.archive.org/web/20160205053418/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-02-05T05:34:23Z",
+                "uri": "http://web.archive.org/web/20160205053423/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-02-05T18:54:54Z",
+                "uri": "http://web.archive.org/web/20160205185454/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-02-13T04:32:53Z",
+                "uri": "http://web.archive.org/web/20160213043253/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-02-20T00:58:51Z",
+                "uri": "http://web.archive.org/web/20160220005851/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-03-05T01:32:55Z",
+                "uri": "http://web.archive.org/web/20160305013255/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-03-09T07:50:59Z",
+                "uri": "http://web.archive.org/web/20160309075059/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-03-16T23:47:45Z",
+                "uri": "http://web.archive.org/web/20160316234745/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-03-17T21:13:22Z",
+                "uri": "http://web.archive.org/web/20160317211322/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-03-19T17:36:00Z",
+                "uri": "http://web.archive.org/web/20160319173600/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-03-23T22:35:26Z",
+                "uri": "http://web.archive.org/web/20160323223526/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-03-30T03:32:42Z",
+                "uri": "http://web.archive.org/web/20160330033242/http://www.purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-04-06T21:55:07Z",
+                "uri": "http://web.archive.org/web/20160406215507/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-04-08T16:54:34Z",
+                "uri": "http://web.archive.org/web/20160408165434/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-04-14T18:32:04Z",
+                "uri": "http://web.archive.org/web/20160414183204/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-04-22T01:15:58Z",
+                "uri": "http://web.archive.org/web/20160422011558/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-04-24T15:38:18Z",
+                "uri": "http://web.archive.org/web/20160424153818/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-05-05T04:09:21Z",
+                "uri": "http://web.archive.org/web/20160505040921/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-06-02T05:37:36Z",
+                "uri": "http://web.archive.org/web/20160602053736/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-06-10T16:56:08Z",
+                "uri": "http://web.archive.org/web/20160610165608/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-06-10T16:59:59Z",
+                "uri": "http://web.archive.org/web/20160610165959/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-06-10T22:12:11Z",
+                "uri": "http://web.archive.org/web/20160610221211/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-06-15T17:21:53Z",
+                "uri": "http://web.archive.org/web/20160615172153/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-06-15T17:21:57Z",
+                "uri": "http://web.archive.org/web/20160615172157/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-06-17T20:48:48Z",
+                "uri": "http://web.archive.org/web/20160617204848/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-07-08T12:51:34Z",
+                "uri": "http://web.archive.org/web/20160708125134/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-07-14T19:23:12Z",
+                "uri": "http://webarchive.loc.gov/all/20160714192312/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-07-22T01:26:28Z",
+                "uri": "http://webarchive.loc.gov/all/20160722012628/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-07-29T03:27:00Z",
+                "uri": "http://webarchive.loc.gov/all/20160729032700/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-08-09T07:05:46Z",
+                "uri": "http://webarchive.loc.gov/all/20160809070546/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-08-12T03:46:44Z",
+                "uri": "http://web.archive.org/web/20160812034644/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-08-15T23:34:07Z",
+                "uri": "http://webarchive.loc.gov/all/20160815233407/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-08-19T05:35:08Z",
+                "uri": "http://web.archive.org/web/20160819053508/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-08-30T02:32:45Z",
+                "uri": "http://web.archive.org/web/20160830023245/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-09-06T01:47:02Z",
+                "uri": "http://web.archive.org/web/20160906014702/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-09-10T19:27:56Z",
+                "uri": "http://web.archive.org/web/20160910192756/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-09-19T23:46:32Z",
+                "uri": "http://web.archive.org/web/20160919234632/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-09-30T04:06:07Z",
+                "uri": "http://web.archive.org/web/20160930040607/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-10-07T06:53:31Z",
+                "uri": "http://web.archive.org/web/20161007065331/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-10-13T09:55:12Z",
+                "uri": "http://web.archive.org/web/20161013095512/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-10-14T05:12:14Z",
+                "uri": "http://web.archive.org/web/20161014051214/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-10-14T18:14:47Z",
+                "uri": "http://web.archive.org/web/20161014181447/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-10-15T19:41:11Z",
+                "uri": "http://web.archive.org/web/20161015194111/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-10-16T18:19:18Z",
+                "uri": "http://web.archive.org/web/20161016181918/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-10-17T18:48:27Z",
+                "uri": "http://web.archive.org/web/20161017184827/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-11-08T05:02:40Z",
+                "uri": "http://web.archive.org/web/20161108050240/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-11-15T00:58:19Z",
+                "uri": "http://web.archive.org/web/20161115005819/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-11-22T00:41:44Z",
+                "uri": "http://web.archive.org/web/20161122004144/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-11-29T00:55:38Z",
+                "uri": "http://web.archive.org/web/20161129005538/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-12-06T01:15:00Z",
+                "uri": "http://web.archive.org/web/20161206011500/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-12-09T01:50:53Z",
+                "uri": "http://web.archive.org/web/20161209015053/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-12-10T02:20:10Z",
+                "uri": "http://web.archive.org/web/20161210022010/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-12-11T05:35:03Z",
+                "uri": "http://web.archive.org/web/20161211053503/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-12-12T04:27:57Z",
+                "uri": "http://web.archive.org/web/20161212042757/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-12-13T02:57:31Z",
+                "uri": "http://web.archive.org/web/20161213025731/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-12-22T06:21:19Z",
+                "uri": "http://web.archive.org/web/20161222062119/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2016-12-29T07:07:51Z",
+                "uri": "http://web.archive.org/web/20161229070751/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-01-03T02:45:51Z",
+                "uri": "http://web.archive.org/web/20170103024551/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-01-03T20:07:39Z",
+                "uri": "http://web.archive.org/web/20170103200739/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-01-05T06:49:24Z",
+                "uri": "http://web.archive.org/web/20170105064924/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-01-12T05:49:43Z",
+                "uri": "http://web.archive.org/web/20170112054943/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-01-19T05:53:10Z",
+                "uri": "http://web.archive.org/web/20170119055310/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-01-22T05:38:24Z",
+                "uri": "http://web.archive.org/web/20170122053824/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-01-25T07:04:53Z",
+                "uri": "http://web.archive.org/web/20170125070453/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-01-26T06:27:10Z",
+                "uri": "http://web.archive.org/web/20170126062710/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-02-02T08:31:32Z",
+                "uri": "http://web.archive.org/web/20170202083132/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-02-09T08:03:37Z",
+                "uri": "http://web.archive.org/web/20170209080337/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-02-16T08:15:29Z",
+                "uri": "http://web.archive.org/web/20170216081529/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-02-23T09:08:13Z",
+                "uri": "http://web.archive.org/web/20170223090813/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-03-03T02:51:20Z",
+                "uri": "http://web.archive.org/web/20170303025120/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-03-09T01:11:29Z",
+                "uri": "http://wayback.archive-it.org/all/20170309011129/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-03-09T01:11:29Z",
+                "uri": "http://web.archive.org/web/20170309011129/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-03-10T03:38:28Z",
+                "uri": "http://web.archive.org/web/20170310033828/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-03-14T08:10:57Z",
+                "uri": "http://web.archive.org/web/20170314081057/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-03-17T04:40:44Z",
+                "uri": "http://web.archive.org/web/20170317044044/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-03-24T05:03:08Z",
+                "uri": "http://web.archive.org/web/20170324050308/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-03-31T06:15:14Z",
+                "uri": "http://web.archive.org/web/20170331061514/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-02T13:37:59Z",
+                "uri": "http://web.archive.org/web/20170402133759/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-03T14:56:04Z",
+                "uri": "http://web.archive.org/web/20170403145604/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-04T15:16:18Z",
+                "uri": "http://web.archive.org/web/20170404151618/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-05T15:35:47Z",
+                "uri": "http://web.archive.org/web/20170405153547/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-06T16:38:24Z",
+                "uri": "http://web.archive.org/web/20170406163824/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-07T05:15:53Z",
+                "uri": "http://web.archive.org/web/20170407051553/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-07T18:12:07Z",
+                "uri": "http://web.archive.org/web/20170407181207/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-08T15:46:13Z",
+                "uri": "http://web.archive.org/web/20170408154613/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-09T16:01:54Z",
+                "uri": "http://web.archive.org/web/20170409160154/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-10T18:17:03Z",
+                "uri": "http://web.archive.org/web/20170410181703/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-11T19:51:47Z",
+                "uri": "http://web.archive.org/web/20170411195147/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-12T20:18:53Z",
+                "uri": "http://web.archive.org/web/20170412201853/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-13T20:40:30Z",
+                "uri": "http://web.archive.org/web/20170413204030/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-14T06:11:53Z",
+                "uri": "http://web.archive.org/web/20170414061153/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-14T23:07:49Z",
+                "uri": "http://web.archive.org/web/20170414230749/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-15T23:38:12Z",
+                "uri": "http://web.archive.org/web/20170415233812/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-17T01:26:10Z",
+                "uri": "http://web.archive.org/web/20170417012610/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-18T01:27:24Z",
+                "uri": "http://web.archive.org/web/20170418012724/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-19T05:43:15Z",
+                "uri": "http://web.archive.org/web/20170419054315/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-20T04:24:03Z",
+                "uri": "http://web.archive.org/web/20170420042403/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-21T07:12:33Z",
+                "uri": "http://web.archive.org/web/20170421071233/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-21T09:51:20Z",
+                "uri": "http://web.archive.org/web/20170421095120/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-23T08:15:27Z",
+                "uri": "http://web.archive.org/web/20170423081527/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-24T09:30:59Z",
+                "uri": "http://web.archive.org/web/20170424093059/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-25T07:51:09Z",
+                "uri": "http://web.archive.org/web/20170425075109/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-26T08:56:38Z",
+                "uri": "http://web.archive.org/web/20170426085638/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-27T10:01:03Z",
+                "uri": "http://web.archive.org/web/20170427100103/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-28T09:34:15Z",
+                "uri": "http://web.archive.org/web/20170428093415/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-29T00:07:44Z",
+                "uri": "http://web.archive.org/web/20170429000744/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-29T10:51:16Z",
+                "uri": "http://web.archive.org/web/20170429105116/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-04-30T10:51:25Z",
+                "uri": "http://web.archive.org/web/20170430105125/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-01T12:01:53Z",
+                "uri": "http://web.archive.org/web/20170501120153/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-02T12:39:55Z",
+                "uri": "http://web.archive.org/web/20170502123955/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-03T12:50:58Z",
+                "uri": "http://web.archive.org/web/20170503125058/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-04T14:09:41Z",
+                "uri": "http://web.archive.org/web/20170504140941/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-05T13:14:59Z",
+                "uri": "http://web.archive.org/web/20170505131459/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-06T02:31:45Z",
+                "uri": "http://web.archive.org/web/20170506023145/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-06T13:58:46Z",
+                "uri": "http://web.archive.org/web/20170506135846/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-07T14:46:22Z",
+                "uri": "http://web.archive.org/web/20170507144622/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-08T15:31:29Z",
+                "uri": "http://web.archive.org/web/20170508153129/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-09T16:44:28Z",
+                "uri": "http://web.archive.org/web/20170509164428/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-10T21:44:02Z",
+                "uri": "http://web.archive.org/web/20170510214402/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-11T22:59:17Z",
+                "uri": "http://web.archive.org/web/20170511225917/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-13T04:42:03Z",
+                "uri": "http://web.archive.org/web/20170513044203/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-14T15:26:07Z",
+                "uri": "http://web.archive.org/web/20170514152607/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-15T16:51:55Z",
+                "uri": "http://web.archive.org/web/20170515165155/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-16T17:31:41Z",
+                "uri": "http://web.archive.org/web/20170516173141/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-17T18:35:40Z",
+                "uri": "http://web.archive.org/web/20170517183540/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-18T19:45:24Z",
+                "uri": "http://web.archive.org/web/20170518194524/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-19T19:37:56Z",
+                "uri": "http://web.archive.org/web/20170519193756/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-20T06:25:00Z",
+                "uri": "http://web.archive.org/web/20170520062500/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-20T20:44:33Z",
+                "uri": "http://web.archive.org/web/20170520204433/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-21T20:15:34Z",
+                "uri": "http://web.archive.org/web/20170521201534/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-22T23:30:15Z",
+                "uri": "http://web.archive.org/web/20170522233015/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-23T22:42:19Z",
+                "uri": "http://web.archive.org/web/20170523224219/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-25T00:00:39Z",
+                "uri": "http://web.archive.org/web/20170525000039/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-25T23:19:01Z",
+                "uri": "http://web.archive.org/web/20170525231901/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-27T01:54:42Z",
+                "uri": "http://web.archive.org/web/20170527015442/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-27T05:50:10Z",
+                "uri": "http://web.archive.org/web/20170527055010/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-28T02:07:34Z",
+                "uri": "http://web.archive.org/web/20170528020734/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-29T06:56:41Z",
+                "uri": "http://web.archive.org/web/20170529065641/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-30T05:23:44Z",
+                "uri": "http://web.archive.org/web/20170530052344/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-05-31T05:20:54Z",
+                "uri": "http://web.archive.org/web/20170531052054/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-01T04:48:02Z",
+                "uri": "http://web.archive.org/web/20170601044802/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-02T14:20:24Z",
+                "uri": "http://web.archive.org/web/20170602142024/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-03T08:07:04Z",
+                "uri": "http://web.archive.org/web/20170603080704/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-03T12:37:34Z",
+                "uri": "http://web.archive.org/web/20170603123734/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-04T11:49:29Z",
+                "uri": "http://web.archive.org/web/20170604114929/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-06T01:04:06Z",
+                "uri": "http://web.archive.org/web/20170606010406/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-06T01:04:47Z",
+                "uri": "http://web.archive.org/web/20170606010447/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-06T14:08:22Z",
+                "uri": "http://web.archive.org/web/20170606140822/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-07T17:03:48Z",
+                "uri": "http://web.archive.org/web/20170607170348/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-08T16:39:30Z",
+                "uri": "http://web.archive.org/web/20170608163930/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-09T18:51:21Z",
+                "uri": "http://web.archive.org/web/20170609185121/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-10T07:18:56Z",
+                "uri": "http://web.archive.org/web/20170610071856/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-10T20:30:22Z",
+                "uri": "http://web.archive.org/web/20170610203022/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-11T19:51:02Z",
+                "uri": "http://web.archive.org/web/20170611195102/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-12T21:21:05Z",
+                "uri": "http://web.archive.org/web/20170612212105/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-14T01:51:46Z",
+                "uri": "http://web.archive.org/web/20170614015146/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-14T23:35:28Z",
+                "uri": "http://web.archive.org/web/20170614233528/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-16T01:16:50Z",
+                "uri": "http://web.archive.org/web/20170616011650/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-16T16:34:24Z",
+                "uri": "http://web.archive.org/web/20170616163424/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-17T00:36:21Z",
+                "uri": "http://web.archive.org/web/20170617003621/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-17T09:17:00Z",
+                "uri": "http://web.archive.org/web/20170617091700/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-17T22:12:15Z",
+                "uri": "http://web.archive.org/web/20170617221215/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-18T22:49:59Z",
+                "uri": "http://web.archive.org/web/20170618224959/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-20T00:30:17Z",
+                "uri": "http://web.archive.org/web/20170620003017/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-21T00:40:19Z",
+                "uri": "http://web.archive.org/web/20170621004019/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-22T04:09:34Z",
+                "uri": "http://web.archive.org/web/20170622040934/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-23T03:45:19Z",
+                "uri": "http://web.archive.org/web/20170623034519/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-24T04:18:58Z",
+                "uri": "http://web.archive.org/web/20170624041858/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-24T09:55:23Z",
+                "uri": "http://web.archive.org/web/20170624095523/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-25T02:23:58Z",
+                "uri": "http://web.archive.org/web/20170625022358/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-25T04:24:32Z",
+                "uri": "http://web.archive.org/web/20170625042432/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-26T05:01:07Z",
+                "uri": "http://web.archive.org/web/20170626050107/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-27T09:32:36Z",
+                "uri": "http://web.archive.org/web/20170627093236/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-28T09:42:42Z",
+                "uri": "http://web.archive.org/web/20170628094242/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-29T07:45:10Z",
+                "uri": "http://web.archive.org/web/20170629074510/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-06-30T07:34:18Z",
+                "uri": "http://web.archive.org/web/20170630073418/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-01T08:52:07Z",
+                "uri": "http://web.archive.org/web/20170701085207/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-01T09:02:11Z",
+                "uri": "http://web.archive.org/web/20170701090211/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-01T11:02:48Z",
+                "uri": "http://wayback.archive-it.org/all/20170701110248/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-01T11:02:48Z",
+                "uri": "http://web.archive.org/web/20170701110248/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-02T09:23:47Z",
+                "uri": "http://web.archive.org/web/20170702092347/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-02T09:39:47Z",
+                "uri": "http://web.archive.org/web/20170702093947/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-03T10:42:30Z",
+                "uri": "http://web.archive.org/web/20170703104230/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-04T13:06:04Z",
+                "uri": "http://web.archive.org/web/20170704130604/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-05T12:23:29Z",
+                "uri": "http://web.archive.org/web/20170705122329/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-06T13:33:37Z",
+                "uri": "http://web.archive.org/web/20170706133337/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-07T14:51:46Z",
+                "uri": "http://web.archive.org/web/20170707145146/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-08T08:39:06Z",
+                "uri": "http://web.archive.org/web/20170708083906/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-08T14:09:31Z",
+                "uri": "http://web.archive.org/web/20170708140931/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-09T15:15:11Z",
+                "uri": "http://web.archive.org/web/20170709151511/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-10T16:05:59Z",
+                "uri": "http://web.archive.org/web/20170710160559/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-11T16:58:17Z",
+                "uri": "http://web.archive.org/web/20170711165817/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-13T01:46:33Z",
+                "uri": "http://web.archive.org/web/20170713014633/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-14T13:00:12Z",
+                "uri": "http://web.archive.org/web/20170714130012/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-15T09:35:26Z",
+                "uri": "http://web.archive.org/web/20170715093526/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-15T18:56:58Z",
+                "uri": "http://web.archive.org/web/20170715185658/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-16T20:58:05Z",
+                "uri": "http://web.archive.org/web/20170716205805/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-17T21:19:43Z",
+                "uri": "http://web.archive.org/web/20170717211943/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-18T15:17:56Z",
+                "uri": "http://wayback.archive-it.org/all/20170718151756/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-18T15:17:56Z",
+                "uri": "http://web.archive.org/web/20170718151756/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-18T21:39:34Z",
+                "uri": "http://web.archive.org/web/20170718213934/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-19T20:25:11Z",
+                "uri": "http://web.archive.org/web/20170719202511/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-20T21:06:16Z",
+                "uri": "http://web.archive.org/web/20170720210616/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-21T21:44:37Z",
+                "uri": "http://web.archive.org/web/20170721214437/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-22T22:05:40Z",
+                "uri": "http://web.archive.org/web/20170722220540/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-23T22:26:51Z",
+                "uri": "http://web.archive.org/web/20170723222651/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-25T00:26:57Z",
+                "uri": "http://web.archive.org/web/20170725002657/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-26T00:45:13Z",
+                "uri": "http://web.archive.org/web/20170726004513/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-27T03:29:00Z",
+                "uri": "http://web.archive.org/web/20170727032900/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-28T03:26:13Z",
+                "uri": "http://web.archive.org/web/20170728032613/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-29T04:34:46Z",
+                "uri": "http://web.archive.org/web/20170729043446/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-30T04:36:19Z",
+                "uri": "http://web.archive.org/web/20170730043619/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-07-31T15:16:13Z",
+                "uri": "http://web.archive.org/web/20170731151613/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-01T15:32:15Z",
+                "uri": "http://web.archive.org/web/20170801153215/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-02T18:53:43Z",
+                "uri": "http://web.archive.org/web/20170802185343/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-03T20:18:59Z",
+                "uri": "http://web.archive.org/web/20170803201859/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-05T03:06:02Z",
+                "uri": "http://web.archive.org/web/20170805030602/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-06T03:40:11Z",
+                "uri": "http://web.archive.org/web/20170806034011/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-07T04:50:49Z",
+                "uri": "http://web.archive.org/web/20170807045049/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-08T04:58:11Z",
+                "uri": "http://web.archive.org/web/20170808045811/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-09T06:47:08Z",
+                "uri": "http://web.archive.org/web/20170809064708/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-10T08:11:20Z",
+                "uri": "http://web.archive.org/web/20170810081120/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-11T08:00:41Z",
+                "uri": "http://web.archive.org/web/20170811080041/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-20T22:22:29Z",
+                "uri": "http://web.archive.org/web/20170820222229/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-20T22:22:29Z",
+                "uri": "http://web.archive.org/web/20170820222229/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-23T21:12:48Z",
+                "uri": "http://web.archive.org/web/20170823211248/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-23T21:12:49Z",
+                "uri": "http://web.archive.org/web/20170823211249/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-29T11:26:54Z",
+                "uri": "http://web.archive.org/web/20170829112654/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-29T22:02:33Z",
+                "uri": "http://web.archive.org/web/20170829220233/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-30T10:28:59Z",
+                "uri": "http://web.archive.org/web/20170830102859/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-08-31T09:23:06Z",
+                "uri": "http://web.archive.org/web/20170831092306/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-01T10:53:23Z",
+                "uri": "http://web.archive.org/web/20170901105323/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-02T09:23:28Z",
+                "uri": "http://web.archive.org/web/20170902092328/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-03T08:47:23Z",
+                "uri": "http://web.archive.org/web/20170903084723/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-04T08:56:35Z",
+                "uri": "http://web.archive.org/web/20170904085635/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-05T09:47:42Z",
+                "uri": "http://web.archive.org/web/20170905094742/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-06T11:47:59Z",
+                "uri": "http://web.archive.org/web/20170906114759/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-07T12:07:19Z",
+                "uri": "http://web.archive.org/web/20170907120719/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-08T12:15:33Z",
+                "uri": "http://web.archive.org/web/20170908121533/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-09T12:37:45Z",
+                "uri": "http://web.archive.org/web/20170909123745/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-10T13:33:23Z",
+                "uri": "http://web.archive.org/web/20170910133323/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-11T14:07:22Z",
+                "uri": "http://web.archive.org/web/20170911140722/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-12T14:32:20Z",
+                "uri": "http://web.archive.org/web/20170912143220/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-13T15:15:10Z",
+                "uri": "http://web.archive.org/web/20170913151510/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-14T15:31:53Z",
+                "uri": "http://web.archive.org/web/20170914153153/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-15T18:08:42Z",
+                "uri": "http://web.archive.org/web/20170915180842/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-16T17:43:11Z",
+                "uri": "http://web.archive.org/web/20170916174311/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-17T18:05:02Z",
+                "uri": "http://web.archive.org/web/20170917180502/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-18T19:12:57Z",
+                "uri": "http://web.archive.org/web/20170918191257/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-19T18:43:51Z",
+                "uri": "http://web.archive.org/web/20170919184351/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-20T19:26:02Z",
+                "uri": "http://web.archive.org/web/20170920192602/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-09-21T20:27:26Z",
+                "uri": "http://web.archive.org/web/20170921202726/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-10-04T02:06:49Z",
+                "uri": "http://web.archive.org/web/20171004020649/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-10-05T08:40:25Z",
+                "uri": "http://web.archive.org/web/20171005084025/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-10-06T08:54:07Z",
+                "uri": "http://web.archive.org/web/20171006085407/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-10-07T10:02:09Z",
+                "uri": "http://web.archive.org/web/20171007100209/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-10-08T09:25:38Z",
+                "uri": "http://web.archive.org/web/20171008092538/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-10-11T02:30:50Z",
+                "uri": "http://web.archive.org/web/20171011023050/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-10-26T13:02:13Z",
+                "uri": "http://web.archive.org/web/20171026130213/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-10-29T00:54:31Z",
+                "uri": "http://web.archive.org/web/20171029005431/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-10-29T00:54:46Z",
+                "uri": "http://web.archive.org/web/20171029005446/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-11-01T22:58:14Z",
+                "uri": "http://web.archive.org/web/20171101225814/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-11-04T14:31:00Z",
+                "uri": "http://web.archive.org/web/20171104143100/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-11-04T14:31:05Z",
+                "uri": "http://web.archive.org/web/20171104143105/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-11-04T14:31:08Z",
+                "uri": "http://web.archive.org/web/20171104143108/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-11-09T00:25:17Z",
+                "uri": "http://web.archive.org/web/20171109002517/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-11-13T01:42:37Z",
+                "uri": "http://web.archive.org/web/20171113014237/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-11-13T01:42:46Z",
+                "uri": "http://web.archive.org/web/20171113014246/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-11-13T01:42:51Z",
+                "uri": "http://web.archive.org/web/20171113014251/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-11-13T01:42:57Z",
+                "uri": "http://web.archive.org/web/20171113014257/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-11-16T01:35:49Z",
+                "uri": "http://web.archive.org/web/20171116013549/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-11-23T01:14:28Z",
+                "uri": "http://web.archive.org/web/20171123011428/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-11-27T03:56:12Z",
+                "uri": "http://wayback.archive-it.org/all/20171127035612/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-11-27T03:56:12Z",
+                "uri": "http://web.archive.org/web/20171127035612/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-11-30T02:46:30Z",
+                "uri": "http://web.archive.org/web/20171130024630/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-12-07T01:31:55Z",
+                "uri": "http://web.archive.org/web/20171207013155/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-12-14T02:06:48Z",
+                "uri": "http://web.archive.org/web/20171214020648/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-12-21T02:16:55Z",
+                "uri": "http://web.archive.org/web/20171221021655/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2017-12-28T03:38:46Z",
+                "uri": "http://web.archive.org/web/20171228033846/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2018-01-04T05:19:23Z",
+                "uri": "http://web.archive.org/web/20180104051923/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2018-01-07T13:17:16Z",
+                "uri": "http://web.archive.org/web/20180107131716/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2018-01-11T03:19:29Z",
+                "uri": "http://web.archive.org/web/20180111031929/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2018-01-18T04:01:43Z",
+                "uri": "http://web.archive.org/web/20180118040143/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2018-01-23T19:35:57Z",
+                "uri": "http://wayback.archive-it.org/all/20180123193557/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2018-01-23T19:35:57Z",
+                "uri": "http://web.archive.org/web/20180123193557/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2018-01-25T05:17:42Z",
+                "uri": "http://web.archive.org/web/20180125051742/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2018-02-01T05:03:13Z",
+                "uri": "http://web.archive.org/web/20180201050313/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2018-02-02T21:46:56Z",
+                "uri": "http://web.archive.org/web/20180202214656/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2018-02-06T07:30:50Z",
+                "uri": "http://web.archive.org/web/20180206073050/http://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2018-02-06T10:19:02Z",
+                "uri": "http://web.archive.org/web/20180206101902/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2018-02-08T05:40:55Z",
+                "uri": "http://web.archive.org/web/20180208054055/https://purdue.rivals.com/"
+            },
+            {
+                "datetime": "2018-02-08T06:21:03Z",
+                "uri": "http://web.archive.org/web/20180208062103/https://purdue.rivals.com/"
+            }
+        ]
+    },
+    "original_uri": "https://purdue.rivals.com/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://purdue.rivals.com/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://purdue.rivals.com/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://purdue.rivals.com/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://purdue.rivals.com/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://purdue.rivals.com/"
+    }
+}

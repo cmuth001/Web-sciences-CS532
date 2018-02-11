@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T11:04:25Z",
+            "uri": "http://web.archive.org/web/20180209110425/https://fantasycricket.dream11.com/public/unsupported-browser.html"
+        },
+        "last": {
+            "datetime": "2018-02-09T11:04:25Z",
+            "uri": "http://web.archive.org/web/20180209110425/https://fantasycricket.dream11.com/public/unsupported-browser.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T11:04:25Z",
+                "uri": "http://web.archive.org/web/20180209110425/https://fantasycricket.dream11.com/public/unsupported-browser.html"
+            },
+            {
+                "datetime": "2018-02-09T11:04:25Z",
+                "uri": "http://web.archive.org/web/20180209110425/https://fantasycricket.dream11.com/public/unsupported-browser.html"
+            },
+            {
+                "datetime": "2018-02-09T11:04:25Z",
+                "uri": "http://web.archive.org/web/20180209110425/https://fantasycricket.dream11.com/public/unsupported-browser.html"
+            }
+        ]
+    },
+    "original_uri": "https://fantasycricket.dream11.com/public/unsupported-browser.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://fantasycricket.dream11.com/public/unsupported-browser.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://fantasycricket.dream11.com/public/unsupported-browser.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://fantasycricket.dream11.com/public/unsupported-browser.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://fantasycricket.dream11.com/public/unsupported-browser.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://fantasycricket.dream11.com/public/unsupported-browser.html"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T16:30:23Z",
+            "uri": "http://web.archive.org/web/20180208163023/http://www.bbc.co.uk/news/uk-england-lancashire-42978251"
+        },
+        "last": {
+            "datetime": "2018-02-09T01:52:09Z",
+            "uri": "http://web.archive.org/web/20180209015209/http://www.bbc.co.uk/news/uk-england-lancashire-42978251"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T16:30:23Z",
+                "uri": "http://web.archive.org/web/20180208163023/http://www.bbc.co.uk/news/uk-england-lancashire-42978251"
+            },
+            {
+                "datetime": "2018-02-09T01:52:09Z",
+                "uri": "http://web.archive.org/web/20180209015209/http://www.bbc.co.uk/news/uk-england-lancashire-42978251"
+            }
+        ]
+    },
+    "original_uri": "http://www.bbc.co.uk/news/uk-england-lancashire-42978251",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.co.uk/news/uk-england-lancashire-42978251",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.bbc.co.uk/news/uk-england-lancashire-42978251",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.bbc.co.uk/news/uk-england-lancashire-42978251",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.co.uk/news/uk-england-lancashire-42978251",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.bbc.co.uk/news/uk-england-lancashire-42978251"
+    }
+}

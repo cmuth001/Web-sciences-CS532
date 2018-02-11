@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-05T18:45:13Z",
+            "uri": "http://web.archive.org/web/20180205184513/https://www.theguardian.com/football/2018/feb/05/newcastle-united-food-bank-football-poverty?CMP=share_btn_tw"
+        },
+        "last": {
+            "datetime": "2018-02-05T18:45:13Z",
+            "uri": "http://web.archive.org/web/20180205184513/https://www.theguardian.com/football/2018/feb/05/newcastle-united-food-bank-football-poverty?CMP=share_btn_tw"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-05T18:45:13Z",
+                "uri": "http://web.archive.org/web/20180205184513/https://www.theguardian.com/football/2018/feb/05/newcastle-united-food-bank-football-poverty?CMP=share_btn_tw"
+            }
+        ]
+    },
+    "original_uri": "https://www.theguardian.com/football/2018/feb/05/newcastle-united-food-bank-football-poverty?CMP=share_btn_tw",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/football/2018/feb/05/newcastle-united-food-bank-football-poverty?CMP=share_btn_tw",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/football/2018/feb/05/newcastle-united-food-bank-football-poverty?CMP=share_btn_tw",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/football/2018/feb/05/newcastle-united-food-bank-football-poverty?CMP=share_btn_tw",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/football/2018/feb/05/newcastle-united-food-bank-football-poverty?CMP=share_btn_tw",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/football/2018/feb/05/newcastle-united-food-bank-football-poverty?CMP=share_btn_tw"
+    }
+}

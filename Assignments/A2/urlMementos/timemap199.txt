@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-01-13T10:24:14Z",
+            "uri": "http://web.archive.org/web/20170113102414/http://www.wwexstream.com:80/a-look-back-at-the-craziness-of-the-xfl"
+        },
+        "last": {
+            "datetime": "2018-02-02T20:13:59Z",
+            "uri": "http://web.archive.org/web/20180202201359/http://www.wwexstream.com/a-look-back-at-the-craziness-of-the-xfl"
+        },
+        "list": [
+            {
+                "datetime": "2017-01-13T10:24:14Z",
+                "uri": "http://web.archive.org/web/20170113102414/http://www.wwexstream.com:80/a-look-back-at-the-craziness-of-the-xfl"
+            },
+            {
+                "datetime": "2017-05-05T10:12:57Z",
+                "uri": "http://web.archive.org/web/20170505101257/http://www.wwexstream.com:80/a-look-back-at-the-craziness-of-the-xfl"
+            },
+            {
+                "datetime": "2017-06-06T05:05:57Z",
+                "uri": "http://web.archive.org/web/20170606050557/http://www.wwexstream.com/a-look-back-at-the-craziness-of-the-xfl"
+            },
+            {
+                "datetime": "2017-06-06T18:04:56Z",
+                "uri": "http://web.archive.org/web/20170606180456/http://www.wwexstream.com:80/a-look-back-at-the-craziness-of-the-xfl"
+            },
+            {
+                "datetime": "2017-07-08T03:32:49Z",
+                "uri": "http://web.archive.org/web/20170708033249/http://www.wwexstream.com:80/a-look-back-at-the-craziness-of-the-xfl"
+            },
+            {
+                "datetime": "2018-02-02T20:13:59Z",
+                "uri": "http://web.archive.org/web/20180202201359/http://www.wwexstream.com/a-look-back-at-the-craziness-of-the-xfl"
+            }
+        ]
+    },
+    "original_uri": "http://www.wwexstream.com/a-look-back-at-the-craziness-of-the-xfl",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.wwexstream.com/a-look-back-at-the-craziness-of-the-xfl",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.wwexstream.com/a-look-back-at-the-craziness-of-the-xfl",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.wwexstream.com/a-look-back-at-the-craziness-of-the-xfl",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.wwexstream.com/a-look-back-at-the-craziness-of-the-xfl",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.wwexstream.com/a-look-back-at-the-craziness-of-the-xfl"
+    }
+}

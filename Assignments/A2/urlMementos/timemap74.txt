@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T14:12:59Z",
+            "uri": "http://web.archive.org/web/20180209141259/http://www.theroar.com.au/2018/02/09/melbourne-victory-vs-brisbane-roar-league-live-scores-blog-6/"
+        },
+        "last": {
+            "datetime": "2018-02-09T14:12:59Z",
+            "uri": "http://web.archive.org/web/20180209141259/http://www.theroar.com.au/2018/02/09/melbourne-victory-vs-brisbane-roar-league-live-scores-blog-6/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T14:12:59Z",
+                "uri": "http://web.archive.org/web/20180209141259/http://www.theroar.com.au/2018/02/09/melbourne-victory-vs-brisbane-roar-league-live-scores-blog-6/"
+            }
+        ]
+    },
+    "original_uri": "http://www.theroar.com.au/2018/02/09/melbourne-victory-vs-brisbane-roar-league-live-scores-blog-6/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.theroar.com.au/2018/02/09/melbourne-victory-vs-brisbane-roar-league-live-scores-blog-6/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.theroar.com.au/2018/02/09/melbourne-victory-vs-brisbane-roar-league-live-scores-blog-6/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.theroar.com.au/2018/02/09/melbourne-victory-vs-brisbane-roar-league-live-scores-blog-6/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.theroar.com.au/2018/02/09/melbourne-victory-vs-brisbane-roar-league-live-scores-blog-6/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.theroar.com.au/2018/02/09/melbourne-victory-vs-brisbane-roar-league-live-scores-blog-6/"
+    }
+}

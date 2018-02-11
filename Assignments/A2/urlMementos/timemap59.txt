@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T14:10:33Z",
+            "uri": "http://web.archive.org/web/20180209141033/https://senego.com/mondial-2018-planning-lions-devoile-mardi_637696.html"
+        },
+        "last": {
+            "datetime": "2018-02-09T14:10:33Z",
+            "uri": "http://web.archive.org/web/20180209141033/https://senego.com/mondial-2018-planning-lions-devoile-mardi_637696.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T14:10:33Z",
+                "uri": "http://web.archive.org/web/20180209141033/https://senego.com/mondial-2018-planning-lions-devoile-mardi_637696.html"
+            }
+        ]
+    },
+    "original_uri": "https://senego.com/mondial-2018-planning-lions-devoile-mardi_637696.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://senego.com/mondial-2018-planning-lions-devoile-mardi_637696.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://senego.com/mondial-2018-planning-lions-devoile-mardi_637696.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://senego.com/mondial-2018-planning-lions-devoile-mardi_637696.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://senego.com/mondial-2018-planning-lions-devoile-mardi_637696.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://senego.com/mondial-2018-planning-lions-devoile-mardi_637696.html"
+    }
+}

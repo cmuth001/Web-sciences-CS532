@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-07T01:01:10Z",
+            "uri": "http://web.archive.org/web/20180207010110/https://www.theguardian.com/sport/2018/feb/07/golf-cricket-snowsports-threat-climate-change"
+        },
+        "last": {
+            "datetime": "2018-02-08T17:03:26Z",
+            "uri": "http://web.archive.org/web/20180208170326/https://www.theguardian.com/sport/2018/feb/07/golf-cricket-snowsports-threat-climate-change"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-07T01:01:10Z",
+                "uri": "http://web.archive.org/web/20180207010110/https://www.theguardian.com/sport/2018/feb/07/golf-cricket-snowsports-threat-climate-change"
+            },
+            {
+                "datetime": "2018-02-07T02:50:59Z",
+                "uri": "http://web.archive.org/web/20180207025059/https://www.theguardian.com/sport/2018/feb/07/golf-cricket-snowsports-threat-climate-change"
+            },
+            {
+                "datetime": "2018-02-07T14:19:44Z",
+                "uri": "http://web.archive.org/web/20180207141944/https://www.theguardian.com/sport/2018/feb/07/golf-cricket-snowsports-threat-climate-change"
+            },
+            {
+                "datetime": "2018-02-07T21:19:57Z",
+                "uri": "http://web.archive.org/web/20180207211957/https://www.theguardian.com/sport/2018/feb/07/golf-cricket-snowsports-threat-climate-change"
+            },
+            {
+                "datetime": "2018-02-08T02:15:14Z",
+                "uri": "http://web.archive.org/web/20180208021514/https://www.theguardian.com/sport/2018/feb/07/golf-cricket-snowsports-threat-climate-change"
+            },
+            {
+                "datetime": "2018-02-08T17:03:26Z",
+                "uri": "http://web.archive.org/web/20180208170326/https://www.theguardian.com/sport/2018/feb/07/golf-cricket-snowsports-threat-climate-change"
+            }
+        ]
+    },
+    "original_uri": "https://www.theguardian.com/sport/2018/feb/07/golf-cricket-snowsports-threat-climate-change",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/sport/2018/feb/07/golf-cricket-snowsports-threat-climate-change",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/sport/2018/feb/07/golf-cricket-snowsports-threat-climate-change",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/sport/2018/feb/07/golf-cricket-snowsports-threat-climate-change",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/sport/2018/feb/07/golf-cricket-snowsports-threat-climate-change",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/sport/2018/feb/07/golf-cricket-snowsports-threat-climate-change"
+    }
+}

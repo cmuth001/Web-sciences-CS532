@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T12:38:21Z",
+            "uri": "http://web.archive.org/web/20180209123821/https://www.thesun.co.uk/sport/5533764/mauricio-pochettino-tricking-opponents-is-part-of-football-cheating/"
+        },
+        "last": {
+            "datetime": "2018-02-09T12:38:22Z",
+            "uri": "http://web.archive.org/web/20180209123822/http://www.thesun.co.uk/sport/5533764/mauricio-pochettino-tricking-opponents-is-part-of-football-cheating/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T12:38:21Z",
+                "uri": "http://web.archive.org/web/20180209123821/https://www.thesun.co.uk/sport/5533764/mauricio-pochettino-tricking-opponents-is-part-of-football-cheating/"
+            },
+            {
+                "datetime": "2018-02-09T12:38:22Z",
+                "uri": "http://web.archive.org/web/20180209123822/http://www.thesun.co.uk/sport/5533764/mauricio-pochettino-tricking-opponents-is-part-of-football-cheating/"
+            }
+        ]
+    },
+    "original_uri": "https://www.thesun.co.uk/sport/5533764/mauricio-pochettino-tricking-opponents-is-part-of-football-cheating/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/5533764/mauricio-pochettino-tricking-opponents-is-part-of-football-cheating/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thesun.co.uk/sport/5533764/mauricio-pochettino-tricking-opponents-is-part-of-football-cheating/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thesun.co.uk/sport/5533764/mauricio-pochettino-tricking-opponents-is-part-of-football-cheating/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/5533764/mauricio-pochettino-tricking-opponents-is-part-of-football-cheating/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thesun.co.uk/sport/5533764/mauricio-pochettino-tricking-opponents-is-part-of-football-cheating/"
+    }
+}

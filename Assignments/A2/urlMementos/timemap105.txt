@@ -1,0 +1,62 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-05-28T22:54:54Z",
+            "uri": "http://web.archive.org/web/20160528225454/http://www.dogsandcatsshop.co.uk:80/"
+        },
+        "last": {
+            "datetime": "2018-01-24T15:02:29Z",
+            "uri": "http://web.archive.org/web/20180124150229/http://www.dogsandcatsshop.co.uk/"
+        },
+        "list": [
+            {
+                "datetime": "2016-05-28T22:54:54Z",
+                "uri": "http://web.archive.org/web/20160528225454/http://www.dogsandcatsshop.co.uk:80/"
+            },
+            {
+                "datetime": "2016-11-30T15:02:44Z",
+                "uri": "http://archive.is/20161130150244/http://www.dogsandcatsshop.co.uk/"
+            },
+            {
+                "datetime": "2017-03-31T16:03:20Z",
+                "uri": "http://web.archive.org/web/20170331160320/http://www.dogsandcatsshop.co.uk:80/"
+            },
+            {
+                "datetime": "2017-06-13T04:49:51Z",
+                "uri": "http://web.archive.org/web/20170613044951/http://dogsandcatsshop.co.uk/"
+            },
+            {
+                "datetime": "2017-06-20T05:38:08Z",
+                "uri": "http://web.archive.org/web/20170620053808/http://www.dogsandcatsshop.co.uk:80/"
+            },
+            {
+                "datetime": "2017-08-30T01:04:21Z",
+                "uri": "http://web.archive.org/web/20170830010421/http://www.dogsandcatsshop.co.uk/"
+            },
+            {
+                "datetime": "2017-08-30T07:25:26Z",
+                "uri": "http://web.archive.org/web/20170830072526/http://www.dogsandcatsshop.co.uk/"
+            },
+            {
+                "datetime": "2017-11-19T07:07:54Z",
+                "uri": "http://web.archive.org/web/20171119070754/http://www.dogsandcatsshop.co.uk/"
+            },
+            {
+                "datetime": "2017-11-19T07:20:12Z",
+                "uri": "http://web.archive.org/web/20171119072012/http://www.dogsandcatsshop.co.uk/"
+            },
+            {
+                "datetime": "2018-01-24T15:02:29Z",
+                "uri": "http://web.archive.org/web/20180124150229/http://www.dogsandcatsshop.co.uk/"
+            }
+        ]
+    },
+    "original_uri": "http://www.dogsandcatsshop.co.uk",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.dogsandcatsshop.co.uk",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.dogsandcatsshop.co.uk",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.dogsandcatsshop.co.uk",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.dogsandcatsshop.co.uk",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.dogsandcatsshop.co.uk"
+    }
+}

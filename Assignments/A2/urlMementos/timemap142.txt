@@ -1,0 +1,94 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-05-14T16:03:08Z",
+            "uri": "http://web.archive.org/web/20170514160308/http://footballspider.com:80/manchester-utd/news"
+        },
+        "last": {
+            "datetime": "2018-02-09T00:48:51Z",
+            "uri": "http://web.archive.org/web/20180209004851/http://footballspider.com/manchester-utd/news"
+        },
+        "list": [
+            {
+                "datetime": "2017-05-14T16:03:08Z",
+                "uri": "http://web.archive.org/web/20170514160308/http://footballspider.com:80/manchester-utd/news"
+            },
+            {
+                "datetime": "2017-06-19T23:38:47Z",
+                "uri": "http://web.archive.org/web/20170619233847/http://footballspider.com:80/manchester-utd/news"
+            },
+            {
+                "datetime": "2017-09-13T00:43:41Z",
+                "uri": "http://web.archive.org/web/20170913004341/http://footballspider.com/manchester-utd/news"
+            },
+            {
+                "datetime": "2017-09-13T21:30:07Z",
+                "uri": "http://web.archive.org/web/20170913213007/http://footballspider.com/manchester-utd/news/"
+            },
+            {
+                "datetime": "2017-11-05T12:17:03Z",
+                "uri": "http://web.archive.org/web/20171105121703/http://footballspider.com/manchester-utd/news/"
+            },
+            {
+                "datetime": "2017-11-05T12:17:03Z",
+                "uri": "http://web.archive.org/web/20171105121703/http://footballspider.com/manchester-utd/news"
+            },
+            {
+                "datetime": "2018-01-20T23:16:57Z",
+                "uri": "http://web.archive.org/web/20180120231657/http://footballspider.com/manchester-utd/news/"
+            },
+            {
+                "datetime": "2018-01-20T23:16:58Z",
+                "uri": "http://web.archive.org/web/20180120231658/http://footballspider.com/manchester-utd/news"
+            },
+            {
+                "datetime": "2018-01-30T16:23:09Z",
+                "uri": "http://web.archive.org/web/20180130162309/http://footballspider.com/manchester-utd/news/"
+            },
+            {
+                "datetime": "2018-01-31T00:02:44Z",
+                "uri": "http://web.archive.org/web/20180131000244/http://footballspider.com/manchester-utd/news/"
+            },
+            {
+                "datetime": "2018-01-31T00:02:45Z",
+                "uri": "http://web.archive.org/web/20180131000245/http://footballspider.com/manchester-utd/news"
+            },
+            {
+                "datetime": "2018-01-31T11:46:56Z",
+                "uri": "http://web.archive.org/web/20180131114656/http://footballspider.com/manchester-utd/news/"
+            },
+            {
+                "datetime": "2018-01-31T11:47:01Z",
+                "uri": "http://web.archive.org/web/20180131114701/http://footballspider.com/manchester-utd/news"
+            },
+            {
+                "datetime": "2018-01-31T11:47:03Z",
+                "uri": "http://web.archive.org/web/20180131114703/http://footballspider.com/manchester-utd/news/"
+            },
+            {
+                "datetime": "2018-01-31T11:47:05Z",
+                "uri": "http://web.archive.org/web/20180131114705/http://footballspider.com/manchester-utd/news"
+            },
+            {
+                "datetime": "2018-01-31T13:47:05Z",
+                "uri": "http://web.archive.org/web/20180131134705/http://footballspider.com/manchester-utd/news/"
+            },
+            {
+                "datetime": "2018-01-31T13:47:06Z",
+                "uri": "http://web.archive.org/web/20180131134706/http://footballspider.com/manchester-utd/news"
+            },
+            {
+                "datetime": "2018-02-09T00:48:51Z",
+                "uri": "http://web.archive.org/web/20180209004851/http://footballspider.com/manchester-utd/news"
+            }
+        ]
+    },
+    "original_uri": "http://footballspider.com/manchester-utd/news",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://footballspider.com/manchester-utd/news",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://footballspider.com/manchester-utd/news",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://footballspider.com/manchester-utd/news",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://footballspider.com/manchester-utd/news",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://footballspider.com/manchester-utd/news"
+    }
+}

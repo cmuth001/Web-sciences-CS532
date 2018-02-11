@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-06-19T23:45:03Z",
+            "uri": "http://web.archive.org/web/20170619234503/http://footballspider.com:80/everton/news"
+        },
+        "last": {
+            "datetime": "2018-02-03T01:07:56Z",
+            "uri": "http://web.archive.org/web/20180203010756/http://footballspider.com/everton/news/"
+        },
+        "list": [
+            {
+                "datetime": "2017-06-19T23:45:03Z",
+                "uri": "http://web.archive.org/web/20170619234503/http://footballspider.com:80/everton/news"
+            },
+            {
+                "datetime": "2017-09-05T20:45:19Z",
+                "uri": "http://web.archive.org/web/20170905204519/http://footballspider.com/everton/news"
+            },
+            {
+                "datetime": "2018-01-30T16:05:50Z",
+                "uri": "http://web.archive.org/web/20180130160550/http://footballspider.com/everton/news"
+            },
+            {
+                "datetime": "2018-02-03T01:07:56Z",
+                "uri": "http://web.archive.org/web/20180203010756/http://footballspider.com/everton/news/"
+            }
+        ]
+    },
+    "original_uri": "http://footballspider.com/everton/news",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://footballspider.com/everton/news",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://footballspider.com/everton/news",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://footballspider.com/everton/news",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://footballspider.com/everton/news",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://footballspider.com/everton/news"
+    }
+}

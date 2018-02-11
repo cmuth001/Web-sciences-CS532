@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T23:10:51Z",
+            "uri": "http://web.archive.org/web/20180208231051/http://www.telegraph.co.uk/football/2018/02/08/england-players-allowed-go-holiday-world-cup/"
+        },
+        "last": {
+            "datetime": "2018-02-08T23:10:51Z",
+            "uri": "http://web.archive.org/web/20180208231051/http://www.telegraph.co.uk/football/2018/02/08/england-players-allowed-go-holiday-world-cup/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T23:10:51Z",
+                "uri": "http://web.archive.org/web/20180208231051/http://www.telegraph.co.uk/football/2018/02/08/england-players-allowed-go-holiday-world-cup/"
+            },
+            {
+                "datetime": "2018-02-08T23:10:51Z",
+                "uri": "http://web.archive.org/web/20180208231051/http://www.telegraph.co.uk/football/2018/02/08/england-players-allowed-go-holiday-world-cup/"
+            }
+        ]
+    },
+    "original_uri": "http://www.telegraph.co.uk/football/2018/02/08/england-players-allowed-go-holiday-world-cup/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.telegraph.co.uk/football/2018/02/08/england-players-allowed-go-holiday-world-cup/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.telegraph.co.uk/football/2018/02/08/england-players-allowed-go-holiday-world-cup/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.telegraph.co.uk/football/2018/02/08/england-players-allowed-go-holiday-world-cup/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.telegraph.co.uk/football/2018/02/08/england-players-allowed-go-holiday-world-cup/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.telegraph.co.uk/football/2018/02/08/england-players-allowed-go-holiday-world-cup/"
+    }
+}

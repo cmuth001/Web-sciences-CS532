@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-07T12:42:24Z",
+            "uri": "http://web.archive.org/web/20180207124224/https://en.as.com/en/2018/02/07/football/1518002820_035638.html"
+        },
+        "last": {
+            "datetime": "2018-02-08T15:40:52Z",
+            "uri": "http://web.archive.org/web/20180208154052/https://en.as.com/en/2018/02/07/football/1518002820_035638.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-07T12:42:24Z",
+                "uri": "http://web.archive.org/web/20180207124224/https://en.as.com/en/2018/02/07/football/1518002820_035638.html"
+            },
+            {
+                "datetime": "2018-02-07T18:59:31Z",
+                "uri": "http://web.archive.org/web/20180207185931/https://en.as.com/en/2018/02/07/football/1518002820_035638.html"
+            },
+            {
+                "datetime": "2018-02-08T15:29:15Z",
+                "uri": "http://web.archive.org/web/20180208152915/https://en.as.com/en/2018/02/07/football/1518002820_035638.html"
+            },
+            {
+                "datetime": "2018-02-08T15:40:52Z",
+                "uri": "http://web.archive.org/web/20180208154052/https://en.as.com/en/2018/02/07/football/1518002820_035638.html"
+            }
+        ]
+    },
+    "original_uri": "https://en.as.com/en/2018/02/07/football/1518002820_035638.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://en.as.com/en/2018/02/07/football/1518002820_035638.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://en.as.com/en/2018/02/07/football/1518002820_035638.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://en.as.com/en/2018/02/07/football/1518002820_035638.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://en.as.com/en/2018/02/07/football/1518002820_035638.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://en.as.com/en/2018/02/07/football/1518002820_035638.html"
+    }
+}

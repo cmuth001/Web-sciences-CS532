@@ -1,0 +1,82 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-09-10T05:12:36Z",
+            "uri": "http://web.archive.org/web/20160910051236/http://www.welovegoals.com:80/"
+        },
+        "last": {
+            "datetime": "2018-01-24T06:17:24Z",
+            "uri": "http://web.archive.org/web/20180124061724/https://welovegoals.com/"
+        },
+        "list": [
+            {
+                "datetime": "2016-09-10T05:12:36Z",
+                "uri": "http://web.archive.org/web/20160910051236/http://www.welovegoals.com:80/"
+            },
+            {
+                "datetime": "2016-10-11T09:56:28Z",
+                "uri": "http://web.archive.org/web/20161011095628/http://www.welovegoals.com:80/"
+            },
+            {
+                "datetime": "2016-11-11T22:41:20Z",
+                "uri": "http://web.archive.org/web/20161111224120/http://www.welovegoals.com:80/"
+            },
+            {
+                "datetime": "2016-12-29T19:33:34Z",
+                "uri": "http://web.archive.org/web/20161229193334/http://www.welovegoals.com:80/"
+            },
+            {
+                "datetime": "2017-05-22T22:56:08Z",
+                "uri": "http://web.archive.org/web/20170522225608/http://www.welovegoals.com:80/"
+            },
+            {
+                "datetime": "2017-07-14T09:03:59Z",
+                "uri": "http://web.archive.org/web/20170714090359/http://www.welovegoals.com:80/"
+            },
+            {
+                "datetime": "2017-09-04T06:29:32Z",
+                "uri": "http://web.archive.org/web/20170904062932/http://welovegoals.com/"
+            },
+            {
+                "datetime": "2017-11-19T02:32:15Z",
+                "uri": "http://web.archive.org/web/20171119023215/http://welovegoals.com/"
+            },
+            {
+                "datetime": "2017-12-07T15:26:05Z",
+                "uri": "http://web.archive.org/web/20171207152605/http://welovegoals.com"
+            },
+            {
+                "datetime": "2017-12-07T15:26:13Z",
+                "uri": "http://web.archive.org/web/20171207152613/https://welovegoals.com/"
+            },
+            {
+                "datetime": "2018-01-17T18:56:33Z",
+                "uri": "http://web.archive.org/web/20180117185633/http://welovegoals.com/"
+            },
+            {
+                "datetime": "2018-01-18T08:56:06Z",
+                "uri": "http://web.archive.org/web/20180118085606/https://welovegoals.com/"
+            },
+            {
+                "datetime": "2018-01-21T11:05:32Z",
+                "uri": "http://web.archive.org/web/20180121110532/https://welovegoals.com/"
+            },
+            {
+                "datetime": "2018-01-24T06:17:10Z",
+                "uri": "http://web.archive.org/web/20180124061710/http://welovegoals.com"
+            },
+            {
+                "datetime": "2018-01-24T06:17:24Z",
+                "uri": "http://web.archive.org/web/20180124061724/https://welovegoals.com/"
+            }
+        ]
+    },
+    "original_uri": "https://welovegoals.com/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://welovegoals.com/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://welovegoals.com/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://welovegoals.com/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://welovegoals.com/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://welovegoals.com/"
+    }
+}

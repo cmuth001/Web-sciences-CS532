@@ -1,0 +1,78 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-02-04T20:36:17Z",
+            "uri": "http://web.archive.org/web/20160204203617/http://www.skysports.com:80/football/west-ham-vs-liverpool/354458"
+        },
+        "last": {
+            "datetime": "2017-06-20T05:58:48Z",
+            "uri": "http://web.archive.org/web/20170620055848/http://www.skysports.com/football/west-ham-vs-liverpool/354458"
+        },
+        "list": [
+            {
+                "datetime": "2016-02-04T20:36:17Z",
+                "uri": "http://web.archive.org/web/20160204203617/http://www.skysports.com:80/football/west-ham-vs-liverpool/354458"
+            },
+            {
+                "datetime": "2016-02-09T11:00:11Z",
+                "uri": "http://web.archive.org/web/20160209110011/http://www.skysports.com/football/west-ham-vs-liverpool/354458"
+            },
+            {
+                "datetime": "2016-02-11T02:22:52Z",
+                "uri": "http://web.archive.org/web/20160211022252/http://www.skysports.com:80/football/west-ham-vs-liverpool/354458"
+            },
+            {
+                "datetime": "2016-02-11T23:20:25Z",
+                "uri": "http://web.archive.org/web/20160211232025/http://www.skysports.com:80/football/west-ham-vs-liverpool/354458"
+            },
+            {
+                "datetime": "2016-02-15T00:02:59Z",
+                "uri": "http://archive.is/20160215000259/http://www.skysports.com/football/west-ham-vs-liverpool/354458"
+            },
+            {
+                "datetime": "2016-02-26T04:19:14Z",
+                "uri": "http://web.archive.org/web/20160226041914/http://www.skysports.com:80/football/west-ham-vs-liverpool/354458"
+            },
+            {
+                "datetime": "2016-03-14T01:59:06Z",
+                "uri": "http://web.archive.org/web/20160314015906/http://www.skysports.com:80/football/west-ham-vs-liverpool/354458"
+            },
+            {
+                "datetime": "2016-04-14T01:00:49Z",
+                "uri": "http://web.archive.org/web/20160414010049/http://www.skysports.com:80/football/west-ham-vs-liverpool/354458"
+            },
+            {
+                "datetime": "2016-04-14T07:10:06Z",
+                "uri": "http://web.archive.org/web/20160414071006/http://www.skysports.com:80/football/west-ham-vs-liverpool/354458"
+            },
+            {
+                "datetime": "2016-05-15T06:55:55Z",
+                "uri": "http://web.archive.org/web/20160515065555/http://www.skysports.com:80/football/west-ham-vs-liverpool/354458"
+            },
+            {
+                "datetime": "2016-05-16T13:42:59Z",
+                "uri": "http://web.archive.org/web/20160516134259/http://www.skysports.com:80/football/west-ham-vs-liverpool/354458"
+            },
+            {
+                "datetime": "2016-06-17T11:50:23Z",
+                "uri": "http://web.archive.org/web/20160617115023/http://www.skysports.com:80/football/west-ham-vs-liverpool/354458"
+            },
+            {
+                "datetime": "2016-07-20T05:11:51Z",
+                "uri": "http://web.archive.org/web/20160720051151/http://www.skysports.com:80/football/west-ham-vs-liverpool/354458"
+            },
+            {
+                "datetime": "2017-06-20T05:58:48Z",
+                "uri": "http://web.archive.org/web/20170620055848/http://www.skysports.com/football/west-ham-vs-liverpool/354458"
+            }
+        ]
+    },
+    "original_uri": "http://www.skysports.com/football/west-ham-vs-liverpool/354458",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.skysports.com/football/west-ham-vs-liverpool/354458",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.skysports.com/football/west-ham-vs-liverpool/354458",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.skysports.com/football/west-ham-vs-liverpool/354458",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.skysports.com/football/west-ham-vs-liverpool/354458",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.skysports.com/football/west-ham-vs-liverpool/354458"
+    }
+}

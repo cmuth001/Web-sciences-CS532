@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-02-04T17:40:10Z",
+            "uri": "http://web.archive.org/web/20170204174010/https://en.wikipedia.org/wiki/2009-10_in_Welsh_football"
+        },
+        "last": {
+            "datetime": "2017-02-04T17:40:10Z",
+            "uri": "http://web.archive.org/web/20170204174010/https://en.wikipedia.org/wiki/2009-10_in_Welsh_football"
+        },
+        "list": [
+            {
+                "datetime": "2017-02-04T17:40:10Z",
+                "uri": "http://web.archive.org/web/20170204174010/https://en.wikipedia.org/wiki/2009-10_in_Welsh_football"
+            }
+        ]
+    },
+    "original_uri": "https://en.wikipedia.org/wiki/2009-10_in_Welsh_football",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://en.wikipedia.org/wiki/2009-10_in_Welsh_football",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://en.wikipedia.org/wiki/2009-10_in_Welsh_football",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://en.wikipedia.org/wiki/2009-10_in_Welsh_football",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://en.wikipedia.org/wiki/2009-10_in_Welsh_football",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://en.wikipedia.org/wiki/2009-10_in_Welsh_football"
+    }
+}
