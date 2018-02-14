@@ -48,9 +48,9 @@ class listener(StreamListener):
 			links = self.getLinksFromTweet(links)
 			for l in links:
 				if l not in MyUniqueLinks:
-					if len(MyUniqueLinks)<3000:
+					if len(MyUniqueLinks)<1001:
 						MyUniqueLinks.append(l)
-						print('\t', l)
+						print(l)
 		return True
 
 	def getLinksFromTweet(self, linksDict):

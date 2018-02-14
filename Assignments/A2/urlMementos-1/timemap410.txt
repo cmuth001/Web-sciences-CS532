@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T04:56:27Z",
+            "uri": "http://web.archive.org/web/20180208045627/http://www.sports.fr/football/transferts/articles/mercato-psg-ben-arfa-a-aussi-refuse-la-ligue-2-2078981/"
+        },
+        "last": {
+            "datetime": "2018-02-08T04:56:27Z",
+            "uri": "http://web.archive.org/web/20180208045627/http://www.sports.fr/football/transferts/articles/mercato-psg-ben-arfa-a-aussi-refuse-la-ligue-2-2078981/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T04:56:27Z",
+                "uri": "http://web.archive.org/web/20180208045627/http://www.sports.fr/football/transferts/articles/mercato-psg-ben-arfa-a-aussi-refuse-la-ligue-2-2078981/"
+            }
+        ]
+    },
+    "original_uri": "http://www.sports.fr/football/transferts/articles/mercato-psg-ben-arfa-a-aussi-refuse-la-ligue-2-2078981/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.sports.fr/football/transferts/articles/mercato-psg-ben-arfa-a-aussi-refuse-la-ligue-2-2078981/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.sports.fr/football/transferts/articles/mercato-psg-ben-arfa-a-aussi-refuse-la-ligue-2-2078981/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.sports.fr/football/transferts/articles/mercato-psg-ben-arfa-a-aussi-refuse-la-ligue-2-2078981/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.sports.fr/football/transferts/articles/mercato-psg-ben-arfa-a-aussi-refuse-la-ligue-2-2078981/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.sports.fr/football/transferts/articles/mercato-psg-ben-arfa-a-aussi-refuse-la-ligue-2-2078981/"
+    }
+}

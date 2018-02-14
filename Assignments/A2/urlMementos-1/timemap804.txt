@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T08:06:16Z",
+            "uri": "http://web.archive.org/web/20180208080616/http://www.espn.com/recruiting/football/nsd/story/_/id/22355192/"
+        },
+        "last": {
+            "datetime": "2018-02-08T08:06:16Z",
+            "uri": "http://web.archive.org/web/20180208080616/http://www.espn.com/recruiting/football/nsd/story/_/id/22355192/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T08:06:16Z",
+                "uri": "http://web.archive.org/web/20180208080616/http://www.espn.com/recruiting/football/nsd/story/_/id/22355192/"
+            }
+        ]
+    },
+    "original_uri": "http://www.espn.com/recruiting/football/nsd/story/_/id/22355192",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.espn.com/recruiting/football/nsd/story/_/id/22355192",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.espn.com/recruiting/football/nsd/story/_/id/22355192",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.espn.com/recruiting/football/nsd/story/_/id/22355192",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.espn.com/recruiting/football/nsd/story/_/id/22355192",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.espn.com/recruiting/football/nsd/story/_/id/22355192"
+    }
+}

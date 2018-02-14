@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T18:33:37Z",
+            "uri": "http://web.archive.org/web/20180211183337/http://www.heraldscotland.com/sport/15827780.Tam_McManus__Stigma_around_mental_health_in_football_stopped_me_discussing_my_own_depression/?ref=twtrec"
+        },
+        "last": {
+            "datetime": "2018-02-11T18:33:37Z",
+            "uri": "http://web.archive.org/web/20180211183337/http://www.heraldscotland.com/sport/15827780.Tam_McManus__Stigma_around_mental_health_in_football_stopped_me_discussing_my_own_depression/?ref=twtrec"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T18:33:37Z",
+                "uri": "http://web.archive.org/web/20180211183337/http://www.heraldscotland.com/sport/15827780.Tam_McManus__Stigma_around_mental_health_in_football_stopped_me_discussing_my_own_depression/?ref=twtrec"
+            }
+        ]
+    },
+    "original_uri": "http://www.heraldscotland.com/sport/15827780.Tam_McManus__Stigma_around_mental_health_in_football_stopped_me_discussing_my_own_depression/?ref=twtrec",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.heraldscotland.com/sport/15827780.Tam_McManus__Stigma_around_mental_health_in_football_stopped_me_discussing_my_own_depression/?ref=twtrec",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.heraldscotland.com/sport/15827780.Tam_McManus__Stigma_around_mental_health_in_football_stopped_me_discussing_my_own_depression/?ref=twtrec",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.heraldscotland.com/sport/15827780.Tam_McManus__Stigma_around_mental_health_in_football_stopped_me_discussing_my_own_depression/?ref=twtrec",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.heraldscotland.com/sport/15827780.Tam_McManus__Stigma_around_mental_health_in_football_stopped_me_discussing_my_own_depression/?ref=twtrec",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.heraldscotland.com/sport/15827780.Tam_McManus__Stigma_around_mental_health_in_football_stopped_me_discussing_my_own_depression/?ref=twtrec"
+    }
+}

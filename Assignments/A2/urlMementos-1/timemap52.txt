@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T01:07:35Z",
+            "uri": "http://web.archive.org/web/20180208010735/http://www.vmikeydets.com/ViewArticle.dbml?DB_OEM_ID=9800&ATCLID=211696290"
+        },
+        "last": {
+            "datetime": "2018-02-08T01:07:35Z",
+            "uri": "http://web.archive.org/web/20180208010735/http://www.vmikeydets.com/ViewArticle.dbml?DB_OEM_ID=9800&ATCLID=211696290"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T01:07:35Z",
+                "uri": "http://web.archive.org/web/20180208010735/http://www.vmikeydets.com/ViewArticle.dbml?DB_OEM_ID=9800&ATCLID=211696290"
+            }
+        ]
+    },
+    "original_uri": "http://www.vmikeydets.com/ViewArticle.dbml?DB_OEM_ID=9800&ATCLID=211696290",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.vmikeydets.com/ViewArticle.dbml?DB_OEM_ID=9800&ATCLID=211696290",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.vmikeydets.com/ViewArticle.dbml?DB_OEM_ID=9800&ATCLID=211696290",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.vmikeydets.com/ViewArticle.dbml?DB_OEM_ID=9800&ATCLID=211696290",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.vmikeydets.com/ViewArticle.dbml?DB_OEM_ID=9800&ATCLID=211696290",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.vmikeydets.com/ViewArticle.dbml?DB_OEM_ID=9800&ATCLID=211696290"
+    }
+}

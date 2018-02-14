@@ -1,0 +1,986 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2013-08-03T14:58:50Z",
+            "uri": "http://web.archive.org/web/20130803145850/http://www.football-chairman.com:80/"
+        },
+        "last": {
+            "datetime": "2018-02-13T19:36:36Z",
+            "uri": "http://web.archive.org/web/20180213193636/http://www.football-chairman.com"
+        },
+        "list": [
+            {
+                "datetime": "2013-08-03T14:58:50Z",
+                "uri": "http://web.archive.org/web/20130803145850/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2013-08-05T00:54:49Z",
+                "uri": "http://web.archive.org/web/20130805005449/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2013-10-03T22:29:38Z",
+                "uri": "http://webarchive.loc.gov/all/20131003222938/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2013-11-30T20:08:46Z",
+                "uri": "http://webarchive.loc.gov/all/20131130200846/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2014-03-22T03:38:14Z",
+                "uri": "http://archive.is/20140322033814/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2014-03-31T11:48:10Z",
+                "uri": "http://web.archive.org/web/20140331114810/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2014-05-17T13:41:56Z",
+                "uri": "http://web.archive.org/web/20140517134156/http://football-chairman.com/"
+            },
+            {
+                "datetime": "2014-08-13T01:48:20Z",
+                "uri": "http://web.archive.org/web/20140813014820/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2014-10-05T21:20:17Z",
+                "uri": "http://web.archive.org/web/20141005212017/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2014-11-06T13:31:54Z",
+                "uri": "http://web.archive.org/web/20141106133154/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2014-12-17T09:53:20Z",
+                "uri": "http://web.archive.org/web/20141217095320/http://football-chairman.com/"
+            },
+            {
+                "datetime": "2014-12-25T20:26:02Z",
+                "uri": "http://web.archive.org/web/20141225202602/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2015-03-05T13:35:01Z",
+                "uri": "http://web.archive.org/web/20150305133501/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2015-03-29T07:14:22Z",
+                "uri": "http://web.archive.org/web/20150329071422/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2015-04-27T14:22:10Z",
+                "uri": "http://web.archive.org/web/20150427142210/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2015-05-11T14:52:08Z",
+                "uri": "http://web.archive.org/web/20150511145208/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2015-08-01T17:02:49Z",
+                "uri": "http://web.archive.org/web/20150801170249/http://football-chairman.com/"
+            },
+            {
+                "datetime": "2015-09-06T22:19:23Z",
+                "uri": "http://web.archive.org/web/20150906221923/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2015-10-16T13:27:50Z",
+                "uri": "http://web.archive.org/web/20151016132750/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2015-11-16T16:10:36Z",
+                "uri": "http://web.archive.org/web/20151116161036/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2015-12-27T00:23:52Z",
+                "uri": "http://web.archive.org/web/20151227002352/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2016-01-10T07:56:05Z",
+                "uri": "http://web.archive.org/web/20160110075605/http://football-chairman.com/"
+            },
+            {
+                "datetime": "2016-03-03T03:55:24Z",
+                "uri": "http://web.archive.org/web/20160303035524/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2016-03-11T14:19:00Z",
+                "uri": "http://web.archive.org/web/20160311141900/http://football-chairman.com/"
+            },
+            {
+                "datetime": "2016-03-14T16:38:22Z",
+                "uri": "http://web.archive.org/web/20160314163822/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2016-04-03T07:13:34Z",
+                "uri": "http://web.archive.org/web/20160403071334/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2016-04-06T23:32:37Z",
+                "uri": "http://web.archive.org/web/20160406233237/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2016-05-04T23:52:08Z",
+                "uri": "http://web.archive.org/web/20160504235208/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2016-05-06T01:30:32Z",
+                "uri": "http://web.archive.org/web/20160506013032/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2016-06-08T08:20:11Z",
+                "uri": "http://web.archive.org/web/20160608082011/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2016-06-11T04:30:02Z",
+                "uri": "http://web.archive.org/web/20160611043002/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2016-07-10T04:02:16Z",
+                "uri": "http://web.archive.org/web/20160710040216/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2016-08-01T02:53:26Z",
+                "uri": "http://web.archive.org/web/20160801025326/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2016-08-11T07:48:02Z",
+                "uri": "http://web.archive.org/web/20160811074802/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2016-08-17T04:58:32Z",
+                "uri": "http://web.archive.org/web/20160817045832/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2016-09-16T06:27:11Z",
+                "uri": "http://web.archive.org/web/20160916062711/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2016-09-17T08:14:09Z",
+                "uri": "http://web.archive.org/web/20160917081409/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2016-10-06T19:56:06Z",
+                "uri": "http://web.archive.org/web/20161006195606/http://football-chairman.com/"
+            },
+            {
+                "datetime": "2016-10-18T15:06:51Z",
+                "uri": "http://web.archive.org/web/20161018150651/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2016-10-30T20:28:30Z",
+                "uri": "http://web.archive.org/web/20161030202830/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2016-12-15T08:09:13Z",
+                "uri": "http://web.archive.org/web/20161215080913/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2017-03-14T04:08:07Z",
+                "uri": "http://web.archive.org/web/20170314040807/http://football-chairman.com:80/"
+            },
+            {
+                "datetime": "2017-05-30T01:43:19Z",
+                "uri": "http://web.archive.org/web/20170530014319/http://football-chairman.com/"
+            },
+            {
+                "datetime": "2017-05-30T11:22:32Z",
+                "uri": "http://web.archive.org/web/20170530112232/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2017-05-31T06:06:51Z",
+                "uri": "http://web.archive.org/web/20170531060651/http://football-chairman.com:80/"
+            },
+            {
+                "datetime": "2017-05-31T14:24:57Z",
+                "uri": "http://web.archive.org/web/20170531142457/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2017-07-03T12:57:27Z",
+                "uri": "http://web.archive.org/web/20170703125727/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2017-07-08T22:25:21Z",
+                "uri": "http://web.archive.org/web/20170708222521/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2017-08-10T00:20:48Z",
+                "uri": "http://web.archive.org/web/20170810002048/http://www.football-chairman.com:80/"
+            },
+            {
+                "datetime": "2017-08-29T17:54:57Z",
+                "uri": "http://web.archive.org/web/20170829175457/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2017-08-29T18:45:47Z",
+                "uri": "http://web.archive.org/web/20170829184547/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2017-08-31T18:32:35Z",
+                "uri": "http://web.archive.org/web/20170831183235/http://football-chairman.com/"
+            },
+            {
+                "datetime": "2017-09-18T06:19:29Z",
+                "uri": "http://web.archive.org/web/20170918061929/http://football-chairman.com/"
+            },
+            {
+                "datetime": "2017-10-01T12:43:03Z",
+                "uri": "http://web.archive.org/web/20171001124303/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2017-10-01T12:43:07Z",
+                "uri": "http://web.archive.org/web/20171001124307/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2017-10-11T13:49:58Z",
+                "uri": "http://web.archive.org/web/20171011134958/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2017-10-17T15:03:24Z",
+                "uri": "http://web.archive.org/web/20171017150324/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2017-11-04T18:25:40Z",
+                "uri": "http://web.archive.org/web/20171104182540/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-05T02:48:44Z",
+                "uri": "http://web.archive.org/web/20171105024844/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-05T20:34:44Z",
+                "uri": "http://web.archive.org/web/20171105203444/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-06T08:11:16Z",
+                "uri": "http://web.archive.org/web/20171106081116/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-07T08:17:05Z",
+                "uri": "http://web.archive.org/web/20171107081705/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-07T10:12:26Z",
+                "uri": "http://web.archive.org/web/20171107101226/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-07T14:42:26Z",
+                "uri": "http://web.archive.org/web/20171107144226/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-08T12:26:16Z",
+                "uri": "http://web.archive.org/web/20171108122616/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-09T10:45:40Z",
+                "uri": "http://web.archive.org/web/20171109104540/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-10T01:03:24Z",
+                "uri": "http://web.archive.org/web/20171110010324/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-10T06:16:24Z",
+                "uri": "http://web.archive.org/web/20171110061624/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-10T17:35:08Z",
+                "uri": "http://web.archive.org/web/20171110173508/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-10T23:11:28Z",
+                "uri": "http://web.archive.org/web/20171110231128/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-11T21:29:48Z",
+                "uri": "http://web.archive.org/web/20171111212948/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-12T05:27:10Z",
+                "uri": "http://web.archive.org/web/20171112052710/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-12T08:23:11Z",
+                "uri": "http://web.archive.org/web/20171112082311/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-12T10:22:29Z",
+                "uri": "http://web.archive.org/web/20171112102229/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-15T23:24:51Z",
+                "uri": "http://web.archive.org/web/20171115232451/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-16T12:10:27Z",
+                "uri": "http://web.archive.org/web/20171116121027/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-16T18:43:17Z",
+                "uri": "http://web.archive.org/web/20171116184317/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-17T04:20:45Z",
+                "uri": "http://web.archive.org/web/20171117042045/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-17T12:28:35Z",
+                "uri": "http://web.archive.org/web/20171117122835/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-18T17:36:29Z",
+                "uri": "http://web.archive.org/web/20171118173629/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-18T23:44:07Z",
+                "uri": "http://web.archive.org/web/20171118234407/http://www.football-chairman.com/"
+            },
+            {
+                "datetime": "2017-11-19T14:58:37Z",
+                "uri": "http://web.archive.org/web/20171119145837/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-20T23:52:18Z",
+                "uri": "http://web.archive.org/web/20171120235218/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-21T05:38:35Z",
+                "uri": "http://web.archive.org/web/20171121053835/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-22T10:04:18Z",
+                "uri": "http://web.archive.org/web/20171122100418/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-23T20:48:43Z",
+                "uri": "http://web.archive.org/web/20171123204843/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-24T22:20:39Z",
+                "uri": "http://web.archive.org/web/20171124222039/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-25T05:00:15Z",
+                "uri": "http://web.archive.org/web/20171125050015/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-26T16:06:37Z",
+                "uri": "http://web.archive.org/web/20171126160637/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-26T22:39:08Z",
+                "uri": "http://web.archive.org/web/20171126223908/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-28T04:14:00Z",
+                "uri": "http://web.archive.org/web/20171128041400/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-28T20:01:59Z",
+                "uri": "http://web.archive.org/web/20171128200159/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-28T22:42:09Z",
+                "uri": "http://web.archive.org/web/20171128224209/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-29T22:31:56Z",
+                "uri": "http://web.archive.org/web/20171129223156/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-11-29T22:32:49Z",
+                "uri": "http://web.archive.org/web/20171129223249/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-02T14:46:18Z",
+                "uri": "http://web.archive.org/web/20171202144618/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-02T22:29:24Z",
+                "uri": "http://web.archive.org/web/20171202222924/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-03T10:31:08Z",
+                "uri": "http://web.archive.org/web/20171203103108/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-03T16:15:10Z",
+                "uri": "http://web.archive.org/web/20171203161510/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-03T21:02:12Z",
+                "uri": "http://web.archive.org/web/20171203210212/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-03T22:49:18Z",
+                "uri": "http://web.archive.org/web/20171203224918/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-04T01:58:58Z",
+                "uri": "http://web.archive.org/web/20171204015858/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-04T07:49:41Z",
+                "uri": "http://web.archive.org/web/20171204074941/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-04T19:55:23Z",
+                "uri": "http://web.archive.org/web/20171204195523/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-05T03:26:33Z",
+                "uri": "http://web.archive.org/web/20171205032633/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-06T18:18:37Z",
+                "uri": "http://web.archive.org/web/20171206181837/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-06T19:27:57Z",
+                "uri": "http://web.archive.org/web/20171206192757/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-07T20:21:33Z",
+                "uri": "http://web.archive.org/web/20171207202133/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-07T23:12:15Z",
+                "uri": "http://web.archive.org/web/20171207231215/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-08T20:03:14Z",
+                "uri": "http://web.archive.org/web/20171208200314/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-08T23:07:00Z",
+                "uri": "http://web.archive.org/web/20171208230700/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-08T23:11:51Z",
+                "uri": "http://web.archive.org/web/20171208231151/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-09T20:37:23Z",
+                "uri": "http://web.archive.org/web/20171209203723/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-10T05:42:35Z",
+                "uri": "http://web.archive.org/web/20171210054235/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-10T19:39:16Z",
+                "uri": "http://web.archive.org/web/20171210193916/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-11T04:29:08Z",
+                "uri": "http://web.archive.org/web/20171211042908/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-11T14:48:13Z",
+                "uri": "http://web.archive.org/web/20171211144813/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-12T14:24:33Z",
+                "uri": "http://web.archive.org/web/20171212142433/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-13T07:23:15Z",
+                "uri": "http://web.archive.org/web/20171213072315/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-13T12:22:12Z",
+                "uri": "http://web.archive.org/web/20171213122212/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-13T14:44:51Z",
+                "uri": "http://web.archive.org/web/20171213144451/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-13T16:22:29Z",
+                "uri": "http://web.archive.org/web/20171213162229/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-13T22:51:13Z",
+                "uri": "http://web.archive.org/web/20171213225113/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-14T01:02:14Z",
+                "uri": "http://web.archive.org/web/20171214010214/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-14T01:03:29Z",
+                "uri": "http://web.archive.org/web/20171214010329/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-14T01:31:28Z",
+                "uri": "http://web.archive.org/web/20171214013128/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-14T01:36:19Z",
+                "uri": "http://web.archive.org/web/20171214013619/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-14T08:25:04Z",
+                "uri": "http://web.archive.org/web/20171214082504/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-14T08:25:26Z",
+                "uri": "http://web.archive.org/web/20171214082526/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-14T09:06:49Z",
+                "uri": "http://web.archive.org/web/20171214090649/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-14T18:49:53Z",
+                "uri": "http://web.archive.org/web/20171214184953/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-15T16:06:35Z",
+                "uri": "http://web.archive.org/web/20171215160635/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-15T18:07:08Z",
+                "uri": "http://web.archive.org/web/20171215180708/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-15T21:54:50Z",
+                "uri": "http://web.archive.org/web/20171215215450/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-15T22:02:36Z",
+                "uri": "http://web.archive.org/web/20171215220236/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-15T22:25:46Z",
+                "uri": "http://web.archive.org/web/20171215222546/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-15T22:38:16Z",
+                "uri": "http://web.archive.org/web/20171215223816/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-16T08:54:59Z",
+                "uri": "http://web.archive.org/web/20171216085459/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-16T13:57:31Z",
+                "uri": "http://web.archive.org/web/20171216135731/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-16T14:13:37Z",
+                "uri": "http://web.archive.org/web/20171216141337/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-16T18:59:20Z",
+                "uri": "http://web.archive.org/web/20171216185920/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-16T23:03:48Z",
+                "uri": "http://web.archive.org/web/20171216230348/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-16T23:07:34Z",
+                "uri": "http://web.archive.org/web/20171216230734/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-17T19:51:49Z",
+                "uri": "http://web.archive.org/web/20171217195149/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-19T14:17:16Z",
+                "uri": "http://web.archive.org/web/20171219141716/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-19T14:50:46Z",
+                "uri": "http://web.archive.org/web/20171219145046/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-20T09:56:35Z",
+                "uri": "http://web.archive.org/web/20171220095635/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-20T13:33:59Z",
+                "uri": "http://web.archive.org/web/20171220133359/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-21T08:31:19Z",
+                "uri": "http://web.archive.org/web/20171221083119/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-21T12:46:41Z",
+                "uri": "http://web.archive.org/web/20171221124641/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-22T06:59:12Z",
+                "uri": "http://web.archive.org/web/20171222065912/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-22T13:34:33Z",
+                "uri": "http://web.archive.org/web/20171222133433/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-22T16:21:19Z",
+                "uri": "http://web.archive.org/web/20171222162119/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-22T22:12:08Z",
+                "uri": "http://web.archive.org/web/20171222221208/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-22T22:22:49Z",
+                "uri": "http://web.archive.org/web/20171222222249/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-22T22:23:26Z",
+                "uri": "http://web.archive.org/web/20171222222326/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-23T13:20:29Z",
+                "uri": "http://web.archive.org/web/20171223132029/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-23T13:21:12Z",
+                "uri": "http://web.archive.org/web/20171223132112/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-23T14:58:48Z",
+                "uri": "http://web.archive.org/web/20171223145848/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-23T16:01:58Z",
+                "uri": "http://web.archive.org/web/20171223160158/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-23T21:24:14Z",
+                "uri": "http://web.archive.org/web/20171223212414/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-24T17:56:01Z",
+                "uri": "http://web.archive.org/web/20171224175601/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-24T19:19:18Z",
+                "uri": "http://web.archive.org/web/20171224191918/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-24T20:31:32Z",
+                "uri": "http://web.archive.org/web/20171224203132/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-24T20:43:12Z",
+                "uri": "http://web.archive.org/web/20171224204312/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-24T20:53:12Z",
+                "uri": "http://web.archive.org/web/20171224205312/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-24T20:54:10Z",
+                "uri": "http://web.archive.org/web/20171224205410/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-24T22:52:59Z",
+                "uri": "http://web.archive.org/web/20171224225259/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-25T20:28:51Z",
+                "uri": "http://web.archive.org/web/20171225202851/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-25T20:30:49Z",
+                "uri": "http://web.archive.org/web/20171225203049/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-25T20:31:52Z",
+                "uri": "http://web.archive.org/web/20171225203152/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-26T12:59:30Z",
+                "uri": "http://web.archive.org/web/20171226125930/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-29T19:36:04Z",
+                "uri": "http://web.archive.org/web/20171229193604/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2017-12-30T20:16:33Z",
+                "uri": "http://web.archive.org/web/20171230201633/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-01T00:46:39Z",
+                "uri": "http://web.archive.org/web/20180101004639/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-14T18:54:24Z",
+                "uri": "http://web.archive.org/web/20180114185424/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-15T08:59:31Z",
+                "uri": "http://web.archive.org/web/20180115085931/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-15T10:06:10Z",
+                "uri": "http://web.archive.org/web/20180115100610/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-15T13:43:28Z",
+                "uri": "http://web.archive.org/web/20180115134328/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-15T19:06:33Z",
+                "uri": "http://web.archive.org/web/20180115190633/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-15T19:30:26Z",
+                "uri": "http://web.archive.org/web/20180115193026/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-16T06:38:08Z",
+                "uri": "http://web.archive.org/web/20180116063808/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-16T13:39:47Z",
+                "uri": "http://web.archive.org/web/20180116133947/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-16T15:55:09Z",
+                "uri": "http://web.archive.org/web/20180116155509/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-16T15:55:34Z",
+                "uri": "http://web.archive.org/web/20180116155534/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-16T16:09:05Z",
+                "uri": "http://web.archive.org/web/20180116160905/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-16T16:20:20Z",
+                "uri": "http://web.archive.org/web/20180116162020/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-17T01:53:52Z",
+                "uri": "http://web.archive.org/web/20180117015352/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-17T04:42:24Z",
+                "uri": "http://web.archive.org/web/20180117044224/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-17T13:34:49Z",
+                "uri": "http://web.archive.org/web/20180117133449/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-18T12:19:42Z",
+                "uri": "http://web.archive.org/web/20180118121942/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-19T14:10:49Z",
+                "uri": "http://web.archive.org/web/20180119141049/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-19T19:50:29Z",
+                "uri": "http://web.archive.org/web/20180119195029/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-23T10:48:26Z",
+                "uri": "http://web.archive.org/web/20180123104826/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-23T13:39:46Z",
+                "uri": "http://web.archive.org/web/20180123133946/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-24T11:03:46Z",
+                "uri": "http://web.archive.org/web/20180124110346/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-24T13:44:43Z",
+                "uri": "http://web.archive.org/web/20180124134443/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-24T19:23:14Z",
+                "uri": "http://web.archive.org/web/20180124192314/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-25T05:51:21Z",
+                "uri": "http://web.archive.org/web/20180125055121/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-25T06:53:34Z",
+                "uri": "http://web.archive.org/web/20180125065334/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-25T13:36:59Z",
+                "uri": "http://web.archive.org/web/20180125133659/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-25T16:50:37Z",
+                "uri": "http://web.archive.org/web/20180125165037/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-25T22:43:29Z",
+                "uri": "http://web.archive.org/web/20180125224329/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-25T23:32:12Z",
+                "uri": "http://web.archive.org/web/20180125233212/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-25T23:59:13Z",
+                "uri": "http://web.archive.org/web/20180125235913/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-26T01:05:37Z",
+                "uri": "http://web.archive.org/web/20180126010537/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-26T22:26:00Z",
+                "uri": "http://web.archive.org/web/20180126222600/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-27T19:10:34Z",
+                "uri": "http://web.archive.org/web/20180127191034/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-28T18:32:08Z",
+                "uri": "http://web.archive.org/web/20180128183208/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-29T06:03:46Z",
+                "uri": "http://web.archive.org/web/20180129060346/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-29T06:46:37Z",
+                "uri": "http://web.archive.org/web/20180129064637/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-29T06:46:37Z",
+                "uri": "http://web.archive.org/web/20180129064637/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-29T16:04:20Z",
+                "uri": "http://web.archive.org/web/20180129160420/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-30T02:32:42Z",
+                "uri": "http://web.archive.org/web/20180130023242/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-30T11:42:34Z",
+                "uri": "http://web.archive.org/web/20180130114234/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-30T13:42:43Z",
+                "uri": "http://web.archive.org/web/20180130134243/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-30T17:15:58Z",
+                "uri": "http://web.archive.org/web/20180130171558/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-31T07:27:56Z",
+                "uri": "http://web.archive.org/web/20180131072756/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-01-31T18:47:48Z",
+                "uri": "http://web.archive.org/web/20180131184748/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-01T13:10:48Z",
+                "uri": "http://web.archive.org/web/20180201131048/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-01T13:38:07Z",
+                "uri": "http://web.archive.org/web/20180201133807/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-02T19:56:37Z",
+                "uri": "http://web.archive.org/web/20180202195637/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-04T21:43:47Z",
+                "uri": "http://web.archive.org/web/20180204214347/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-05T13:38:36Z",
+                "uri": "http://web.archive.org/web/20180205133836/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-06T22:19:10Z",
+                "uri": "http://web.archive.org/web/20180206221910/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-06T22:19:13Z",
+                "uri": "http://web.archive.org/web/20180206221913/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-06T23:00:31Z",
+                "uri": "http://web.archive.org/web/20180206230031/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-06T23:00:38Z",
+                "uri": "http://web.archive.org/web/20180206230038/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-07T15:38:45Z",
+                "uri": "http://web.archive.org/web/20180207153845/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-07T22:32:55Z",
+                "uri": "http://web.archive.org/web/20180207223255/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-07T23:03:25Z",
+                "uri": "http://web.archive.org/web/20180207230325/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-07T23:03:27Z",
+                "uri": "http://web.archive.org/web/20180207230327/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-09T19:05:29Z",
+                "uri": "http://web.archive.org/web/20180209190529/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-10T04:51:30Z",
+                "uri": "http://web.archive.org/web/20180210045130/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-10T17:25:04Z",
+                "uri": "http://web.archive.org/web/20180210172504/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-10T20:42:36Z",
+                "uri": "http://web.archive.org/web/20180210204236/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-11T20:03:15Z",
+                "uri": "http://web.archive.org/web/20180211200315/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-12T09:59:33Z",
+                "uri": "http://web.archive.org/web/20180212095933/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-13T18:29:40Z",
+                "uri": "http://web.archive.org/web/20180213182940/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-13T18:30:55Z",
+                "uri": "http://web.archive.org/web/20180213183055/http://www.football-chairman.com"
+            },
+            {
+                "datetime": "2018-02-13T19:36:36Z",
+                "uri": "http://web.archive.org/web/20180213193636/http://www.football-chairman.com"
+            }
+        ]
+    },
+    "original_uri": "http://www.football-chairman.com",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.football-chairman.com",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.football-chairman.com",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.football-chairman.com",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.football-chairman.com",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.football-chairman.com"
+    }
+}

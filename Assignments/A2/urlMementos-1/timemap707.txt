@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T04:44:53Z",
+            "uri": "http://web.archive.org/web/20180208044453/http://www.sports.fr/football/equipe-de-france/articles/la-fff-epinglee-par-la-cour-des-comptes-2079053/"
+        },
+        "last": {
+            "datetime": "2018-02-08T04:44:53Z",
+            "uri": "http://web.archive.org/web/20180208044453/http://www.sports.fr/football/equipe-de-france/articles/la-fff-epinglee-par-la-cour-des-comptes-2079053/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T04:44:53Z",
+                "uri": "http://web.archive.org/web/20180208044453/http://www.sports.fr/football/equipe-de-france/articles/la-fff-epinglee-par-la-cour-des-comptes-2079053/"
+            }
+        ]
+    },
+    "original_uri": "http://www.sports.fr/football/equipe-de-france/articles/la-fff-epinglee-par-la-cour-des-comptes-2079053/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.sports.fr/football/equipe-de-france/articles/la-fff-epinglee-par-la-cour-des-comptes-2079053/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.sports.fr/football/equipe-de-france/articles/la-fff-epinglee-par-la-cour-des-comptes-2079053/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.sports.fr/football/equipe-de-france/articles/la-fff-epinglee-par-la-cour-des-comptes-2079053/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.sports.fr/football/equipe-de-france/articles/la-fff-epinglee-par-la-cour-des-comptes-2079053/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.sports.fr/football/equipe-de-france/articles/la-fff-epinglee-par-la-cour-des-comptes-2079053/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T05:35:01Z",
+            "uri": "http://web.archive.org/web/20180211053501/https://www.outsports.com/2018/2/7/16988160/st-louis-blues-pride-night-jake-bain-gay"
+        },
+        "last": {
+            "datetime": "2018-02-11T05:35:01Z",
+            "uri": "http://wayback.archive-it.org/all/20180211053501/https://www.outsports.com/2018/2/7/16988160/st-louis-blues-pride-night-jake-bain-gay"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T05:35:01Z",
+                "uri": "http://web.archive.org/web/20180211053501/https://www.outsports.com/2018/2/7/16988160/st-louis-blues-pride-night-jake-bain-gay"
+            },
+            {
+                "datetime": "2018-02-11T05:35:01Z",
+                "uri": "http://wayback.archive-it.org/all/20180211053501/https://www.outsports.com/2018/2/7/16988160/st-louis-blues-pride-night-jake-bain-gay"
+            }
+        ]
+    },
+    "original_uri": "https://www.outsports.com/2018/2/7/16988160/st-louis-blues-pride-night-jake-bain-gay",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.outsports.com/2018/2/7/16988160/st-louis-blues-pride-night-jake-bain-gay",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.outsports.com/2018/2/7/16988160/st-louis-blues-pride-night-jake-bain-gay",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.outsports.com/2018/2/7/16988160/st-louis-blues-pride-night-jake-bain-gay",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.outsports.com/2018/2/7/16988160/st-louis-blues-pride-night-jake-bain-gay",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.outsports.com/2018/2/7/16988160/st-louis-blues-pride-night-jake-bain-gay"
+    }
+}

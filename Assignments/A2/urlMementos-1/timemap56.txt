@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T09:36:20Z",
+            "uri": "http://web.archive.org/web/20180208093620/http://www.timesnownews.com/sports/cricket/article/jhulan-goswami-becomes-first-cricketer-to-claim-200-odi-wickets-in-history-of-womens-cricket/196563"
+        },
+        "last": {
+            "datetime": "2018-02-08T09:36:20Z",
+            "uri": "http://web.archive.org/web/20180208093620/http://www.timesnownews.com/sports/cricket/article/jhulan-goswami-becomes-first-cricketer-to-claim-200-odi-wickets-in-history-of-womens-cricket/196563"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T09:36:20Z",
+                "uri": "http://web.archive.org/web/20180208093620/http://www.timesnownews.com/sports/cricket/article/jhulan-goswami-becomes-first-cricketer-to-claim-200-odi-wickets-in-history-of-womens-cricket/196563"
+            }
+        ]
+    },
+    "original_uri": "http://www.timesnownews.com/sports/cricket/article/jhulan-goswami-becomes-first-cricketer-to-claim-200-odi-wickets-in-history-of-womens-cricket/196563",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.timesnownews.com/sports/cricket/article/jhulan-goswami-becomes-first-cricketer-to-claim-200-odi-wickets-in-history-of-womens-cricket/196563",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.timesnownews.com/sports/cricket/article/jhulan-goswami-becomes-first-cricketer-to-claim-200-odi-wickets-in-history-of-womens-cricket/196563",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.timesnownews.com/sports/cricket/article/jhulan-goswami-becomes-first-cricketer-to-claim-200-odi-wickets-in-history-of-womens-cricket/196563",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.timesnownews.com/sports/cricket/article/jhulan-goswami-becomes-first-cricketer-to-claim-200-odi-wickets-in-history-of-womens-cricket/196563",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.timesnownews.com/sports/cricket/article/jhulan-goswami-becomes-first-cricketer-to-claim-200-odi-wickets-in-history-of-womens-cricket/196563"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-07T19:54:46Z",
+            "uri": "http://web.archive.org/web/20180207195446/https://www.sports.ru/football/1059936605.html"
+        },
+        "last": {
+            "datetime": "2018-02-07T19:54:46Z",
+            "uri": "http://web.archive.org/web/20180207195446/https://www.sports.ru/football/1059936605.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-07T19:54:46Z",
+                "uri": "http://web.archive.org/web/20180207195446/https://www.sports.ru/football/1059936605.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.sports.ru/football/1059936605.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.sports.ru/football/1059936605.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.sports.ru/football/1059936605.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.sports.ru/football/1059936605.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.sports.ru/football/1059936605.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.sports.ru/football/1059936605.html"
+    }
+}

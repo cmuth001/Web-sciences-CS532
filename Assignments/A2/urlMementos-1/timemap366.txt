@@ -1,0 +1,278 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-07T22:48:27Z",
+            "uri": "http://web.archive.org/web/20180207224827/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+        },
+        "last": {
+            "datetime": "2018-02-08T23:38:13Z",
+            "uri": "http://web.archive.org/web/20180208233813/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-07T22:48:27Z",
+                "uri": "http://web.archive.org/web/20180207224827/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-07T23:23:03Z",
+                "uri": "http://web.archive.org/web/20180207232303/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-07T23:41:31Z",
+                "uri": "http://wayback.archive-it.org/all/20180207234131/http://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-07T23:41:31Z",
+                "uri": "http://web.archive.org/web/20180207234131/http://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-07T23:44:14Z",
+                "uri": "http://wayback.archive-it.org/all/20180207234414/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-07T23:44:14Z",
+                "uri": "http://web.archive.org/web/20180207234414/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-07T23:56:40Z",
+                "uri": "http://web.archive.org/web/20180207235640/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T00:31:03Z",
+                "uri": "http://web.archive.org/web/20180208003103/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T01:05:05Z",
+                "uri": "http://web.archive.org/web/20180208010505/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T01:39:11Z",
+                "uri": "http://web.archive.org/web/20180208013911/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T02:12:51Z",
+                "uri": "http://web.archive.org/web/20180208021251/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T02:47:16Z",
+                "uri": "http://web.archive.org/web/20180208024716/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T02:59:23Z",
+                "uri": "http://web.archive.org/web/20180208025923/http://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T03:21:10Z",
+                "uri": "http://web.archive.org/web/20180208032110/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T03:56:34Z",
+                "uri": "http://web.archive.org/web/20180208035634/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T04:30:14Z",
+                "uri": "http://web.archive.org/web/20180208043014/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T05:04:24Z",
+                "uri": "http://web.archive.org/web/20180208050424/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T05:38:57Z",
+                "uri": "http://web.archive.org/web/20180208053857/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T06:13:50Z",
+                "uri": "http://web.archive.org/web/20180208061350/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T06:47:50Z",
+                "uri": "http://web.archive.org/web/20180208064750/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T07:12:02Z",
+                "uri": "http://web.archive.org/web/20180208071202/https://www.youtube.com/watch?time_continue=16&v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T07:12:07Z",
+                "uri": "http://web.archive.org/web/20180208071207/https://www.youtube.com/watch?v=3eRcfp7Kua8&app=desktop"
+            },
+            {
+                "datetime": "2018-02-08T07:12:39Z",
+                "uri": "http://web.archive.org/web/20180208071239/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T07:21:39Z",
+                "uri": "http://web.archive.org/web/20180208072139/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T07:55:37Z",
+                "uri": "http://web.archive.org/web/20180208075537/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T08:23:04Z",
+                "uri": "http://wayback.archive-it.org/all/20180208082304/http://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T08:23:04Z",
+                "uri": "http://web.archive.org/web/20180208082304/http://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T08:24:50Z",
+                "uri": "http://wayback.archive-it.org/all/20180208082450/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T08:24:50Z",
+                "uri": "http://web.archive.org/web/20180208082450/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T08:27:51Z",
+                "uri": "http://web.archive.org/web/20180208082751/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T08:28:00Z",
+                "uri": "http://web.archive.org/web/20180208082800/https://www.youtube.com/watch?v=3eRcfp7Kua8&app=desktop"
+            },
+            {
+                "datetime": "2018-02-08T08:29:13Z",
+                "uri": "http://web.archive.org/web/20180208082913/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T09:03:23Z",
+                "uri": "http://web.archive.org/web/20180208090323/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T09:38:17Z",
+                "uri": "http://web.archive.org/web/20180208093817/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T10:14:00Z",
+                "uri": "http://web.archive.org/web/20180208101400/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T10:48:34Z",
+                "uri": "http://web.archive.org/web/20180208104834/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T11:22:07Z",
+                "uri": "http://web.archive.org/web/20180208112207/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T11:55:44Z",
+                "uri": "http://web.archive.org/web/20180208115544/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T12:29:34Z",
+                "uri": "http://web.archive.org/web/20180208122934/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T13:03:18Z",
+                "uri": "http://web.archive.org/web/20180208130318/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T13:37:12Z",
+                "uri": "http://web.archive.org/web/20180208133712/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T14:10:49Z",
+                "uri": "http://wayback.archive-it.org/all/20180208141049/http://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T14:10:49Z",
+                "uri": "http://web.archive.org/web/20180208141049/http://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T14:10:55Z",
+                "uri": "http://web.archive.org/web/20180208141055/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T14:45:28Z",
+                "uri": "http://web.archive.org/web/20180208144528/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T15:19:48Z",
+                "uri": "http://web.archive.org/web/20180208151948/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T15:54:15Z",
+                "uri": "http://web.archive.org/web/20180208155415/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T16:28:23Z",
+                "uri": "http://web.archive.org/web/20180208162823/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T17:02:32Z",
+                "uri": "http://web.archive.org/web/20180208170232/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T17:19:36Z",
+                "uri": "http://web.archive.org/web/20180208171936/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T17:37:10Z",
+                "uri": "http://web.archive.org/web/20180208173710/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T18:06:52Z",
+                "uri": "http://web.archive.org/web/20180208180652/https://www.youtube.com/watch?v=3eRcfp7Kua8&app=desktop"
+            },
+            {
+                "datetime": "2018-02-08T18:11:30Z",
+                "uri": "http://web.archive.org/web/20180208181130/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T18:46:12Z",
+                "uri": "http://web.archive.org/web/20180208184612/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T19:21:05Z",
+                "uri": "http://web.archive.org/web/20180208192105/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T19:55:14Z",
+                "uri": "http://web.archive.org/web/20180208195514/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T20:12:01Z",
+                "uri": "http://web.archive.org/web/20180208201201/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T20:46:18Z",
+                "uri": "http://web.archive.org/web/20180208204618/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T21:21:12Z",
+                "uri": "http://web.archive.org/web/20180208212112/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T21:55:25Z",
+                "uri": "http://web.archive.org/web/20180208215525/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T22:29:49Z",
+                "uri": "http://web.archive.org/web/20180208222949/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T22:40:55Z",
+                "uri": "http://web.archive.org/web/20180208224055/https://www.youtube.com/watch?time_continue=31&v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T23:03:52Z",
+                "uri": "http://web.archive.org/web/20180208230352/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            },
+            {
+                "datetime": "2018-02-08T23:38:13Z",
+                "uri": "http://web.archive.org/web/20180208233813/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+            }
+        ]
+    },
+    "original_uri": "https://www.youtube.com/watch?v=3eRcfp7Kua8",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.youtube.com/watch?v=3eRcfp7Kua8",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.youtube.com/watch?v=3eRcfp7Kua8",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.youtube.com/watch?v=3eRcfp7Kua8",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.youtube.com/watch?v=3eRcfp7Kua8",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.youtube.com/watch?v=3eRcfp7Kua8"
+    }
+}

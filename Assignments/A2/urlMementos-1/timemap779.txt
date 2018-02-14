@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-06T19:38:11Z",
+            "uri": "http://web.archive.org/web/20180206193811/http://www.bbc.co.uk/sport/cricket/42961005"
+        },
+        "last": {
+            "datetime": "2018-02-06T19:38:11Z",
+            "uri": "http://web.archive.org/web/20180206193811/http://www.bbc.co.uk/sport/cricket/42961005"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-06T19:38:11Z",
+                "uri": "http://web.archive.org/web/20180206193811/http://www.bbc.co.uk/sport/cricket/42961005"
+            }
+        ]
+    },
+    "original_uri": "http://www.bbc.co.uk/sport/cricket/42961005",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.co.uk/sport/cricket/42961005",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.bbc.co.uk/sport/cricket/42961005",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.bbc.co.uk/sport/cricket/42961005",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.co.uk/sport/cricket/42961005",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.bbc.co.uk/sport/cricket/42961005"
+    }
+}

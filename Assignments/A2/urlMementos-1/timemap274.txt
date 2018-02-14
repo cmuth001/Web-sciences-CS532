@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-09-13T14:01:11Z",
+            "uri": "http://web.archive.org/web/20170913140111/https://imstore.bet365affiliates.com/Tracker.aspx?AffiliateId=95965&AffiliateCode=365_558264&CID=352&DID=68&TID=1&PID=149&LNG=1"
+        },
+        "last": {
+            "datetime": "2017-09-13T14:01:11Z",
+            "uri": "http://web.archive.org/web/20170913140111/https://imstore.bet365affiliates.com/Tracker.aspx?AffiliateId=95965&AffiliateCode=365_558264&CID=352&DID=68&TID=1&PID=149&LNG=1"
+        },
+        "list": [
+            {
+                "datetime": "2017-09-13T14:01:11Z",
+                "uri": "http://web.archive.org/web/20170913140111/https://imstore.bet365affiliates.com/Tracker.aspx?AffiliateId=95965&AffiliateCode=365_558264&CID=352&DID=68&TID=1&PID=149&LNG=1"
+            }
+        ]
+    },
+    "original_uri": "https://imstore.bet365affiliates.com/Tracker.aspx?AffiliateId=95965&AffiliateCode=365_558264&CID=352&DID=68&TID=1&PID=149&LNG=1",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://imstore.bet365affiliates.com/Tracker.aspx?AffiliateId=95965&AffiliateCode=365_558264&CID=352&DID=68&TID=1&PID=149&LNG=1",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://imstore.bet365affiliates.com/Tracker.aspx?AffiliateId=95965&AffiliateCode=365_558264&CID=352&DID=68&TID=1&PID=149&LNG=1",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://imstore.bet365affiliates.com/Tracker.aspx?AffiliateId=95965&AffiliateCode=365_558264&CID=352&DID=68&TID=1&PID=149&LNG=1",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://imstore.bet365affiliates.com/Tracker.aspx?AffiliateId=95965&AffiliateCode=365_558264&CID=352&DID=68&TID=1&PID=149&LNG=1",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://imstore.bet365affiliates.com/Tracker.aspx?AffiliateId=95965&AffiliateCode=365_558264&CID=352&DID=68&TID=1&PID=149&LNG=1"
+    }
+}

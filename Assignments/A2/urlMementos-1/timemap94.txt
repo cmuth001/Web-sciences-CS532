@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T07:00:52Z",
+            "uri": "http://web.archive.org/web/20180208070052/https://www.thesun.co.uk/sport/football/5524623/neymar-ronaldo-eden-hazard-nike-event-london/"
+        },
+        "last": {
+            "datetime": "2018-02-08T07:00:55Z",
+            "uri": "http://web.archive.org/web/20180208070055/http://www.thesun.co.uk/sport/football/5524623/neymar-ronaldo-eden-hazard-nike-event-london/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T07:00:52Z",
+                "uri": "http://web.archive.org/web/20180208070052/https://www.thesun.co.uk/sport/football/5524623/neymar-ronaldo-eden-hazard-nike-event-london/"
+            },
+            {
+                "datetime": "2018-02-08T07:00:55Z",
+                "uri": "http://web.archive.org/web/20180208070055/http://www.thesun.co.uk/sport/football/5524623/neymar-ronaldo-eden-hazard-nike-event-london/"
+            }
+        ]
+    },
+    "original_uri": "https://www.thesun.co.uk/sport/football/5524623/neymar-ronaldo-eden-hazard-nike-event-london/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5524623/neymar-ronaldo-eden-hazard-nike-event-london/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thesun.co.uk/sport/football/5524623/neymar-ronaldo-eden-hazard-nike-event-london/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thesun.co.uk/sport/football/5524623/neymar-ronaldo-eden-hazard-nike-event-london/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5524623/neymar-ronaldo-eden-hazard-nike-event-london/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thesun.co.uk/sport/football/5524623/neymar-ronaldo-eden-hazard-nike-event-london/"
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2012-04-10T19:00:30Z",
+            "uri": "http://web.archive.org/web/20120410190030/http://paper.li:80/CricViewpoint/1333849960"
+        },
+        "last": {
+            "datetime": "2016-05-20T00:14:20Z",
+            "uri": "http://web.archive.org/web/20160520001420/http://paper.li:80/CricViewpoint/1333849960"
+        },
+        "list": [
+            {
+                "datetime": "2012-04-10T19:00:30Z",
+                "uri": "http://web.archive.org/web/20120410190030/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2012-05-11T10:53:04Z",
+                "uri": "http://web.archive.org/web/20120511105304/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2012-06-14T19:31:49Z",
+                "uri": "http://web.archive.org/web/20120614193149/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2012-06-15T11:27:56Z",
+                "uri": "http://web.archive.org/web/20120615112756/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2012-07-20T07:32:16Z",
+                "uri": "http://web.archive.org/web/20120720073216/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2013-02-22T03:14:48Z",
+                "uri": "http://web.archive.org/web/20130222031448/http://paper.li:80/CricViewpoint/1333849960?"
+            },
+            {
+                "datetime": "2013-02-23T08:00:02Z",
+                "uri": "http://web.archive.org/web/20130223080002/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2013-02-26T00:34:49Z",
+                "uri": "http://web.archive.org/web/20130226003449/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2013-04-10T07:15:30Z",
+                "uri": "http://web.archive.org/web/20130410071530/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2013-04-27T11:13:24Z",
+                "uri": "http://web.archive.org/web/20130427111324/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2013-05-08T04:09:07Z",
+                "uri": "http://web.archive.org/web/20130508040907/http://paper.li:80/CricViewpoint/1333849960?"
+            },
+            {
+                "datetime": "2013-05-17T05:26:42Z",
+                "uri": "http://web.archive.org/web/20130517052642/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2013-07-22T07:35:05Z",
+                "uri": "http://web.archive.org/web/20130722073505/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2013-08-22T01:07:11Z",
+                "uri": "http://web.archive.org/web/20130822010711/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2013-09-22T00:24:08Z",
+                "uri": "http://web.archive.org/web/20130922002408/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2013-10-23T09:00:10Z",
+                "uri": "http://web.archive.org/web/20131023090010/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2013-11-23T17:10:58Z",
+                "uri": "http://web.archive.org/web/20131123171058/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2015-03-26T03:50:01Z",
+                "uri": "http://web.archive.org/web/20150326035001/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2015-07-08T01:36:43Z",
+                "uri": "http://web.archive.org/web/20150708013643/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2016-03-17T08:23:48Z",
+                "uri": "http://web.archive.org/web/20160317082348/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2016-03-18T20:31:08Z",
+                "uri": "http://web.archive.org/web/20160318203108/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2016-04-16T07:48:39Z",
+                "uri": "http://web.archive.org/web/20160416074839/http://paper.li/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2016-04-19T03:39:31Z",
+                "uri": "http://web.archive.org/web/20160419033931/http://paper.li:80/CricViewpoint/1333849960"
+            },
+            {
+                "datetime": "2016-05-20T00:14:20Z",
+                "uri": "http://web.archive.org/web/20160520001420/http://paper.li:80/CricViewpoint/1333849960"
+            }
+        ]
+    },
+    "original_uri": "https://paper.li/CricViewpoint/1333849960",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://paper.li/CricViewpoint/1333849960",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://paper.li/CricViewpoint/1333849960",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://paper.li/CricViewpoint/1333849960",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://paper.li/CricViewpoint/1333849960",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://paper.li/CricViewpoint/1333849960"
+    }
+}

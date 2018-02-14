@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-01-02T01:07:44Z",
+            "uri": "http://web.archive.org/web/20180102010744/https://www.scarlet-clicks.info/?ref=Marvellous997"
+        },
+        "last": {
+            "datetime": "2018-02-06T23:25:06Z",
+            "uri": "http://web.archive.org/web/20180206232506/https://www.scarlet-clicks.info/?ref=Marvellous997"
+        },
+        "list": [
+            {
+                "datetime": "2018-01-02T01:07:44Z",
+                "uri": "http://web.archive.org/web/20180102010744/https://www.scarlet-clicks.info/?ref=Marvellous997"
+            },
+            {
+                "datetime": "2018-01-22T12:20:41Z",
+                "uri": "http://web.archive.org/web/20180122122041/https://www.scarlet-clicks.info/?ref=Marvellous997"
+            },
+            {
+                "datetime": "2018-01-28T05:54:39Z",
+                "uri": "http://web.archive.org/web/20180128055439/https://www.scarlet-clicks.info/?ref=Marvellous997"
+            },
+            {
+                "datetime": "2018-01-29T11:06:54Z",
+                "uri": "http://web.archive.org/web/20180129110654/https://www.scarlet-clicks.info/?ref=Marvellous997"
+            },
+            {
+                "datetime": "2018-02-04T11:00:01Z",
+                "uri": "http://web.archive.org/web/20180204110001/https://www.scarlet-clicks.info/?ref=Marvellous997"
+            },
+            {
+                "datetime": "2018-02-06T23:25:01Z",
+                "uri": "http://web.archive.org/web/20180206232501/https://www.scarlet-clicks.info/?ref=Marvellous997"
+            },
+            {
+                "datetime": "2018-02-06T23:25:06Z",
+                "uri": "http://web.archive.org/web/20180206232506/https://www.scarlet-clicks.info/?ref=Marvellous997"
+            }
+        ]
+    },
+    "original_uri": "https://www.scarlet-clicks.info/?ref=Marvellous997",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.scarlet-clicks.info/?ref=Marvellous997",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.scarlet-clicks.info/?ref=Marvellous997",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.scarlet-clicks.info/?ref=Marvellous997",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.scarlet-clicks.info/?ref=Marvellous997",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.scarlet-clicks.info/?ref=Marvellous997"
+    }
+}

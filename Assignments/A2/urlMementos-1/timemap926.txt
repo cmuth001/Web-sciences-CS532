@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T16:31:30Z",
+            "uri": "http://wayback.archive-it.org/all/20180209163130/http://dailyutahchronicle.com/2018/02/07/university-utah-football-recruits/"
+        },
+        "last": {
+            "datetime": "2018-02-09T16:31:30Z",
+            "uri": "http://web.archive.org/web/20180209163130/http://dailyutahchronicle.com/2018/02/07/university-utah-football-recruits/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T16:31:30Z",
+                "uri": "http://wayback.archive-it.org/all/20180209163130/http://dailyutahchronicle.com/2018/02/07/university-utah-football-recruits/"
+            },
+            {
+                "datetime": "2018-02-09T16:31:30Z",
+                "uri": "http://web.archive.org/web/20180209163130/http://dailyutahchronicle.com/2018/02/07/university-utah-football-recruits/"
+            }
+        ]
+    },
+    "original_uri": "http://dailyutahchronicle.com/2018/02/07/university-utah-football-recruits/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://dailyutahchronicle.com/2018/02/07/university-utah-football-recruits/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://dailyutahchronicle.com/2018/02/07/university-utah-football-recruits/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://dailyutahchronicle.com/2018/02/07/university-utah-football-recruits/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://dailyutahchronicle.com/2018/02/07/university-utah-football-recruits/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://dailyutahchronicle.com/2018/02/07/university-utah-football-recruits/"
+    }
+}

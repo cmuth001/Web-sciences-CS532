@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T04:43:15Z",
+            "uri": "http://web.archive.org/web/20180208044315/http://www.sports.fr/football/espagne/articles/barca-neymar-c-est-toujours-la-guerre-2079059/"
+        },
+        "last": {
+            "datetime": "2018-02-08T04:43:15Z",
+            "uri": "http://web.archive.org/web/20180208044315/http://www.sports.fr/football/espagne/articles/barca-neymar-c-est-toujours-la-guerre-2079059/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T04:43:15Z",
+                "uri": "http://web.archive.org/web/20180208044315/http://www.sports.fr/football/espagne/articles/barca-neymar-c-est-toujours-la-guerre-2079059/"
+            }
+        ]
+    },
+    "original_uri": "http://www.sports.fr/football/espagne/articles/barca-neymar-c-est-toujours-la-guerre-2079059/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.sports.fr/football/espagne/articles/barca-neymar-c-est-toujours-la-guerre-2079059/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.sports.fr/football/espagne/articles/barca-neymar-c-est-toujours-la-guerre-2079059/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.sports.fr/football/espagne/articles/barca-neymar-c-est-toujours-la-guerre-2079059/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.sports.fr/football/espagne/articles/barca-neymar-c-est-toujours-la-guerre-2079059/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.sports.fr/football/espagne/articles/barca-neymar-c-est-toujours-la-guerre-2079059/"
+    }
+}

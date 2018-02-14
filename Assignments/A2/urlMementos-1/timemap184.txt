@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-10-14T12:00:26Z",
+            "uri": "http://web.archive.org/web/20171014120026/http://fitlivinglifestyle.com/guide-throwing-nfl-party/"
+        },
+        "last": {
+            "datetime": "2018-02-10T18:06:40Z",
+            "uri": "http://web.archive.org/web/20180210180640/https://fitlivinglifestyle.com/guide-throwing-nfl-party/"
+        },
+        "list": [
+            {
+                "datetime": "2017-10-14T12:00:26Z",
+                "uri": "http://web.archive.org/web/20171014120026/http://fitlivinglifestyle.com/guide-throwing-nfl-party/"
+            },
+            {
+                "datetime": "2018-02-03T14:27:48Z",
+                "uri": "http://web.archive.org/web/20180203142748/http://fitlivinglifestyle.com/guide-throwing-nfl-party/"
+            },
+            {
+                "datetime": "2018-02-10T18:06:35Z",
+                "uri": "http://web.archive.org/web/20180210180635/http://fitlivinglifestyle.com/guide-throwing-nfl-party/"
+            },
+            {
+                "datetime": "2018-02-10T18:06:40Z",
+                "uri": "http://web.archive.org/web/20180210180640/https://fitlivinglifestyle.com/guide-throwing-nfl-party/"
+            }
+        ]
+    },
+    "original_uri": "https://fitlivinglifestyle.com/guide-throwing-nfl-party/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://fitlivinglifestyle.com/guide-throwing-nfl-party/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://fitlivinglifestyle.com/guide-throwing-nfl-party/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://fitlivinglifestyle.com/guide-throwing-nfl-party/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://fitlivinglifestyle.com/guide-throwing-nfl-party/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://fitlivinglifestyle.com/guide-throwing-nfl-party/"
+    }
+}

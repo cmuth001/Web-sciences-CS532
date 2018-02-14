@@ -1,0 +1,62 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-07T14:48:57Z",
+            "uri": "http://web.archive.org/web/20180207144857/http://www.bbc.co.uk/sport/football/42882967"
+        },
+        "last": {
+            "datetime": "2018-02-10T22:04:21Z",
+            "uri": "http://web.archive.org/web/20180210220421/http://www.bbc.co.uk/sport/football/42882967"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-07T14:48:57Z",
+                "uri": "http://web.archive.org/web/20180207144857/http://www.bbc.co.uk/sport/football/42882967"
+            },
+            {
+                "datetime": "2018-02-07T20:25:50Z",
+                "uri": "http://web.archive.org/web/20180207202550/http://www.bbc.co.uk/sport/football/42882967"
+            },
+            {
+                "datetime": "2018-02-07T22:44:54Z",
+                "uri": "http://web.archive.org/web/20180207224454/http://www.bbc.co.uk/sport/football/42882967"
+            },
+            {
+                "datetime": "2018-02-07T23:54:11Z",
+                "uri": "http://web.archive.org/web/20180207235411/http://www.bbc.co.uk/sport/football/42882967"
+            },
+            {
+                "datetime": "2018-02-08T02:26:59Z",
+                "uri": "http://web.archive.org/web/20180208022659/http://www.bbc.co.uk/sport/football/42882967"
+            },
+            {
+                "datetime": "2018-02-10T16:44:00Z",
+                "uri": "http://web.archive.org/web/20180210164400/http://www.bbc.co.uk/sport/football/42882967"
+            },
+            {
+                "datetime": "2018-02-10T19:41:42Z",
+                "uri": "http://web.archive.org/web/20180210194142/http://www.bbc.co.uk/sport/football/42882967"
+            },
+            {
+                "datetime": "2018-02-10T20:31:42Z",
+                "uri": "http://web.archive.org/web/20180210203142/http://www.bbc.co.uk/sport/football/42882967"
+            },
+            {
+                "datetime": "2018-02-10T21:39:19Z",
+                "uri": "http://web.archive.org/web/20180210213919/http://www.bbc.co.uk/sport/football/42882967"
+            },
+            {
+                "datetime": "2018-02-10T22:04:21Z",
+                "uri": "http://web.archive.org/web/20180210220421/http://www.bbc.co.uk/sport/football/42882967"
+            }
+        ]
+    },
+    "original_uri": "http://www.bbc.co.uk/sport/football/42882967",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.co.uk/sport/football/42882967",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.bbc.co.uk/sport/football/42882967",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.bbc.co.uk/sport/football/42882967",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.bbc.co.uk/sport/football/42882967",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.bbc.co.uk/sport/football/42882967"
+    }
+}

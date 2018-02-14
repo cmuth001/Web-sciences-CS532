@@ -1,0 +1,58 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T01:33:14Z",
+            "uri": "http://web.archive.org/web/20180208013314/https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live"
+        },
+        "last": {
+            "datetime": "2018-02-12T20:16:19Z",
+            "uri": "http://web.archive.org/web/20180212201619/https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T01:33:14Z",
+                "uri": "http://web.archive.org/web/20180208013314/https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live"
+            },
+            {
+                "datetime": "2018-02-08T18:07:47Z",
+                "uri": "http://web.archive.org/web/20180208180747/https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live"
+            },
+            {
+                "datetime": "2018-02-09T18:39:22Z",
+                "uri": "http://web.archive.org/web/20180209183922/https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live"
+            },
+            {
+                "datetime": "2018-02-10T19:25:34Z",
+                "uri": "http://web.archive.org/web/20180210192534/https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live"
+            },
+            {
+                "datetime": "2018-02-10T19:26:00Z",
+                "uri": "http://web.archive.org/web/20180210192600/https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live"
+            },
+            {
+                "datetime": "2018-02-11T19:53:09Z",
+                "uri": "http://web.archive.org/web/20180211195309/https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live"
+            },
+            {
+                "datetime": "2018-02-11T19:58:16Z",
+                "uri": "http://web.archive.org/web/20180211195816/https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live"
+            },
+            {
+                "datetime": "2018-02-12T20:16:19Z",
+                "uri": "http://web.archive.org/web/20180212201619/https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live"
+            },
+            {
+                "datetime": "2018-02-12T20:16:19Z",
+                "uri": "http://web.archive.org/web/20180212201619/https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live"
+            }
+        ]
+    },
+    "original_uri": "https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/football/live/2018/feb/07/tottenham-hotspur-v-newport-county-fa-cup-fourth-round-replay-live"
+    }
+}

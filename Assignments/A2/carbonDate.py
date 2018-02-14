@@ -36,7 +36,7 @@ def carbonDateAgeCalculation(url):
             print('age: ', age.days, 'Memento: ',memcount)
 
             print('-------------------------')
-            return([age.days,noMementoCount])
+            return([age.days,memcount])
     except KeyboardInterrupt:
         exit()
     except:

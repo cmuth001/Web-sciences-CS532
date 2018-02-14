@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T02:19:32Z",
+            "uri": "http://web.archive.org/web/20180208021932/https://www.mirror.co.uk/sport/football/news/world-cup-2018-kit-power-11986218"
+        },
+        "last": {
+            "datetime": "2018-02-08T07:53:51Z",
+            "uri": "http://web.archive.org/web/20180208075351/https://www.mirror.co.uk/sport/football/news/world-cup-2018-kit-power-11986218"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T02:19:32Z",
+                "uri": "http://web.archive.org/web/20180208021932/https://www.mirror.co.uk/sport/football/news/world-cup-2018-kit-power-11986218"
+            },
+            {
+                "datetime": "2018-02-08T07:53:39Z",
+                "uri": "http://web.archive.org/web/20180208075339/http://www.mirror.co.uk/sport/football/news/world-cup-2018-kit-power-11986218"
+            },
+            {
+                "datetime": "2018-02-08T07:53:51Z",
+                "uri": "http://web.archive.org/web/20180208075351/https://www.mirror.co.uk/sport/football/news/world-cup-2018-kit-power-11986218"
+            }
+        ]
+    },
+    "original_uri": "https://www.mirror.co.uk/sport/football/news/world-cup-2018-kit-power-11986218",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.mirror.co.uk/sport/football/news/world-cup-2018-kit-power-11986218",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.mirror.co.uk/sport/football/news/world-cup-2018-kit-power-11986218",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.mirror.co.uk/sport/football/news/world-cup-2018-kit-power-11986218",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.mirror.co.uk/sport/football/news/world-cup-2018-kit-power-11986218",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.mirror.co.uk/sport/football/news/world-cup-2018-kit-power-11986218"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-07-27T05:19:36Z",
+            "uri": "http://web.archive.org/web/20170727051936/http://scout.com:80/college/north-carolina/Season/2018-Football/Commits"
+        },
+        "last": {
+            "datetime": "2017-08-10T19:05:34Z",
+            "uri": "http://web.archive.org/web/20170810190534/http://scout.com:80/college/north-carolina/Season/2018-Football/Commits"
+        },
+        "list": [
+            {
+                "datetime": "2017-07-27T05:19:36Z",
+                "uri": "http://web.archive.org/web/20170727051936/http://scout.com:80/college/north-carolina/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-08-10T19:05:34Z",
+                "uri": "http://web.archive.org/web/20170810190534/http://scout.com:80/college/north-carolina/Season/2018-Football/Commits"
+            }
+        ]
+    },
+    "original_uri": "https://scout.com/college/north-carolina/Season/2018-Football/Commits",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://scout.com/college/north-carolina/Season/2018-Football/Commits",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://scout.com/college/north-carolina/Season/2018-Football/Commits",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://scout.com/college/north-carolina/Season/2018-Football/Commits",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://scout.com/college/north-carolina/Season/2018-Football/Commits",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://scout.com/college/north-carolina/Season/2018-Football/Commits"
+    }
+}

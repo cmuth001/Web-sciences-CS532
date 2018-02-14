@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-01-02T06:27:04Z",
+            "uri": "http://web.archive.org/web/20170102062704/http://footyjokes.net/myths-world-football-many-people-still-believe/"
+        },
+        "last": {
+            "datetime": "2017-08-11T15:53:47Z",
+            "uri": "http://web.archive.org/web/20170811155347/http://footyjokes.net:80/myths-world-football-many-people-still-believe"
+        },
+        "list": [
+            {
+                "datetime": "2017-01-02T06:27:04Z",
+                "uri": "http://web.archive.org/web/20170102062704/http://footyjokes.net/myths-world-football-many-people-still-believe/"
+            },
+            {
+                "datetime": "2017-01-09T11:45:45Z",
+                "uri": "http://web.archive.org/web/20170109114545/http://footyjokes.net:80/myths-world-football-many-people-still-believe/"
+            },
+            {
+                "datetime": "2017-01-10T11:39:02Z",
+                "uri": "http://web.archive.org/web/20170110113902/http://footyjokes.net:80/myths-world-football-many-people-still-believe"
+            },
+            {
+                "datetime": "2017-03-11T08:22:36Z",
+                "uri": "http://web.archive.org/web/20170311082236/http://footyjokes.net:80/myths-world-football-many-people-still-believe/"
+            },
+            {
+                "datetime": "2017-04-21T23:40:37Z",
+                "uri": "http://web.archive.org/web/20170421234037/http://footyjokes.net:80/myths-world-football-many-people-still-believe/"
+            },
+            {
+                "datetime": "2017-06-22T17:54:56Z",
+                "uri": "http://web.archive.org/web/20170622175456/http://footyjokes.net:80/myths-world-football-many-people-still-believe/"
+            },
+            {
+                "datetime": "2017-08-11T15:53:47Z",
+                "uri": "http://web.archive.org/web/20170811155347/http://footyjokes.net:80/myths-world-football-many-people-still-believe"
+            }
+        ]
+    },
+    "original_uri": "http://footyjokes.net/myths-world-football-many-people-still-believe/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://footyjokes.net/myths-world-football-many-people-still-believe/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://footyjokes.net/myths-world-football-many-people-still-believe/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://footyjokes.net/myths-world-football-many-people-still-believe/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://footyjokes.net/myths-world-football-many-people-still-believe/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://footyjokes.net/myths-world-football-many-people-still-believe/"
+    }
+}

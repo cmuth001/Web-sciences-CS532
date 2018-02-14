@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-06T22:59:39Z",
+            "uri": "http://web.archive.org/web/20180206225939/https://www.si.com/nfl/2018/02/06/offseason-catch-rule-player-activism-tv-ratings-rights-fees-free-agency-quarterbacks"
+        },
+        "last": {
+            "datetime": "2018-02-07T22:34:45Z",
+            "uri": "http://web.archive.org/web/20180207223445/https://www.si.com/nfl/2018/02/06/offseason-catch-rule-player-activism-tv-ratings-rights-fees-free-agency-quarterbacks"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-06T22:59:39Z",
+                "uri": "http://web.archive.org/web/20180206225939/https://www.si.com/nfl/2018/02/06/offseason-catch-rule-player-activism-tv-ratings-rights-fees-free-agency-quarterbacks"
+            },
+            {
+                "datetime": "2018-02-07T22:34:45Z",
+                "uri": "http://web.archive.org/web/20180207223445/https://www.si.com/nfl/2018/02/06/offseason-catch-rule-player-activism-tv-ratings-rights-fees-free-agency-quarterbacks"
+            }
+        ]
+    },
+    "original_uri": "https://www.si.com/nfl/2018/02/06/offseason-catch-rule-player-activism-tv-ratings-rights-fees-free-agency-quarterbacks",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.si.com/nfl/2018/02/06/offseason-catch-rule-player-activism-tv-ratings-rights-fees-free-agency-quarterbacks",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.si.com/nfl/2018/02/06/offseason-catch-rule-player-activism-tv-ratings-rights-fees-free-agency-quarterbacks",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.si.com/nfl/2018/02/06/offseason-catch-rule-player-activism-tv-ratings-rights-fees-free-agency-quarterbacks",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.si.com/nfl/2018/02/06/offseason-catch-rule-player-activism-tv-ratings-rights-fees-free-agency-quarterbacks",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.si.com/nfl/2018/02/06/offseason-catch-rule-player-activism-tv-ratings-rights-fees-free-agency-quarterbacks"
+    }
+}

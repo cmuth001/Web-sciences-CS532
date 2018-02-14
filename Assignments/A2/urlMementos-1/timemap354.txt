@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-01-30T14:45:19Z",
+            "uri": "http://web.archive.org/web/20170130144519/https://br.app.link/get-the-app"
+        },
+        "last": {
+            "datetime": "2018-01-21T15:52:38Z",
+            "uri": "http://web.archive.org/web/20180121155238/https://br.app.link/get-the-app"
+        },
+        "list": [
+            {
+                "datetime": "2017-01-30T14:45:19Z",
+                "uri": "http://web.archive.org/web/20170130144519/https://br.app.link/get-the-app"
+            },
+            {
+                "datetime": "2017-05-05T19:55:06Z",
+                "uri": "http://web.archive.org/web/20170505195506/https://br.app.link/get-the-app"
+            },
+            {
+                "datetime": "2017-09-05T15:27:48Z",
+                "uri": "http://web.archive.org/web/20170905152748/https://br.app.link/get-the-app"
+            },
+            {
+                "datetime": "2017-09-19T20:54:58Z",
+                "uri": "http://web.archive.org/web/20170919205458/https://br.app.link/get-the-app"
+            },
+            {
+                "datetime": "2018-01-03T05:05:12Z",
+                "uri": "http://web.archive.org/web/20180103050512/https://br.app.link/get-the-app"
+            },
+            {
+                "datetime": "2018-01-21T15:52:38Z",
+                "uri": "http://web.archive.org/web/20180121155238/https://br.app.link/get-the-app"
+            }
+        ]
+    },
+    "original_uri": "https://br.app.link/get-the-app",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://br.app.link/get-the-app",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://br.app.link/get-the-app",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://br.app.link/get-the-app",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://br.app.link/get-the-app",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://br.app.link/get-the-app"
+    }
+}

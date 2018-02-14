@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T00:45:13Z",
+            "uri": "http://web.archive.org/web/20180208004513/https://www.lequipe.fr/Football/Actualites/Patrice-evra-rebondit-a-west-ham-officiel/873781"
+        },
+        "last": {
+            "datetime": "2018-02-08T00:45:13Z",
+            "uri": "http://web.archive.org/web/20180208004513/https://www.lequipe.fr/Football/Actualites/Patrice-evra-rebondit-a-west-ham-officiel/873781"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T00:45:13Z",
+                "uri": "http://web.archive.org/web/20180208004513/https://www.lequipe.fr/Football/Actualites/Patrice-evra-rebondit-a-west-ham-officiel/873781"
+            }
+        ]
+    },
+    "original_uri": "https://www.lequipe.fr/Football/Actualites/Patrice-evra-rebondit-a-west-ham-officiel/873781",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.lequipe.fr/Football/Actualites/Patrice-evra-rebondit-a-west-ham-officiel/873781",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.lequipe.fr/Football/Actualites/Patrice-evra-rebondit-a-west-ham-officiel/873781",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.lequipe.fr/Football/Actualites/Patrice-evra-rebondit-a-west-ham-officiel/873781",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.lequipe.fr/Football/Actualites/Patrice-evra-rebondit-a-west-ham-officiel/873781",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.lequipe.fr/Football/Actualites/Patrice-evra-rebondit-a-west-ham-officiel/873781"
+    }
+}

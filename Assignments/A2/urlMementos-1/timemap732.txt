@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T10:10:27Z",
+            "uri": "http://web.archive.org/web/20180208101027/https://www.elevenwarriors.com/ohio-state-football-recruiting/2018/02/90854/five-star-offensive-tackle-nicholas-petit-frere-commits-to-ohio-state"
+        },
+        "last": {
+            "datetime": "2018-02-08T10:10:27Z",
+            "uri": "http://web.archive.org/web/20180208101027/https://www.elevenwarriors.com/ohio-state-football-recruiting/2018/02/90854/five-star-offensive-tackle-nicholas-petit-frere-commits-to-ohio-state"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T10:10:27Z",
+                "uri": "http://web.archive.org/web/20180208101027/https://www.elevenwarriors.com/ohio-state-football-recruiting/2018/02/90854/five-star-offensive-tackle-nicholas-petit-frere-commits-to-ohio-state"
+            }
+        ]
+    },
+    "original_uri": "https://www.elevenwarriors.com/ohio-state-football-recruiting/2018/02/90854/five-star-offensive-tackle-nicholas-petit-frere-commits-to-ohio-state",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.elevenwarriors.com/ohio-state-football-recruiting/2018/02/90854/five-star-offensive-tackle-nicholas-petit-frere-commits-to-ohio-state",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.elevenwarriors.com/ohio-state-football-recruiting/2018/02/90854/five-star-offensive-tackle-nicholas-petit-frere-commits-to-ohio-state",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.elevenwarriors.com/ohio-state-football-recruiting/2018/02/90854/five-star-offensive-tackle-nicholas-petit-frere-commits-to-ohio-state",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.elevenwarriors.com/ohio-state-football-recruiting/2018/02/90854/five-star-offensive-tackle-nicholas-petit-frere-commits-to-ohio-state",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.elevenwarriors.com/ohio-state-football-recruiting/2018/02/90854/five-star-offensive-tackle-nicholas-petit-frere-commits-to-ohio-state"
+    }
+}

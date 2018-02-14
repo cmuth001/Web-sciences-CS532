@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-07T18:16:06Z",
+            "uri": "http://wayback.archive-it.org/all/20180207181606/https://www.cbssports.com/college-football/news/national-signing-day-2018-georgia-locks-up-historic-no-1-overall-recruiting-class/"
+        },
+        "last": {
+            "datetime": "2018-02-08T04:15:26Z",
+            "uri": "http://web.archive.org/web/20180208041526/https://www.cbssports.com/college-football/news/national-signing-day-2018-georgia-locks-up-historic-no-1-overall-recruiting-class/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-07T18:16:06Z",
+                "uri": "http://wayback.archive-it.org/all/20180207181606/https://www.cbssports.com/college-football/news/national-signing-day-2018-georgia-locks-up-historic-no-1-overall-recruiting-class/"
+            },
+            {
+                "datetime": "2018-02-07T18:16:06Z",
+                "uri": "http://web.archive.org/web/20180207181606/https://www.cbssports.com/college-football/news/national-signing-day-2018-georgia-locks-up-historic-no-1-overall-recruiting-class/"
+            },
+            {
+                "datetime": "2018-02-08T04:15:26Z",
+                "uri": "http://web.archive.org/web/20180208041526/https://www.cbssports.com/college-football/news/national-signing-day-2018-georgia-locks-up-historic-no-1-overall-recruiting-class/"
+            }
+        ]
+    },
+    "original_uri": "https://www.cbssports.com/college-football/news/national-signing-day-2018-georgia-locks-up-historic-no-1-overall-recruiting-class/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cbssports.com/college-football/news/national-signing-day-2018-georgia-locks-up-historic-no-1-overall-recruiting-class/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cbssports.com/college-football/news/national-signing-day-2018-georgia-locks-up-historic-no-1-overall-recruiting-class/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cbssports.com/college-football/news/national-signing-day-2018-georgia-locks-up-historic-no-1-overall-recruiting-class/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cbssports.com/college-football/news/national-signing-day-2018-georgia-locks-up-historic-no-1-overall-recruiting-class/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cbssports.com/college-football/news/national-signing-day-2018-georgia-locks-up-historic-no-1-overall-recruiting-class/"
+    }
+}

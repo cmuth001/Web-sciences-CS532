@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-09-03T16:17:54Z",
+            "uri": "http://web.archive.org/web/20170903161754/http://our-football.com/"
+        },
+        "last": {
+            "datetime": "2018-01-21T02:31:02Z",
+            "uri": "http://web.archive.org/web/20180121023102/http://our-football.com/"
+        },
+        "list": [
+            {
+                "datetime": "2017-09-03T16:17:54Z",
+                "uri": "http://web.archive.org/web/20170903161754/http://our-football.com/"
+            },
+            {
+                "datetime": "2018-01-21T02:31:02Z",
+                "uri": "http://web.archive.org/web/20180121023102/http://our-football.com/"
+            }
+        ]
+    },
+    "original_uri": "http://our-football.com/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://our-football.com/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://our-football.com/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://our-football.com/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://our-football.com/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://our-football.com/"
+    }
+}

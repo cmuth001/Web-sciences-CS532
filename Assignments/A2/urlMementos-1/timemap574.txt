@@ -1,0 +1,202 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-08-31T18:00:28Z",
+            "uri": "http://web.archive.org/web/20160831180028/http://kroger.softcoin.com:80/programs/kroger/gdg/?"
+        },
+        "last": {
+            "datetime": "2018-02-01T11:01:07Z",
+            "uri": "http://web.archive.org/web/20180201110107/https://kroger.softcoin.com/programs/kroger/gdg"
+        },
+        "list": [
+            {
+                "datetime": "2016-08-31T18:00:28Z",
+                "uri": "http://web.archive.org/web/20160831180028/http://kroger.softcoin.com:80/programs/kroger/gdg/?"
+            },
+            {
+                "datetime": "2016-09-01T10:08:05Z",
+                "uri": "http://web.archive.org/web/20160901100805/http://kroger.softcoin.com:80/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2016-09-01T10:08:05Z",
+                "uri": "http://web.archive.org/web/20160901100805/http://kroger.softcoin.com:80/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2016-09-03T22:14:25Z",
+                "uri": "http://web.archive.org/web/20160903221425/http://kroger.softcoin.com:80/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2016-10-03T01:29:01Z",
+                "uri": "http://web.archive.org/web/20161003012901/https://kroger.softcoin.com/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2016-10-15T20:13:50Z",
+                "uri": "http://web.archive.org/web/20161015201350/http://kroger.softcoin.com:80/programs/kroger/gdg/?"
+            },
+            {
+                "datetime": "2016-10-21T19:10:54Z",
+                "uri": "http://web.archive.org/web/20161021191054/https://kroger.softcoin.com/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2016-10-21T19:11:01Z",
+                "uri": "http://web.archive.org/web/20161021191101/http://kroger.softcoin.com/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2016-10-22T01:12:49Z",
+                "uri": "http://web.archive.org/web/20161022011249/https://kroger.softcoin.com/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2016-10-22T01:12:53Z",
+                "uri": "http://web.archive.org/web/20161022011253/https://kroger.softcoin.com/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2016-10-22T09:53:50Z",
+                "uri": "http://web.archive.org/web/20161022095350/http://kroger.softcoin.com:80/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2016-10-22T09:53:50Z",
+                "uri": "http://web.archive.org/web/20161022095350/http://kroger.softcoin.com:80/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2016-11-03T11:55:58Z",
+                "uri": "http://web.archive.org/web/20161103115558/http://kroger.softcoin.com:80/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2016-11-04T15:27:03Z",
+                "uri": "http://web.archive.org/web/20161104152703/http://kroger.softcoin.com:80/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2016-12-06T21:51:26Z",
+                "uri": "http://web.archive.org/web/20161206215126/http://kroger.softcoin.com/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2016-12-29T03:10:55Z",
+                "uri": "http://web.archive.org/web/20161229031055/http://kroger.softcoin.com:80/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2016-12-29T03:10:55Z",
+                "uri": "http://web.archive.org/web/20161229031055/http://kroger.softcoin.com:80/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2016-12-29T07:13:15Z",
+                "uri": "http://web.archive.org/web/20161229071315/http://kroger.softcoin.com:80/programs/kroger/gdg/?"
+            },
+            {
+                "datetime": "2017-01-02T11:58:31Z",
+                "uri": "http://web.archive.org/web/20170102115831/https://kroger.softcoin.com/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2017-01-02T11:58:38Z",
+                "uri": "http://web.archive.org/web/20170102115838/http://kroger.softcoin.com/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2017-02-01T05:20:59Z",
+                "uri": "http://web.archive.org/web/20170201052059/https://kroger.softcoin.com/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2017-02-04T15:15:04Z",
+                "uri": "http://web.archive.org/web/20170204151504/https://kroger.softcoin.com/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2017-02-08T15:36:20Z",
+                "uri": "http://web.archive.org/web/20170208153620/http://kroger.softcoin.com/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2017-05-07T06:05:30Z",
+                "uri": "http://web.archive.org/web/20170507060530/http://kroger.softcoin.com:80/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2017-05-19T20:23:36Z",
+                "uri": "http://web.archive.org/web/20170519202336/https://kroger.softcoin.com/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2017-07-10T05:57:25Z",
+                "uri": "http://web.archive.org/web/20170710055725/https://kroger.softcoin.com/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2017-07-10T05:57:28Z",
+                "uri": "http://web.archive.org/web/20170710055728/http://kroger.softcoin.com/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2017-10-03T19:12:00Z",
+                "uri": "http://web.archive.org/web/20171003191200/https://kroger.softcoin.com/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2017-10-03T19:46:27Z",
+                "uri": "http://web.archive.org/web/20171003194627/https://kroger.softcoin.com/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2017-10-03T19:46:33Z",
+                "uri": "http://web.archive.org/web/20171003194633/http://kroger.softcoin.com/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2017-10-23T04:26:02Z",
+                "uri": "http://web.archive.org/web/20171023042602/https://kroger.softcoin.com/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2017-12-02T09:16:53Z",
+                "uri": "http://wayback.archive-it.org/all/20171202091653/https://kroger.softcoin.com/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2017-12-02T09:16:53Z",
+                "uri": "http://web.archive.org/web/20171202091653/https://kroger.softcoin.com/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2017-12-02T09:16:58Z",
+                "uri": "http://wayback.archive-it.org/all/20171202091658/http://kroger.softcoin.com/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2017-12-02T09:16:58Z",
+                "uri": "http://web.archive.org/web/20171202091658/http://kroger.softcoin.com/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2017-12-02T09:16:59Z",
+                "uri": "http://wayback.archive-it.org/all/20171202091659/https://kroger.softcoin.com/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2017-12-02T09:16:59Z",
+                "uri": "http://web.archive.org/web/20171202091659/https://kroger.softcoin.com/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2018-01-06T16:52:57Z",
+                "uri": "http://web.archive.org/web/20180106165257/https://kroger.softcoin.com/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2018-01-06T16:52:58Z",
+                "uri": "http://web.archive.org/web/20180106165258/https://kroger.softcoin.com/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2018-01-06T16:52:59Z",
+                "uri": "http://web.archive.org/web/20180106165259/http://kroger.softcoin.com/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2018-01-06T16:52:59Z",
+                "uri": "http://web.archive.org/web/20180106165259/http://kroger.softcoin.com/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2018-01-06T16:53:00Z",
+                "uri": "http://web.archive.org/web/20180106165300/https://kroger.softcoin.com/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2018-01-06T16:53:00Z",
+                "uri": "http://web.archive.org/web/20180106165300/https://kroger.softcoin.com/programs/kroger/gdg/"
+            },
+            {
+                "datetime": "2018-02-01T02:54:41Z",
+                "uri": "http://web.archive.org/web/20180201025441/https://kroger.softcoin.com/programs/kroger/gdg"
+            },
+            {
+                "datetime": "2018-02-01T11:01:07Z",
+                "uri": "http://web.archive.org/web/20180201110107/https://kroger.softcoin.com/programs/kroger/gdg"
+            }
+        ]
+    },
+    "original_uri": "https://kroger.softcoin.com/programs/kroger/gdg/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://kroger.softcoin.com/programs/kroger/gdg/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://kroger.softcoin.com/programs/kroger/gdg/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://kroger.softcoin.com/programs/kroger/gdg/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://kroger.softcoin.com/programs/kroger/gdg/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://kroger.softcoin.com/programs/kroger/gdg/"
+    }
+}

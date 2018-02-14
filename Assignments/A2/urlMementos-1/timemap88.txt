@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-07T17:20:47Z",
+            "uri": "http://web.archive.org/web/20180207172047/http://www.skysports.com/football/news/11712/11239423/riyad-mahrezs-leicester-city-legacy-sad-if-this-story-is-tarnished"
+        },
+        "last": {
+            "datetime": "2018-02-07T17:20:47Z",
+            "uri": "http://web.archive.org/web/20180207172047/http://www.skysports.com/football/news/11712/11239423/riyad-mahrezs-leicester-city-legacy-sad-if-this-story-is-tarnished"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-07T17:20:47Z",
+                "uri": "http://web.archive.org/web/20180207172047/http://www.skysports.com/football/news/11712/11239423/riyad-mahrezs-leicester-city-legacy-sad-if-this-story-is-tarnished"
+            }
+        ]
+    },
+    "original_uri": "http://www.skysports.com/football/news/11712/11239423/riyad-mahrezs-leicester-city-legacy-sad-if-this-story-is-tarnished",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.skysports.com/football/news/11712/11239423/riyad-mahrezs-leicester-city-legacy-sad-if-this-story-is-tarnished",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.skysports.com/football/news/11712/11239423/riyad-mahrezs-leicester-city-legacy-sad-if-this-story-is-tarnished",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.skysports.com/football/news/11712/11239423/riyad-mahrezs-leicester-city-legacy-sad-if-this-story-is-tarnished",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.skysports.com/football/news/11712/11239423/riyad-mahrezs-leicester-city-legacy-sad-if-this-story-is-tarnished",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.skysports.com/football/news/11712/11239423/riyad-mahrezs-leicester-city-legacy-sad-if-this-story-is-tarnished"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T07:23:32Z",
+            "uri": "http://web.archive.org/web/20180208072332/https://www.cbssports.com/college-football/news/watch-four-star-wr-jacob-copeland-commits-to-florida-mom-gets-up-and-leaves/"
+        },
+        "last": {
+            "datetime": "2018-02-08T07:23:32Z",
+            "uri": "http://web.archive.org/web/20180208072332/https://www.cbssports.com/college-football/news/watch-four-star-wr-jacob-copeland-commits-to-florida-mom-gets-up-and-leaves/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T07:23:32Z",
+                "uri": "http://web.archive.org/web/20180208072332/https://www.cbssports.com/college-football/news/watch-four-star-wr-jacob-copeland-commits-to-florida-mom-gets-up-and-leaves/"
+            }
+        ]
+    },
+    "original_uri": "https://www.cbssports.com/college-football/news/watch-four-star-wr-jacob-copeland-commits-to-florida-mom-gets-up-and-leaves/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cbssports.com/college-football/news/watch-four-star-wr-jacob-copeland-commits-to-florida-mom-gets-up-and-leaves/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cbssports.com/college-football/news/watch-four-star-wr-jacob-copeland-commits-to-florida-mom-gets-up-and-leaves/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cbssports.com/college-football/news/watch-four-star-wr-jacob-copeland-commits-to-florida-mom-gets-up-and-leaves/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cbssports.com/college-football/news/watch-four-star-wr-jacob-copeland-commits-to-florida-mom-gets-up-and-leaves/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cbssports.com/college-football/news/watch-four-star-wr-jacob-copeland-commits-to-florida-mom-gets-up-and-leaves/"
+    }
+}

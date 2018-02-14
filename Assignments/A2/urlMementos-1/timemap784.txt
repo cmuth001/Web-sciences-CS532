@@ -1,0 +1,166 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-11-22T21:30:26Z",
+            "uri": "http://web.archive.org/web/20171122213026/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+        },
+        "last": {
+            "datetime": "2018-02-12T13:47:52Z",
+            "uri": "http://web.archive.org/web/20180212134752/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+        },
+        "list": [
+            {
+                "datetime": "2017-11-22T21:30:26Z",
+                "uri": "http://web.archive.org/web/20171122213026/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-13T14:48:27Z",
+                "uri": "http://web.archive.org/web/20171213144827/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-14T14:49:58Z",
+                "uri": "http://web.archive.org/web/20171214144958/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-15T15:54:29Z",
+                "uri": "http://web.archive.org/web/20171215155429/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-16T18:52:20Z",
+                "uri": "http://web.archive.org/web/20171216185220/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-17T21:22:57Z",
+                "uri": "http://web.archive.org/web/20171217212257/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-18T22:43:46Z",
+                "uri": "http://web.archive.org/web/20171218224346/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-20T00:06:43Z",
+                "uri": "http://web.archive.org/web/20171220000643/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-21T00:48:44Z",
+                "uri": "http://web.archive.org/web/20171221004844/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-22T01:30:34Z",
+                "uri": "http://web.archive.org/web/20171222013034/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-23T04:59:43Z",
+                "uri": "http://web.archive.org/web/20171223045943/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-24T04:01:57Z",
+                "uri": "http://web.archive.org/web/20171224040157/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-25T05:38:10Z",
+                "uri": "http://web.archive.org/web/20171225053810/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-26T06:01:07Z",
+                "uri": "http://web.archive.org/web/20171226060107/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-27T07:31:57Z",
+                "uri": "http://web.archive.org/web/20171227073157/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-28T07:50:24Z",
+                "uri": "http://web.archive.org/web/20171228075024/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-29T09:16:52Z",
+                "uri": "http://web.archive.org/web/20171229091652/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-30T09:47:15Z",
+                "uri": "http://web.archive.org/web/20171230094715/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2017-12-31T10:52:00Z",
+                "uri": "http://web.archive.org/web/20171231105200/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-01-02T08:24:34Z",
+                "uri": "http://web.archive.org/web/20180102082434/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-01-03T09:44:33Z",
+                "uri": "http://web.archive.org/web/20180103094433/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-01-04T10:50:04Z",
+                "uri": "http://web.archive.org/web/20180104105004/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-01-05T10:45:16Z",
+                "uri": "http://web.archive.org/web/20180105104516/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-01-06T12:06:21Z",
+                "uri": "http://web.archive.org/web/20180106120621/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-01-07T13:11:00Z",
+                "uri": "http://web.archive.org/web/20180107131100/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-01-08T14:00:51Z",
+                "uri": "http://web.archive.org/web/20180108140051/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-01-09T14:45:40Z",
+                "uri": "http://web.archive.org/web/20180109144540/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-01-10T23:12:04Z",
+                "uri": "http://web.archive.org/web/20180110231204/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-01-12T00:33:29Z",
+                "uri": "http://web.archive.org/web/20180112003329/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-01-13T02:33:14Z",
+                "uri": "http://web.archive.org/web/20180113023314/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-01-14T03:10:29Z",
+                "uri": "http://web.archive.org/web/20180114031029/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-02-08T10:21:32Z",
+                "uri": "http://web.archive.org/web/20180208102132/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-02-09T13:47:31Z",
+                "uri": "http://web.archive.org/web/20180209134731/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-02-10T09:48:42Z",
+                "uri": "http://web.archive.org/web/20180210094842/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-02-11T14:02:49Z",
+                "uri": "http://web.archive.org/web/20180211140249/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            },
+            {
+                "datetime": "2018-02-12T13:47:52Z",
+                "uri": "http://web.archive.org/web/20180212134752/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+            }
+        ]
+    },
+    "original_uri": "https://247sports.com/college/notre-dame/Season/2018-Football/Commits",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://247sports.com/college/notre-dame/Season/2018-Football/Commits",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://247sports.com/college/notre-dame/Season/2018-Football/Commits",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://247sports.com/college/notre-dame/Season/2018-Football/Commits",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://247sports.com/college/notre-dame/Season/2018-Football/Commits",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://247sports.com/college/notre-dame/Season/2018-Football/Commits"
+    }
+}

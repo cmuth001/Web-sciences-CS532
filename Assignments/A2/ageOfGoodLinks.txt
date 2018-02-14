@@ -1,0 +1,5163 @@
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  1
+noEst:  0
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  2
+noEst:  0
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  3
+noEst:  1
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  4
+noEst:  1
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  5
+noEst:  1
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  6
+noEst:  1
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  7
+noEst:  2
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  8
+noEst:  2
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  9
+noEst:  2
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  10
+noEst:  2
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  10
+noEst:  2
+age:  201 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  11
+noEst:  2
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  12
+noEst:  2
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  12
+noEst:  2
+age:  7 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  13
+noEst:  2
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  14
+noEst:  3
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  15
+noEst:  3
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  15
+noEst:  3
+age:  1659 Memento:  241
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  16
+noEst:  4
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  17
+noEst:  4
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  18
+noEst:  4
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  18
+noEst:  4
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  19
+noEst:  4
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  20
+noEst:  4
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  21
+noEst:  5
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  22
+noEst:  6
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  23
+noEst:  6
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  24
+noEst:  6
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  25
+noEst:  6
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  26
+noEst:  6
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  27
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  28
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  29
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  30
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  31
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  32
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  33
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  34
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  35
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  36
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  37
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  38
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  39
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  39
+noEst:  7
+age:  42 Memento:  7
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  40
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  41
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  41
+noEst:  7
+age:  137 Memento:  4
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  42
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  43
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  44
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  45
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  45
+noEst:  7
+age:  3050 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  46
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  46
+noEst:  7
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  46
+noEst:  7
+age:  6 Memento:  4
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  46
+noEst:  7
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  47
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  48
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  49
+noEst:  7
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  50
+noEst:  8
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  51
+noEst:  8
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  51
+noEst:  8
+age:  7 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  52
+noEst:  8
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  53
+noEst:  9
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  54
+noEst:  9
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  54
+noEst:  9
+age:  7732 Memento:  1407
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  55
+noEst:  9
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  55
+noEst:  9
+age:  6 Memento:  8
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  56
+noEst:  9
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  57
+noEst:  9
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  58
+noEst:  10
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  59
+noEst:  10
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  60
+noEst:  10
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  61
+noEst:  10
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  62
+noEst:  11
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  63
+noEst:  11
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  63
+noEst:  11
+age:  6 Memento:  4
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  64
+noEst:  11
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  64
+noEst:  11
+age:  1396 Memento:  7
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  65
+noEst:  11
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  66
+noEst:  11
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  67
+noEst:  11
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  68
+noEst:  12
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  69
+noEst:  12
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  70
+noEst:  12
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  71
+noEst:  12
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  72
+noEst:  12
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  72
+noEst:  12
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  73
+noEst:  12
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  74
+noEst:  12
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  75
+noEst:  13
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  76
+noEst:  13
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  77
+noEst:  13
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  77
+noEst:  13
+age:  6 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  78
+noEst:  13
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  79
+noEst:  13
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  80
+noEst:  13
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  81
+noEst:  13
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  82
+noEst:  13
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  83
+noEst:  13
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  84
+noEst:  13
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  85
+noEst:  13
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  86
+noEst:  13
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  87
+noEst:  13
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  88
+noEst:  14
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  89
+noEst:  14
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  90
+noEst:  14
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  91
+noEst:  14
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  92
+noEst:  14
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  93
+noEst:  14
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  94
+noEst:  14
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  94
+noEst:  14
+age:  6929 Memento:  3486
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  95
+noEst:  14
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  96
+noEst:  14
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  97
+noEst:  14
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  98
+noEst:  15
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  99
+noEst:  15
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  100
+noEst:  15
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  101
+noEst:  15
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  102
+noEst:  15
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  103
+noEst:  15
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  104
+noEst:  15
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  105
+noEst:  15
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  106
+noEst:  16
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  107
+noEst:  16
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  108
+noEst:  16
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  109
+noEst:  16
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  109
+noEst:  16
+age:  133 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  109
+noEst:  16
+age:  1944 Memento:  27
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  110
+noEst:  16
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  111
+noEst:  17
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  112
+noEst:  18
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  112
+noEst:  18
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  113
+noEst:  18
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  114
+noEst:  18
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  115
+noEst:  18
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  115
+noEst:  18
+age:  163 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  115
+noEst:  18
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  116
+noEst:  18
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  117
+noEst:  18
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  117
+noEst:  18
+age:  3164 Memento:  131
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  118
+noEst:  18
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  119
+noEst:  18
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  120
+noEst:  18
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  121
+noEst:  18
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  122
+noEst:  19
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  123
+noEst:  20
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  123
+noEst:  20
+age:  1396 Memento:  3
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  124
+noEst:  21
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  125
+noEst:  22
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  126
+noEst:  22
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  126
+noEst:  22
+age:  6 Memento:  5
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  127
+noEst:  22
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  128
+noEst:  22
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  129
+noEst:  22
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  130
+noEst:  22
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  131
+noEst:  22
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  132
+noEst:  22
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  133
+noEst:  22
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  134
+noEst:  23
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  135
+noEst:  23
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  136
+noEst:  23
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  137
+noEst:  23
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  138
+noEst:  23
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  139
+noEst:  23
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  139
+noEst:  23
+age:  382 Memento:  152
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  140
+noEst:  23
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  141
+noEst:  23
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  142
+noEst:  23
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  142
+noEst:  23
+age:  6 Memento:  9
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  143
+noEst:  24
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  144
+noEst:  24
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  144
+noEst:  24
+age:  6 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  145
+noEst:  24
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  146
+noEst:  24
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  147
+noEst:  24
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  147
+noEst:  24
+age:  6 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  147
+noEst:  24
+age:  5 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  148
+noEst:  25
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  149
+noEst:  25
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  150
+noEst:  25
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  151
+noEst:  25
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  152
+noEst:  25
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  152
+noEst:  25
+age:  166 Memento:  4
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  153
+noEst:  25
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  154
+noEst:  25
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  155
+noEst:  25
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  156
+noEst:  25
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  157
+noEst:  25
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  158
+noEst:  25
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  159
+noEst:  25
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  160
+noEst:  25
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  161
+noEst:  25
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  162
+noEst:  25
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  163
+noEst:  26
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  163
+noEst:  26
+age:  4149 Memento:  735
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  164
+noEst:  26
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  165
+noEst:  26
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  166
+noEst:  27
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  167
+noEst:  27
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  168
+noEst:  27
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  169
+noEst:  27
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  169
+noEst:  27
+age:  3618 Memento:  317
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  169
+noEst:  27
+age:  1226 Memento:  4
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  169
+noEst:  27
+age:  9 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  169
+noEst:  27
+age:  18 Memento:  30
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  170
+noEst:  27
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  171
+noEst:  27
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  172
+noEst:  27
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  173
+noEst:  27
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  174
+noEst:  27
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  175
+noEst:  28
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  176
+noEst:  28
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  177
+noEst:  28
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  178
+noEst:  29
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  179
+noEst:  29
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  180
+noEst:  29
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  181
+noEst:  29
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  182
+noEst:  29
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  183
+noEst:  29
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  184
+noEst:  29
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  184
+noEst:  29
+age:  7 Memento:  3
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  185
+noEst:  29
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  186
+noEst:  29
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  187
+noEst:  29
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  188
+noEst:  29
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  188
+noEst:  29
+age:  7814 Memento:  1172
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  189
+noEst:  30
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  190
+noEst:  30
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  191
+noEst:  30
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  192
+noEst:  30
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  192
+noEst:  30
+age:  3655 Memento:  22
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  193
+noEst:  30
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  194
+noEst:  30
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  195
+noEst:  30
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  196
+noEst:  30
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  197
+noEst:  30
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  197
+noEst:  30
+age:  5 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  197
+noEst:  30
+age:  151 Memento:  3
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  198
+noEst:  30
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  199
+noEst:  30
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  199
+noEst:  30
+age:  2104 Memento:  21
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  199
+noEst:  30
+age:  6 Memento:  3
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  200
+noEst:  31
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  201
+noEst:  31
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  202
+noEst:  31
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  202
+noEst:  31
+age:  6 Memento:  3
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  203
+noEst:  31
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  204
+noEst:  31
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  205
+noEst:  31
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  206
+noEst:  31
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  207
+noEst:  31
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  208
+noEst:  31
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  209
+noEst:  31
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  210
+noEst:  31
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  211
+noEst:  31
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  212
+noEst:  31
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  213
+noEst:  31
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  214
+noEst:  31
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  214
+noEst:  31
+age:  6 Memento:  8
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  215
+noEst:  31
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  216
+noEst:  32
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  217
+noEst:  33
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  218
+noEst:  33
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  219
+noEst:  33
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  220
+noEst:  33
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  221
+noEst:  33
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  222
+noEst:  34
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  223
+noEst:  35
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  224
+noEst:  35
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  225
+noEst:  35
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  226
+noEst:  36
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  227
+noEst:  37
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  227
+noEst:  37
+age:  153 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  228
+noEst:  37
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  229
+noEst:  37
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  230
+noEst:  37
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  231
+noEst:  37
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  232
+noEst:  37
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  233
+noEst:  37
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  234
+noEst:  37
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  235
+noEst:  37
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  236
+noEst:  38
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  237
+noEst:  38
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  238
+noEst:  38
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  239
+noEst:  38
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  240
+noEst:  38
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  241
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  242
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  242
+noEst:  39
+age:  10 Memento:  8
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  242
+noEst:  39
+age:  1469 Memento:  38
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  243
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  244
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  245
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  246
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  247
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  248
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  249
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  250
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  251
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  252
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  253
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  254
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  255
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  256
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  257
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  258
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  259
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  260
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  261
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  262
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  263
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  264
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  265
+noEst:  39
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  266
+noEst:  40
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  267
+noEst:  40
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  268
+noEst:  40
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  269
+noEst:  40
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  270
+noEst:  40
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  271
+noEst:  40
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  272
+noEst:  41
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  273
+noEst:  41
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  274
+noEst:  41
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  275
+noEst:  41
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  276
+noEst:  41
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  277
+noEst:  41
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  278
+noEst:  41
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  279
+noEst:  41
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  280
+noEst:  41
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  281
+noEst:  41
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  281
+noEst:  41
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  282
+noEst:  42
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  283
+noEst:  43
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  284
+noEst:  44
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  285
+noEst:  44
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  286
+noEst:  44
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  287
+noEst:  44
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  288
+noEst:  44
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  288
+noEst:  44
+age:  2818 Memento:  89
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  289
+noEst:  44
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  290
+noEst:  44
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  291
+noEst:  44
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  292
+noEst:  45
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  293
+noEst:  45
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  294
+noEst:  46
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  295
+noEst:  46
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  296
+noEst:  47
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  296
+noEst:  47
+age:  691 Memento:  8
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  297
+noEst:  47
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  298
+noEst:  47
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  299
+noEst:  48
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  300
+noEst:  48
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  301
+noEst:  48
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  301
+noEst:  48
+age:  399 Memento:  6
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  302
+noEst:  48
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  303
+noEst:  49
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  304
+noEst:  50
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  305
+noEst:  50
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  306
+noEst:  50
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  307
+noEst:  50
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  308
+noEst:  50
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  309
+noEst:  50
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  310
+noEst:  50
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  311
+noEst:  50
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  312
+noEst:  50
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  312
+noEst:  50
+age:  6 Memento:  64
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  313
+noEst:  50
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  314
+noEst:  50
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  315
+noEst:  50
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  316
+noEst:  50
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  317
+noEst:  50
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  318
+noEst:  51
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  319
+noEst:  51
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  320
+noEst:  51
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  321
+noEst:  51
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  322
+noEst:  51
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  323
+noEst:  51
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  324
+noEst:  51
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  325
+noEst:  51
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  326
+noEst:  51
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  326
+noEst:  51
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  327
+noEst:  51
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  328
+noEst:  52
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  329
+noEst:  52
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  330
+noEst:  52
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  331
+noEst:  52
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  332
+noEst:  52
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  333
+noEst:  52
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  333
+noEst:  52
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  333
+noEst:  52
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  334
+noEst:  52
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  335
+noEst:  52
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  336
+noEst:  52
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  337
+noEst:  53
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  337
+noEst:  53
+age:  6 Memento:  4
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  338
+noEst:  53
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  339
+noEst:  53
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  339
+noEst:  53
+age:  6 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  339
+noEst:  53
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  340
+noEst:  53
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  341
+noEst:  53
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  342
+noEst:  53
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  343
+noEst:  54
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  344
+noEst:  54
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  345
+noEst:  54
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  346
+noEst:  55
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  346
+noEst:  55
+age:  207 Memento:  3
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  347
+noEst:  55
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  348
+noEst:  55
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  348
+noEst:  55
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  348
+noEst:  55
+age:  6 Memento:  3
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  348
+noEst:  55
+age:  6 Memento:  3
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  349
+noEst:  55
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  350
+noEst:  56
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  351
+noEst:  56
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  352
+noEst:  56
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  352
+noEst:  56
+age:  2816 Memento:  260
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  353
+noEst:  56
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  354
+noEst:  56
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  354
+noEst:  56
+age:  499 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  355
+noEst:  56
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  356
+noEst:  56
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  357
+noEst:  57
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  357
+noEst:  57
+age:  7 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  358
+noEst:  57
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  359
+noEst:  57
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  360
+noEst:  58
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  361
+noEst:  58
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  362
+noEst:  58
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  363
+noEst:  58
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  364
+noEst:  58
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  364
+noEst:  58
+age:  14 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  365
+noEst:  59
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  366
+noEst:  60
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  367
+noEst:  61
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  368
+noEst:  61
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  369
+noEst:  62
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  369
+noEst:  62
+age:  3589 Memento:  65
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  370
+noEst:  62
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  370
+noEst:  62
+age:  4859 Memento:  324
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  371
+noEst:  62
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  371
+noEst:  62
+age:  1269 Memento:  3
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  372
+noEst:  62
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  373
+noEst:  62
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  374
+noEst:  62
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  375
+noEst:  62
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  376
+noEst:  62
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  376
+noEst:  62
+age:  1285 Memento:  3
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  377
+noEst:  63
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  378
+noEst:  63
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  379
+noEst:  64
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  380
+noEst:  64
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  381
+noEst:  64
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  381
+noEst:  64
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  382
+noEst:  64
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  383
+noEst:  64
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  384
+noEst:  64
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  385
+noEst:  64
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  386
+noEst:  64
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  387
+noEst:  64
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  388
+noEst:  64
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  389
+noEst:  64
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  389
+noEst:  64
+age:  1105 Memento:  3
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  390
+noEst:  64
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  391
+noEst:  65
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  391
+noEst:  65
+age:  1296 Memento:  13
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  392
+noEst:  65
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  393
+noEst:  65
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  394
+noEst:  65
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  395
+noEst:  65
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  396
+noEst:  65
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  397
+noEst:  65
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  398
+noEst:  65
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  399
+noEst:  65
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  400
+noEst:  65
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  401
+noEst:  65
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  402
+noEst:  65
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  402
+noEst:  65
+age:  460 Memento:  4
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  403
+noEst:  65
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  404
+noEst:  65
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  405
+noEst:  65
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  406
+noEst:  65
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  406
+noEst:  65
+age:  6653 Memento:  2007
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  407
+noEst:  66
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  408
+noEst:  66
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  409
+noEst:  66
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  410
+noEst:  66
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  411
+noEst:  66
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  412
+noEst:  66
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  413
+noEst:  66
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  414
+noEst:  67
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  415
+noEst:  67
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  415
+noEst:  67
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  416
+noEst:  67
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  417
+noEst:  68
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  418
+noEst:  68
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  419
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  420
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  421
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  422
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  423
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  424
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  425
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  425
+noEst:  69
+age:  1396 Memento:  6
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  426
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  426
+noEst:  69
+age:  7 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  427
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  428
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  429
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  430
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  431
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  432
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  433
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  434
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  435
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  436
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  437
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  438
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  439
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  440
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  441
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  441
+noEst:  69
+age:  408 Memento:  7
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  442
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  443
+noEst:  69
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  444
+noEst:  70
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  444
+noEst:  70
+age:  7719 Memento:  23243
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  445
+noEst:  70
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  445
+noEst:  70
+age:  5 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  445
+noEst:  70
+age:  5 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  446
+noEst:  70
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  447
+noEst:  70
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  448
+noEst:  70
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  449
+noEst:  70
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  450
+noEst:  71
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  450
+noEst:  71
+age:  2522 Memento:  6
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  451
+noEst:  71
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  451
+noEst:  71
+age:  2 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  452
+noEst:  71
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  453
+noEst:  72
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  454
+noEst:  73
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  455
+noEst:  73
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  456
+noEst:  73
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  457
+noEst:  73
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  458
+noEst:  73
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  459
+noEst:  73
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  460
+noEst:  73
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  461
+noEst:  73
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  462
+noEst:  73
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  462
+noEst:  73
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  463
+noEst:  74
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  464
+noEst:  74
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  465
+noEst:  74
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  465
+noEst:  74
+age:  6 Memento:  3
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  466
+noEst:  74
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  467
+noEst:  74
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  468
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  469
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  470
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  471
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  472
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  472
+noEst:  75
+age:  16 Memento:  18
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  473
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  474
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  475
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  476
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  477
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  478
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  479
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  480
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  481
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  481
+noEst:  75
+age:  5 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  482
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  483
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  483
+noEst:  75
+age:  535 Memento:  45
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  484
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  485
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  485
+noEst:  75
+age:  331 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  486
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  487
+noEst:  75
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  488
+noEst:  76
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  489
+noEst:  76
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  490
+noEst:  76
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  491
+noEst:  76
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  491
+noEst:  76
+age:  4353 Memento:  100
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  492
+noEst:  76
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  493
+noEst:  76
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  493
+noEst:  76
+age:  213 Memento:  44
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  494
+noEst:  76
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  495
+noEst:  77
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  496
+noEst:  77
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  497
+noEst:  77
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  498
+noEst:  77
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  499
+noEst:  77
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  500
+noEst:  77
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  501
+noEst:  77
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  502
+noEst:  77
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  503
+noEst:  77
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  504
+noEst:  77
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  505
+noEst:  77
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  506
+noEst:  77
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  507
+noEst:  77
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  508
+noEst:  78
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  509
+noEst:  78
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  509
+noEst:  78
+age:  7 Memento:  10
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  510
+noEst:  78
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  511
+noEst:  78
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  512
+noEst:  78
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  513
+noEst:  78
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  514
+noEst:  78
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  515
+noEst:  78
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  516
+noEst:  78
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  517
+noEst:  78
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  518
+noEst:  78
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  519
+noEst:  78
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  520
+noEst:  79
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  521
+noEst:  79
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  522
+noEst:  79
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  523
+noEst:  79
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  524
+noEst:  79
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  525
+noEst:  79
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  525
+noEst:  79
+age:  8 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  526
+noEst:  79
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  526
+noEst:  79
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  527
+noEst:  79
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  527
+noEst:  79
+age:  3309 Memento:  1201
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  528
+noEst:  79
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  528
+noEst:  79
+age:  5 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  529
+noEst:  79
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  530
+noEst:  79
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  531
+noEst:  79
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  532
+noEst:  79
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  533
+noEst:  79
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  533
+noEst:  79
+age:  6 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  534
+noEst:  79
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  535
+noEst:  80
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  536
+noEst:  80
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  537
+noEst:  81
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  538
+noEst:  81
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  538
+noEst:  81
+age:  7 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  539
+noEst:  81
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  540
+noEst:  81
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  540
+noEst:  81
+age:  6 Memento:  12
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  541
+noEst:  81
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  541
+noEst:  81
+age:  5 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  542
+noEst:  81
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  543
+noEst:  81
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  544
+noEst:  81
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  544
+noEst:  81
+age:  670 Memento:  23
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  545
+noEst:  81
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  546
+noEst:  82
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  547
+noEst:  82
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  547
+noEst:  82
+age:  316 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  548
+noEst:  83
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  549
+noEst:  83
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  550
+noEst:  83
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  550
+noEst:  83
+age:  8 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  551
+noEst:  83
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  552
+noEst:  83
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  553
+noEst:  83
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  554
+noEst:  84
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  555
+noEst:  85
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  556
+noEst:  86
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  557
+noEst:  87
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  558
+noEst:  87
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  559
+noEst:  88
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  560
+noEst:  89
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  560
+noEst:  89
+age:  266 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  561
+noEst:  89
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  562
+noEst:  89
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  563
+noEst:  89
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  564
+noEst:  90
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  564
+noEst:  90
+age:  6 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  565
+noEst:  90
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  566
+noEst:  90
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  567
+noEst:  90
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  568
+noEst:  90
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  569
+noEst:  90
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  569
+noEst:  90
+age:  7 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  570
+noEst:  90
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  571
+noEst:  90
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  572
+noEst:  90
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  573
+noEst:  90
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  574
+noEst:  90
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  575
+noEst:  90
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  576
+noEst:  90
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  577
+noEst:  90
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  578
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  579
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  580
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  581
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  581
+noEst:  91
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  582
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  583
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  584
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  585
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  586
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  587
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  588
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  589
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  590
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  591
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  591
+noEst:  91
+age:  86 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  592
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  593
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  594
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  595
+noEst:  91
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  595
+noEst:  91
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  595
+noEst:  91
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  595
+noEst:  91
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  595
+noEst:  91
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  596
+noEst:  92
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  596
+noEst:  92
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  597
+noEst:  92
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  598
+noEst:  92
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  599
+noEst:  92
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  599
+noEst:  92
+age:  7 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  600
+noEst:  92
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  601
+noEst:  92
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  602
+noEst:  92
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  603
+noEst:  93
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  604
+noEst:  93
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  605
+noEst:  93
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  606
+noEst:  94
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  607
+noEst:  94
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  608
+noEst:  94
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  609
+noEst:  94
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  610
+noEst:  94
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  611
+noEst:  94
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  612
+noEst:  94
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  612
+noEst:  94
+age:  1370 Memento:  1939
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  613
+noEst:  94
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  613
+noEst:  94
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  614
+noEst:  94
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  615
+noEst:  94
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  616
+noEst:  95
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  617
+noEst:  95
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  618
+noEst:  95
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  619
+noEst:  95
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  620
+noEst:  95
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  621
+noEst:  95
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  622
+noEst:  95
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  623
+noEst:  96
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  624
+noEst:  96
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  625
+noEst:  96
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  625
+noEst:  96
+age:  153 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  626
+noEst:  96
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  627
+noEst:  96
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  628
+noEst:  96
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  629
+noEst:  96
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  630
+noEst:  97
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  630
+noEst:  97
+age:  7 Memento:  12
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  631
+noEst:  98
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  632
+noEst:  98
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  633
+noEst:  98
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  634
+noEst:  98
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  634
+noEst:  98
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  635
+noEst:  99
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  636
+noEst:  99
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  636
+noEst:  99
+age:  3795 Memento:  2336
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  637
+noEst:  99
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  638
+noEst:  99
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  639
+noEst:  99
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  640
+noEst:  99
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  641
+noEst:  99
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  642
+noEst:  99
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  642
+noEst:  99
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  642
+noEst:  99
+age:  7014 Memento:  345
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  643
+noEst:  99
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  644
+noEst:  100
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  645
+noEst:  100
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  646
+noEst:  100
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  647
+noEst:  101
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  648
+noEst:  101
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  648
+noEst:  101
+age:  3706 Memento:  113
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  649
+noEst:  101
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  650
+noEst:  101
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  651
+noEst:  101
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  652
+noEst:  102
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  652
+noEst:  102
+age:  7 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  652
+noEst:  102
+age:  6 Memento:  10
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  652
+noEst:  102
+age:  245 Memento:  5
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  653
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  654
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  654
+noEst:  103
+age:  83 Memento:  36
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  655
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  656
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  657
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  658
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  659
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  660
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  661
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  662
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  663
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  664
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  665
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  666
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  667
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  668
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  669
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  670
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  670
+noEst:  103
+age:  929 Memento:  28
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  671
+noEst:  103
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  671
+noEst:  103
+age:  6294 Memento:  253
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  671
+noEst:  103
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  672
+noEst:  104
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  673
+noEst:  104
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  674
+noEst:  104
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  675
+noEst:  104
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  676
+noEst:  104
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  676
+noEst:  104
+age:  7 Memento:  3
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  676
+noEst:  104
+age:  24 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  677
+noEst:  104
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  678
+noEst:  104
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  679
+noEst:  104
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  680
+noEst:  105
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  680
+noEst:  105
+age:  1704 Memento:  84
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  681
+noEst:  105
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  682
+noEst:  105
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  683
+noEst:  105
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  684
+noEst:  105
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  685
+noEst:  105
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  686
+noEst:  105
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  687
+noEst:  105
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  688
+noEst:  105
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  689
+noEst:  106
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  690
+noEst:  107
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  690
+noEst:  107
+age:  7 Memento:  6
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  691
+noEst:  108
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  692
+noEst:  109
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  693
+noEst:  109
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  694
+noEst:  110
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  695
+noEst:  110
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  696
+noEst:  111
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  697
+noEst:  111
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  698
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  699
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  699
+noEst:  112
+age:  6473 Memento:  4615
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  700
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  701
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  702
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  703
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  704
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  705
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  706
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  707
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  708
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  709
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  710
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  711
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  712
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  713
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  714
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  715
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  716
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  717
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  718
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  719
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  720
+noEst:  112
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  721
+noEst:  113
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  722
+noEst:  113
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  723
+noEst:  113
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  724
+noEst:  113
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  725
+noEst:  113
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  726
+noEst:  113
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  727
+noEst:  113
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  728
+noEst:  113
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  729
+noEst:  114
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  730
+noEst:  114
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  731
+noEst:  114
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  732
+noEst:  114
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  733
+noEst:  114
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  734
+noEst:  114
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  735
+noEst:  115
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  736
+noEst:  115
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  737
+noEst:  115
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  738
+noEst:  115
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  739
+noEst:  115
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  739
+noEst:  115
+age:  1765 Memento:  64
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  740
+noEst:  115
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  741
+noEst:  115
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  742
+noEst:  115
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  743
+noEst:  115
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  744
+noEst:  115
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  745
+noEst:  115
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  745
+noEst:  115
+age:  8 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  746
+noEst:  115
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  747
+noEst:  115
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  748
+noEst:  115
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  749
+noEst:  116
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  749
+noEst:  116
+age:  906 Memento:  58
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  750
+noEst:  116
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  751
+noEst:  116
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  752
+noEst:  116
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  753
+noEst:  117
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  754
+noEst:  117
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  755
+noEst:  117
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  755
+noEst:  117
+age:  9 Memento:  20
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  756
+noEst:  117
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  757
+noEst:  117
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  758
+noEst:  117
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  759
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  760
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  761
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  762
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  762
+noEst:  118
+age:  137 Memento:  7
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  763
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  764
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  765
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  766
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  767
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  768
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  769
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  770
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  771
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  772
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  773
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  774
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  775
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  776
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  776
+noEst:  118
+age:  7 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  777
+noEst:  118
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  778
+noEst:  119
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  779
+noEst:  119
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  780
+noEst:  119
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  781
+noEst:  119
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  781
+noEst:  119
+age:  6 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  782
+noEst:  119
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  783
+noEst:  120
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  784
+noEst:  120
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  785
+noEst:  120
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  786
+noEst:  120
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  786
+noEst:  120
+age:  1014 Memento:  22
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  786
+noEst:  120
+age:  2135 Memento:  24
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  787
+noEst:  121
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  788
+noEst:  122
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  789
+noEst:  122
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  790
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  791
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  792
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  792
+noEst:  123
+age:  5 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  793
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  794
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  795
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  796
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  797
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  798
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  799
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  800
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  801
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  802
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  803
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  804
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  805
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  806
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  807
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  808
+noEst:  123
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  808
+noEst:  123
+age:  682 Memento:  12
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  809
+noEst:  124
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  810
+noEst:  124
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  811
+noEst:  124
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  812
+noEst:  124
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  813
+noEst:  125
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  814
+noEst:  125
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  815
+noEst:  125
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  816
+noEst:  126
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  817
+noEst:  127
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  818
+noEst:  127
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  819
+noEst:  128
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  820
+noEst:  129
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  821
+noEst:  130
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  822
+noEst:  131
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  823
+noEst:  131
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  823
+noEst:  131
+age:  6 Memento:  3
+-------------------------
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  823
+noEst:  131
+age:  1485 Memento:  648
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  824
+noEst:  131
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  825
+noEst:  132
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  826
+noEst:  132
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  826
+noEst:  132
+age:  3117 Memento:  13040
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  827
+noEst:  132
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  828
+noEst:  132
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  829
+noEst:  132
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  829
+noEst:  132
+age:  6 Memento:  10
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  830
+noEst:  132
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  831
+noEst:  132
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  832
+noEst:  132
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  833
+noEst:  132
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  834
+noEst:  132
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  835
+noEst:  133
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  835
+noEst:  133
+age:  6 Memento:  2
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  836
+noEst:  134
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  837
+noEst:  134
+fail
+--------------------------
+cdredst: 200 memst: 200
+noMementoCount:  837
+noEst:  134
+age:  6 Memento:  1
+-------------------------
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  838
+noEst:  135
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  839
+noEst:  136
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  840
+noEst:  136
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  841
+noEst:  136
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  842
+noEst:  137
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  843
+noEst:  138
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  844
+noEst:  138
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  845
+noEst:  139
+fail
+--------------------------
+cdredst: 200 memst: 404
+noMementoCount:  846
+noEst:  139
+fail
+totalUrls:  1001
+no mementos:  846
+no date estimate:  139

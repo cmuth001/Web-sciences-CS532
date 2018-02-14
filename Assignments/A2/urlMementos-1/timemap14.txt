@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-06T08:27:09Z",
+            "uri": "http://web.archive.org/web/20180206082709/http://www.letelegramme.fr/cotes-darmor/saint-brieuc/football-les-bleuets-a-ploufragan-06-02-2018-11841440.php"
+        },
+        "last": {
+            "datetime": "2018-02-06T08:27:09Z",
+            "uri": "http://web.archive.org/web/20180206082709/http://www.letelegramme.fr/cotes-darmor/saint-brieuc/football-les-bleuets-a-ploufragan-06-02-2018-11841440.php"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-06T08:27:09Z",
+                "uri": "http://web.archive.org/web/20180206082709/http://www.letelegramme.fr/cotes-darmor/saint-brieuc/football-les-bleuets-a-ploufragan-06-02-2018-11841440.php"
+            }
+        ]
+    },
+    "original_uri": "http://www.letelegramme.fr/cotes-darmor/saint-brieuc/football-les-bleuets-a-ploufragan-06-02-2018-11841440.php",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.letelegramme.fr/cotes-darmor/saint-brieuc/football-les-bleuets-a-ploufragan-06-02-2018-11841440.php",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.letelegramme.fr/cotes-darmor/saint-brieuc/football-les-bleuets-a-ploufragan-06-02-2018-11841440.php",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.letelegramme.fr/cotes-darmor/saint-brieuc/football-les-bleuets-a-ploufragan-06-02-2018-11841440.php",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.letelegramme.fr/cotes-darmor/saint-brieuc/football-les-bleuets-a-ploufragan-06-02-2018-11841440.php",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.letelegramme.fr/cotes-darmor/saint-brieuc/football-les-bleuets-a-ploufragan-06-02-2018-11841440.php"
+    }
+}

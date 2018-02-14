@@ -1,0 +1,110 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-07-09T07:34:53Z",
+            "uri": "http://web.archive.org/web/20170709073453/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+        },
+        "last": {
+            "datetime": "2018-02-12T00:35:46Z",
+            "uri": "http://web.archive.org/web/20180212003546/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+        },
+        "list": [
+            {
+                "datetime": "2017-07-09T07:34:53Z",
+                "uri": "http://web.archive.org/web/20170709073453/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2017-09-02T04:46:50Z",
+                "uri": "http://web.archive.org/web/20170902044650/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2017-11-04T14:48:49Z",
+                "uri": "http://web.archive.org/web/20171104144849/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2017-12-13T13:05:56Z",
+                "uri": "http://web.archive.org/web/20171213130556/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2017-12-14T01:33:02Z",
+                "uri": "http://web.archive.org/web/20171214013302/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2017-12-20T18:31:51Z",
+                "uri": "http://web.archive.org/web/20171220183151/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2017-12-21T02:20:11Z",
+                "uri": "http://web.archive.org/web/20171221022011/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2017-12-21T23:41:56Z",
+                "uri": "http://web.archive.org/web/20171221234156/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2017-12-28T02:36:42Z",
+                "uri": "http://web.archive.org/web/20171228023642/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2018-01-04T02:25:54Z",
+                "uri": "http://web.archive.org/web/20180104022554/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2018-01-07T08:28:42Z",
+                "uri": "http://wayback.archive-it.org/all/20180107082842/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2018-01-07T08:28:42Z",
+                "uri": "http://web.archive.org/web/20180107082842/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2018-01-10T04:37:48Z",
+                "uri": "http://web.archive.org/web/20180110043748/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2018-01-11T03:49:12Z",
+                "uri": "http://web.archive.org/web/20180111034912/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2018-01-11T19:33:32Z",
+                "uri": "http://web.archive.org/web/20180111193332/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2018-01-18T05:25:10Z",
+                "uri": "http://web.archive.org/web/20180118052510/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2018-01-25T04:22:28Z",
+                "uri": "http://web.archive.org/web/20180125042228/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2018-01-28T07:54:33Z",
+                "uri": "http://web.archive.org/web/20180128075433/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2018-02-01T04:55:27Z",
+                "uri": "http://web.archive.org/web/20180201045527/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2018-02-02T14:25:15Z",
+                "uri": "http://web.archive.org/web/20180202142515/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2018-02-08T06:25:45Z",
+                "uri": "http://web.archive.org/web/20180208062545/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            },
+            {
+                "datetime": "2018-02-12T00:35:46Z",
+                "uri": "http://web.archive.org/web/20180212003546/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+            }
+        ]
+    },
+    "original_uri": "http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://wlcoral.iaofr.com/Custom_error.html?Affiliate=Inactive"
+    }
+}

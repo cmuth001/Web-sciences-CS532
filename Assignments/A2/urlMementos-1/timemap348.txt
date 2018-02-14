@@ -1,0 +1,54 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-03-29T04:40:56Z",
+            "uri": "http://web.archive.org/web/20160329044056/http://www.westhamptonbeachyouthfootball.com:80/"
+        },
+        "last": {
+            "datetime": "2017-05-24T11:21:13Z",
+            "uri": "http://web.archive.org/web/20170524112113/http://westhamptonbeachyouthfootball.com/"
+        },
+        "list": [
+            {
+                "datetime": "2016-03-29T04:40:56Z",
+                "uri": "http://web.archive.org/web/20160329044056/http://www.westhamptonbeachyouthfootball.com:80/"
+            },
+            {
+                "datetime": "2016-05-01T06:42:45Z",
+                "uri": "http://web.archive.org/web/20160501064245/http://www.westhamptonbeachyouthfootball.com:80/"
+            },
+            {
+                "datetime": "2016-06-01T07:56:08Z",
+                "uri": "http://web.archive.org/web/20160601075608/http://www.westhamptonbeachyouthfootball.com:80/"
+            },
+            {
+                "datetime": "2016-06-02T10:26:56Z",
+                "uri": "http://web.archive.org/web/20160602102656/http://www.westhamptonbeachyouthfootball.com:80/"
+            },
+            {
+                "datetime": "2016-07-02T18:35:08Z",
+                "uri": "http://web.archive.org/web/20160702183508/http://www.westhamptonbeachyouthfootball.com:80/"
+            },
+            {
+                "datetime": "2016-07-03T20:21:27Z",
+                "uri": "http://web.archive.org/web/20160703202127/http://www.westhamptonbeachyouthfootball.com:80/"
+            },
+            {
+                "datetime": "2016-08-18T14:49:41Z",
+                "uri": "http://web.archive.org/web/20160818144941/http://www.westhamptonbeachyouthfootball.com:80/"
+            },
+            {
+                "datetime": "2017-05-24T11:21:13Z",
+                "uri": "http://web.archive.org/web/20170524112113/http://westhamptonbeachyouthfootball.com/"
+            }
+        ]
+    },
+    "original_uri": "http://www.westhamptonbeachyouthfootball.com/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.westhamptonbeachyouthfootball.com/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.westhamptonbeachyouthfootball.com/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.westhamptonbeachyouthfootball.com/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.westhamptonbeachyouthfootball.com/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.westhamptonbeachyouthfootball.com/"
+    }
+}

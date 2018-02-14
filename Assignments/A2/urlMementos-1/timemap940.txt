@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T06:35:47Z",
+            "uri": "http://web.archive.org/web/20180211063547/http://www.macon.com/sports/college/university-of-georgia/bulldogs-beat/uga-football/article198782394.html"
+        },
+        "last": {
+            "datetime": "2018-02-11T06:35:47Z",
+            "uri": "http://wayback.archive-it.org/all/20180211063547/http://www.macon.com/sports/college/university-of-georgia/bulldogs-beat/uga-football/article198782394.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T06:35:47Z",
+                "uri": "http://web.archive.org/web/20180211063547/http://www.macon.com/sports/college/university-of-georgia/bulldogs-beat/uga-football/article198782394.html"
+            },
+            {
+                "datetime": "2018-02-11T06:35:47Z",
+                "uri": "http://wayback.archive-it.org/all/20180211063547/http://www.macon.com/sports/college/university-of-georgia/bulldogs-beat/uga-football/article198782394.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.macon.com/sports/college/university-of-georgia/bulldogs-beat/uga-football/article198782394.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.macon.com/sports/college/university-of-georgia/bulldogs-beat/uga-football/article198782394.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.macon.com/sports/college/university-of-georgia/bulldogs-beat/uga-football/article198782394.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.macon.com/sports/college/university-of-georgia/bulldogs-beat/uga-football/article198782394.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.macon.com/sports/college/university-of-georgia/bulldogs-beat/uga-football/article198782394.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.macon.com/sports/college/university-of-georgia/bulldogs-beat/uga-football/article198782394.html"
+    }
+}

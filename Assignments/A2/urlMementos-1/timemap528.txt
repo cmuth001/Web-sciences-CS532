@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T12:40:09Z",
+            "uri": "http://web.archive.org/web/20180208124009/https://www.thesun.co.uk/sport/football/5525733/tottenham-2-newport-0-erik-lamela-scores-first-goal-in-16-months-as-argentinean-stars-in-comfortable-fa-cup-win/"
+        },
+        "last": {
+            "datetime": "2018-02-08T12:40:11Z",
+            "uri": "http://web.archive.org/web/20180208124011/http://www.thesun.co.uk/sport/football/5525733/tottenham-2-newport-0-erik-lamela-scores-first-goal-in-16-months-as-argentinean-stars-in-comfortable-fa-cup-win/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T12:40:09Z",
+                "uri": "http://web.archive.org/web/20180208124009/https://www.thesun.co.uk/sport/football/5525733/tottenham-2-newport-0-erik-lamela-scores-first-goal-in-16-months-as-argentinean-stars-in-comfortable-fa-cup-win/"
+            },
+            {
+                "datetime": "2018-02-08T12:40:11Z",
+                "uri": "http://web.archive.org/web/20180208124011/http://www.thesun.co.uk/sport/football/5525733/tottenham-2-newport-0-erik-lamela-scores-first-goal-in-16-months-as-argentinean-stars-in-comfortable-fa-cup-win/"
+            }
+        ]
+    },
+    "original_uri": "https://www.thesun.co.uk/sport/football/5525733/tottenham-2-newport-0-erik-lamela-scores-first-goal-in-16-months-as-argentinean-stars-in-comfortable-fa-cup-win/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5525733/tottenham-2-newport-0-erik-lamela-scores-first-goal-in-16-months-as-argentinean-stars-in-comfortable-fa-cup-win/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thesun.co.uk/sport/football/5525733/tottenham-2-newport-0-erik-lamela-scores-first-goal-in-16-months-as-argentinean-stars-in-comfortable-fa-cup-win/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thesun.co.uk/sport/football/5525733/tottenham-2-newport-0-erik-lamela-scores-first-goal-in-16-months-as-argentinean-stars-in-comfortable-fa-cup-win/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5525733/tottenham-2-newport-0-erik-lamela-scores-first-goal-in-16-months-as-argentinean-stars-in-comfortable-fa-cup-win/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thesun.co.uk/sport/football/5525733/tottenham-2-newport-0-erik-lamela-scores-first-goal-in-16-months-as-argentinean-stars-in-comfortable-fa-cup-win/"
+    }
+}

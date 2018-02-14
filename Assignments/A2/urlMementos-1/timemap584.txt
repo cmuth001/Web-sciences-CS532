@@ -1,0 +1,422 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2006-05-15T03:52:26Z",
+            "uri": "http://web.archive.org/web/20060515035226/http://www.charliessports.com:80/football-picks.html"
+        },
+        "last": {
+            "datetime": "2017-07-01T12:06:42Z",
+            "uri": "http://web.archive.org/web/20170701120642/http://www.charliessports.com/football-picks.html"
+        },
+        "list": [
+            {
+                "datetime": "2006-05-15T03:52:26Z",
+                "uri": "http://web.archive.org/web/20060515035226/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2006-05-24T02:30:08Z",
+                "uri": "http://web.archive.org/web/20060524023008/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2006-06-19T06:51:57Z",
+                "uri": "http://web.archive.org/web/20060619065157/http://charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2006-07-02T19:26:28Z",
+                "uri": "http://web.archive.org/web/20060702192628/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2006-07-11T05:20:08Z",
+                "uri": "http://web.archive.org/web/20060711052008/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2006-07-11T17:03:46Z",
+                "uri": "http://web.archive.org/web/20060711170346/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2006-08-15T05:35:56Z",
+                "uri": "http://web.archive.org/web/20060815053556/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2006-08-15T13:45:54Z",
+                "uri": "http://web.archive.org/web/20060815134554/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2006-08-18T01:57:19Z",
+                "uri": "http://web.archive.org/web/20060818015719/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2006-11-06T20:11:43Z",
+                "uri": "http://web.archive.org/web/20061106201143/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2006-11-08T12:00:46Z",
+                "uri": "http://web.archive.org/web/20061108120046/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2006-11-15T17:11:20Z",
+                "uri": "http://web.archive.org/web/20061115171120/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2006-11-15T20:11:17Z",
+                "uri": "http://web.archive.org/web/20061115201117/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2006-11-25T09:43:56Z",
+                "uri": "http://web.archive.org/web/20061125094356/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2006-12-01T13:51:36Z",
+                "uri": "http://web.archive.org/web/20061201135136/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-01-04T22:42:02Z",
+                "uri": "http://web.archive.org/web/20070104224202/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-01-06T10:06:14Z",
+                "uri": "http://web.archive.org/web/20070106100614/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-01-09T19:38:00Z",
+                "uri": "http://web.archive.org/web/20070109193800/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-01-14T20:19:21Z",
+                "uri": "http://web.archive.org/web/20070114201921/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-01-19T19:02:08Z",
+                "uri": "http://web.archive.org/web/20070119190208/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-01-24T22:16:05Z",
+                "uri": "http://web.archive.org/web/20070124221605/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-02-02T04:12:28Z",
+                "uri": "http://web.archive.org/web/20070202041228/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-02-03T02:22:19Z",
+                "uri": "http://web.archive.org/web/20070203022219/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-02-21T06:42:08Z",
+                "uri": "http://web.archive.org/web/20070221064208/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-02-28T23:02:31Z",
+                "uri": "http://web.archive.org/web/20070228230231/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-04-05T20:29:45Z",
+                "uri": "http://web.archive.org/web/20070405202945/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-05-28T01:23:59Z",
+                "uri": "http://web.archive.org/web/20070528012359/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-06-07T20:01:38Z",
+                "uri": "http://web.archive.org/web/20070607200138/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-06-21T11:36:11Z",
+                "uri": "http://web.archive.org/web/20070621113611/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2007-06-29T05:01:02Z",
+                "uri": "http://web.archive.org/web/20070629050102/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-08-17T22:14:41Z",
+                "uri": "http://web.archive.org/web/20070817221441/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-08-19T12:00:19Z",
+                "uri": "http://web.archive.org/web/20070819120019/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-09-18T11:23:03Z",
+                "uri": "http://web.archive.org/web/20070918112303/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-10-17T10:47:04Z",
+                "uri": "http://web.archive.org/web/20071017104704/http://charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-11-02T07:51:55Z",
+                "uri": "http://web.archive.org/web/20071102075155/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2007-12-26T11:06:08Z",
+                "uri": "http://web.archive.org/web/20071226110608/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2008-01-27T00:36:09Z",
+                "uri": "http://web.archive.org/web/20080127003609/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2008-02-26T20:51:06Z",
+                "uri": "http://web.archive.org/web/20080226205106/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2008-04-18T00:53:12Z",
+                "uri": "http://web.archive.org/web/20080418005312/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2008-07-04T05:24:42Z",
+                "uri": "http://web.archive.org/web/20080704052442/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2008-12-16T10:21:33Z",
+                "uri": "http://web.archive.org/web/20081216102133/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2009-01-31T23:17:41Z",
+                "uri": "http://web.archive.org/web/20090131231741/http://charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2009-03-03T13:39:33Z",
+                "uri": "http://web.archive.org/web/20090303133933/http://charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2009-04-03T19:06:38Z",
+                "uri": "http://web.archive.org/web/20090403190638/http://charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2009-05-04T22:02:57Z",
+                "uri": "http://web.archive.org/web/20090504220257/http://charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2009-06-04T18:04:48Z",
+                "uri": "http://web.archive.org/web/20090604180448/http://charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2009-08-02T16:52:27Z",
+                "uri": "http://web.archive.org/web/20090802165227/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2009-09-03T23:17:14Z",
+                "uri": "http://web.archive.org/web/20090903231714/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2009-10-06T00:01:07Z",
+                "uri": "http://web.archive.org/web/20091006000107/http://charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2009-11-06T15:52:51Z",
+                "uri": "http://web.archive.org/web/20091106155251/http://charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2010-01-14T07:50:23Z",
+                "uri": "http://web.archive.org/web/20100114075023/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2010-02-14T15:00:50Z",
+                "uri": "http://web.archive.org/web/20100214150050/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2010-03-17T22:39:22Z",
+                "uri": "http://web.archive.org/web/20100317223922/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2010-04-18T13:01:07Z",
+                "uri": "http://web.archive.org/web/20100418130107/http://charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2010-05-26T22:47:27Z",
+                "uri": "http://web.archive.org/web/20100526224727/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2010-07-24T03:14:27Z",
+                "uri": "http://web.archive.org/web/20100724031427/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2010-09-19T00:55:06Z",
+                "uri": "http://web.archive.org/web/20100919005506/http://charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2010-09-23T01:00:07Z",
+                "uri": "http://web.archive.org/web/20100923010007/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2010-10-20T05:02:14Z",
+                "uri": "http://web.archive.org/web/20101020050214/http://charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2010-11-20T03:11:57Z",
+                "uri": "http://web.archive.org/web/20101120031157/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2010-12-21T03:49:31Z",
+                "uri": "http://web.archive.org/web/20101221034931/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2011-01-20T18:13:03Z",
+                "uri": "http://web.archive.org/web/20110120181303/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2011-05-17T04:24:49Z",
+                "uri": "http://web.archive.org/web/20110517042449/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2011-07-17T18:06:21Z",
+                "uri": "http://web.archive.org/web/20110717180621/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2011-08-23T13:50:14Z",
+                "uri": "http://web.archive.org/web/20110823135014/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2011-09-02T03:08:53Z",
+                "uri": "http://web.archive.org/web/20110902030853/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2011-10-04T09:07:05Z",
+                "uri": "http://web.archive.org/web/20111004090705/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2011-11-02T01:55:52Z",
+                "uri": "http://web.archive.org/web/20111102015552/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2012-01-01T16:34:49Z",
+                "uri": "http://web.archive.org/web/20120101163449/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2012-01-28T18:28:17Z",
+                "uri": "http://web.archive.org/web/20120128182817/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2012-01-28T22:41:58Z",
+                "uri": "http://web.archive.org/web/20120128224158/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2012-01-29T00:40:04Z",
+                "uri": "http://web.archive.org/web/20120129004004/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2012-01-29T08:46:11Z",
+                "uri": "http://web.archive.org/web/20120129084611/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2012-04-06T23:10:02Z",
+                "uri": "http://web.archive.org/web/20120406231002/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2012-06-07T02:34:59Z",
+                "uri": "http://web.archive.org/web/20120607023459/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2012-06-15T15:44:47Z",
+                "uri": "http://web.archive.org/web/20120615154447/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2012-07-17T12:52:05Z",
+                "uri": "http://web.archive.org/web/20120717125205/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2012-08-29T20:00:22Z",
+                "uri": "http://web.archive.org/web/20120829200022/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2012-10-31T02:11:22Z",
+                "uri": "http://web.archive.org/web/20121031021122/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2013-01-22T15:35:33Z",
+                "uri": "http://web.archive.org/web/20130122153533/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2013-09-06T04:40:57Z",
+                "uri": "http://web.archive.org/web/20130906044057/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2013-09-08T23:09:25Z",
+                "uri": "http://web.archive.org/web/20130908230925/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2013-10-07T00:36:33Z",
+                "uri": "http://web.archive.org/web/20131007003633/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2013-11-08T08:29:09Z",
+                "uri": "http://web.archive.org/web/20131108082909/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2014-03-28T13:37:31Z",
+                "uri": "http://web.archive.org/web/20140328133731/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2014-04-28T11:44:57Z",
+                "uri": "http://web.archive.org/web/20140428114457/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2014-07-18T01:51:22Z",
+                "uri": "http://web.archive.org/web/20140718015122/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2015-02-03T17:55:11Z",
+                "uri": "http://web.archive.org/web/20150203175511/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2015-03-19T08:20:42Z",
+                "uri": "http://web.archive.org/web/20150319082042/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2015-05-16T01:31:54Z",
+                "uri": "http://web.archive.org/web/20150516013154/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2015-06-18T07:14:38Z",
+                "uri": "http://web.archive.org/web/20150618071438/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2015-07-19T10:44:53Z",
+                "uri": "http://web.archive.org/web/20150719104453/http://www.charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2015-08-12T12:40:32Z",
+                "uri": "http://web.archive.org/web/20150812124032/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2016-02-08T19:53:19Z",
+                "uri": "http://web.archive.org/web/20160208195319/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2016-03-14T06:01:03Z",
+                "uri": "http://web.archive.org/web/20160314060103/http://charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2016-03-19T10:03:44Z",
+                "uri": "http://web.archive.org/web/20160319100344/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2016-07-15T15:30:54Z",
+                "uri": "http://web.archive.org/web/20160715153054/http://charliessports.com:80/football-picks.html"
+            },
+            {
+                "datetime": "2016-10-21T22:49:52Z",
+                "uri": "http://web.archive.org/web/20161021224952/http://www.charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2016-10-29T09:31:08Z",
+                "uri": "http://web.archive.org/web/20161029093108/http://charliessports.com/football-picks.html"
+            },
+            {
+                "datetime": "2017-07-01T12:06:42Z",
+                "uri": "http://web.archive.org/web/20170701120642/http://www.charliessports.com/football-picks.html"
+            }
+        ]
+    },
+    "original_uri": "http://charliessports.com/football-picks.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://charliessports.com/football-picks.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://charliessports.com/football-picks.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://charliessports.com/football-picks.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://charliessports.com/football-picks.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://charliessports.com/football-picks.html"
+    }
+}

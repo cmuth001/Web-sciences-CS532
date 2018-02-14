@@ -1,0 +1,94 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-01-29T22:12:19Z",
+            "uri": "http://web.archive.org/web/20180129221219/http://www.espn.com/soccer/match?gameId=506560"
+        },
+        "last": {
+            "datetime": "2018-02-13T06:39:57Z",
+            "uri": "http://web.archive.org/web/20180213063957/http://www.espn.com/soccer/match?gameId=506560"
+        },
+        "list": [
+            {
+                "datetime": "2018-01-29T22:12:19Z",
+                "uri": "http://web.archive.org/web/20180129221219/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-06T11:20:55Z",
+                "uri": "http://web.archive.org/web/20180206112055/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-07T10:24:19Z",
+                "uri": "http://web.archive.org/web/20180207102419/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-07T12:38:36Z",
+                "uri": "http://web.archive.org/web/20180207123836/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-07T16:27:28Z",
+                "uri": "http://web.archive.org/web/20180207162728/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-07T21:52:15Z",
+                "uri": "http://web.archive.org/web/20180207215215/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-07T22:41:02Z",
+                "uri": "http://web.archive.org/web/20180207224102/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-07T23:56:53Z",
+                "uri": "http://web.archive.org/web/20180207235653/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-08T00:07:32Z",
+                "uri": "http://web.archive.org/web/20180208000732/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-08T01:37:37Z",
+                "uri": "http://web.archive.org/web/20180208013737/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-08T09:14:45Z",
+                "uri": "http://web.archive.org/web/20180208091445/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-08T15:24:02Z",
+                "uri": "http://web.archive.org/web/20180208152402/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-08T15:55:34Z",
+                "uri": "http://web.archive.org/web/20180208155534/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-09T10:33:04Z",
+                "uri": "http://web.archive.org/web/20180209103304/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-09T17:17:36Z",
+                "uri": "http://web.archive.org/web/20180209171736/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-10T04:46:10Z",
+                "uri": "http://web.archive.org/web/20180210044610/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-10T18:00:12Z",
+                "uri": "http://web.archive.org/web/20180210180012/http://www.espn.com/soccer/match?gameId=506560"
+            },
+            {
+                "datetime": "2018-02-13T06:39:57Z",
+                "uri": "http://web.archive.org/web/20180213063957/http://www.espn.com/soccer/match?gameId=506560"
+            }
+        ]
+    },
+    "original_uri": "http://www.espn.com/soccer/match?gameId=506560",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.espn.com/soccer/match?gameId=506560",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.espn.com/soccer/match?gameId=506560",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.espn.com/soccer/match?gameId=506560",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.espn.com/soccer/match?gameId=506560",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.espn.com/soccer/match?gameId=506560"
+    }
+}

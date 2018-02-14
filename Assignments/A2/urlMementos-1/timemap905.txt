@@ -1,0 +1,50 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-09-28T23:51:31Z",
+            "uri": "http://web.archive.org/web/20170928235131/http://toplocalnow.com/us/atlanta/at/16"
+        },
+        "last": {
+            "datetime": "2018-02-03T10:48:25Z",
+            "uri": "http://web.archive.org/web/20180203104825/http://toplocalnow.com/us/atlanta/at/16"
+        },
+        "list": [
+            {
+                "datetime": "2017-09-28T23:51:31Z",
+                "uri": "http://web.archive.org/web/20170928235131/http://toplocalnow.com/us/atlanta/at/16"
+            },
+            {
+                "datetime": "2017-11-14T21:47:25Z",
+                "uri": "http://web.archive.org/web/20171114214725/http://toplocalnow.com/us/atlanta/at/16"
+            },
+            {
+                "datetime": "2017-11-20T10:57:27Z",
+                "uri": "http://web.archive.org/web/20171120105727/http://toplocalnow.com/us/atlanta/at/16"
+            },
+            {
+                "datetime": "2018-02-02T12:39:42Z",
+                "uri": "http://web.archive.org/web/20180202123942/http://toplocalnow.com/us/atlanta/at/16"
+            },
+            {
+                "datetime": "2018-02-02T20:27:16Z",
+                "uri": "http://web.archive.org/web/20180202202716/http://toplocalnow.com/us/atlanta/at/16"
+            },
+            {
+                "datetime": "2018-02-03T03:00:28Z",
+                "uri": "http://web.archive.org/web/20180203030028/http://toplocalnow.com/us/atlanta/at/16"
+            },
+            {
+                "datetime": "2018-02-03T10:48:25Z",
+                "uri": "http://web.archive.org/web/20180203104825/http://toplocalnow.com/us/atlanta/at/16"
+            }
+        ]
+    },
+    "original_uri": "http://toplocalnow.com/us/atlanta/at/16",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://toplocalnow.com/us/atlanta/at/16",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://toplocalnow.com/us/atlanta/at/16",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://toplocalnow.com/us/atlanta/at/16",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://toplocalnow.com/us/atlanta/at/16",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://toplocalnow.com/us/atlanta/at/16"
+    }
+}

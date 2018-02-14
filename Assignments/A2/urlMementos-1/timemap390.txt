@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T15:50:04Z",
+            "uri": "http://web.archive.org/web/20180208155004/https://www.landof10.com/nebraska/nebraska-football-national-signing-day-scott-frost-recruiting-class-ranking"
+        },
+        "last": {
+            "datetime": "2018-02-08T15:50:04Z",
+            "uri": "http://web.archive.org/web/20180208155004/https://www.landof10.com/nebraska/nebraska-football-national-signing-day-scott-frost-recruiting-class-ranking"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T15:50:04Z",
+                "uri": "http://web.archive.org/web/20180208155004/https://www.landof10.com/nebraska/nebraska-football-national-signing-day-scott-frost-recruiting-class-ranking"
+            }
+        ]
+    },
+    "original_uri": "https://www.landof10.com/nebraska/nebraska-football-national-signing-day-scott-frost-recruiting-class-ranking",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.landof10.com/nebraska/nebraska-football-national-signing-day-scott-frost-recruiting-class-ranking",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.landof10.com/nebraska/nebraska-football-national-signing-day-scott-frost-recruiting-class-ranking",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.landof10.com/nebraska/nebraska-football-national-signing-day-scott-frost-recruiting-class-ranking",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.landof10.com/nebraska/nebraska-football-national-signing-day-scott-frost-recruiting-class-ranking",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.landof10.com/nebraska/nebraska-football-national-signing-day-scott-frost-recruiting-class-ranking"
+    }
+}

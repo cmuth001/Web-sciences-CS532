@@ -1,0 +1,42 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T03:00:09Z",
+            "uri": "http://web.archive.org/web/20180208030009/http://www.espn.com/college-football/recruiting/story/_/id/22347145/best-national-signing-day-2018"
+        },
+        "last": {
+            "datetime": "2018-02-11T06:30:23Z",
+            "uri": "http://web.archive.org/web/20180211063023/http://www.espn.com/college-football/recruiting/story/_/id/22347145/best-national-signing-day-2018"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T03:00:09Z",
+                "uri": "http://web.archive.org/web/20180208030009/http://www.espn.com/college-football/recruiting/story/_/id/22347145/best-national-signing-day-2018"
+            },
+            {
+                "datetime": "2018-02-08T08:27:09Z",
+                "uri": "http://web.archive.org/web/20180208082709/http://www.espn.com/college-football/recruiting/story/_/id/22347145/best-national-signing-day-2018"
+            },
+            {
+                "datetime": "2018-02-09T18:35:42Z",
+                "uri": "http://web.archive.org/web/20180209183542/http://www.espn.com/college-football/recruiting/story/_/id/22347145/best-national-signing-day-2018"
+            },
+            {
+                "datetime": "2018-02-11T06:30:23Z",
+                "uri": "http://wayback.archive-it.org/all/20180211063023/http://www.espn.com/college-football/recruiting/story/_/id/22347145/best-national-signing-day-2018"
+            },
+            {
+                "datetime": "2018-02-11T06:30:23Z",
+                "uri": "http://web.archive.org/web/20180211063023/http://www.espn.com/college-football/recruiting/story/_/id/22347145/best-national-signing-day-2018"
+            }
+        ]
+    },
+    "original_uri": "http://www.espn.com/college-football/recruiting/story/_/id/22347145/best-national-signing-day-2018",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.espn.com/college-football/recruiting/story/_/id/22347145/best-national-signing-day-2018",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.espn.com/college-football/recruiting/story/_/id/22347145/best-national-signing-day-2018",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.espn.com/college-football/recruiting/story/_/id/22347145/best-national-signing-day-2018",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.espn.com/college-football/recruiting/story/_/id/22347145/best-national-signing-day-2018",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.espn.com/college-football/recruiting/story/_/id/22347145/best-national-signing-day-2018"
+    }
+}

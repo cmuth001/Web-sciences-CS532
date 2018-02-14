@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2014-04-19T13:16:59Z",
+            "uri": "http://web.archive.org/web/20140419131659/http://247sports.com/Season/2018-Football/CompositeTeamRankings?Conference=M-West"
+        },
+        "last": {
+            "datetime": "2018-02-12T13:47:32Z",
+            "uri": "http://web.archive.org/web/20180212134732/https://247sports.com/Season/2018-Football/CompositeTeamRankings?Conference=M-West"
+        },
+        "list": [
+            {
+                "datetime": "2014-04-19T13:16:59Z",
+                "uri": "http://web.archive.org/web/20140419131659/http://247sports.com/Season/2018-Football/CompositeTeamRankings?Conference=M-West"
+            },
+            {
+                "datetime": "2017-05-09T06:44:23Z",
+                "uri": "http://web.archive.org/web/20170509064423/http://247sports.com:80/Season/2018-Football/CompositeTeamRankings?Conference=M-West"
+            },
+            {
+                "datetime": "2017-07-09T01:36:33Z",
+                "uri": "http://web.archive.org/web/20170709013633/http://247sports.com:80/Season/2018-Football/CompositeTeamRankings?Conference=M-West"
+            },
+            {
+                "datetime": "2018-02-10T09:48:19Z",
+                "uri": "http://web.archive.org/web/20180210094819/https://247sports.com/Season/2018-Football/CompositeTeamRankings?Conference=M-West"
+            },
+            {
+                "datetime": "2018-02-11T14:02:27Z",
+                "uri": "http://web.archive.org/web/20180211140227/https://247sports.com/Season/2018-Football/CompositeTeamRankings?Conference=M-West"
+            },
+            {
+                "datetime": "2018-02-12T13:47:32Z",
+                "uri": "http://web.archive.org/web/20180212134732/https://247sports.com/Season/2018-Football/CompositeTeamRankings?Conference=M-West"
+            }
+        ]
+    },
+    "original_uri": "https://247sports.com/Season/2018-Football/CompositeTeamRankings?Conference=M-West",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://247sports.com/Season/2018-Football/CompositeTeamRankings?Conference=M-West",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://247sports.com/Season/2018-Football/CompositeTeamRankings?Conference=M-West",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://247sports.com/Season/2018-Football/CompositeTeamRankings?Conference=M-West",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://247sports.com/Season/2018-Football/CompositeTeamRankings?Conference=M-West",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://247sports.com/Season/2018-Football/CompositeTeamRankings?Conference=M-West"
+    }
+}

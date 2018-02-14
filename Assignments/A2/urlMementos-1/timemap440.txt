@@ -1,0 +1,1318 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2004-11-01T03:22:35Z",
+            "uri": "http://web.archive.org/web/20041101032235/http://www.euro-sports.jp:80/football/"
+        },
+        "last": {
+            "datetime": "2018-02-11T07:19:48Z",
+            "uri": "http://web.archive.org/web/20180211071948/http://www.euro-sports.jp/football/"
+        },
+        "list": [
+            {
+                "datetime": "2004-11-01T03:22:35Z",
+                "uri": "http://web.archive.org/web/20041101032235/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2004-11-04T04:29:02Z",
+                "uri": "http://web.archive.org/web/20041104042902/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2004-11-09T00:33:51Z",
+                "uri": "http://web.archive.org/web/20041109003351/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2004-11-09T15:24:41Z",
+                "uri": "http://web.archive.org/web/20041109152441/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2004-11-11T03:00:09Z",
+                "uri": "http://web.archive.org/web/20041111030009/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2004-11-12T02:22:27Z",
+                "uri": "http://web.archive.org/web/20041112022227/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2004-11-13T00:37:46Z",
+                "uri": "http://web.archive.org/web/20041113003746/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2004-11-14T03:13:57Z",
+                "uri": "http://web.archive.org/web/20041114031357/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2004-11-15T01:09:17Z",
+                "uri": "http://web.archive.org/web/20041115010917/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2004-11-17T02:03:17Z",
+                "uri": "http://web.archive.org/web/20041117020317/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2004-11-22T04:30:22Z",
+                "uri": "http://web.archive.org/web/20041122043022/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2004-11-26T22:25:11Z",
+                "uri": "http://web.archive.org/web/20041126222511/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2004-12-05T04:14:33Z",
+                "uri": "http://web.archive.org/web/20041205041433/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2004-12-05T16:03:43Z",
+                "uri": "http://web.archive.org/web/20041205160343/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2004-12-11T14:29:47Z",
+                "uri": "http://web.archive.org/web/20041211142947/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2004-12-13T00:41:10Z",
+                "uri": "http://web.archive.org/web/20041213004110/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-01-09T05:08:39Z",
+                "uri": "http://web.archive.org/web/20050109050839/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-01-12T01:43:12Z",
+                "uri": "http://web.archive.org/web/20050112014312/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-01-17T03:27:05Z",
+                "uri": "http://web.archive.org/web/20050117032705/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-01-22T01:03:59Z",
+                "uri": "http://web.archive.org/web/20050122010359/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-01-23T04:21:56Z",
+                "uri": "http://web.archive.org/web/20050123042156/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-01-24T03:05:46Z",
+                "uri": "http://web.archive.org/web/20050124030546/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-01-25T01:45:02Z",
+                "uri": "http://web.archive.org/web/20050125014502/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2005-01-25T02:05:16Z",
+                "uri": "http://web.archive.org/web/20050125020516/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-01-31T02:03:58Z",
+                "uri": "http://web.archive.org/web/20050131020358/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-02-05T04:29:47Z",
+                "uri": "http://web.archive.org/web/20050205042947/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-02-12T03:58:46Z",
+                "uri": "http://web.archive.org/web/20050212035846/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-02-17T02:17:59Z",
+                "uri": "http://web.archive.org/web/20050217021759/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-02-24T05:06:41Z",
+                "uri": "http://web.archive.org/web/20050224050641/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-03-05T07:43:52Z",
+                "uri": "http://web.archive.org/web/20050305074352/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2005-03-09T04:16:36Z",
+                "uri": "http://web.archive.org/web/20050309041636/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-03-27T01:30:50Z",
+                "uri": "http://web.archive.org/web/20050327013050/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-04-04T01:24:53Z",
+                "uri": "http://web.archive.org/web/20050404012453/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-04-06T14:54:03Z",
+                "uri": "http://web.archive.org/web/20050406145403/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-04-07T19:29:18Z",
+                "uri": "http://web.archive.org/web/20050407192918/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-04-20T23:57:13Z",
+                "uri": "http://web.archive.org/web/20050420235713/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-04-22T03:09:51Z",
+                "uri": "http://web.archive.org/web/20050422030951/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-04-26T23:41:59Z",
+                "uri": "http://web.archive.org/web/20050426234159/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-05-07T06:28:18Z",
+                "uri": "http://web.archive.org/web/20050507062818/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-05-07T14:25:13Z",
+                "uri": "http://web.archive.org/web/20050507142513/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-05-09T00:34:27Z",
+                "uri": "http://web.archive.org/web/20050509003427/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-05-22T23:57:10Z",
+                "uri": "http://web.archive.org/web/20050522235710/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-05-24T00:11:27Z",
+                "uri": "http://web.archive.org/web/20050524001127/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-05-26T23:21:11Z",
+                "uri": "http://web.archive.org/web/20050526232111/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-05-29T01:35:09Z",
+                "uri": "http://web.archive.org/web/20050529013509/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-05-31T01:42:00Z",
+                "uri": "http://web.archive.org/web/20050531014200/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-05-31T21:57:05Z",
+                "uri": "http://web.archive.org/web/20050531215705/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-06-02T01:54:11Z",
+                "uri": "http://web.archive.org/web/20050602015411/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-06-03T02:58:16Z",
+                "uri": "http://web.archive.org/web/20050603025816/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-06-05T00:46:47Z",
+                "uri": "http://web.archive.org/web/20050605004647/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-06-06T00:02:55Z",
+                "uri": "http://web.archive.org/web/20050606000255/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-06-08T00:59:52Z",
+                "uri": "http://web.archive.org/web/20050608005952/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-06-13T01:30:13Z",
+                "uri": "http://web.archive.org/web/20050613013013/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-06-14T01:39:59Z",
+                "uri": "http://web.archive.org/web/20050614013959/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-06-14T23:34:27Z",
+                "uri": "http://web.archive.org/web/20050614233427/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-06-23T03:10:27Z",
+                "uri": "http://web.archive.org/web/20050623031027/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-06-26T01:39:46Z",
+                "uri": "http://web.archive.org/web/20050626013946/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-06-27T00:34:23Z",
+                "uri": "http://web.archive.org/web/20050627003423/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-06-27T23:18:07Z",
+                "uri": "http://web.archive.org/web/20050627231807/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-06-30T01:07:40Z",
+                "uri": "http://web.archive.org/web/20050630010740/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-07-01T01:26:50Z",
+                "uri": "http://web.archive.org/web/20050701012650/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-07-06T03:17:54Z",
+                "uri": "http://web.archive.org/web/20050706031754/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-07-10T00:01:31Z",
+                "uri": "http://web.archive.org/web/20050710000131/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-07-10T23:26:28Z",
+                "uri": "http://web.archive.org/web/20050710232628/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-07-12T01:14:14Z",
+                "uri": "http://web.archive.org/web/20050712011414/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-07-17T00:16:09Z",
+                "uri": "http://web.archive.org/web/20050717001609/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-07-19T00:33:23Z",
+                "uri": "http://web.archive.org/web/20050719003323/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-07-22T23:41:26Z",
+                "uri": "http://web.archive.org/web/20050722234126/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-07-24T02:01:59Z",
+                "uri": "http://web.archive.org/web/20050724020159/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-07-25T00:48:14Z",
+                "uri": "http://web.archive.org/web/20050725004814/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-07-25T23:37:56Z",
+                "uri": "http://web.archive.org/web/20050725233756/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-07-27T00:01:48Z",
+                "uri": "http://web.archive.org/web/20050727000148/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-07-28T02:16:27Z",
+                "uri": "http://web.archive.org/web/20050728021627/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-07-31T01:51:18Z",
+                "uri": "http://web.archive.org/web/20050731015118/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-01T00:36:30Z",
+                "uri": "http://web.archive.org/web/20050801003630/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-02T01:01:32Z",
+                "uri": "http://web.archive.org/web/20050802010132/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-09T01:31:56Z",
+                "uri": "http://web.archive.org/web/20050809013156/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-13T00:03:44Z",
+                "uri": "http://web.archive.org/web/20050813000344/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-15T01:46:55Z",
+                "uri": "http://web.archive.org/web/20050815014655/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-16T19:54:36Z",
+                "uri": "http://web.archive.org/web/20050816195436/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-16T20:54:52Z",
+                "uri": "http://web.archive.org/web/20050816205452/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-18T17:31:18Z",
+                "uri": "http://web.archive.org/web/20050818173118/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-20T15:17:51Z",
+                "uri": "http://web.archive.org/web/20050820151751/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-23T05:35:14Z",
+                "uri": "http://web.archive.org/web/20050823053514/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-25T03:46:13Z",
+                "uri": "http://web.archive.org/web/20050825034613/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-25T09:35:08Z",
+                "uri": "http://web.archive.org/web/20050825093508/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-26T04:14:27Z",
+                "uri": "http://web.archive.org/web/20050826041427/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-26T07:24:27Z",
+                "uri": "http://web.archive.org/web/20050826072427/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-26T23:38:31Z",
+                "uri": "http://web.archive.org/web/20050826233831/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-28T10:36:47Z",
+                "uri": "http://web.archive.org/web/20050828103647/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-28T13:05:41Z",
+                "uri": "http://web.archive.org/web/20050828130541/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-28T19:58:21Z",
+                "uri": "http://web.archive.org/web/20050828195821/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-29T01:49:51Z",
+                "uri": "http://web.archive.org/web/20050829014951/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-29T03:59:15Z",
+                "uri": "http://web.archive.org/web/20050829035915/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-29T14:07:30Z",
+                "uri": "http://web.archive.org/web/20050829140730/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-29T20:58:09Z",
+                "uri": "http://web.archive.org/web/20050829205809/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-30T00:39:26Z",
+                "uri": "http://web.archive.org/web/20050830003926/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-08-30T07:52:38Z",
+                "uri": "http://web.archive.org/web/20050830075238/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-09-01T09:08:49Z",
+                "uri": "http://web.archive.org/web/20050901090849/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-09-01T19:43:50Z",
+                "uri": "http://web.archive.org/web/20050901194350/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-09-12T12:06:14Z",
+                "uri": "http://web.archive.org/web/20050912120614/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-09-24T13:43:11Z",
+                "uri": "http://web.archive.org/web/20050924134311/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-09-26T06:21:01Z",
+                "uri": "http://web.archive.org/web/20050926062101/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-09-29T05:50:14Z",
+                "uri": "http://web.archive.org/web/20050929055014/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-09-30T21:22:03Z",
+                "uri": "http://web.archive.org/web/20050930212203/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-10-01T02:37:21Z",
+                "uri": "http://web.archive.org/web/20051001023721/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-10-01T07:40:44Z",
+                "uri": "http://web.archive.org/web/20051001074044/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-10-01T15:14:02Z",
+                "uri": "http://web.archive.org/web/20051001151402/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-10-01T15:43:28Z",
+                "uri": "http://web.archive.org/web/20051001154328/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-10-04T02:34:21Z",
+                "uri": "http://web.archive.org/web/20051004023421/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-10-16T01:03:31Z",
+                "uri": "http://web.archive.org/web/20051016010331/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-10-23T00:37:34Z",
+                "uri": "http://web.archive.org/web/20051023003734/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-10-24T04:05:19Z",
+                "uri": "http://web.archive.org/web/20051024040519/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-10-25T04:11:41Z",
+                "uri": "http://web.archive.org/web/20051025041141/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-10-27T03:07:52Z",
+                "uri": "http://web.archive.org/web/20051027030752/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-10-28T02:59:52Z",
+                "uri": "http://web.archive.org/web/20051028025952/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-10-29T10:21:54Z",
+                "uri": "http://web.archive.org/web/20051029102154/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-10-30T04:04:34Z",
+                "uri": "http://web.archive.org/web/20051030040434/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-10-31T03:23:43Z",
+                "uri": "http://web.archive.org/web/20051031032343/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-02T05:08:33Z",
+                "uri": "http://web.archive.org/web/20051102050833/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-06T04:07:14Z",
+                "uri": "http://web.archive.org/web/20051106040714/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-23T22:02:47Z",
+                "uri": "http://web.archive.org/web/20051123220247/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-24T01:42:24Z",
+                "uri": "http://web.archive.org/web/20051124014224/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-24T04:54:00Z",
+                "uri": "http://web.archive.org/web/20051124045400/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-24T11:40:56Z",
+                "uri": "http://web.archive.org/web/20051124114056/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-24T13:47:30Z",
+                "uri": "http://web.archive.org/web/20051124134730/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-24T16:32:39Z",
+                "uri": "http://web.archive.org/web/20051124163239/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-24T17:30:57Z",
+                "uri": "http://web.archive.org/web/20051124173057/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-24T18:07:38Z",
+                "uri": "http://web.archive.org/web/20051124180738/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-24T21:17:46Z",
+                "uri": "http://web.archive.org/web/20051124211746/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-24T22:49:00Z",
+                "uri": "http://web.archive.org/web/20051124224900/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-25T00:36:08Z",
+                "uri": "http://web.archive.org/web/20051125003608/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-25T01:54:16Z",
+                "uri": "http://web.archive.org/web/20051125015416/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-25T04:21:07Z",
+                "uri": "http://web.archive.org/web/20051125042107/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-26T02:58:51Z",
+                "uri": "http://web.archive.org/web/20051126025851/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-27T01:21:10Z",
+                "uri": "http://web.archive.org/web/20051127012110/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-29T02:52:49Z",
+                "uri": "http://web.archive.org/web/20051129025249/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-11-30T03:47:33Z",
+                "uri": "http://web.archive.org/web/20051130034733/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-05T01:19:33Z",
+                "uri": "http://web.archive.org/web/20051205011933/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-07T04:24:44Z",
+                "uri": "http://web.archive.org/web/20051207042444/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-08T04:23:12Z",
+                "uri": "http://web.archive.org/web/20051208042312/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-10T03:13:19Z",
+                "uri": "http://web.archive.org/web/20051210031319/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-11T07:15:59Z",
+                "uri": "http://web.archive.org/web/20051211071559/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-12T15:41:04Z",
+                "uri": "http://web.archive.org/web/20051212154104/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2005-12-14T03:55:00Z",
+                "uri": "http://web.archive.org/web/20051214035500/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-16T04:29:30Z",
+                "uri": "http://web.archive.org/web/20051216042930/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2005-12-16T04:40:46Z",
+                "uri": "http://web.archive.org/web/20051216044046/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-17T03:14:51Z",
+                "uri": "http://web.archive.org/web/20051217031451/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-17T09:17:27Z",
+                "uri": "http://web.archive.org/web/20051217091727/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-18T15:49:00Z",
+                "uri": "http://web.archive.org/web/20051218154900/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-19T08:19:34Z",
+                "uri": "http://web.archive.org/web/20051219081934/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-19T10:29:51Z",
+                "uri": "http://web.archive.org/web/20051219102951/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-20T15:27:57Z",
+                "uri": "http://web.archive.org/web/20051220152757/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-24T01:43:21Z",
+                "uri": "http://web.archive.org/web/20051224014321/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-24T22:06:39Z",
+                "uri": "http://web.archive.org/web/20051224220639/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-24T23:18:31Z",
+                "uri": "http://web.archive.org/web/20051224231831/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-25T07:14:43Z",
+                "uri": "http://web.archive.org/web/20051225071443/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-26T06:58:44Z",
+                "uri": "http://web.archive.org/web/20051226065844/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-27T19:38:54Z",
+                "uri": "http://web.archive.org/web/20051227193854/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-28T06:01:33Z",
+                "uri": "http://web.archive.org/web/20051228060133/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2005-12-30T13:29:24Z",
+                "uri": "http://web.archive.org/web/20051230132924/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-01-01T02:25:05Z",
+                "uri": "http://web.archive.org/web/20060101022505/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-01-03T09:31:10Z",
+                "uri": "http://web.archive.org/web/20060103093110/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-01-06T06:38:12Z",
+                "uri": "http://web.archive.org/web/20060106063812/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-01-08T04:04:12Z",
+                "uri": "http://web.archive.org/web/20060108040412/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-01-10T05:26:19Z",
+                "uri": "http://web.archive.org/web/20060110052619/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-01-10T13:02:56Z",
+                "uri": "http://web.archive.org/web/20060110130256/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-01-10T20:02:06Z",
+                "uri": "http://web.archive.org/web/20060110200206/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-01-11T04:51:42Z",
+                "uri": "http://web.archive.org/web/20060111045142/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-01-14T07:01:54Z",
+                "uri": "http://web.archive.org/web/20060114070154/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-01-14T09:09:39Z",
+                "uri": "http://web.archive.org/web/20060114090939/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-01-15T05:11:05Z",
+                "uri": "http://web.archive.org/web/20060115051105/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-01-16T06:21:09Z",
+                "uri": "http://web.archive.org/web/20060116062109/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-01-17T03:25:40Z",
+                "uri": "http://web.archive.org/web/20060117032540/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-02-05T05:19:39Z",
+                "uri": "http://web.archive.org/web/20060205051939/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-02-06T03:39:01Z",
+                "uri": "http://web.archive.org/web/20060206033901/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-02-06T08:24:24Z",
+                "uri": "http://web.archive.org/web/20060206082424/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2006-02-18T20:34:50Z",
+                "uri": "http://web.archive.org/web/20060218203450/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2006-02-18T20:34:56Z",
+                "uri": "http://web.archive.org/web/20060218203456/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-04-08T08:49:44Z",
+                "uri": "http://web.archive.org/web/20060408084944/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-04-08T08:49:52Z",
+                "uri": "http://web.archive.org/web/20060408084952/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-04-08T08:51:57Z",
+                "uri": "http://web.archive.org/web/20060408085157/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-04-12T19:39:53Z",
+                "uri": "http://web.archive.org/web/20060412193953/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-04-13T19:52:08Z",
+                "uri": "http://web.archive.org/web/20060413195208/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-04-15T16:57:13Z",
+                "uri": "http://web.archive.org/web/20060415165713/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-04-21T20:19:30Z",
+                "uri": "http://web.archive.org/web/20060421201930/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-04-24T16:48:05Z",
+                "uri": "http://web.archive.org/web/20060424164805/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-04-28T09:35:07Z",
+                "uri": "http://web.archive.org/web/20060428093507/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-05-03T23:45:56Z",
+                "uri": "http://web.archive.org/web/20060503234556/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2006-05-30T21:15:52Z",
+                "uri": "http://web.archive.org/web/20060530211552/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-07-02T09:11:00Z",
+                "uri": "http://web.archive.org/web/20060702091100/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-07-02T09:11:23Z",
+                "uri": "http://web.archive.org/web/20060702091123/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-07-02T09:12:12Z",
+                "uri": "http://web.archive.org/web/20060702091212/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-07-05T04:09:21Z",
+                "uri": "http://web.archive.org/web/20060705040921/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-07-06T09:37:14Z",
+                "uri": "http://web.archive.org/web/20060706093714/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-07-19T07:21:35Z",
+                "uri": "http://web.archive.org/web/20060719072135/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-07-19T10:56:37Z",
+                "uri": "http://web.archive.org/web/20060719105637/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-07-20T05:13:49Z",
+                "uri": "http://web.archive.org/web/20060720051349/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-07-20T05:14:48Z",
+                "uri": "http://web.archive.org/web/20060720051448/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-07-20T05:15:35Z",
+                "uri": "http://web.archive.org/web/20060720051535/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-07-20T08:28:21Z",
+                "uri": "http://web.archive.org/web/20060720082821/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-07-20T08:29:26Z",
+                "uri": "http://web.archive.org/web/20060720082926/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-07-20T08:29:41Z",
+                "uri": "http://web.archive.org/web/20060720082941/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-08-14T01:09:24Z",
+                "uri": "http://web.archive.org/web/20060814010924/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-08-29T10:55:37Z",
+                "uri": "http://web.archive.org/web/20060829105537/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-09-01T19:30:48Z",
+                "uri": "http://web.archive.org/web/20060901193048/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-09-03T05:42:02Z",
+                "uri": "http://web.archive.org/web/20060903054202/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-10-07T09:47:47Z",
+                "uri": "http://web.archive.org/web/20061007094747/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-11-04T08:29:03Z",
+                "uri": "http://web.archive.org/web/20061104082903/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-11-12T11:58:00Z",
+                "uri": "http://web.archive.org/web/20061112115800/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-12-01T14:18:57Z",
+                "uri": "http://web.archive.org/web/20061201141857/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-12-07T22:29:39Z",
+                "uri": "http://web.archive.org/web/20061207222939/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-12-09T03:25:15Z",
+                "uri": "http://web.archive.org/web/20061209032515/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-12-13T21:45:29Z",
+                "uri": "http://web.archive.org/web/20061213214529/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-12-20T17:53:09Z",
+                "uri": "http://web.archive.org/web/20061220175309/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-12-25T12:27:23Z",
+                "uri": "http://web.archive.org/web/20061225122723/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2006-12-27T01:36:11Z",
+                "uri": "http://web.archive.org/web/20061227013611/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-01-01T00:58:28Z",
+                "uri": "http://web.archive.org/web/20070101005828/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-01-04T09:27:42Z",
+                "uri": "http://web.archive.org/web/20070104092742/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-01-04T09:27:42Z",
+                "uri": "http://web.archive.org/web/20070104092742/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2007-01-06T02:37:53Z",
+                "uri": "http://web.archive.org/web/20070106023753/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-01-10T19:57:24Z",
+                "uri": "http://web.archive.org/web/20070110195724/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-01-15T10:01:21Z",
+                "uri": "http://web.archive.org/web/20070115100121/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-01-19T21:58:40Z",
+                "uri": "http://web.archive.org/web/20070119215840/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-01-24T17:44:08Z",
+                "uri": "http://web.archive.org/web/20070124174408/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-02-02T00:56:23Z",
+                "uri": "http://web.archive.org/web/20070202005623/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-02-02T22:22:43Z",
+                "uri": "http://web.archive.org/web/20070202222243/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-02-02T22:22:43Z",
+                "uri": "http://web.archive.org/web/20070202222243/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2007-02-10T02:57:14Z",
+                "uri": "http://web.archive.org/web/20070210025714/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-02-17T13:43:24Z",
+                "uri": "http://web.archive.org/web/20070217134324/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-02-25T16:48:01Z",
+                "uri": "http://web.archive.org/web/20070225164801/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-03-06T01:36:24Z",
+                "uri": "http://web.archive.org/web/20070306013624/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-03-14T01:09:27Z",
+                "uri": "http://web.archive.org/web/20070314010927/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-03-23T00:45:03Z",
+                "uri": "http://web.archive.org/web/20070323004503/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-04-06T18:31:44Z",
+                "uri": "http://web.archive.org/web/20070406183144/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-04-08T00:49:30Z",
+                "uri": "http://web.archive.org/web/20070408004930/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-04-21T08:12:13Z",
+                "uri": "http://web.archive.org/web/20070421081213/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-04-21T08:12:13Z",
+                "uri": "http://web.archive.org/web/20070421081213/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2007-05-06T22:03:59Z",
+                "uri": "http://web.archive.org/web/20070506220359/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2007-06-06T12:34:58Z",
+                "uri": "http://web.archive.org/web/20070606123458/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2011-10-17T13:15:23Z",
+                "uri": "http://web.archive.org/web/20111017131523/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-01-27T01:48:48Z",
+                "uri": "http://web.archive.org/web/20120127014848/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-01-30T10:25:30Z",
+                "uri": "http://web.archive.org/web/20120130102530/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-02-01T20:29:47Z",
+                "uri": "http://web.archive.org/web/20120201202947/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-02-03T14:24:22Z",
+                "uri": "http://web.archive.org/web/20120203142422/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-02-06T14:17:51Z",
+                "uri": "http://web.archive.org/web/20120206141751/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-02-10T19:52:02Z",
+                "uri": "http://web.archive.org/web/20120210195202/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-02-14T02:16:03Z",
+                "uri": "http://web.archive.org/web/20120214021603/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-02-17T14:52:28Z",
+                "uri": "http://web.archive.org/web/20120217145228/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-02-20T10:17:38Z",
+                "uri": "http://web.archive.org/web/20120220101738/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-03-02T10:40:52Z",
+                "uri": "http://web.archive.org/web/20120302104052/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-03-06T01:50:04Z",
+                "uri": "http://web.archive.org/web/20120306015004/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-03-09T08:24:40Z",
+                "uri": "http://web.archive.org/web/20120309082440/http://www.euro-sports.jp/football/"
+            },
+            {
+                "datetime": "2012-03-21T19:59:07Z",
+                "uri": "http://web.archive.org/web/20120321195907/http://www.euro-sports.jp/football/"
+            },
+            {
+                "datetime": "2012-03-24T16:52:54Z",
+                "uri": "http://web.archive.org/web/20120324165254/http://www.euro-sports.jp/football/"
+            },
+            {
+                "datetime": "2012-05-02T12:29:31Z",
+                "uri": "http://web.archive.org/web/20120502122931/http://www.euro-sports.jp/football/"
+            },
+            {
+                "datetime": "2012-05-15T05:26:34Z",
+                "uri": "http://web.archive.org/web/20120515052634/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-05-21T08:38:24Z",
+                "uri": "http://web.archive.org/web/20120521083824/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-05-25T10:52:24Z",
+                "uri": "http://web.archive.org/web/20120525105224/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-05-28T13:11:16Z",
+                "uri": "http://web.archive.org/web/20120528131116/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-06-04T10:35:32Z",
+                "uri": "http://web.archive.org/web/20120604103532/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-06-16T09:16:04Z",
+                "uri": "http://web.archive.org/web/20120616091604/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-06-18T06:20:03Z",
+                "uri": "http://web.archive.org/web/20120618062003/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-06-22T07:42:50Z",
+                "uri": "http://web.archive.org/web/20120622074250/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-06-25T00:00:22Z",
+                "uri": "http://web.archive.org/web/20120625000022/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-06-28T11:41:00Z",
+                "uri": "http://web.archive.org/web/20120628114100/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-06-29T20:06:59Z",
+                "uri": "http://web.archive.org/web/20120629200659/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-06-30T20:55:54Z",
+                "uri": "http://web.archive.org/web/20120630205554/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-07-06T17:32:23Z",
+                "uri": "http://web.archive.org/web/20120706173223/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-07-07T07:05:05Z",
+                "uri": "http://web.archive.org/web/20120707070505/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-07-08T00:02:07Z",
+                "uri": "http://web.archive.org/web/20120708000207/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-07-09T11:37:18Z",
+                "uri": "http://web.archive.org/web/20120709113718/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-07-10T05:03:36Z",
+                "uri": "http://web.archive.org/web/20120710050336/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-07-10T19:18:45Z",
+                "uri": "http://web.archive.org/web/20120710191845/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-07-12T07:46:05Z",
+                "uri": "http://web.archive.org/web/20120712074605/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-07-13T16:53:05Z",
+                "uri": "http://web.archive.org/web/20120713165305/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-07-20T05:46:05Z",
+                "uri": "http://web.archive.org/web/20120720054605/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-07-21T16:58:38Z",
+                "uri": "http://web.archive.org/web/20120721165838/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-07-22T09:58:22Z",
+                "uri": "http://web.archive.org/web/20120722095822/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-07-23T09:13:36Z",
+                "uri": "http://web.archive.org/web/20120723091336/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-07-23T22:05:50Z",
+                "uri": "http://web.archive.org/web/20120723220550/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-07-24T03:25:46Z",
+                "uri": "http://web.archive.org/web/20120724032546/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-07-24T08:38:17Z",
+                "uri": "http://web.archive.org/web/20120724083817/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2012-07-24T11:35:49Z",
+                "uri": "http://web.archive.org/web/20120724113549/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2013-05-02T17:44:27Z",
+                "uri": "http://web.archive.org/web/20130502174427/http://www.euro-sports.jp/football/"
+            },
+            {
+                "datetime": "2013-05-31T03:10:38Z",
+                "uri": "http://web.archive.org/web/20130531031038/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2013-09-23T14:58:03Z",
+                "uri": "http://web.archive.org/web/20130923145803/http://www.euro-sports.jp/football/"
+            },
+            {
+                "datetime": "2014-08-23T01:28:26Z",
+                "uri": "http://web.archive.org/web/20140823012826/http://www.euro-sports.jp/football/"
+            },
+            {
+                "datetime": "2014-08-23T01:48:44Z",
+                "uri": "http://web.archive.org/web/20140823014844/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2015-06-15T16:36:56Z",
+                "uri": "http://web.archive.org/web/20150615163656/http://www.euro-sports.jp/football/"
+            },
+            {
+                "datetime": "2015-06-15T19:50:23Z",
+                "uri": "http://web.archive.org/web/20150615195023/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2016-03-14T05:31:34Z",
+                "uri": "http://web.archive.org/web/20160314053134/http://euro-sports.jp/football"
+            },
+            {
+                "datetime": "2016-03-18T12:36:11Z",
+                "uri": "http://web.archive.org/web/20160318123611/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2016-03-18T12:36:11Z",
+                "uri": "http://web.archive.org/web/20160318123611/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2016-04-15T04:34:34Z",
+                "uri": "http://web.archive.org/web/20160415043434/http://www.euro-sports.jp/football/"
+            },
+            {
+                "datetime": "2016-04-18T23:03:34Z",
+                "uri": "http://web.archive.org/web/20160418230334/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2016-04-18T23:03:34Z",
+                "uri": "http://web.archive.org/web/20160418230334/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2016-05-18T06:19:42Z",
+                "uri": "http://web.archive.org/web/20160518061942/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2016-05-20T07:38:46Z",
+                "uri": "http://web.archive.org/web/20160520073846/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2016-05-20T07:38:46Z",
+                "uri": "http://web.archive.org/web/20160520073846/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2016-06-20T19:13:05Z",
+                "uri": "http://web.archive.org/web/20160620191305/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2016-06-20T19:13:05Z",
+                "uri": "http://web.archive.org/web/20160620191305/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2016-07-14T08:41:00Z",
+                "uri": "http://web.archive.org/web/20160714084100/http://www.euro-sports.jp/football/"
+            },
+            {
+                "datetime": "2016-07-14T20:59:34Z",
+                "uri": "http://web.archive.org/web/20160714205934/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2016-07-19T09:45:33Z",
+                "uri": "http://web.archive.org/web/20160719094533/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2016-07-22T14:58:41Z",
+                "uri": "http://web.archive.org/web/20160722145841/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2016-07-22T14:58:41Z",
+                "uri": "http://web.archive.org/web/20160722145841/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2016-08-22T20:12:11Z",
+                "uri": "http://web.archive.org/web/20160822201211/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2016-08-22T20:12:11Z",
+                "uri": "http://web.archive.org/web/20160822201211/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2016-08-23T22:54:46Z",
+                "uri": "http://web.archive.org/web/20160823225446/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2016-08-23T22:54:46Z",
+                "uri": "http://web.archive.org/web/20160823225446/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2016-09-24T08:32:06Z",
+                "uri": "http://web.archive.org/web/20160924083206/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2016-09-24T08:32:06Z",
+                "uri": "http://web.archive.org/web/20160924083206/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2016-10-25T05:57:42Z",
+                "uri": "http://web.archive.org/web/20161025055742/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2016-10-25T05:57:42Z",
+                "uri": "http://web.archive.org/web/20161025055742/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2016-10-29T12:19:53Z",
+                "uri": "http://web.archive.org/web/20161029121953/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2017-06-05T10:01:45Z",
+                "uri": "http://web.archive.org/web/20170605100145/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2017-06-05T10:01:45Z",
+                "uri": "http://web.archive.org/web/20170605100145/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2017-07-07T18:46:14Z",
+                "uri": "http://web.archive.org/web/20170707184614/http://www.euro-sports.jp:80/football/"
+            },
+            {
+                "datetime": "2017-07-07T18:46:14Z",
+                "uri": "http://web.archive.org/web/20170707184614/http://www.euro-sports.jp:80/football"
+            },
+            {
+                "datetime": "2017-09-10T11:57:49Z",
+                "uri": "http://web.archive.org/web/20170910115749/http://www.euro-sports.jp/football/"
+            },
+            {
+                "datetime": "2017-09-10T14:04:53Z",
+                "uri": "http://web.archive.org/web/20170910140453/http://www.euro-sports.jp/football"
+            },
+            {
+                "datetime": "2018-02-02T02:21:59Z",
+                "uri": "http://web.archive.org/web/20180202022159/https://www.euro-sports.jp/football/"
+            },
+            {
+                "datetime": "2018-02-11T07:19:48Z",
+                "uri": "http://web.archive.org/web/20180211071948/http://www.euro-sports.jp/football/"
+            }
+        ]
+    },
+    "original_uri": "https://www.euro-sports.jp/football/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.euro-sports.jp/football/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.euro-sports.jp/football/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.euro-sports.jp/football/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.euro-sports.jp/football/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.euro-sports.jp/football/"
+    }
+}

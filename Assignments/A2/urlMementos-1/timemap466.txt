@@ -1,0 +1,74 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2014-07-28T12:00:42Z",
+            "uri": "http://web.archive.org/web/20140728120042/http://www.thefootytipster.com:80/daily-football-betting-tips/"
+        },
+        "last": {
+            "datetime": "2017-10-30T21:31:29Z",
+            "uri": "http://web.archive.org/web/20171030213129/https://thefootytipster.com/daily-football-betting-tips/"
+        },
+        "list": [
+            {
+                "datetime": "2014-07-28T12:00:42Z",
+                "uri": "http://web.archive.org/web/20140728120042/http://www.thefootytipster.com:80/daily-football-betting-tips/"
+            },
+            {
+                "datetime": "2014-08-02T21:33:32Z",
+                "uri": "http://web.archive.org/web/20140802213332/http://www.thefootytipster.com:80/daily-football-betting-tips/"
+            },
+            {
+                "datetime": "2014-08-04T11:16:36Z",
+                "uri": "http://web.archive.org/web/20140804111636/http://www.thefootytipster.com:80/daily-football-betting-tips/"
+            },
+            {
+                "datetime": "2014-08-04T11:16:36Z",
+                "uri": "http://web.archive.org/web/20140804111636/http://www.thefootytipster.com:80/daily-football-betting-tips"
+            },
+            {
+                "datetime": "2015-02-21T11:33:59Z",
+                "uri": "http://web.archive.org/web/20150221113359/https://thefootytipster.com/daily-football-betting-tips/"
+            },
+            {
+                "datetime": "2015-03-16T05:53:50Z",
+                "uri": "http://web.archive.org/web/20150316055350/https://thefootytipster.com/daily-football-betting-tips/"
+            },
+            {
+                "datetime": "2015-08-21T00:20:16Z",
+                "uri": "http://web.archive.org/web/20150821002016/https://thefootytipster.com/daily-football-betting-tips/"
+            },
+            {
+                "datetime": "2015-12-18T16:10:24Z",
+                "uri": "http://web.archive.org/web/20151218161024/https://thefootytipster.com/daily-football-betting-tips/"
+            },
+            {
+                "datetime": "2016-08-25T17:16:57Z",
+                "uri": "http://web.archive.org/web/20160825171657/https://thefootytipster.com/daily-football-betting-tips/"
+            },
+            {
+                "datetime": "2016-08-25T17:19:27Z",
+                "uri": "http://web.archive.org/web/20160825171927/https://thefootytipster.com/daily-football-betting-tips"
+            },
+            {
+                "datetime": "2017-07-06T20:54:59Z",
+                "uri": "http://web.archive.org/web/20170706205459/https://thefootytipster.com/daily-football-betting-tips/"
+            },
+            {
+                "datetime": "2017-09-11T13:42:38Z",
+                "uri": "http://web.archive.org/web/20170911134238/https://thefootytipster.com/daily-football-betting-tips/"
+            },
+            {
+                "datetime": "2017-10-30T21:31:29Z",
+                "uri": "http://web.archive.org/web/20171030213129/https://thefootytipster.com/daily-football-betting-tips/"
+            }
+        ]
+    },
+    "original_uri": "https://thefootytipster.com/daily-football-betting-tips/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://thefootytipster.com/daily-football-betting-tips/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://thefootytipster.com/daily-football-betting-tips/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://thefootytipster.com/daily-football-betting-tips/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://thefootytipster.com/daily-football-betting-tips/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://thefootytipster.com/daily-football-betting-tips/"
+    }
+}

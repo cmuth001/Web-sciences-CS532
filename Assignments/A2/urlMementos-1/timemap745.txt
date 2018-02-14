@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-09-13T07:55:30Z",
+            "uri": "http://web.archive.org/web/20170913075530/https://www.etsy.com/listing/511963782/football-clock-in-wood-soccer-clock"
+        },
+        "last": {
+            "datetime": "2017-09-13T07:55:30Z",
+            "uri": "http://web.archive.org/web/20170913075530/https://www.etsy.com/listing/511963782/football-clock-in-wood-soccer-clock"
+        },
+        "list": [
+            {
+                "datetime": "2017-09-13T07:55:30Z",
+                "uri": "http://web.archive.org/web/20170913075530/https://www.etsy.com/listing/511963782/football-clock-in-wood-soccer-clock"
+            }
+        ]
+    },
+    "original_uri": "https://www.etsy.com/listing/511963782/football-clock-in-wood-soccer-clock",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.etsy.com/listing/511963782/football-clock-in-wood-soccer-clock",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.etsy.com/listing/511963782/football-clock-in-wood-soccer-clock",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.etsy.com/listing/511963782/football-clock-in-wood-soccer-clock",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.etsy.com/listing/511963782/football-clock-in-wood-soccer-clock",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.etsy.com/listing/511963782/football-clock-in-wood-soccer-clock"
+    }
+}

@@ -1,0 +1,745 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2018.1.28)  13 FEB 2018 10:06
+entering extended mode
+**./Assignment2.tex
+(Assignment2.tex
+LaTeX2e <2016/03/31> patch level 1
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/06/02 v1.0s Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2016/06/17 v0.06h Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+
+! LaTeX Error: File `listings.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+! LaTeX Error: File `nth.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+! LaTeX Error: Unknown option `super' for package `nth'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \usepackage
+               [hyphens]{url}
+? 
+
+! LaTeX Error: File `url.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+! LaTeX Error: Unknown option `hyphens' for package `url'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \usepackage
+               {hyperref}
+? 
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2016/05/21 v6.83p Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen105
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2016/05/21 v6.83p Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count90
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count91
+\XeTeXLinkMargin=\dimen106
+\Fld@menulength=\count92
+\Field@Width=\dimen107
+\Fld@charsize=\dimen108
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count93
+\c@Item=\count94
+\c@Hfootnote=\count95
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2016/05/21 v6.83p Hyperref driver for pdfTeX
+\Fld@listcount=\count96
+\c@bookmark@seq@number=\count97
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen109
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen110
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count98
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count99
+\leftroot@=\count100
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count101
+\DOTSCASE@=\count102
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count103
+\c@MaxMatrixCols=\count104
+\dotsspace@=\muskip10
+\c@parentequation=\count105
+\dspbrk@lvl=\count106
+\tag@help=\toks16
+\row@=\count107
+\column@=\count108
+\maxfields@=\count109
+\andhelp@=\toks17
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks18
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+
+! LaTeX Error: File `cancel.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+! LaTeX Error: Unknown option `makeroom' for package `cancel'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \usepackage
+               [table]{xcolor}
+? 
+
+! LaTeX Error: File `xcolor.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+
+! LaTeX Error: Unknown option `table' for package `xcolor'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \usepackage
+                {comment}
+? 
+
+! LaTeX Error: File `comment.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grffile.sty"
+Package: grffile 2016/05/16 v1.17 Extended file name support for graphics (HO)
+Package grffile Info: Option `multidot' is set to `true'.
+Package grffile Info: Option `extendedchars' is set to `false'.
+Package grffile Info: Option `space' is set to `true'.
+Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
+)
+! Undefined control sequence.
+l.15 \lstset
+            {
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 	b
+       asicstyle=\footnotesize,
+? 
+(Assignment2.aux)
+\openout1 = `Assignment2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\AtBeginShipoutBox=\box28
+Package hyperref Info: Link coloring OFF on input line 20.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count110
+)
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
+
+(Assignment2.out) (Assignment2.out)
+\@outlinefile=\write3
+\openout3 = `Assignment2.out'.
+
+ [1
+
+{C:/Users/cmuthyal/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]pdfTeX wa
+rning (ext4): destination with the same identifier (name{page.1}) has been alre
+ady used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.38 \end{titlepage}
+                     [1]
+Overfull \hbox (2.16733pt too wide) in paragraph at lines 88--88
+[]\OT1/cmtt/m/n/10.95 1.  Write a Python program that extracts 1000 unique link
+s from[] 
+ []
+
+
+Overfull \hbox (7.91602pt too wide) in paragraph at lines 88--88
+[]\OT1/cmtt/m/n/10.95 But there are many other similar resources available on t
+he web.[] 
+ []
+
+
+Overfull \hbox (7.91602pt too wide) in paragraph at lines 88--88
+[]\OT1/cmtt/m/n/10.95 Note that only Twitter API 1.1 is currently available; ve
+rsion 1[] 
+ []
+
+
+Overfull \hbox (19.41339pt too wide) in paragraph at lines 88--88
+[]\OT1/cmtt/m/n/10.95 Also note that you need to verify that the final target U
+RI (i.e.,[] 
+ []
+
+
+Overfull \hbox (13.6647pt too wide) in paragraph at lines 88--88
+[]\OT1/cmtt/m/n/10.95 the one that responds with a 200) is unique.  You could h
+ave many[] 
+ []
+
+
+Overfull \hbox (2.16733pt too wide) in paragraph at lines 88--88
+[]\OT1/cmtt/m/n/10.95 different shortened URIs for www.cnn.com (t.co, bit.ly, g
+oo.gl,[] 
+ []
+
+
+Overfull \hbox (88.39764pt too wide) in paragraph at lines 88--88
+[]\OT1/cmtt/m/n/10.95 $ curl -IL --silent https://t.co/DpO767Md1v | egrep -i "(
+HTTP/1.1|^location:)"[] 
+ []
+
+
+Overfull \hbox (13.6647pt too wide) in paragraph at lines 88--88
+[]\OT1/cmtt/m/n/10.95 You might want to use the search feature to find URIs, or
+ you can[] 
+ []
+
+
+Overfull \hbox (25.16208pt too wide) in paragraph at lines 88--88
+[]\OT1/cmtt/m/n/10.95 pull them from the feed of someone famous (e.g., Tim O'Re
+illy).  If[] 
+ []
+
+
+Overfull \hbox (13.6647pt too wide) in paragraph at lines 88--88
+[]\OT1/cmtt/m/n/10.95 you find something inappropriate for any reason you see f
+it, just[] 
+ []
+
+
+Overfull \hbox (13.6647pt too wide) in paragraph at lines 88--88
+[]\OT1/cmtt/m/n/10.95 discard it and get some more links.  We just want 1000 li
+nks that[] 
+ []
+
+
+Overfull \hbox (19.41339pt too wide) in paragraph at lines 88--88
+[]\OT1/cmtt/m/n/10.95 Hold on to this collection and upload it to github -- we'
+ll use it[] 
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.93 
+      [1]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 95.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 95.
+
+! Undefined control sequence.
+\Hurl ->\begingroup \Url 
+                         
+l.99 ...t?list=PLYcZodEQpdPcZjZks1IV2V9nMPWNvzoxK}
+                                                  , to filter these streams.
+? 
+
+Overfull \hbox (60.75436pt too wide) in paragraph at lines 99--100
+[]\OT1/cmr/m/n/10.95 https://www.youtube.com/playlist?list=PLYcZodEQpdPcZjZks1I
+V2V9nMPWNvzoxK[],
+ []
+
+
+LaTeX Warning: Reference `lst:q1tweepy' on page 2 undefined on input line 101.
+
+! Undefined control sequence.
+l.103 \lstinputlisting
+                      [frame=single,caption={Python script for twitter strea...
+
+? 
+
+Overfull \hbox (533.35283pt too wide) in paragraph at lines 103--104
+[]\OT1/cmr/m/n/10.95 [frame=single,caption=Python script for twit-ter stream-in
+g,label=lst:q1tweepy,captionpos=b,numbers=left,showspaces=false,showstringspace
+s=false,basicstyle=\OT1/cmr/m/n/9 ]../src/twitterTweepyApi.py 
+ []
+
+
+LaTeX Warning: Reference `lst:q1filter' on page 2 undefined on input line 105.
+
+
+LaTeX Warning: Reference `lst:q1duplicates' on page 2 undefined on input line 1
+05.
+
+! Undefined control sequence.
+l.107 \lstinputlisting
+                      [frame=single,caption={Python script for filtering and...
+
+? 
+
+Overfull \hbox (445.05298pt too wide) in paragraph at lines 107--108
+[]\OT1/cmr/m/n/9 [frame=single,caption=Python script for fil-ter-ing and clean-
+ing data files,label=lst:q1filter,captionpos=b,numbers=left,showspaces=false,sh
+owstringspaces=false,basicstyle=]../src/filterUnwanted.py 
+ []
+
+! Undefined control sequence.
+l.109 \lstinputlisting
+                      [frame=single,caption={Python script for removing dupl...
+
+? 
+
+Overfull \hbox (472.88475pt too wide) in paragraph at lines 109--110
+[]\OT1/cmr/m/n/9 [frame=single,caption=Python script for re-mov-ing du-pli-cate
+s in data files,label=lst:q1duplicates,captionpos=b,numbers=left,showspaces=fal
+se,showstringspaces=false,basicstyle=]../src/filterUnwanted.py 
+ []
+
+[2] [3
+
+]
+! Undefined control sequence.
+\Hurl ->\begingroup \Url 
+                         
+l.153 ...I used  \url{http://memgator.cs.odu.edu/}
+                                                   and wrote \textbf{timeMap...
+
+? 
+
+LaTeX Warning: Reference `lst:q2timemapR' on page 4 undefined on input line 153
+.
+
+! Undefined control sequence.
+l.155 \lstinputlisting
+                      [frame=single,caption={R script for creating Histogram...
+
+? 
+
+Overfull \hbox (415.78336pt too wide) in paragraph at lines 155--156
+[]\OT1/cmr/m/n/9 [frame=single,caption=R script for cre-at-ing His-togram,label
+=lst:q2timemapR,captionpos=b,numbers=left,showspaces=false,showstringspaces=fal
+se,basicstyle=]../src/timeMapMementos.R 
+ []
+
+
+LaTeX Warning: File `timemapHistogram.pdf' not found on input line 159.
+
+
+! Package pdftex.def Error: File `timemapHistogram.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 ...graphics[scale=0.6]{timemapHistogram.pdf}
+                                                  
+? 
+[4
+
+]
+Overfull \hbox (8.54572pt too wide) in paragraph at lines 200--200
+[]\OT1/cmtt/m/n/9 http://ws-dl.blogspot.com/2016/09/2016-09-20-carbon-dating-we
+b-version-30.html[] 
+ []
+
+[5
+
+]
+
+LaTeX Warning: Reference `lst:q2carbondatepy' on page 6 undefined on input line
+ 205.
+
+! Undefined control sequence.
+l.207 \lstinputlisting
+                      [frame=single,caption={Python script for retrieving es...
+
+? 
+
+Overfull \hbox (480.43188pt too wide) in paragraph at lines 207--208
+[]\OT1/cmr/m/n/9 [frame=single,caption=Python script for re-triev-ing es-ti-mat
+ed cre-ation date,label=lst:q2carbondatepy,captionpos=b,numbers=left,showspaces
+=false,showstringspaces=false,basicstyle=]../src/carbonDate.py 
+ []
+
+
+LaTeX Warning: Reference `lst:q3mergepy' on page 6 undefined on input line 209.
+
+
+
+LaTeX Warning: Reference `lst:q2carbonDateR' on page 6 undefined on input line 
+209.
+
+
+Overfull \hbox (9.03267pt too wide) in paragraph at lines 209--210
+[]\OT1/cmr/m/n/9 Once I re-trieved all of the dates I merged both the \OT1/cmr/
+bx/n/9 car-bon-Date.csv \OT1/cmr/m/n/9 and \OT1/cmr/bx/n/9 timeMaps.csv
+ []
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 213.
+! Undefined control sequence.
+l.220 \lstinputlisting
+                      [frame=single,caption={Python script to merge CSVs and...
+
+? 
+
+Overfull \hbox (449.74179pt too wide) in paragraph at lines 220--221
+[]\OT1/cmr/m/n/9 [frame=single,caption=Python script to merge CSVs and de-ter-m
+ine date,label=lst:q3mergepy,captionpos=b,numbers=left,showspaces=false,showstr
+ingspaces=false,basicstyle=]../src/mergeCSVs.py 
+ []
+
+[6
+
+]
+! Undefined control sequence.
+l.224 \lstinputlisting
+                      [frame=single,caption={R Script to find create scatter...
+
+? 
+
+Overfull \hbox (532.75613pt too wide) in paragraph at lines 224--225
+[]\OT1/cmr/m/n/9 [frame=single,caption=R Script to find cre-ate scat-ter-plot a
+nd de-ter-mine val-ues,label=lst:q2carbonDateR,captionpos=b,numbers=left,showsp
+aces=false,showstringspaces=false,basicstyle=]../src/carbonDateMementos.R 
+ []
+
+
+LaTeX Warning: File `carbonDateScatterplot.pdf' not found on input line 228.
+
+
+! Package pdftex.def Error: File `carbonDateScatterplot.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.228 ...ics[scale=0.6]{carbonDateScatterplot.pdf}
+                                                  
+? 
+[7
+
+]
+
+LaTeX Warning: File `carbonDateScatterplot2.pdf' not found on input line 237.
+
+
+! Package pdftex.def Error: File `carbonDateScatterplot2.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.237 ...cs[scale=0.6]{carbonDateScatterplot2.pdf}
+                                                  
+? 
+[8
+
+]
+! Undefined control sequence.
+\Hurl ->\begingroup \Url 
+                         
+l.250 .../assignments/A2/src/output/finalURIs.txt}
+                                                  
+? 
+! Undefined control sequence.
+\Hurl ->\begingroup \Url 
+                         
+l.252 ...hid.com/posts/2014/07/twitter-analytics/}
+                                                  
+? 
+! Undefined control sequence.
+\Hurl ->\begingroup \Url 
+                         
+l.254 ...-09-20-carbon-dating-web-version-30.html}
+                                                  
+? 
+
+! LaTeX Error: \begin{thebibliography} on input line 248 ended by \end{document
+}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.257 \end{document}
+                    
+? 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 257.
+[9
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 257.
+ (Assignment2.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 257.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 257.
+Package rerunfilecheck Info: File `Assignment2.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 257.
+ )
+(\end occurred inside a group at level 5)
+
+### semi simple group (level 5) entered at line 252 (\begingroup)
+### semi simple group (level 4) entered at line 250 (\begingroup)
+### semi simple group (level 3) entered at line 248 (\begingroup)
+### semi simple group (level 2) entered at line 153 (\begingroup)
+### semi simple group (level 1) entered at line 99 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 5444 strings out of 493335
+ 79518 string characters out of 3139251
+ 169356 words of memory out of 3000000
+ 8909 multiletter control sequences out of 15000+200000
+ 10067 words of font info for 37 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 29i,5n,25p,1138b,655s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
+x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+sy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on Assignment2.pdf (11 pages, 195696 bytes).
+PDF statistics:
+ 137 PDF objects out of 1000 (max. 8388607)
+ 26 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

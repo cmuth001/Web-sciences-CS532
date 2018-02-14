@@ -1,0 +1,102 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-05T04:28:44Z",
+            "uri": "http://web.archive.org/web/20180205042844/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+        },
+        "last": {
+            "datetime": "2018-02-13T00:09:09Z",
+            "uri": "http://web.archive.org/web/20180213000909/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-05T04:28:44Z",
+                "uri": "http://web.archive.org/web/20180205042844/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+            },
+            {
+                "datetime": "2018-02-05T08:01:08Z",
+                "uri": "http://web.archive.org/web/20180205080108/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+            },
+            {
+                "datetime": "2018-02-05T15:04:46Z",
+                "uri": "http://web.archive.org/web/20180205150446/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+            },
+            {
+                "datetime": "2018-02-06T01:41:39Z",
+                "uri": "http://web.archive.org/web/20180206014139/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles"
+            },
+            {
+                "datetime": "2018-02-06T18:04:16Z",
+                "uri": "http://web.archive.org/web/20180206180416/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+            },
+            {
+                "datetime": "2018-02-07T16:05:55Z",
+                "uri": "http://web.archive.org/web/20180207160555/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+            },
+            {
+                "datetime": "2018-02-08T11:33:51Z",
+                "uri": "http://web.archive.org/web/20180208113351/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles"
+            },
+            {
+                "datetime": "2018-02-08T19:23:49Z",
+                "uri": "http://web.archive.org/web/20180208192349/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+            },
+            {
+                "datetime": "2018-02-08T22:46:21Z",
+                "uri": "http://web.archive.org/web/20180208224621/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+            },
+            {
+                "datetime": "2018-02-09T04:43:37Z",
+                "uri": "http://web.archive.org/web/20180209044337/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+            },
+            {
+                "datetime": "2018-02-09T16:02:49Z",
+                "uri": "http://web.archive.org/web/20180209160249/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles"
+            },
+            {
+                "datetime": "2018-02-09T19:54:16Z",
+                "uri": "http://web.archive.org/web/20180209195416/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+            },
+            {
+                "datetime": "2018-02-09T23:44:36Z",
+                "uri": "http://web.archive.org/web/20180209234436/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+            },
+            {
+                "datetime": "2018-02-10T14:34:52Z",
+                "uri": "http://web.archive.org/web/20180210143452/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+            },
+            {
+                "datetime": "2018-02-10T15:46:49Z",
+                "uri": "http://web.archive.org/web/20180210154649/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles"
+            },
+            {
+                "datetime": "2018-02-10T20:35:03Z",
+                "uri": "http://web.archive.org/web/20180210203503/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+            },
+            {
+                "datetime": "2018-02-11T01:09:24Z",
+                "uri": "http://web.archive.org/web/20180211010924/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+            },
+            {
+                "datetime": "2018-02-13T00:09:08Z",
+                "uri": "http://web.archive.org/web/20180213000908/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+            },
+            {
+                "datetime": "2018-02-13T00:09:08Z",
+                "uri": "http://web.archive.org/web/20180213000908/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles"
+            },
+            {
+                "datetime": "2018-02-13T00:09:09Z",
+                "uri": "http://web.archive.org/web/20180213000909/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+            }
+        ]
+    },
+    "original_uri": "http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.telegraph.co.uk/american-football/2018/02/04/super-bowl-2018-live-new-england-patriots-vs-philadelphia-eagles/"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2014-10-06T03:26:59Z",
+            "uri": "http://web.archive.org/web/20141006032659/http://www.dailymail.co.uk:80/video/football/video-1125022/Roberto-Martinez-I-didnt-think-referee-fair.html"
+        },
+        "last": {
+            "datetime": "2014-12-23T02:46:17Z",
+            "uri": "http://web.archive.org/web/20141223024617/http://www.dailymail.co.uk:80/video/football/video-1125022/Roberto-Martinez-I-didnt-think-referee-fair.html"
+        },
+        "list": [
+            {
+                "datetime": "2014-10-06T03:26:59Z",
+                "uri": "http://web.archive.org/web/20141006032659/http://www.dailymail.co.uk:80/video/football/video-1125022/Roberto-Martinez-I-didnt-think-referee-fair.html"
+            },
+            {
+                "datetime": "2014-10-09T13:04:12Z",
+                "uri": "http://web.archive.org/web/20141009130412/http://www.dailymail.co.uk/video/football/video-1125022/Roberto-Martinez-I-didnt-think-referee-fair.html"
+            },
+            {
+                "datetime": "2014-10-19T23:59:20Z",
+                "uri": "http://web.archive.org/web/20141019235920/http://www.dailymail.co.uk:80/video/football/video-1125022/Roberto-Martinez-I-didnt-think-referee-fair.html"
+            },
+            {
+                "datetime": "2014-12-23T02:46:17Z",
+                "uri": "http://web.archive.org/web/20141223024617/http://www.dailymail.co.uk:80/video/football/video-1125022/Roberto-Martinez-I-didnt-think-referee-fair.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.dailymail.co.uk/video/football/video-1125022/Roberto-Martinez-I-didnt-think-referee-fair.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.dailymail.co.uk/video/football/video-1125022/Roberto-Martinez-I-didnt-think-referee-fair.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.dailymail.co.uk/video/football/video-1125022/Roberto-Martinez-I-didnt-think-referee-fair.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.dailymail.co.uk/video/football/video-1125022/Roberto-Martinez-I-didnt-think-referee-fair.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.dailymail.co.uk/video/football/video-1125022/Roberto-Martinez-I-didnt-think-referee-fair.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.dailymail.co.uk/video/football/video-1125022/Roberto-Martinez-I-didnt-think-referee-fair.html"
+    }
+}

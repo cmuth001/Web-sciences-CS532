@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-12T06:37:54Z",
+            "uri": "http://web.archive.org/web/20180212063754/https://www.walesonline.co.uk/sport/football/football-news/tottenham-hotspur-vs-newport-county-14259204"
+        },
+        "last": {
+            "datetime": "2018-02-12T06:37:54Z",
+            "uri": "http://web.archive.org/web/20180212063754/https://www.walesonline.co.uk/sport/football/football-news/tottenham-hotspur-vs-newport-county-14259204"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-12T06:37:54Z",
+                "uri": "http://web.archive.org/web/20180212063754/https://www.walesonline.co.uk/sport/football/football-news/tottenham-hotspur-vs-newport-county-14259204"
+            }
+        ]
+    },
+    "original_uri": "https://www.walesonline.co.uk/sport/football/football-news/tottenham-hotspur-vs-newport-county-14259204",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.walesonline.co.uk/sport/football/football-news/tottenham-hotspur-vs-newport-county-14259204",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.walesonline.co.uk/sport/football/football-news/tottenham-hotspur-vs-newport-county-14259204",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.walesonline.co.uk/sport/football/football-news/tottenham-hotspur-vs-newport-county-14259204",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.walesonline.co.uk/sport/football/football-news/tottenham-hotspur-vs-newport-county-14259204",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.walesonline.co.uk/sport/football/football-news/tottenham-hotspur-vs-newport-county-14259204"
+    }
+}

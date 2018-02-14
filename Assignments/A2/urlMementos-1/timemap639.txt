@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T03:11:22Z",
+            "uri": "http://web.archive.org/web/20180208031122/https://www.nauathletics.com/news/2018/2/6/nau-football-announces-2018-signing-class.aspx"
+        },
+        "last": {
+            "datetime": "2018-02-08T03:11:22Z",
+            "uri": "http://web.archive.org/web/20180208031122/https://www.nauathletics.com/news/2018/2/6/nau-football-announces-2018-signing-class.aspx"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T03:11:22Z",
+                "uri": "http://web.archive.org/web/20180208031122/https://www.nauathletics.com/news/2018/2/6/nau-football-announces-2018-signing-class.aspx"
+            }
+        ]
+    },
+    "original_uri": "http://nauathletics.com/news/2018/2/6/nau-football-announces-2018-signing-class.aspx",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://nauathletics.com/news/2018/2/6/nau-football-announces-2018-signing-class.aspx",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://nauathletics.com/news/2018/2/6/nau-football-announces-2018-signing-class.aspx",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://nauathletics.com/news/2018/2/6/nau-football-announces-2018-signing-class.aspx",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://nauathletics.com/news/2018/2/6/nau-football-announces-2018-signing-class.aspx",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://nauathletics.com/news/2018/2/6/nau-football-announces-2018-signing-class.aspx"
+    }
+}

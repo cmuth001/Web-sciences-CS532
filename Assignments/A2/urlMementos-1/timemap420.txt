@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-11-19T00:50:30Z",
+            "uri": "http://web.archive.org/web/20171119005030/http://soccermovies.info/?p=1440&utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost"
+        },
+        "last": {
+            "datetime": "2017-11-19T00:50:30Z",
+            "uri": "http://web.archive.org/web/20171119005030/http://soccermovies.info/?p=1440&utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost"
+        },
+        "list": [
+            {
+                "datetime": "2017-11-19T00:50:30Z",
+                "uri": "http://web.archive.org/web/20171119005030/http://soccermovies.info/?p=1440&utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost"
+            }
+        ]
+    },
+    "original_uri": "http://soccermovies.info/?p=1440&utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://soccermovies.info/?p=1440&utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://soccermovies.info/?p=1440&utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://soccermovies.info/?p=1440&utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://soccermovies.info/?p=1440&utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://soccermovies.info/?p=1440&utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost"
+    }
+}

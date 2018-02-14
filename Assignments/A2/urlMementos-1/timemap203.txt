@@ -1,0 +1,1290 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2008-03-19T11:08:10Z",
+            "uri": "http://web.archive.org/web/20080319110810/http://www.rochdaleonline.co.uk:80/news-features"
+        },
+        "last": {
+            "datetime": "2018-01-02T19:34:37Z",
+            "uri": "http://web.archive.org/web/20180102193437/http://www.rochdaleonline.co.uk/news-features/"
+        },
+        "list": [
+            {
+                "datetime": "2008-03-19T11:08:10Z",
+                "uri": "http://web.archive.org/web/20080319110810/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-03-19T11:08:10Z",
+                "uri": "http://web.archive.org/web/20080319110810/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-03-21T03:14:36Z",
+                "uri": "http://web.archive.org/web/20080321031436/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-03-23T04:49:42Z",
+                "uri": "http://web.archive.org/web/20080323044942/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-04-03T10:22:24Z",
+                "uri": "http://web.archive.org/web/20080403102224/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-04-14T19:19:36Z",
+                "uri": "http://web.archive.org/web/20080414191936/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-04-16T07:44:56Z",
+                "uri": "http://web.archive.org/web/20080416074456/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-04-18T09:51:55Z",
+                "uri": "http://web.archive.org/web/20080418095155/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-05-04T01:23:04Z",
+                "uri": "http://web.archive.org/web/20080504012304/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-05-15T14:48:08Z",
+                "uri": "http://web.archive.org/web/20080515144808/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-05-18T15:26:23Z",
+                "uri": "http://web.archive.org/web/20080518152623/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-05-18T15:26:23Z",
+                "uri": "http://web.archive.org/web/20080518152623/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-05-18T16:14:22Z",
+                "uri": "http://web.archive.org/web/20080518161422/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-06-03T08:16:10Z",
+                "uri": "http://web.archive.org/web/20080603081610/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-06-14T23:44:17Z",
+                "uri": "http://web.archive.org/web/20080614234417/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-06-17T23:07:40Z",
+                "uri": "http://web.archive.org/web/20080617230740/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-06-19T02:54:30Z",
+                "uri": "http://web.archive.org/web/20080619025430/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-07-01T06:28:26Z",
+                "uri": "http://web.archive.org/web/20080701062826/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-07-01T06:28:26Z",
+                "uri": "http://web.archive.org/web/20080701062826/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-07-02T09:03:11Z",
+                "uri": "http://web.archive.org/web/20080702090311/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-07-02T09:03:11Z",
+                "uri": "http://web.archive.org/web/20080702090311/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-07-03T12:01:51Z",
+                "uri": "http://web.archive.org/web/20080703120151/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-07-03T12:01:51Z",
+                "uri": "http://web.archive.org/web/20080703120151/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-07-04T16:03:25Z",
+                "uri": "http://web.archive.org/web/20080704160325/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-07-04T16:03:25Z",
+                "uri": "http://web.archive.org/web/20080704160325/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-07-05T17:47:34Z",
+                "uri": "http://web.archive.org/web/20080705174734/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-07-05T17:47:34Z",
+                "uri": "http://web.archive.org/web/20080705174734/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-07-06T18:14:54Z",
+                "uri": "http://web.archive.org/web/20080706181454/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-07-06T18:14:54Z",
+                "uri": "http://web.archive.org/web/20080706181454/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-07-07T19:03:49Z",
+                "uri": "http://web.archive.org/web/20080707190349/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-07-07T19:03:49Z",
+                "uri": "http://web.archive.org/web/20080707190349/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-07-09T03:22:46Z",
+                "uri": "http://web.archive.org/web/20080709032246/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-07-09T03:22:46Z",
+                "uri": "http://web.archive.org/web/20080709032246/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-07-10T09:27:05Z",
+                "uri": "http://web.archive.org/web/20080710092705/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-07-10T09:27:05Z",
+                "uri": "http://web.archive.org/web/20080710092705/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-07-11T15:12:49Z",
+                "uri": "http://web.archive.org/web/20080711151249/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-07-11T15:12:49Z",
+                "uri": "http://web.archive.org/web/20080711151249/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-07-13T12:20:58Z",
+                "uri": "http://web.archive.org/web/20080713122058/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-07-13T12:20:58Z",
+                "uri": "http://web.archive.org/web/20080713122058/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-08-02T12:57:02Z",
+                "uri": "http://web.archive.org/web/20080802125702/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-08-02T12:57:02Z",
+                "uri": "http://web.archive.org/web/20080802125702/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-08-09T12:13:07Z",
+                "uri": "http://web.archive.org/web/20080809121307/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-08-20T01:32:59Z",
+                "uri": "http://web.archive.org/web/20080820013259/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-08-20T01:32:59Z",
+                "uri": "http://web.archive.org/web/20080820013259/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-08-30T09:24:20Z",
+                "uri": "http://web.archive.org/web/20080830092420/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-08-30T09:24:20Z",
+                "uri": "http://web.archive.org/web/20080830092420/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-09-03T08:47:48Z",
+                "uri": "http://web.archive.org/web/20080903084748/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-09-03T08:47:48Z",
+                "uri": "http://web.archive.org/web/20080903084748/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-09-06T21:28:59Z",
+                "uri": "http://web.archive.org/web/20080906212859/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-09-06T21:28:59Z",
+                "uri": "http://web.archive.org/web/20080906212859/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-09-08T17:22:08Z",
+                "uri": "http://web.archive.org/web/20080908172208/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-09-08T17:22:08Z",
+                "uri": "http://web.archive.org/web/20080908172208/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-09-09T18:17:11Z",
+                "uri": "http://web.archive.org/web/20080909181711/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-09-09T18:17:11Z",
+                "uri": "http://web.archive.org/web/20080909181711/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-09-11T18:13:48Z",
+                "uri": "http://web.archive.org/web/20080911181348/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-09-11T18:13:48Z",
+                "uri": "http://web.archive.org/web/20080911181348/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-09-13T05:29:25Z",
+                "uri": "http://web.archive.org/web/20080913052925/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2008-09-13T05:29:25Z",
+                "uri": "http://web.archive.org/web/20080913052925/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-09-15T03:33:44Z",
+                "uri": "http://web.archive.org/web/20080915033344/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2008-09-22T00:44:58Z",
+                "uri": "http://web.archive.org/web/20080922004458/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-10-02T03:48:45Z",
+                "uri": "http://web.archive.org/web/20081002034845/http://www.rochdaleonline.co.uk:80/news-features/?"
+            },
+            {
+                "datetime": "2008-10-08T19:37:53Z",
+                "uri": "http://web.archive.org/web/20081008193753/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-10-11T01:30:00Z",
+                "uri": "http://web.archive.org/web/20081011013000/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2008-10-21T09:47:13Z",
+                "uri": "http://web.archive.org/web/20081021094713/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-11-01T19:37:43Z",
+                "uri": "http://web.archive.org/web/20081101193743/http://www.rochdaleonline.co.uk:80/news-features/?"
+            },
+            {
+                "datetime": "2008-11-01T19:37:43Z",
+                "uri": "http://web.archive.org/web/20081101193743/http://www.rochdaleonline.co.uk:80/news-features/?"
+            },
+            {
+                "datetime": "2008-11-04T00:42:09Z",
+                "uri": "http://web.archive.org/web/20081104004209/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-11-04T00:42:09Z",
+                "uri": "http://web.archive.org/web/20081104004209/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-12-02T01:11:36Z",
+                "uri": "http://web.archive.org/web/20081202011136/http://www.rochdaleonline.co.uk:80/news-features/?"
+            },
+            {
+                "datetime": "2008-12-08T05:33:15Z",
+                "uri": "http://web.archive.org/web/20081208053315/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-12-15T00:57:07Z",
+                "uri": "http://web.archive.org/web/20081215005707/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-12-20T07:54:32Z",
+                "uri": "http://web.archive.org/web/20081220075432/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2008-12-20T17:54:22Z",
+                "uri": "http://web.archive.org/web/20081220175422/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2009-01-22T02:29:10Z",
+                "uri": "http://web.archive.org/web/20090122022910/http://rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2009-01-22T02:29:10Z",
+                "uri": "http://web.archive.org/web/20090122022910/http://rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2009-01-31T11:57:53Z",
+                "uri": "http://web.archive.org/web/20090131115753/http://rochdaleonline.co.uk:80/news-features/?"
+            },
+            {
+                "datetime": "2009-02-08T09:12:58Z",
+                "uri": "http://web.archive.org/web/20090208091258/http://rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2009-02-08T09:12:58Z",
+                "uri": "http://web.archive.org/web/20090208091258/http://rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2009-02-20T13:53:51Z",
+                "uri": "http://web.archive.org/web/20090220135351/http://rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2009-02-20T13:53:51Z",
+                "uri": "http://web.archive.org/web/20090220135351/http://rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2009-02-28T11:00:34Z",
+                "uri": "http://web.archive.org/web/20090228110034/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2009-03-03T13:41:13Z",
+                "uri": "http://web.archive.org/web/20090303134113/http://www.rochdaleonline.co.uk:80/news-features/?"
+            },
+            {
+                "datetime": "2009-03-06T08:23:13Z",
+                "uri": "http://web.archive.org/web/20090306082313/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2009-03-06T08:23:13Z",
+                "uri": "http://web.archive.org/web/20090306082313/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2010-02-10T06:17:21Z",
+                "uri": "http://web.archive.org/web/20100210061721/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2010-02-10T06:17:21Z",
+                "uri": "http://web.archive.org/web/20100210061721/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2010-03-02T16:41:06Z",
+                "uri": "http://web.archive.org/web/20100302164106/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2010-03-02T16:41:06Z",
+                "uri": "http://web.archive.org/web/20100302164106/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2010-05-23T06:31:29Z",
+                "uri": "http://web.archive.org/web/20100523063129/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2010-08-02T05:30:53Z",
+                "uri": "http://web.archive.org/web/20100802053053/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2010-09-21T10:37:19Z",
+                "uri": "http://web.archive.org/web/20100921103719/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2010-09-28T19:56:28Z",
+                "uri": "http://web.archive.org/web/20100928195628/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2010-10-03T10:55:28Z",
+                "uri": "http://web.archive.org/web/20101003105528/http://www.rochdaleonline.co.uk:80/news-features/?"
+            },
+            {
+                "datetime": "2010-11-21T10:50:23Z",
+                "uri": "http://web.archive.org/web/20101121105023/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2010-11-29T14:42:39Z",
+                "uri": "http://web.archive.org/web/20101129144239/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2010-12-24T16:07:59Z",
+                "uri": "http://web.archive.org/web/20101224160759/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2011-01-21T14:21:00Z",
+                "uri": "http://web.archive.org/web/20110121142100/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2011-03-23T07:04:18Z",
+                "uri": "http://web.archive.org/web/20110323070418/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2011-05-26T23:30:56Z",
+                "uri": "http://web.archive.org/web/20110526233056/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2011-08-24T01:11:32Z",
+                "uri": "http://web.archive.org/web/20110824011132/http://rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2011-08-24T01:11:32Z",
+                "uri": "http://web.archive.org/web/20110824011132/http://rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2011-09-23T19:24:14Z",
+                "uri": "http://web.archive.org/web/20110923192414/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2011-09-23T19:24:14Z",
+                "uri": "http://web.archive.org/web/20110923192414/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2011-10-07T18:30:58Z",
+                "uri": "http://web.archive.org/web/20111007183058/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2011-10-07T21:13:20Z",
+                "uri": "http://web.archive.org/web/20111007211320/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2011-10-16T02:47:38Z",
+                "uri": "http://web.archive.org/web/20111016024738/http://rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2011-10-16T02:47:38Z",
+                "uri": "http://web.archive.org/web/20111016024738/http://rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2011-11-07T03:18:37Z",
+                "uri": "http://web.archive.org/web/20111107031837/http://rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2011-11-07T03:18:37Z",
+                "uri": "http://web.archive.org/web/20111107031837/http://rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2011-11-24T12:36:38Z",
+                "uri": "http://web.archive.org/web/20111124123638/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2011-11-30T10:41:36Z",
+                "uri": "http://web.archive.org/web/20111130104136/http://rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2011-11-30T10:41:36Z",
+                "uri": "http://web.archive.org/web/20111130104136/http://rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2011-12-17T07:09:01Z",
+                "uri": "http://web.archive.org/web/20111217070901/http://rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2011-12-17T07:09:01Z",
+                "uri": "http://web.archive.org/web/20111217070901/http://rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2012-02-04T00:22:03Z",
+                "uri": "http://web.archive.org/web/20120204002203/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-02-08T17:02:14Z",
+                "uri": "http://web.archive.org/web/20120208170214/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-02-15T18:13:00Z",
+                "uri": "http://web.archive.org/web/20120215181300/http://rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2012-02-15T18:13:00Z",
+                "uri": "http://web.archive.org/web/20120215181300/http://rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2012-03-03T12:36:04Z",
+                "uri": "http://web.archive.org/web/20120303123604/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-03-06T23:23:13Z",
+                "uri": "http://web.archive.org/web/20120306232313/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-03-07T21:53:39Z",
+                "uri": "http://web.archive.org/web/20120307215339/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-03-13T23:16:41Z",
+                "uri": "http://web.archive.org/web/20120313231641/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-04-14T15:44:16Z",
+                "uri": "http://web.archive.org/web/20120414154416/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2012-04-14T15:44:16Z",
+                "uri": "http://web.archive.org/web/20120414154416/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2012-05-01T04:45:06Z",
+                "uri": "http://web.archive.org/web/20120501044506/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-05-13T22:17:50Z",
+                "uri": "http://web.archive.org/web/20120513221750/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2012-05-13T22:17:50Z",
+                "uri": "http://web.archive.org/web/20120513221750/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2012-05-17T04:03:03Z",
+                "uri": "http://web.archive.org/web/20120517040303/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2012-05-17T04:03:03Z",
+                "uri": "http://web.archive.org/web/20120517040303/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2012-06-24T02:27:26Z",
+                "uri": "http://web.archive.org/web/20120624022726/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2012-06-24T02:27:26Z",
+                "uri": "http://web.archive.org/web/20120624022726/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2012-08-05T04:35:09Z",
+                "uri": "http://web.archive.org/web/20120805043509/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2012-08-05T04:35:09Z",
+                "uri": "http://web.archive.org/web/20120805043509/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2012-09-05T07:34:47Z",
+                "uri": "http://web.archive.org/web/20120905073447/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2012-09-05T07:34:47Z",
+                "uri": "http://web.archive.org/web/20120905073447/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2012-09-11T11:13:01Z",
+                "uri": "http://web.archive.org/web/20120911111301/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2012-09-20T09:25:32Z",
+                "uri": "http://web.archive.org/web/20120920092532/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-09-21T23:53:11Z",
+                "uri": "http://web.archive.org/web/20120921235311/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2012-09-22T02:38:58Z",
+                "uri": "http://web.archive.org/web/20120922023858/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-09-22T18:15:26Z",
+                "uri": "http://web.archive.org/web/20120922181526/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-09-30T09:46:40Z",
+                "uri": "http://web.archive.org/web/20120930094640/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-09-30T16:44:45Z",
+                "uri": "http://web.archive.org/web/20120930164445/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-10-02T17:16:20Z",
+                "uri": "http://web.archive.org/web/20121002171620/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-10-03T01:43:10Z",
+                "uri": "http://web.archive.org/web/20121003014310/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-11-03T19:50:01Z",
+                "uri": "http://web.archive.org/web/20121103195001/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2012-11-03T19:50:01Z",
+                "uri": "http://web.archive.org/web/20121103195001/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2012-11-27T13:58:11Z",
+                "uri": "http://web.archive.org/web/20121127135811/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2012-11-27T13:58:11Z",
+                "uri": "http://web.archive.org/web/20121127135811/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2012-12-02T19:01:05Z",
+                "uri": "http://web.archive.org/web/20121202190105/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-12-03T08:51:00Z",
+                "uri": "http://web.archive.org/web/20121203085100/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-12-03T17:13:56Z",
+                "uri": "http://web.archive.org/web/20121203171356/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-12-03T18:46:39Z",
+                "uri": "http://web.archive.org/web/20121203184639/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2012-12-26T19:32:21Z",
+                "uri": "http://web.archive.org/web/20121226193221/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2012-12-26T19:32:21Z",
+                "uri": "http://web.archive.org/web/20121226193221/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2012-12-27T22:34:29Z",
+                "uri": "http://web.archive.org/web/20121227223429/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2012-12-27T22:34:29Z",
+                "uri": "http://web.archive.org/web/20121227223429/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2013-01-11T15:59:00Z",
+                "uri": "http://web.archive.org/web/20130111155900/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2013-01-11T15:59:00Z",
+                "uri": "http://web.archive.org/web/20130111155900/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2013-01-14T09:23:52Z",
+                "uri": "http://web.archive.org/web/20130114092352/http://rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2013-01-14T23:14:44Z",
+                "uri": "http://web.archive.org/web/20130114231444/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2013-01-15T07:08:13Z",
+                "uri": "http://web.archive.org/web/20130115070813/http://rochdaleonline.co.uk/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2013-02-25T06:29:35Z",
+                "uri": "http://web.archive.org/web/20130225062935/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2013-04-23T17:59:00Z",
+                "uri": "http://web.archive.org/web/20130423175900/http://rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2013-04-24T23:26:18Z",
+                "uri": "http://web.archive.org/web/20130424232618/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2013-04-25T11:54:32Z",
+                "uri": "http://web.archive.org/web/20130425115432/http://rochdaleonline.co.uk/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2013-05-02T01:06:12Z",
+                "uri": "http://web.archive.org/web/20130502010612/http://rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2013-05-22T22:34:22Z",
+                "uri": "http://web.archive.org/web/20130522223422/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2013-07-22T13:34:55Z",
+                "uri": "http://web.archive.org/web/20130722133455/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2013-07-24T10:26:51Z",
+                "uri": "http://web.archive.org/web/20130724102651/http://rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2013-08-05T09:42:16Z",
+                "uri": "http://web.archive.org/web/20130805094216/http://rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2013-08-07T08:44:52Z",
+                "uri": "http://web.archive.org/web/20130807084452/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2013-08-08T02:49:35Z",
+                "uri": "http://web.archive.org/web/20130808024935/http://rochdaleonline.co.uk/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2013-09-21T15:08:52Z",
+                "uri": "http://web.archive.org/web/20130921150852/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2013-09-28T17:45:48Z",
+                "uri": "http://web.archive.org/web/20130928174548/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2013-09-28T17:49:15Z",
+                "uri": "http://web.archive.org/web/20130928174915/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2013-09-30T23:39:44Z",
+                "uri": "http://web.archive.org/web/20130930233944/http://www.rochdaleonline.co.uk/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2013-10-24T16:47:45Z",
+                "uri": "http://web.archive.org/web/20131024164745/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2013-11-01T21:08:46Z",
+                "uri": "http://web.archive.org/web/20131101210846/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2013-11-21T05:54:11Z",
+                "uri": "http://web.archive.org/web/20131121055411/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2013-11-22T08:34:17Z",
+                "uri": "http://web.archive.org/web/20131122083417/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2013-12-11T16:17:44Z",
+                "uri": "http://web.archive.org/web/20131211161744/http://rochdaleonline.co.uk/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2014-01-22T20:54:03Z",
+                "uri": "http://web.archive.org/web/20140122205403/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2014-01-23T21:01:44Z",
+                "uri": "http://web.archive.org/web/20140123210144/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2014-02-10T07:42:44Z",
+                "uri": "http://web.archive.org/web/20140210074244/http://rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2014-02-14T06:55:44Z",
+                "uri": "http://web.archive.org/web/20140214065544/http://rochdaleonline.co.uk/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2014-03-25T08:05:51Z",
+                "uri": "http://web.archive.org/web/20140325080551/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2014-03-25T13:24:53Z",
+                "uri": "http://web.archive.org/web/20140325132453/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2014-03-25T20:14:43Z",
+                "uri": "http://web.archive.org/web/20140325201443/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2014-04-26T11:35:40Z",
+                "uri": "http://web.archive.org/web/20140426113540/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2014-05-25T17:29:43Z",
+                "uri": "http://web.archive.org/web/20140525172943/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2014-05-26T18:26:02Z",
+                "uri": "http://web.archive.org/web/20140526182602/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2014-06-25T17:44:52Z",
+                "uri": "http://web.archive.org/web/20140625174452/http://rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2014-07-01T10:13:56Z",
+                "uri": "http://web.archive.org/web/20140701101356/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2014-07-03T01:03:17Z",
+                "uri": "http://web.archive.org/web/20140703010317/http://rochdaleonline.co.uk/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2014-07-18T21:48:35Z",
+                "uri": "http://web.archive.org/web/20140718214835/http://rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2014-11-06T00:56:26Z",
+                "uri": "http://web.archive.org/web/20141106005626/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2014-11-06T00:56:30Z",
+                "uri": "http://web.archive.org/web/20141106005630/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2014-12-21T18:56:34Z",
+                "uri": "http://web.archive.org/web/20141221185634/http://rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2014-12-21T19:00:09Z",
+                "uri": "http://web.archive.org/web/20141221190009/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2014-12-22T16:30:05Z",
+                "uri": "http://web.archive.org/web/20141222163005/http://www.rochdaleonline.co.uk/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2014-12-26T05:09:31Z",
+                "uri": "http://web.archive.org/web/20141226050931/http://rochdaleonline.co.uk/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2014-12-28T02:12:38Z",
+                "uri": "http://web.archive.org/web/20141228021238/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2015-02-06T07:13:58Z",
+                "uri": "http://web.archive.org/web/20150206071358/http://rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2015-02-06T07:13:58Z",
+                "uri": "http://web.archive.org/web/20150206071358/http://rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2015-02-10T10:00:49Z",
+                "uri": "http://web.archive.org/web/20150210100049/http://rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2015-02-10T10:00:49Z",
+                "uri": "http://web.archive.org/web/20150210100049/http://rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2015-02-11T12:13:40Z",
+                "uri": "http://web.archive.org/web/20150211121340/http://rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2015-03-11T04:44:00Z",
+                "uri": "http://web.archive.org/web/20150311044400/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2015-03-11T04:44:00Z",
+                "uri": "http://web.archive.org/web/20150311044400/http://www.rochdaleonline.co.uk:80/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2015-03-14T23:55:26Z",
+                "uri": "http://web.archive.org/web/20150314235526/http://rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2015-03-15T09:06:10Z",
+                "uri": "http://web.archive.org/web/20150315090610/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2015-03-15T18:46:15Z",
+                "uri": "http://web.archive.org/web/20150315184615/http://rochdaleonline.co.uk/news%2Dfeatures/"
+            },
+            {
+                "datetime": "2015-04-12T23:59:14Z",
+                "uri": "http://web.archive.org/web/20150412235914/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2015-06-10T02:44:47Z",
+                "uri": "http://web.archive.org/web/20150610024447/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2015-06-10T02:44:59Z",
+                "uri": "http://web.archive.org/web/20150610024459/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2015-06-26T20:43:25Z",
+                "uri": "http://web.archive.org/web/20150626204325/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2015-07-01T21:37:27Z",
+                "uri": "http://web.archive.org/web/20150701213727/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2015-07-01T22:00:01Z",
+                "uri": "http://web.archive.org/web/20150701220001/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2015-08-01T18:25:29Z",
+                "uri": "http://web.archive.org/web/20150801182529/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2015-08-01T18:49:57Z",
+                "uri": "http://web.archive.org/web/20150801184957/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2015-08-12T00:30:48Z",
+                "uri": "http://web.archive.org/web/20150812003048/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2015-08-21T09:33:52Z",
+                "uri": "http://web.archive.org/web/20150821093352/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2015-08-21T09:33:52Z",
+                "uri": "http://web.archive.org/web/20150821093352/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2015-09-18T00:59:12Z",
+                "uri": "http://web.archive.org/web/20150918005912/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2015-09-20T04:32:12Z",
+                "uri": "http://web.archive.org/web/20150920043212/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2015-09-20T09:49:52Z",
+                "uri": "http://web.archive.org/web/20150920094952/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2015-10-04T09:49:40Z",
+                "uri": "http://web.archive.org/web/20151004094940/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2015-10-04T09:49:40Z",
+                "uri": "http://web.archive.org/web/20151004094940/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2015-10-25T10:31:39Z",
+                "uri": "http://web.archive.org/web/20151025103139/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2015-10-25T10:31:39Z",
+                "uri": "http://web.archive.org/web/20151025103139/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2015-11-10T01:32:48Z",
+                "uri": "http://web.archive.org/web/20151110013248/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2015-11-10T01:32:48Z",
+                "uri": "http://web.archive.org/web/20151110013248/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2015-11-17T18:12:43Z",
+                "uri": "http://web.archive.org/web/20151117181243/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2015-11-27T15:32:45Z",
+                "uri": "http://web.archive.org/web/20151127153245/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2015-11-27T15:32:45Z",
+                "uri": "http://web.archive.org/web/20151127153245/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-01-12T22:02:24Z",
+                "uri": "http://web.archive.org/web/20160112220224/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2016-01-17T16:32:49Z",
+                "uri": "http://web.archive.org/web/20160117163249/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-02-26T12:52:42Z",
+                "uri": "http://web.archive.org/web/20160226125242/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2016-03-06T10:53:15Z",
+                "uri": "http://web.archive.org/web/20160306105315/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-03-06T10:53:15Z",
+                "uri": "http://web.archive.org/web/20160306105315/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-03-12T07:28:01Z",
+                "uri": "http://web.archive.org/web/20160312072801/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2016-03-20T22:42:32Z",
+                "uri": "http://web.archive.org/web/20160320224232/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2016-03-23T16:11:52Z",
+                "uri": "http://web.archive.org/web/20160323161152/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2016-03-27T01:02:24Z",
+                "uri": "http://web.archive.org/web/20160327010224/http://rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2016-03-27T01:02:37Z",
+                "uri": "http://web.archive.org/web/20160327010237/http://rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2016-03-29T17:40:47Z",
+                "uri": "http://web.archive.org/web/20160329174047/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-03-29T17:40:47Z",
+                "uri": "http://web.archive.org/web/20160329174047/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-04-12T12:16:31Z",
+                "uri": "http://web.archive.org/web/20160412121631/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-04-12T12:16:31Z",
+                "uri": "http://web.archive.org/web/20160412121631/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-04-23T20:25:43Z",
+                "uri": "http://web.archive.org/web/20160423202543/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-04-23T20:25:43Z",
+                "uri": "http://web.archive.org/web/20160423202543/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-05-06T13:57:19Z",
+                "uri": "http://web.archive.org/web/20160506135719/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-05-06T13:57:19Z",
+                "uri": "http://web.archive.org/web/20160506135719/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-05-17T18:57:46Z",
+                "uri": "http://web.archive.org/web/20160517185746/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-05-17T18:57:46Z",
+                "uri": "http://web.archive.org/web/20160517185746/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-05-29T21:12:15Z",
+                "uri": "http://web.archive.org/web/20160529211215/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-05-29T21:12:15Z",
+                "uri": "http://web.archive.org/web/20160529211215/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-06-10T18:03:26Z",
+                "uri": "http://web.archive.org/web/20160610180326/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-06-10T18:03:26Z",
+                "uri": "http://web.archive.org/web/20160610180326/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-06-21T01:35:20Z",
+                "uri": "http://web.archive.org/web/20160621013520/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-06-21T01:35:20Z",
+                "uri": "http://web.archive.org/web/20160621013520/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-06-22T09:09:15Z",
+                "uri": "http://web.archive.org/web/20160622090915/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-06-22T09:09:15Z",
+                "uri": "http://web.archive.org/web/20160622090915/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-07-01T07:55:37Z",
+                "uri": "http://web.archive.org/web/20160701075537/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-07-01T07:55:37Z",
+                "uri": "http://web.archive.org/web/20160701075537/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-07-02T08:27:00Z",
+                "uri": "http://web.archive.org/web/20160702082700/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-07-02T08:27:00Z",
+                "uri": "http://web.archive.org/web/20160702082700/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-07-11T06:10:46Z",
+                "uri": "http://web.archive.org/web/20160711061046/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-07-11T06:10:46Z",
+                "uri": "http://web.archive.org/web/20160711061046/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-07-21T00:51:32Z",
+                "uri": "http://web.archive.org/web/20160721005132/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-07-21T00:51:32Z",
+                "uri": "http://web.archive.org/web/20160721005132/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-08-01T20:14:49Z",
+                "uri": "http://web.archive.org/web/20160801201449/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-08-01T20:14:49Z",
+                "uri": "http://web.archive.org/web/20160801201449/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-08-17T03:17:35Z",
+                "uri": "http://web.archive.org/web/20160817031735/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-08-17T03:17:35Z",
+                "uri": "http://web.archive.org/web/20160817031735/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-08-22T11:56:31Z",
+                "uri": "http://web.archive.org/web/20160822115631/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2016-08-22T12:24:09Z",
+                "uri": "http://web.archive.org/web/20160822122409/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2016-08-26T09:48:35Z",
+                "uri": "http://web.archive.org/web/20160826094835/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-09-07T07:47:55Z",
+                "uri": "http://web.archive.org/web/20160907074755/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-09-07T07:47:55Z",
+                "uri": "http://web.archive.org/web/20160907074755/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-09-12T20:27:36Z",
+                "uri": "http://web.archive.org/web/20160912202736/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2016-09-24T09:43:34Z",
+                "uri": "http://web.archive.org/web/20160924094334/http://rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-10-10T23:47:38Z",
+                "uri": "http://web.archive.org/web/20161010234738/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-10-10T23:47:38Z",
+                "uri": "http://web.archive.org/web/20161010234738/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-10-27T02:01:39Z",
+                "uri": "http://web.archive.org/web/20161027020139/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2016-11-16T21:58:06Z",
+                "uri": "http://web.archive.org/web/20161116215806/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2016-11-16T21:58:06Z",
+                "uri": "http://web.archive.org/web/20161116215806/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2016-11-27T11:58:52Z",
+                "uri": "http://web.archive.org/web/20161127115852/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2016-12-29T02:25:05Z",
+                "uri": "http://web.archive.org/web/20161229022505/https://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2016-12-29T04:35:07Z",
+                "uri": "http://web.archive.org/web/20161229043507/https://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2017-01-26T07:51:08Z",
+                "uri": "http://web.archive.org/web/20170126075108/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2017-01-26T08:00:07Z",
+                "uri": "http://web.archive.org/web/20170126080007/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2017-02-03T20:13:38Z",
+                "uri": "http://web.archive.org/web/20170203201338/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2017-02-03T20:13:38Z",
+                "uri": "http://web.archive.org/web/20170203201338/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2017-02-04T16:57:25Z",
+                "uri": "http://web.archive.org/web/20170204165725/https://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2017-02-04T18:33:10Z",
+                "uri": "http://web.archive.org/web/20170204183310/https://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2017-02-18T20:31:28Z",
+                "uri": "http://web.archive.org/web/20170218203128/https://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2017-03-03T20:25:02Z",
+                "uri": "http://web.archive.org/web/20170303202502/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2017-05-05T21:08:01Z",
+                "uri": "http://web.archive.org/web/20170505210801/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2017-05-13T23:27:46Z",
+                "uri": "http://web.archive.org/web/20170513232746/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2017-05-13T23:27:46Z",
+                "uri": "http://web.archive.org/web/20170513232746/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2017-05-18T02:01:55Z",
+                "uri": "http://web.archive.org/web/20170518020155/http://rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2017-05-18T02:01:55Z",
+                "uri": "http://web.archive.org/web/20170518020155/http://rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2017-05-23T05:51:34Z",
+                "uri": "http://web.archive.org/web/20170523055134/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2017-06-06T16:23:59Z",
+                "uri": "http://web.archive.org/web/20170606162359/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2017-06-08T10:07:00Z",
+                "uri": "http://web.archive.org/web/20170608100700/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2017-06-30T20:38:11Z",
+                "uri": "http://web.archive.org/web/20170630203811/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2017-06-30T20:49:02Z",
+                "uri": "http://web.archive.org/web/20170630204902/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2017-07-14T23:11:58Z",
+                "uri": "http://web.archive.org/web/20170714231158/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2017-07-14T23:11:58Z",
+                "uri": "http://web.archive.org/web/20170714231158/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2017-07-28T02:17:06Z",
+                "uri": "http://web.archive.org/web/20170728021706/http://www.rochdaleonline.co.uk:80/news-features/"
+            },
+            {
+                "datetime": "2017-07-28T02:17:06Z",
+                "uri": "http://web.archive.org/web/20170728021706/http://www.rochdaleonline.co.uk:80/news-features"
+            },
+            {
+                "datetime": "2017-09-12T06:04:18Z",
+                "uri": "http://web.archive.org/web/20170912060418/https://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2017-09-29T19:03:43Z",
+                "uri": "http://web.archive.org/web/20170929190343/https://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2017-09-29T21:17:51Z",
+                "uri": "http://web.archive.org/web/20170929211751/http://www.rochdaleonline.co.uk/news-features"
+            },
+            {
+                "datetime": "2017-10-16T08:58:32Z",
+                "uri": "http://web.archive.org/web/20171016085832/http://www.rochdaleonline.co.uk/news-features/"
+            },
+            {
+                "datetime": "2018-01-02T19:34:37Z",
+                "uri": "http://web.archive.org/web/20180102193437/http://www.rochdaleonline.co.uk/news-features/"
+            }
+        ]
+    },
+    "original_uri": "http://rochdaleonline.co.uk/news-features/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://rochdaleonline.co.uk/news-features/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://rochdaleonline.co.uk/news-features/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://rochdaleonline.co.uk/news-features/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://rochdaleonline.co.uk/news-features/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://rochdaleonline.co.uk/news-features/"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-08-30T16:41:44Z",
+            "uri": "http://web.archive.org/web/20170830164144/http://www.collegeshowcases.com/upcoming-events"
+        },
+        "last": {
+            "datetime": "2017-11-08T20:32:17Z",
+            "uri": "http://web.archive.org/web/20171108203217/http://www.collegeshowcases.com/upcoming-events"
+        },
+        "list": [
+            {
+                "datetime": "2017-08-30T16:41:44Z",
+                "uri": "http://web.archive.org/web/20170830164144/http://www.collegeshowcases.com/upcoming-events"
+            },
+            {
+                "datetime": "2017-11-08T20:32:17Z",
+                "uri": "http://web.archive.org/web/20171108203217/http://www.collegeshowcases.com/upcoming-events"
+            }
+        ]
+    },
+    "original_uri": "http://www.collegeshowcases.com/upcoming-events",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.collegeshowcases.com/upcoming-events",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.collegeshowcases.com/upcoming-events",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.collegeshowcases.com/upcoming-events",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.collegeshowcases.com/upcoming-events",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.collegeshowcases.com/upcoming-events"
+    }
+}

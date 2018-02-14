@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T03:46:12Z",
+            "uri": "http://web.archive.org/web/20180208034612/http://www2.kusports.com/weblogs/smithology/2018/feb/7/jayhawks-enter-national-signing-day-with/"
+        },
+        "last": {
+            "datetime": "2018-02-08T03:46:12Z",
+            "uri": "http://web.archive.org/web/20180208034612/http://www2.kusports.com/weblogs/smithology/2018/feb/7/jayhawks-enter-national-signing-day-with/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T03:46:12Z",
+                "uri": "http://web.archive.org/web/20180208034612/http://www2.kusports.com/weblogs/smithology/2018/feb/7/jayhawks-enter-national-signing-day-with/"
+            }
+        ]
+    },
+    "original_uri": "http://www2.kusports.com/weblogs/smithology/2018/feb/7/jayhawks-enter-national-signing-day-with/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www2.kusports.com/weblogs/smithology/2018/feb/7/jayhawks-enter-national-signing-day-with/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www2.kusports.com/weblogs/smithology/2018/feb/7/jayhawks-enter-national-signing-day-with/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www2.kusports.com/weblogs/smithology/2018/feb/7/jayhawks-enter-national-signing-day-with/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www2.kusports.com/weblogs/smithology/2018/feb/7/jayhawks-enter-national-signing-day-with/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www2.kusports.com/weblogs/smithology/2018/feb/7/jayhawks-enter-national-signing-day-with/"
+    }
+}

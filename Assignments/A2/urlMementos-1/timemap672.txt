@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T19:57:01Z",
+            "uri": "http://wayback.archive-it.org/all/20180209195701/http://gostanford.com/news/2018/2/7/football-cardinal-finalizes-class.aspx"
+        },
+        "last": {
+            "datetime": "2018-02-09T19:57:01Z",
+            "uri": "http://web.archive.org/web/20180209195701/http://gostanford.com/news/2018/2/7/football-cardinal-finalizes-class.aspx"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T19:57:01Z",
+                "uri": "http://wayback.archive-it.org/all/20180209195701/http://gostanford.com/news/2018/2/7/football-cardinal-finalizes-class.aspx"
+            },
+            {
+                "datetime": "2018-02-09T19:57:01Z",
+                "uri": "http://web.archive.org/web/20180209195701/http://gostanford.com/news/2018/2/7/football-cardinal-finalizes-class.aspx"
+            }
+        ]
+    },
+    "original_uri": "http://gostanford.com/news/2018/2/7/football-cardinal-finalizes-class.aspx",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://gostanford.com/news/2018/2/7/football-cardinal-finalizes-class.aspx",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://gostanford.com/news/2018/2/7/football-cardinal-finalizes-class.aspx",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://gostanford.com/news/2018/2/7/football-cardinal-finalizes-class.aspx",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://gostanford.com/news/2018/2/7/football-cardinal-finalizes-class.aspx",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://gostanford.com/news/2018/2/7/football-cardinal-finalizes-class.aspx"
+    }
+}

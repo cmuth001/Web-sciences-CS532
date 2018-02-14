@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T02:34:07Z",
+            "uri": "http://web.archive.org/web/20180208023407/https://www.sbnation.com/college-football-recruiting/2017/3/19/14974870/jacob-copeland-recruit-florida-tennessee-mom-ceremony"
+        },
+        "last": {
+            "datetime": "2018-02-08T04:21:26Z",
+            "uri": "http://web.archive.org/web/20180208042126/https://www.sbnation.com/college-football-recruiting/2017/3/19/14974870/jacob-copeland-recruit-florida-tennessee-mom-ceremony"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T02:34:07Z",
+                "uri": "http://web.archive.org/web/20180208023407/https://www.sbnation.com/college-football-recruiting/2017/3/19/14974870/jacob-copeland-recruit-florida-tennessee-mom-ceremony"
+            },
+            {
+                "datetime": "2018-02-08T04:21:26Z",
+                "uri": "http://web.archive.org/web/20180208042126/https://www.sbnation.com/college-football-recruiting/2017/3/19/14974870/jacob-copeland-recruit-florida-tennessee-mom-ceremony"
+            }
+        ]
+    },
+    "original_uri": "https://www.sbnation.com/college-football-recruiting/2017/3/19/14974870/jacob-copeland-recruit-florida-tennessee-mom-ceremony",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.sbnation.com/college-football-recruiting/2017/3/19/14974870/jacob-copeland-recruit-florida-tennessee-mom-ceremony",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.sbnation.com/college-football-recruiting/2017/3/19/14974870/jacob-copeland-recruit-florida-tennessee-mom-ceremony",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.sbnation.com/college-football-recruiting/2017/3/19/14974870/jacob-copeland-recruit-florida-tennessee-mom-ceremony",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.sbnation.com/college-football-recruiting/2017/3/19/14974870/jacob-copeland-recruit-florida-tennessee-mom-ceremony",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.sbnation.com/college-football-recruiting/2017/3/19/14974870/jacob-copeland-recruit-florida-tennessee-mom-ceremony"
+    }
+}

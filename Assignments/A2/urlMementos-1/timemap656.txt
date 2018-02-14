@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-05T17:14:11Z",
+            "uri": "http://web.archive.org/web/20180205171411/http://scorenigeria.com.ng/2018/02/05/ex-eagles-ace-paul-obiefule-quits-football-bags-degree-in-denmark/"
+        },
+        "last": {
+            "datetime": "2018-02-05T17:14:11Z",
+            "uri": "http://web.archive.org/web/20180205171411/http://scorenigeria.com.ng/2018/02/05/ex-eagles-ace-paul-obiefule-quits-football-bags-degree-in-denmark/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-05T17:14:11Z",
+                "uri": "http://web.archive.org/web/20180205171411/http://scorenigeria.com.ng/2018/02/05/ex-eagles-ace-paul-obiefule-quits-football-bags-degree-in-denmark/"
+            }
+        ]
+    },
+    "original_uri": "http://scorenigeria.com.ng/2018/02/05/ex-eagles-ace-paul-obiefule-quits-football-bags-degree-in-denmark/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://scorenigeria.com.ng/2018/02/05/ex-eagles-ace-paul-obiefule-quits-football-bags-degree-in-denmark/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://scorenigeria.com.ng/2018/02/05/ex-eagles-ace-paul-obiefule-quits-football-bags-degree-in-denmark/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://scorenigeria.com.ng/2018/02/05/ex-eagles-ace-paul-obiefule-quits-football-bags-degree-in-denmark/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://scorenigeria.com.ng/2018/02/05/ex-eagles-ace-paul-obiefule-quits-football-bags-degree-in-denmark/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://scorenigeria.com.ng/2018/02/05/ex-eagles-ace-paul-obiefule-quits-football-bags-degree-in-denmark/"
+    }
+}

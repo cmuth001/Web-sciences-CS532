@@ -1,0 +1,278 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2013-04-15T14:23:16Z",
+            "uri": "http://web.archive.org/web/20130415142316/http://nashvillesportsoriginal.com"
+        },
+        "last": {
+            "datetime": "2018-02-04T04:07:44Z",
+            "uri": "http://web.archive.org/web/20180204040744/http://www.nashvillesportsoriginal.com/"
+        },
+        "list": [
+            {
+                "datetime": "2013-04-15T14:23:16Z",
+                "uri": "http://web.archive.org/web/20130415142316/http://nashvillesportsoriginal.com"
+            },
+            {
+                "datetime": "2013-06-23T19:15:56Z",
+                "uri": "http://web.archive.org/web/20130623191556/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2013-07-11T19:15:38Z",
+                "uri": "http://web.archive.org/web/20130711191538/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2013-07-28T08:14:15Z",
+                "uri": "http://web.archive.org/web/20130728081415/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2013-09-06T02:14:22Z",
+                "uri": "http://web.archive.org/web/20130906021422/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2013-10-06T22:30:14Z",
+                "uri": "http://web.archive.org/web/20131006223014/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2013-10-16T16:13:41Z",
+                "uri": "http://web.archive.org/web/20131016161341/http://www.nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2013-11-07T06:18:23Z",
+                "uri": "http://web.archive.org/web/20131107061823/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2013-11-09T13:01:28Z",
+                "uri": "http://web.archive.org/web/20131109130128/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2013-12-08T03:19:52Z",
+                "uri": "http://web.archive.org/web/20131208031952/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2013-12-26T19:07:52Z",
+                "uri": "http://web.archive.org/web/20131226190752/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2014-01-07T22:10:16Z",
+                "uri": "http://web.archive.org/web/20140107221016/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2014-02-09T20:32:29Z",
+                "uri": "http://web.archive.org/web/20140209203229/http://www.nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2014-02-22T16:05:42Z",
+                "uri": "http://web.archive.org/web/20140222160542/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2014-02-24T23:50:35Z",
+                "uri": "http://web.archive.org/web/20140224235035/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2014-03-19T08:56:49Z",
+                "uri": "http://archive.is/20140319085649/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2014-03-25T14:53:47Z",
+                "uri": "http://web.archive.org/web/20140325145347/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2014-04-26T03:02:52Z",
+                "uri": "http://web.archive.org/web/20140426030252/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2014-05-27T01:22:38Z",
+                "uri": "http://web.archive.org/web/20140527012238/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2014-10-09T02:30:07Z",
+                "uri": "http://web.archive.org/web/20141009023007/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2014-11-09T00:18:48Z",
+                "uri": "http://web.archive.org/web/20141109001848/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2014-12-18T00:29:04Z",
+                "uri": "http://web.archive.org/web/20141218002904/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2014-12-18T04:45:13Z",
+                "uri": "http://web.archive.org/web/20141218044513/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2015-01-18T00:39:19Z",
+                "uri": "http://web.archive.org/web/20150118003919/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2015-02-20T19:50:39Z",
+                "uri": "http://web.archive.org/web/20150220195039/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2015-03-17T23:16:03Z",
+                "uri": "http://web.archive.org/web/20150317231603/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2015-03-23T01:49:27Z",
+                "uri": "http://web.archive.org/web/20150323014927/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2015-04-08T18:04:26Z",
+                "uri": "http://web.archive.org/web/20150408180426/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2015-04-22T15:19:45Z",
+                "uri": "http://web.archive.org/web/20150422151945/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2015-05-23T04:56:25Z",
+                "uri": "http://web.archive.org/web/20150523045625/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2015-06-22T13:51:32Z",
+                "uri": "http://web.archive.org/web/20150622135132/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2015-07-23T04:51:05Z",
+                "uri": "http://web.archive.org/web/20150723045105/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2015-08-01T18:09:22Z",
+                "uri": "http://web.archive.org/web/20150801180922/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2015-08-22T14:50:50Z",
+                "uri": "http://web.archive.org/web/20150822145050/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2015-09-05T06:12:11Z",
+                "uri": "http://web.archive.org/web/20150905061211/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2015-09-16T02:27:17Z",
+                "uri": "http://web.archive.org/web/20150916022717/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2015-10-16T17:06:19Z",
+                "uri": "http://web.archive.org/web/20151016170619/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2015-11-05T00:51:13Z",
+                "uri": "http://web.archive.org/web/20151105005113/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2015-12-05T05:20:20Z",
+                "uri": "http://web.archive.org/web/20151205052020/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2016-01-04T21:05:55Z",
+                "uri": "http://web.archive.org/web/20160104210555/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2016-01-10T12:33:55Z",
+                "uri": "http://web.archive.org/web/20160110123355/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2016-01-16T19:19:58Z",
+                "uri": "http://web.archive.org/web/20160116191958/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2016-02-07T06:06:53Z",
+                "uri": "http://web.archive.org/web/20160207060653/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2016-03-04T05:27:16Z",
+                "uri": "http://web.archive.org/web/20160304052716/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2016-03-04T07:03:26Z",
+                "uri": "http://web.archive.org/web/20160304070326/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2016-03-06T07:35:59Z",
+                "uri": "http://web.archive.org/web/20160306073559/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2016-03-08T16:02:16Z",
+                "uri": "http://web.archive.org/web/20160308160216/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2016-05-09T19:06:17Z",
+                "uri": "http://web.archive.org/web/20160509190617/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2016-06-09T23:56:46Z",
+                "uri": "http://web.archive.org/web/20160609235646/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2016-07-10T20:35:56Z",
+                "uri": "http://web.archive.org/web/20160710203556/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2016-08-10T20:54:44Z",
+                "uri": "http://web.archive.org/web/20160810205444/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2016-08-29T09:19:41Z",
+                "uri": "http://web.archive.org/web/20160829091941/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2016-10-03T12:25:16Z",
+                "uri": "http://web.archive.org/web/20161003122516/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2017-05-16T04:32:03Z",
+                "uri": "http://web.archive.org/web/20170516043203/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2017-05-16T23:42:14Z",
+                "uri": "http://web.archive.org/web/20170516234214/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2017-06-17T03:26:56Z",
+                "uri": "http://web.archive.org/web/20170617032656/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2017-07-03T16:45:21Z",
+                "uri": "http://web.archive.org/web/20170703164521/http://nashvillesportsoriginal.com:80/"
+            },
+            {
+                "datetime": "2017-09-07T11:48:05Z",
+                "uri": "http://web.archive.org/web/20170907114805/https://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2017-09-08T11:55:18Z",
+                "uri": "http://web.archive.org/web/20170908115518/https://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2017-09-09T12:18:59Z",
+                "uri": "http://web.archive.org/web/20170909121859/https://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2017-09-12T15:53:33Z",
+                "uri": "http://web.archive.org/web/20170912155333/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2017-09-16T10:34:31Z",
+                "uri": "http://web.archive.org/web/20170916103431/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2018-01-25T15:21:42Z",
+                "uri": "http://web.archive.org/web/20180125152142/http://nashvillesportsoriginal.com/"
+            },
+            {
+                "datetime": "2018-02-04T04:07:44Z",
+                "uri": "http://web.archive.org/web/20180204040744/http://www.nashvillesportsoriginal.com/"
+            }
+        ]
+    },
+    "original_uri": "http://nashvillesportsoriginal.com/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://nashvillesportsoriginal.com/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://nashvillesportsoriginal.com/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://nashvillesportsoriginal.com/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://nashvillesportsoriginal.com/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://nashvillesportsoriginal.com/"
+    }
+}

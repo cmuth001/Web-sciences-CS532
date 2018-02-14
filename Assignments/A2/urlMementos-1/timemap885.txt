@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-06T08:51:36Z",
+            "uri": "http://web.archive.org/web/20180206085136/http://www.chicagotribune.com/sports/football/ct-frigid-super-bowl-northern-venues-20180205-story.html"
+        },
+        "last": {
+            "datetime": "2018-02-07T02:13:58Z",
+            "uri": "http://web.archive.org/web/20180207021358/http://www.chicagotribune.com/sports/football/ct-frigid-super-bowl-northern-venues-20180205-story.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-06T08:51:36Z",
+                "uri": "http://web.archive.org/web/20180206085136/http://www.chicagotribune.com/sports/football/ct-frigid-super-bowl-northern-venues-20180205-story.html"
+            },
+            {
+                "datetime": "2018-02-07T02:13:58Z",
+                "uri": "http://web.archive.org/web/20180207021358/http://www.chicagotribune.com/sports/football/ct-frigid-super-bowl-northern-venues-20180205-story.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.chicagotribune.com/sports/football/ct-frigid-super-bowl-northern-venues-20180205-story.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.chicagotribune.com/sports/football/ct-frigid-super-bowl-northern-venues-20180205-story.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.chicagotribune.com/sports/football/ct-frigid-super-bowl-northern-venues-20180205-story.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.chicagotribune.com/sports/football/ct-frigid-super-bowl-northern-venues-20180205-story.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.chicagotribune.com/sports/football/ct-frigid-super-bowl-northern-venues-20180205-story.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.chicagotribune.com/sports/football/ct-frigid-super-bowl-northern-venues-20180205-story.html"
+    }
+}

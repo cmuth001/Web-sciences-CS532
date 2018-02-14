@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T03:00:03Z",
+            "uri": "http://web.archive.org/web/20180208030003/http://www.sandiegouniontribune.com/sports/aztecs/sd-sp-azfoot-spring-practice-chargers-park-0208-story.html"
+        },
+        "last": {
+            "datetime": "2018-02-08T03:00:03Z",
+            "uri": "http://web.archive.org/web/20180208030003/http://www.sandiegouniontribune.com/sports/aztecs/sd-sp-azfoot-spring-practice-chargers-park-0208-story.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T03:00:03Z",
+                "uri": "http://web.archive.org/web/20180208030003/http://www.sandiegouniontribune.com/sports/aztecs/sd-sp-azfoot-spring-practice-chargers-park-0208-story.html"
+            }
+        ]
+    },
+    "original_uri": "http://www.sandiegouniontribune.com/sports/aztecs/sd-sp-azfoot-spring-practice-chargers-park-0208-story.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.sandiegouniontribune.com/sports/aztecs/sd-sp-azfoot-spring-practice-chargers-park-0208-story.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.sandiegouniontribune.com/sports/aztecs/sd-sp-azfoot-spring-practice-chargers-park-0208-story.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.sandiegouniontribune.com/sports/aztecs/sd-sp-azfoot-spring-practice-chargers-park-0208-story.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.sandiegouniontribune.com/sports/aztecs/sd-sp-azfoot-spring-practice-chargers-park-0208-story.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.sandiegouniontribune.com/sports/aztecs/sd-sp-azfoot-spring-practice-chargers-park-0208-story.html"
+    }
+}

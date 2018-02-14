@@ -1,0 +1,358 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2013-06-14T22:19:22Z",
+            "uri": "http://web.archive.org/web/20130614221922/http://radiogoa.info/"
+        },
+        "last": {
+            "datetime": "2018-02-12T13:24:08Z",
+            "uri": "http://web.archive.org/web/20180212132408/https://radiogoa.info/"
+        },
+        "list": [
+            {
+                "datetime": "2013-06-14T22:19:22Z",
+                "uri": "http://web.archive.org/web/20130614221922/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2016-02-23T02:07:23Z",
+                "uri": "http://web.archive.org/web/20160223020723/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-03-09T02:54:53Z",
+                "uri": "http://web.archive.org/web/20160309025453/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2016-03-26T14:14:55Z",
+                "uri": "http://web.archive.org/web/20160326141455/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-04-14T10:03:22Z",
+                "uri": "http://web.archive.org/web/20160414100322/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-04-26T08:11:11Z",
+                "uri": "http://web.archive.org/web/20160426081111/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-05-08T02:11:33Z",
+                "uri": "http://web.archive.org/web/20160508021133/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-05-09T06:57:49Z",
+                "uri": "http://web.archive.org/web/20160509065749/http://radiogoa.info:80/?"
+            },
+            {
+                "datetime": "2016-05-21T11:20:34Z",
+                "uri": "http://web.archive.org/web/20160521112034/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-05-31T05:51:27Z",
+                "uri": "http://web.archive.org/web/20160531055127/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-06-09T17:46:55Z",
+                "uri": "http://web.archive.org/web/20160609174655/http://radiogoa.info:80/?"
+            },
+            {
+                "datetime": "2016-06-09T17:46:59Z",
+                "uri": "http://web.archive.org/web/20160609174659/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-06-18T23:15:03Z",
+                "uri": "http://web.archive.org/web/20160618231503/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-06-20T04:30:53Z",
+                "uri": "http://web.archive.org/web/20160620043053/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-06-28T10:07:42Z",
+                "uri": "http://web.archive.org/web/20160628100742/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-07-10T04:23:43Z",
+                "uri": "http://web.archive.org/web/20160710042343/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-07-13T08:09:26Z",
+                "uri": "http://web.archive.org/web/20160713080926/http://radiogoa.info:80/?"
+            },
+            {
+                "datetime": "2016-07-23T10:37:37Z",
+                "uri": "http://web.archive.org/web/20160723103737/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-08-08T14:36:59Z",
+                "uri": "http://web.archive.org/web/20160808143659/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-08-09T18:30:32Z",
+                "uri": "http://web.archive.org/web/20160809183032/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-09-06T10:53:04Z",
+                "uri": "http://web.archive.org/web/20160906105304/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-10-09T05:33:35Z",
+                "uri": "http://web.archive.org/web/20161009053335/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2016-10-10T03:57:29Z",
+                "uri": "http://web.archive.org/web/20161010035729/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2016-11-12T11:58:38Z",
+                "uri": "http://web.archive.org/web/20161112115838/http://radiogoa.info:80/"
+            },
+            {
+                "datetime": "2017-05-28T08:57:36Z",
+                "uri": "http://web.archive.org/web/20170528085736/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-07-12T00:12:43Z",
+                "uri": "http://web.archive.org/web/20170712001243/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-08-29T18:16:23Z",
+                "uri": "http://web.archive.org/web/20170829181623/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-08-29T22:14:12Z",
+                "uri": "http://web.archive.org/web/20170829221412/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-09-17T13:34:57Z",
+                "uri": "http://web.archive.org/web/20170917133457/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-10-09T05:11:15Z",
+                "uri": "http://web.archive.org/web/20171009051115/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-15T15:10:49Z",
+                "uri": "http://web.archive.org/web/20171115151049/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-15T15:10:55Z",
+                "uri": "http://web.archive.org/web/20171115151055/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-15T19:50:35Z",
+                "uri": "http://web.archive.org/web/20171115195035/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-15T19:50:36Z",
+                "uri": "http://web.archive.org/web/20171115195036/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-17T20:20:20Z",
+                "uri": "http://web.archive.org/web/20171117202020/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-17T20:20:22Z",
+                "uri": "http://web.archive.org/web/20171117202022/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-18T13:56:26Z",
+                "uri": "http://web.archive.org/web/20171118135626/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-18T13:56:27Z",
+                "uri": "http://web.archive.org/web/20171118135627/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-19T20:22:54Z",
+                "uri": "http://web.archive.org/web/20171119202254/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-24T15:43:07Z",
+                "uri": "http://web.archive.org/web/20171124154307/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-24T15:43:27Z",
+                "uri": "http://web.archive.org/web/20171124154327/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-24T23:48:05Z",
+                "uri": "http://web.archive.org/web/20171124234805/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-24T23:48:06Z",
+                "uri": "http://web.archive.org/web/20171124234806/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-26T16:28:58Z",
+                "uri": "http://web.archive.org/web/20171126162858/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-26T16:28:59Z",
+                "uri": "http://web.archive.org/web/20171126162859/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-27T07:06:21Z",
+                "uri": "http://web.archive.org/web/20171127070621/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-27T07:06:22Z",
+                "uri": "http://web.archive.org/web/20171127070622/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-28T22:02:16Z",
+                "uri": "http://web.archive.org/web/20171128220216/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-11-28T22:02:18Z",
+                "uri": "http://web.archive.org/web/20171128220218/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-12-01T15:57:22Z",
+                "uri": "http://web.archive.org/web/20171201155722/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-12-01T15:57:34Z",
+                "uri": "http://web.archive.org/web/20171201155734/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-12-08T06:22:42Z",
+                "uri": "http://web.archive.org/web/20171208062242/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-12-08T06:22:43Z",
+                "uri": "http://web.archive.org/web/20171208062243/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-12-14T05:34:17Z",
+                "uri": "http://web.archive.org/web/20171214053417/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-12-14T05:34:19Z",
+                "uri": "http://web.archive.org/web/20171214053419/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-12-19T21:29:00Z",
+                "uri": "http://web.archive.org/web/20171219212900/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-12-19T21:29:04Z",
+                "uri": "http://web.archive.org/web/20171219212904/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-12-22T12:45:05Z",
+                "uri": "http://web.archive.org/web/20171222124505/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-12-22T12:45:06Z",
+                "uri": "http://web.archive.org/web/20171222124506/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-12-25T19:09:26Z",
+                "uri": "http://web.archive.org/web/20171225190926/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-12-25T19:09:28Z",
+                "uri": "http://web.archive.org/web/20171225190928/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-12-25T21:39:27Z",
+                "uri": "http://web.archive.org/web/20171225213927/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-12-25T21:39:28Z",
+                "uri": "http://web.archive.org/web/20171225213928/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-12-31T11:03:08Z",
+                "uri": "http://web.archive.org/web/20171231110308/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2017-12-31T11:03:11Z",
+                "uri": "http://web.archive.org/web/20171231110311/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-01-17T21:10:22Z",
+                "uri": "http://web.archive.org/web/20180117211022/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-01-17T21:10:24Z",
+                "uri": "http://web.archive.org/web/20180117211024/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-01-21T14:49:29Z",
+                "uri": "http://web.archive.org/web/20180121144929/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-01-22T06:39:10Z",
+                "uri": "http://web.archive.org/web/20180122063910/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-01-22T06:39:16Z",
+                "uri": "http://web.archive.org/web/20180122063916/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-01-26T06:37:13Z",
+                "uri": "http://web.archive.org/web/20180126063713/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-01-26T06:37:15Z",
+                "uri": "http://web.archive.org/web/20180126063715/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-02-07T22:34:29Z",
+                "uri": "http://web.archive.org/web/20180207223429/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-02-07T22:34:31Z",
+                "uri": "http://web.archive.org/web/20180207223431/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-02-07T22:34:33Z",
+                "uri": "http://web.archive.org/web/20180207223433/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-02-07T22:34:35Z",
+                "uri": "http://web.archive.org/web/20180207223435/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-02-10T21:43:29Z",
+                "uri": "http://web.archive.org/web/20180210214329/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-02-10T21:43:30Z",
+                "uri": "http://web.archive.org/web/20180210214330/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-02-10T21:43:32Z",
+                "uri": "http://web.archive.org/web/20180210214332/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-02-12T04:08:14Z",
+                "uri": "http://web.archive.org/web/20180212040814/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-02-12T04:08:17Z",
+                "uri": "http://web.archive.org/web/20180212040817/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-02-12T04:08:23Z",
+                "uri": "http://web.archive.org/web/20180212040823/https://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-02-12T13:23:39Z",
+                "uri": "http://web.archive.org/web/20180212132339/http://radiogoa.info/"
+            },
+            {
+                "datetime": "2018-02-12T13:24:08Z",
+                "uri": "http://web.archive.org/web/20180212132408/https://radiogoa.info/"
+            }
+        ]
+    },
+    "original_uri": "https://radiogoa.info/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://radiogoa.info/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://radiogoa.info/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://radiogoa.info/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://radiogoa.info/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://radiogoa.info/"
+    }
+}

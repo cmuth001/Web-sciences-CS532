@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-09T08:16:12Z",
+            "uri": "http://web.archive.org/web/20180209081612/https://www.standard.co.uk/sport/football/tottenham-vs-newport-county-live-fa-cup-2018-latest-score-goals-tv-online-lineups-wembley-stadium-a3761011.html"
+        },
+        "last": {
+            "datetime": "2018-02-09T08:16:12Z",
+            "uri": "http://web.archive.org/web/20180209081612/https://www.standard.co.uk/sport/football/tottenham-vs-newport-county-live-fa-cup-2018-latest-score-goals-tv-online-lineups-wembley-stadium-a3761011.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-09T08:16:12Z",
+                "uri": "http://web.archive.org/web/20180209081612/https://www.standard.co.uk/sport/football/tottenham-vs-newport-county-live-fa-cup-2018-latest-score-goals-tv-online-lineups-wembley-stadium-a3761011.html"
+            }
+        ]
+    },
+    "original_uri": "https://www.standard.co.uk/sport/football/tottenham-vs-newport-county-live-fa-cup-2018-latest-score-goals-tv-online-lineups-wembley-stadium-a3761011.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.standard.co.uk/sport/football/tottenham-vs-newport-county-live-fa-cup-2018-latest-score-goals-tv-online-lineups-wembley-stadium-a3761011.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.standard.co.uk/sport/football/tottenham-vs-newport-county-live-fa-cup-2018-latest-score-goals-tv-online-lineups-wembley-stadium-a3761011.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.standard.co.uk/sport/football/tottenham-vs-newport-county-live-fa-cup-2018-latest-score-goals-tv-online-lineups-wembley-stadium-a3761011.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.standard.co.uk/sport/football/tottenham-vs-newport-county-live-fa-cup-2018-latest-score-goals-tv-online-lineups-wembley-stadium-a3761011.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.standard.co.uk/sport/football/tottenham-vs-newport-county-live-fa-cup-2018-latest-score-goals-tv-online-lineups-wembley-stadium-a3761011.html"
+    }
+}

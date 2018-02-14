@@ -1,0 +1,70 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T00:22:17Z",
+            "uri": "http://web.archive.org/web/20180208002217/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder"
+        },
+        "last": {
+            "datetime": "2018-02-12T22:37:20Z",
+            "uri": "http://web.archive.org/web/20180212223720/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T00:22:17Z",
+                "uri": "http://web.archive.org/web/20180208002217/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder"
+            },
+            {
+                "datetime": "2018-02-08T01:18:32Z",
+                "uri": "http://web.archive.org/web/20180208011832/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder"
+            },
+            {
+                "datetime": "2018-02-08T07:53:41Z",
+                "uri": "http://web.archive.org/web/20180208075341/http://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder"
+            },
+            {
+                "datetime": "2018-02-08T07:53:42Z",
+                "uri": "http://web.archive.org/web/20180208075342/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder"
+            },
+            {
+                "datetime": "2018-02-08T16:59:54Z",
+                "uri": "http://web.archive.org/web/20180208165954/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder"
+            },
+            {
+                "datetime": "2018-02-09T17:42:15Z",
+                "uri": "http://web.archive.org/web/20180209174215/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder"
+            },
+            {
+                "datetime": "2018-02-10T19:22:28Z",
+                "uri": "http://web.archive.org/web/20180210192228/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder"
+            },
+            {
+                "datetime": "2018-02-10T19:22:28Z",
+                "uri": "http://web.archive.org/web/20180210192228/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder"
+            },
+            {
+                "datetime": "2018-02-11T20:00:24Z",
+                "uri": "http://web.archive.org/web/20180211200024/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder"
+            },
+            {
+                "datetime": "2018-02-11T20:05:16Z",
+                "uri": "http://web.archive.org/web/20180211200516/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder"
+            },
+            {
+                "datetime": "2018-02-12T22:37:20Z",
+                "uri": "http://web.archive.org/web/20180212223720/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder"
+            },
+            {
+                "datetime": "2018-02-12T22:37:20Z",
+                "uri": "http://web.archive.org/web/20180212223720/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder"
+            }
+        ]
+    },
+    "original_uri": "https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/football/blog/2018/feb/07/pogba-ramsey-epitomise-struggles-central-midfielder"
+    }
+}

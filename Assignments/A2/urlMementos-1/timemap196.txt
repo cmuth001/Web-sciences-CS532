@@ -1,0 +1,2962 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2006-10-04T21:49:03Z",
+            "uri": "http://web.archive.org/web/20061004214903/http://www.bcci.tv:80/"
+        },
+        "last": {
+            "datetime": "2018-02-12T16:59:31Z",
+            "uri": "http://web.archive.org/web/20180212165931/http://www.bcci.tv/"
+        },
+        "list": [
+            {
+                "datetime": "2006-10-04T21:49:03Z",
+                "uri": "http://web.archive.org/web/20061004214903/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2006-11-01T22:48:31Z",
+                "uri": "http://web.archive.org/web/20061101224831/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2006-11-10T11:01:38Z",
+                "uri": "http://web.archive.org/web/20061110110138/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2006-11-15T12:51:19Z",
+                "uri": "http://web.archive.org/web/20061115125119/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2006-11-20T05:52:51Z",
+                "uri": "http://web.archive.org/web/20061120055251/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2006-12-02T07:21:28Z",
+                "uri": "http://web.archive.org/web/20061202072128/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2006-12-28T18:52:46Z",
+                "uri": "http://web.archive.org/web/20061228185246/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-01-02T16:31:05Z",
+                "uri": "http://web.archive.org/web/20070102163105/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-01-07T09:44:58Z",
+                "uri": "http://web.archive.org/web/20070107094458/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-01-12T07:12:16Z",
+                "uri": "http://web.archive.org/web/20070112071216/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-01-17T03:31:45Z",
+                "uri": "http://web.archive.org/web/20070117033145/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-01-21T21:24:24Z",
+                "uri": "http://web.archive.org/web/20070121212424/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-01-26T14:39:26Z",
+                "uri": "http://web.archive.org/web/20070126143926/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-02-06T05:36:34Z",
+                "uri": "http://web.archive.org/web/20070206053634/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-02-13T22:10:13Z",
+                "uri": "http://web.archive.org/web/20070213221013/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-02-22T21:42:34Z",
+                "uri": "http://web.archive.org/web/20070222214234/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-02-26T13:27:41Z",
+                "uri": "http://web.archive.org/web/20070226132741/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-03-12T16:28:18Z",
+                "uri": "http://web.archive.org/web/20070312162818/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-03-21T03:40:06Z",
+                "uri": "http://web.archive.org/web/20070321034006/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-04-03T11:21:42Z",
+                "uri": "http://web.archive.org/web/20070403112142/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-04-04T18:33:39Z",
+                "uri": "http://web.archive.org/web/20070404183339/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-05-01T21:28:54Z",
+                "uri": "http://web.archive.org/web/20070501212854/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-05-10T11:34:30Z",
+                "uri": "http://web.archive.org/web/20070510113430/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-06-10T03:52:01Z",
+                "uri": "http://web.archive.org/web/20070610035201/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-07-10T17:48:55Z",
+                "uri": "http://web.archive.org/web/20070710174855/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-07-24T06:47:41Z",
+                "uri": "http://web.archive.org/web/20070724064741/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2007-08-10T09:29:33Z",
+                "uri": "http://web.archive.org/web/20070810092933/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-09-10T02:23:00Z",
+                "uri": "http://web.archive.org/web/20070910022300/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-09-28T03:23:45Z",
+                "uri": "http://web.archive.org/web/20070928032345/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2007-10-11T04:43:03Z",
+                "uri": "http://web.archive.org/web/20071011044303/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-11-02T03:50:42Z",
+                "uri": "http://web.archive.org/web/20071102035042/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-11-08T20:26:36Z",
+                "uri": "http://web.archive.org/web/20071108202636/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-11-12T22:34:34Z",
+                "uri": "http://web.archive.org/web/20071112223434/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-11-16T10:42:29Z",
+                "uri": "http://web.archive.org/web/20071116104229/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-11-19T14:39:24Z",
+                "uri": "http://web.archive.org/web/20071119143924/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-11-22T21:46:48Z",
+                "uri": "http://web.archive.org/web/20071122214648/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-11-26T05:29:01Z",
+                "uri": "http://web.archive.org/web/20071126052901/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-11-29T23:19:49Z",
+                "uri": "http://web.archive.org/web/20071129231949/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-12-04T05:40:00Z",
+                "uri": "http://web.archive.org/web/20071204054000/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-12-09T02:20:02Z",
+                "uri": "http://web.archive.org/web/20071209022002/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-12-14T05:59:34Z",
+                "uri": "http://web.archive.org/web/20071214055934/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-12-21T02:04:22Z",
+                "uri": "http://web.archive.org/web/20071221020422/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2007-12-28T22:21:40Z",
+                "uri": "http://web.archive.org/web/20071228222140/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-01-08T00:48:48Z",
+                "uri": "http://web.archive.org/web/20080108004848/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-01-20T17:17:43Z",
+                "uri": "http://web.archive.org/web/20080120171743/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-02-06T23:36:37Z",
+                "uri": "http://web.archive.org/web/20080206233637/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-03-03T00:32:03Z",
+                "uri": "http://web.archive.org/web/20080303003203/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-03-21T05:01:55Z",
+                "uri": "http://web.archive.org/web/20080321050155/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-04-12T17:41:46Z",
+                "uri": "http://web.archive.org/web/20080412174146/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-04-20T23:31:19Z",
+                "uri": "http://web.archive.org/web/20080420233119/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-04-30T15:46:06Z",
+                "uri": "http://web.archive.org/web/20080430154606/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-05-01T00:55:24Z",
+                "uri": "http://web.archive.org/web/20080501005524/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-05-07T04:08:53Z",
+                "uri": "http://web.archive.org/web/20080507040853/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-05-14T01:02:48Z",
+                "uri": "http://web.archive.org/web/20080514010248/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-05-21T10:16:49Z",
+                "uri": "http://web.archive.org/web/20080521101649/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-05-30T02:08:19Z",
+                "uri": "http://web.archive.org/web/20080530020819/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-06-10T12:16:22Z",
+                "uri": "http://web.archive.org/web/20080610121622/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-06-23T17:13:43Z",
+                "uri": "http://web.archive.org/web/20080623171343/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-01T04:55:45Z",
+                "uri": "http://web.archive.org/web/20080701045545/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-02T08:26:25Z",
+                "uri": "http://web.archive.org/web/20080702082625/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-03T11:06:30Z",
+                "uri": "http://web.archive.org/web/20080703110630/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-04T15:48:19Z",
+                "uri": "http://web.archive.org/web/20080704154819/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-05T17:48:26Z",
+                "uri": "http://web.archive.org/web/20080705174826/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-06T18:17:46Z",
+                "uri": "http://web.archive.org/web/20080706181746/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-07T19:09:42Z",
+                "uri": "http://web.archive.org/web/20080707190942/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-08T20:55:45Z",
+                "uri": "http://web.archive.org/web/20080708205545/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-10T07:48:57Z",
+                "uri": "http://web.archive.org/web/20080710074857/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-11T15:31:36Z",
+                "uri": "http://web.archive.org/web/20080711153136/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-12T19:41:00Z",
+                "uri": "http://web.archive.org/web/20080712194100/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-14T02:05:02Z",
+                "uri": "http://web.archive.org/web/20080714020502/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-15T07:03:32Z",
+                "uri": "http://web.archive.org/web/20080715070332/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-17T01:47:26Z",
+                "uri": "http://web.archive.org/web/20080717014726/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-18T03:30:55Z",
+                "uri": "http://web.archive.org/web/20080718033055/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-19T06:30:04Z",
+                "uri": "http://web.archive.org/web/20080719063004/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-20T08:10:13Z",
+                "uri": "http://web.archive.org/web/20080720081013/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-21T21:56:51Z",
+                "uri": "http://web.archive.org/web/20080721215651/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-22T22:34:39Z",
+                "uri": "http://web.archive.org/web/20080722223439/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-23T23:43:13Z",
+                "uri": "http://web.archive.org/web/20080723234313/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-25T07:37:31Z",
+                "uri": "http://web.archive.org/web/20080725073731/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-28T01:38:57Z",
+                "uri": "http://web.archive.org/web/20080728013857/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-29T02:09:06Z",
+                "uri": "http://web.archive.org/web/20080729020906/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-07-30T03:37:36Z",
+                "uri": "http://web.archive.org/web/20080730033736/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-08-05T13:04:23Z",
+                "uri": "http://web.archive.org/web/20080805130423/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-08-06T13:08:46Z",
+                "uri": "http://web.archive.org/web/20080806130846/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-08-10T23:09:34Z",
+                "uri": "http://web.archive.org/web/20080810230934/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-08-11T23:30:25Z",
+                "uri": "http://web.archive.org/web/20080811233025/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-08-17T00:26:38Z",
+                "uri": "http://web.archive.org/web/20080817002638/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-08-18T03:54:22Z",
+                "uri": "http://web.archive.org/web/20080818035422/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-08-21T03:54:20Z",
+                "uri": "http://web.archive.org/web/20080821035420/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-08-28T00:33:31Z",
+                "uri": "http://web.archive.org/web/20080828003331/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-08-31T00:24:20Z",
+                "uri": "http://web.archive.org/web/20080831002420/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-09-02T21:29:41Z",
+                "uri": "http://web.archive.org/web/20080902212941/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-09-13T02:23:28Z",
+                "uri": "http://web.archive.org/web/20080913022328/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-10-01T20:28:03Z",
+                "uri": "http://web.archive.org/web/20081001202803/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-10-06T23:45:07Z",
+                "uri": "http://web.archive.org/web/20081006234507/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-10-11T14:39:44Z",
+                "uri": "http://web.archive.org/web/20081011143944/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-10-16T10:08:34Z",
+                "uri": "http://web.archive.org/web/20081016100834/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-10-20T10:20:54Z",
+                "uri": "http://web.archive.org/web/20081020102054/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-10-24T15:29:35Z",
+                "uri": "http://web.archive.org/web/20081024152935/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-10-28T19:52:31Z",
+                "uri": "http://web.archive.org/web/20081028195231/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-11-01T18:21:57Z",
+                "uri": "http://web.archive.org/web/20081101182157/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-11-01T18:21:57Z",
+                "uri": "http://web.archive.org/web/20081101182157/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-11-05T11:09:20Z",
+                "uri": "http://web.archive.org/web/20081105110920/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-12-01T07:44:08Z",
+                "uri": "http://web.archive.org/web/20081201074408/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-12-05T07:37:19Z",
+                "uri": "http://web.archive.org/web/20081205073719/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-12-10T08:14:52Z",
+                "uri": "http://web.archive.org/web/20081210081452/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-12-16T09:53:17Z",
+                "uri": "http://web.archive.org/web/20081216095317/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2008-12-17T07:28:56Z",
+                "uri": "http://web.archive.org/web/20081217072856/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2009-02-07T21:16:02Z",
+                "uri": "http://web.archive.org/web/20090207211602/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2009-02-07T21:16:02Z",
+                "uri": "http://web.archive.org/web/20090207211602/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2009-02-18T18:05:43Z",
+                "uri": "http://web.archive.org/web/20090218180543/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2009-02-18T18:05:43Z",
+                "uri": "http://web.archive.org/web/20090218180543/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2009-03-02T09:07:07Z",
+                "uri": "http://web.archive.org/web/20090302090707/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2009-04-28T17:57:25Z",
+                "uri": "http://web.archive.org/web/20090428175725/http://www.bcci.tv:80/?"
+            },
+            {
+                "datetime": "2010-01-06T00:03:13Z",
+                "uri": "http://web.archive.org/web/20100106000313/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2010-02-13T10:44:33Z",
+                "uri": "http://web.archive.org/web/20100213104433/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2010-04-29T03:46:32Z",
+                "uri": "http://wayback.archive-it.org/all/20100429034632/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2010-04-29T03:46:32Z",
+                "uri": "http://web.archive.org/web/20100429034632/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2010-05-06T03:52:07Z",
+                "uri": "http://wayback.archive-it.org/all/20100506035207/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2010-05-06T03:52:07Z",
+                "uri": "http://web.archive.org/web/20100506035207/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2010-05-13T03:51:07Z",
+                "uri": "http://wayback.archive-it.org/all/20100513035107/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2010-05-13T03:51:07Z",
+                "uri": "http://web.archive.org/web/20100513035107/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2010-06-05T17:00:57Z",
+                "uri": "http://wayback.archive-it.org/all/20100605170057/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2010-06-05T17:00:57Z",
+                "uri": "http://web.archive.org/web/20100605170057/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2010-10-25T19:17:11Z",
+                "uri": "http://web.archive.org/web/20101025191711/http://bcci.tv/"
+            },
+            {
+                "datetime": "2010-11-19T23:28:16Z",
+                "uri": "http://web.archive.org/web/20101119232816/http://bcci.tv/"
+            },
+            {
+                "datetime": "2010-12-12T21:56:08Z",
+                "uri": "http://web.archive.org/web/20101212215608/http://bcci.tv/"
+            },
+            {
+                "datetime": "2011-02-22T22:06:40Z",
+                "uri": "http://web.archive.org/web/20110222220640/http://bcci.tv/"
+            },
+            {
+                "datetime": "2011-04-03T06:27:30Z",
+                "uri": "http://web.archive.org/web/20110403062730/http://bcci.tv:80/?"
+            },
+            {
+                "datetime": "2011-07-24T06:53:14Z",
+                "uri": "http://web.archive.org/web/20110724065314/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2011-07-28T15:00:08Z",
+                "uri": "http://web.archive.org/web/20110728150008/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2011-08-23T06:43:21Z",
+                "uri": "http://web.archive.org/web/20110823064321/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2011-08-23T12:31:56Z",
+                "uri": "http://web.archive.org/web/20110823123156/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-08-23T12:31:56Z",
+                "uri": "http://web.archive.org/web/20110823123156/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-09-02T10:29:19Z",
+                "uri": "http://web.archive.org/web/20110902102919/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-09-11T12:31:01Z",
+                "uri": "http://web.archive.org/web/20110911123101/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2011-09-23T15:11:09Z",
+                "uri": "http://web.archive.org/web/20110923151109/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-10-02T21:15:46Z",
+                "uri": "http://web.archive.org/web/20111002211546/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-10-05T06:30:01Z",
+                "uri": "http://web.archive.org/web/20111005063001/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2011-10-07T04:46:52Z",
+                "uri": "http://web.archive.org/web/20111007044652/http://bcci.tv/"
+            },
+            {
+                "datetime": "2011-10-07T15:14:35Z",
+                "uri": "http://web.archive.org/web/20111007151435/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2011-10-11T14:36:14Z",
+                "uri": "http://web.archive.org/web/20111011143614/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-10-17T22:25:54Z",
+                "uri": "http://web.archive.org/web/20111017222554/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-10-22T02:14:11Z",
+                "uri": "http://web.archive.org/web/20111022021411/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-10-25T06:26:31Z",
+                "uri": "http://web.archive.org/web/20111025062631/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-10-29T09:07:58Z",
+                "uri": "http://web.archive.org/web/20111029090758/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-11-01T00:46:11Z",
+                "uri": "http://web.archive.org/web/20111101004611/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-11-03T10:52:27Z",
+                "uri": "http://web.archive.org/web/20111103105227/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-11-06T07:19:29Z",
+                "uri": "http://web.archive.org/web/20111106071929/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-11-09T01:37:43Z",
+                "uri": "http://web.archive.org/web/20111109013743/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-11-12T17:35:33Z",
+                "uri": "http://web.archive.org/web/20111112173533/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-11-15T04:56:31Z",
+                "uri": "http://web.archive.org/web/20111115045631/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-11-17T14:18:21Z",
+                "uri": "http://web.archive.org/web/20111117141821/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-11-20T17:20:21Z",
+                "uri": "http://web.archive.org/web/20111120172021/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-11-23T13:03:22Z",
+                "uri": "http://web.archive.org/web/20111123130322/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-11-27T13:14:23Z",
+                "uri": "http://web.archive.org/web/20111127131423/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-11-27T13:14:23Z",
+                "uri": "http://web.archive.org/web/20111127131423/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-11-30T09:27:14Z",
+                "uri": "http://web.archive.org/web/20111130092714/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-12-02T18:49:13Z",
+                "uri": "http://web.archive.org/web/20111202184913/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-12-05T14:49:01Z",
+                "uri": "http://web.archive.org/web/20111205144901/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-12-09T06:35:03Z",
+                "uri": "http://web.archive.org/web/20111209063503/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-12-11T18:23:56Z",
+                "uri": "http://web.archive.org/web/20111211182356/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-12-14T06:15:37Z",
+                "uri": "http://web.archive.org/web/20111214061537/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-12-17T06:45:20Z",
+                "uri": "http://web.archive.org/web/20111217064520/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-12-19T08:29:09Z",
+                "uri": "http://web.archive.org/web/20111219082909/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-12-22T05:06:41Z",
+                "uri": "http://web.archive.org/web/20111222050641/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-12-24T16:34:32Z",
+                "uri": "http://web.archive.org/web/20111224163432/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-12-27T06:00:37Z",
+                "uri": "http://web.archive.org/web/20111227060037/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2011-12-27T13:22:03Z",
+                "uri": "http://web.archive.org/web/20111227132203/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2011-12-29T22:39:27Z",
+                "uri": "http://web.archive.org/web/20111229223927/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-01-01T15:00:59Z",
+                "uri": "http://web.archive.org/web/20120101150059/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-01-03T09:25:50Z",
+                "uri": "http://web.archive.org/web/20120103092550/http://bcci.tv/"
+            },
+            {
+                "datetime": "2012-01-03T21:13:18Z",
+                "uri": "http://web.archive.org/web/20120103211318/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-01-06T07:58:38Z",
+                "uri": "http://web.archive.org/web/20120106075838/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-01-11T07:10:04Z",
+                "uri": "http://web.archive.org/web/20120111071004/http://bcci.tv/"
+            },
+            {
+                "datetime": "2012-02-14T22:35:34Z",
+                "uri": "http://web.archive.org/web/20120214223534/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-02-17T01:22:55Z",
+                "uri": "http://web.archive.org/web/20120217012255/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-02-25T20:43:49Z",
+                "uri": "http://web.archive.org/web/20120225204349/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-02-29T18:38:24Z",
+                "uri": "http://web.archive.org/web/20120229183824/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-03-12T01:36:16Z",
+                "uri": "http://web.archive.org/web/20120312013616/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-04-14T15:00:51Z",
+                "uri": "http://web.archive.org/web/20120414150051/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-04-19T08:53:09Z",
+                "uri": "http://web.archive.org/web/20120419085309/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-04-26T01:23:40Z",
+                "uri": "http://web.archive.org/web/20120426012340/http://bcci.tv/"
+            },
+            {
+                "datetime": "2012-04-26T03:54:17Z",
+                "uri": "http://web.archive.org/web/20120426035417/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-05-02T00:59:18Z",
+                "uri": "http://web.archive.org/web/20120502005918/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-05-03T20:03:53Z",
+                "uri": "http://web.archive.org/web/20120503200353/http://bcci.tv/"
+            },
+            {
+                "datetime": "2012-05-03T23:31:41Z",
+                "uri": "http://web.archive.org/web/20120503233141/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-05-09T08:34:50Z",
+                "uri": "http://web.archive.org/web/20120509083450/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-05-11T07:10:55Z",
+                "uri": "http://web.archive.org/web/20120511071055/http://bcci.tv/"
+            },
+            {
+                "datetime": "2012-05-18T05:15:06Z",
+                "uri": "http://web.archive.org/web/20120518051506/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-05-24T04:45:17Z",
+                "uri": "http://wayback.archive-it.org/all/20120524044517/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-05-24T04:45:17Z",
+                "uri": "http://web.archive.org/web/20120524044517/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-06-23T15:26:23Z",
+                "uri": "http://web.archive.org/web/20120623152623/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-07-04T18:23:22Z",
+                "uri": "http://web.archive.org/web/20120704182322/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-07-04T22:02:44Z",
+                "uri": "http://web.archive.org/web/20120704220244/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-05T04:34:59Z",
+                "uri": "http://web.archive.org/web/20120805043459/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-08-07T00:28:31Z",
+                "uri": "http://wayback.archive-it.org/all/20120807002831/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-07T00:28:31Z",
+                "uri": "http://web.archive.org/web/20120807002831/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-07T08:26:12Z",
+                "uri": "http://wayback.archive-it.org/all/20120807082612/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-07T08:26:12Z",
+                "uri": "http://web.archive.org/web/20120807082612/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-15T05:10:57Z",
+                "uri": "http://wayback.archive-it.org/all/20120815051057/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-15T05:10:57Z",
+                "uri": "http://web.archive.org/web/20120815051057/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-15T13:04:54Z",
+                "uri": "http://web.archive.org/web/20120815130454/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-08-16T23:33:58Z",
+                "uri": "http://wayback.archive-it.org/all/20120816233358/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-16T23:33:58Z",
+                "uri": "http://web.archive.org/web/20120816233358/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-17T18:09:01Z",
+                "uri": "http://wayback.archive-it.org/all/20120817180901/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-17T18:09:01Z",
+                "uri": "http://web.archive.org/web/20120817180901/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-18T13:58:49Z",
+                "uri": "http://web.archive.org/web/20120818135849/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-24T23:59:45Z",
+                "uri": "http://wayback.archive-it.org/all/20120824235945/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-24T23:59:45Z",
+                "uri": "http://web.archive.org/web/20120824235945/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-25T16:19:35Z",
+                "uri": "http://web.archive.org/web/20120825161935/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-08-25T21:12:50Z",
+                "uri": "http://web.archive.org/web/20120825211250/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-28T00:23:58Z",
+                "uri": "http://wayback.archive-it.org/all/20120828002358/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-28T00:23:58Z",
+                "uri": "http://web.archive.org/web/20120828002358/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-28T11:07:58Z",
+                "uri": "http://wayback.archive-it.org/all/20120828110758/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-28T11:07:58Z",
+                "uri": "http://web.archive.org/web/20120828110758/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-28T11:15:01Z",
+                "uri": "http://wayback.archive-it.org/all/20120828111501/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-08-28T11:15:01Z",
+                "uri": "http://web.archive.org/web/20120828111501/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-09-02T04:13:16Z",
+                "uri": "http://web.archive.org/web/20120902041316/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-09-08T16:25:33Z",
+                "uri": "http://web.archive.org/web/20120908162533/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-09-09T08:26:42Z",
+                "uri": "http://web.archive.org/web/20120909082642/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-09-18T17:54:49Z",
+                "uri": "http://web.archive.org/web/20120918175449/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-09-19T07:57:12Z",
+                "uri": "http://web.archive.org/web/20120919075712/http://bcci.tv/"
+            },
+            {
+                "datetime": "2012-09-19T22:57:05Z",
+                "uri": "http://web.archive.org/web/20120919225705/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-11-03T14:06:18Z",
+                "uri": "http://web.archive.org/web/20121103140618/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-11-20T10:23:48Z",
+                "uri": "http://wayback.archive-it.org/all/20121120102348/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-11-20T10:23:48Z",
+                "uri": "http://web.archive.org/web/20121120102348/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-11-27T13:57:53Z",
+                "uri": "http://web.archive.org/web/20121127135753/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2012-11-29T02:14:47Z",
+                "uri": "http://wayback.archive-it.org/all/20121129021447/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-11-29T02:14:47Z",
+                "uri": "http://web.archive.org/web/20121129021447/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-12-04T16:37:01Z",
+                "uri": "http://archive.is/20121204163701/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-12-05T14:15:13Z",
+                "uri": "http://wayback.archive-it.org/all/20121205141513/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-12-05T14:15:13Z",
+                "uri": "http://web.archive.org/web/20121205141513/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2012-12-06T12:28:19Z",
+                "uri": "http://web.archive.org/web/20121206122819/http://bcci.tv/"
+            },
+            {
+                "datetime": "2012-12-26T06:02:19Z",
+                "uri": "http://web.archive.org/web/20121226060219/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2013-01-02T06:38:52Z",
+                "uri": "http://web.archive.org/web/20130102063852/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2013-01-07T00:10:52Z",
+                "uri": "http://web.archive.org/web/20130107001052/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2013-01-12T09:35:47Z",
+                "uri": "http://web.archive.org/web/20130112093547/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2013-01-14T23:34:43Z",
+                "uri": "http://web.archive.org/web/20130114233443/http://bcci.tv/"
+            },
+            {
+                "datetime": "2013-01-16T11:34:55Z",
+                "uri": "http://web.archive.org/web/20130116113455/http://bcci.tv/"
+            },
+            {
+                "datetime": "2013-01-17T10:36:37Z",
+                "uri": "http://web.archive.org/web/20130117103637/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-01-19T01:59:08Z",
+                "uri": "http://wayback.archive-it.org/all/20130119015908/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-01-19T01:59:08Z",
+                "uri": "http://web.archive.org/web/20130119015908/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-01-31T02:22:52Z",
+                "uri": "http://wayback.archive-it.org/all/20130131022252/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-01-31T02:22:52Z",
+                "uri": "http://web.archive.org/web/20130131022252/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-02-23T11:44:49Z",
+                "uri": "http://web.archive.org/web/20130223114449/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2013-03-02T01:42:45Z",
+                "uri": "http://web.archive.org/web/20130302014245/http://bcci.tv/"
+            },
+            {
+                "datetime": "2013-03-29T22:03:09Z",
+                "uri": "http://web.archive.org/web/20130329220309/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-03-31T04:59:48Z",
+                "uri": "http://web.archive.org/web/20130331045948/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-04-02T03:52:16Z",
+                "uri": "http://web.archive.org/web/20130402035216/http://bcci.tv/"
+            },
+            {
+                "datetime": "2013-04-03T04:02:06Z",
+                "uri": "http://web.archive.org/web/20130403040206/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-04-30T07:40:52Z",
+                "uri": "http://web.archive.org/web/20130430074052/http://bcci.tv/"
+            },
+            {
+                "datetime": "2013-05-14T17:08:04Z",
+                "uri": "http://web.archive.org/web/20130514170804/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-05-18T05:01:15Z",
+                "uri": "http://web.archive.org/web/20130518050115/http://bcci.tv/"
+            },
+            {
+                "datetime": "2013-05-31T03:51:39Z",
+                "uri": "http://web.archive.org/web/20130531035139/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2013-05-31T19:56:06Z",
+                "uri": "http://web.archive.org/web/20130531195606/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-07-27T15:27:49Z",
+                "uri": "http://web.archive.org/web/20130727152749/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-07-29T15:24:27Z",
+                "uri": "http://web.archive.org/web/20130729152427/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-07-30T07:33:29Z",
+                "uri": "http://web.archive.org/web/20130730073329/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2013-08-05T06:56:56Z",
+                "uri": "http://web.archive.org/web/20130805065656/http://bcci.tv/"
+            },
+            {
+                "datetime": "2013-08-05T07:02:58Z",
+                "uri": "http://web.archive.org/web/20130805070258/http://bcci.tv/"
+            },
+            {
+                "datetime": "2013-08-05T09:38:56Z",
+                "uri": "http://web.archive.org/web/20130805093856/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-08-06T03:05:51Z",
+                "uri": "http://web.archive.org/web/20130806030551/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-09-27T12:21:53Z",
+                "uri": "http://web.archive.org/web/20130927122153/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-10-15T06:01:18Z",
+                "uri": "http://web.archive.org/web/20131015060118/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-11-12T07:42:30Z",
+                "uri": "http://web.archive.org/web/20131112074230/http://www.bcci.tv:80/?"
+            },
+            {
+                "datetime": "2013-12-04T00:19:35Z",
+                "uri": "http://web.archive.org/web/20131204001935/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2013-12-11T10:45:01Z",
+                "uri": "http://web.archive.org/web/20131211104501/http://bcci.tv/"
+            },
+            {
+                "datetime": "2013-12-12T03:21:07Z",
+                "uri": "http://web.archive.org/web/20131212032107/http://bcci.tv/"
+            },
+            {
+                "datetime": "2014-02-07T21:21:46Z",
+                "uri": "http://web.archive.org/web/20140207212146/http://bcci.tv/"
+            },
+            {
+                "datetime": "2014-02-08T00:26:19Z",
+                "uri": "http://web.archive.org/web/20140208002619/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-03-09T22:48:08Z",
+                "uri": "http://web.archive.org/web/20140309224808/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-03-31T14:36:48Z",
+                "uri": "http://web.archive.org/web/20140331143648/http://bcci.tv/"
+            },
+            {
+                "datetime": "2014-05-16T22:33:43Z",
+                "uri": "http://web.archive.org/web/20140516223343/http://bcci.tv/"
+            },
+            {
+                "datetime": "2014-05-28T11:37:14Z",
+                "uri": "http://web.archive.org/web/20140528113714/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-06-25T03:51:23Z",
+                "uri": "http://web.archive.org/web/20140625035123/http://bcci.tv/"
+            },
+            {
+                "datetime": "2014-06-25T06:19:36Z",
+                "uri": "http://web.archive.org/web/20140625061936/http://bcci.tv/"
+            },
+            {
+                "datetime": "2014-06-25T13:04:33Z",
+                "uri": "http://web.archive.org/web/20140625130433/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-08-22T09:14:06Z",
+                "uri": "http://web.archive.org/web/20140822091406/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-08-23T09:21:53Z",
+                "uri": "http://web.archive.org/web/20140823092153/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-08-24T00:23:35Z",
+                "uri": "http://web.archive.org/web/20140824002335/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-08-30T03:00:35Z",
+                "uri": "http://web.archive.org/web/20140830030035/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-10-20T20:14:45Z",
+                "uri": "http://web.archive.org/web/20141020201445/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2014-10-25T20:25:42Z",
+                "uri": "http://web.archive.org/web/20141025202542/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-10-25T22:48:35Z",
+                "uri": "http://web.archive.org/web/20141025224835/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-11-06T23:31:27Z",
+                "uri": "http://web.archive.org/web/20141106233127/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2014-12-08T09:47:44Z",
+                "uri": "http://web.archive.org/web/20141208094744/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2014-12-16T08:55:40Z",
+                "uri": "http://web.archive.org/web/20141216085540/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2014-12-16T21:29:07Z",
+                "uri": "http://web.archive.org/web/20141216212907/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-16T21:49:24Z",
+                "uri": "http://web.archive.org/web/20141216214924/http://bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-16T22:03:41Z",
+                "uri": "http://web.archive.org/web/20141216220341/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-16T22:38:02Z",
+                "uri": "http://web.archive.org/web/20141216223802/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-17T01:31:30Z",
+                "uri": "http://web.archive.org/web/20141217013130/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-17T03:39:57Z",
+                "uri": "http://web.archive.org/web/20141217033957/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-17T04:31:46Z",
+                "uri": "http://web.archive.org/web/20141217043146/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-18T00:09:56Z",
+                "uri": "http://web.archive.org/web/20141218000956/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-18T13:45:09Z",
+                "uri": "http://web.archive.org/web/20141218134509/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-19T03:34:38Z",
+                "uri": "http://web.archive.org/web/20141219033438/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-23T21:43:28Z",
+                "uri": "http://web.archive.org/web/20141223214328/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-23T23:34:25Z",
+                "uri": "http://web.archive.org/web/20141223233425/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-23T23:35:43Z",
+                "uri": "http://web.archive.org/web/20141223233543/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-24T04:08:43Z",
+                "uri": "http://web.archive.org/web/20141224040843/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-24T05:25:49Z",
+                "uri": "http://web.archive.org/web/20141224052549/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-24T08:11:00Z",
+                "uri": "http://web.archive.org/web/20141224081100/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-26T09:40:43Z",
+                "uri": "http://web.archive.org/web/20141226094043/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2014-12-27T04:10:08Z",
+                "uri": "http://web.archive.org/web/20141227041008/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2014-12-31T15:54:40Z",
+                "uri": "http://web.archive.org/web/20141231155440/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-01-05T05:11:57Z",
+                "uri": "http://web.archive.org/web/20150105051157/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-01-06T05:31:13Z",
+                "uri": "http://web.archive.org/web/20150106053113/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-01-07T08:30:55Z",
+                "uri": "http://wayback.archive-it.org/all/20150107083055/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-01-07T08:30:55Z",
+                "uri": "http://wayback.archive-it.org/all/20150107083055/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-01-07T08:30:55Z",
+                "uri": "http://web.archive.org/web/20150107083055/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-01-10T10:31:37Z",
+                "uri": "http://web.archive.org/web/20150110103137/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-01-20T09:21:43Z",
+                "uri": "http://web.archive.org/web/20150120092143/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-02-05T21:58:54Z",
+                "uri": "http://web.archive.org/web/20150205215854/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-02-05T23:25:25Z",
+                "uri": "http://web.archive.org/web/20150205232525/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-02-05T23:25:25Z",
+                "uri": "http://web.archive.org/web/20150205232525/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-02-07T01:39:06Z",
+                "uri": "http://web.archive.org/web/20150207013906/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-02-07T01:39:06Z",
+                "uri": "http://web.archive.org/web/20150207013906/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-02-10T02:26:13Z",
+                "uri": "http://web.archive.org/web/20150210022613/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-02-14T13:12:47Z",
+                "uri": "http://web.archive.org/web/20150214131247/http://www.bcci.tv:80/?"
+            },
+            {
+                "datetime": "2015-02-16T04:38:38Z",
+                "uri": "http://web.archive.org/web/20150216043838/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-02-19T07:09:40Z",
+                "uri": "http://web.archive.org/web/20150219070940/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-02-22T03:35:50Z",
+                "uri": "http://web.archive.org/web/20150222033550/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-02-24T22:54:09Z",
+                "uri": "http://web.archive.org/web/20150224225409/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-02-28T01:09:29Z",
+                "uri": "http://web.archive.org/web/20150228010929/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-03-02T19:10:23Z",
+                "uri": "http://web.archive.org/web/20150302191023/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-03-06T05:07:04Z",
+                "uri": "http://web.archive.org/web/20150306050704/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-03-09T05:32:33Z",
+                "uri": "http://web.archive.org/web/20150309053233/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-03-12T07:09:00Z",
+                "uri": "http://web.archive.org/web/20150312070900/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-03-14T14:35:32Z",
+                "uri": "http://web.archive.org/web/20150314143532/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-03-14T20:55:24Z",
+                "uri": "http://web.archive.org/web/20150314205524/http://bcci.tv/"
+            },
+            {
+                "datetime": "2015-03-15T00:22:33Z",
+                "uri": "http://web.archive.org/web/20150315002233/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-03-16T11:53:33Z",
+                "uri": "http://web.archive.org/web/20150316115333/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-03-22T20:40:33Z",
+                "uri": "http://web.archive.org/web/20150322204033/http://bcci.tv/"
+            },
+            {
+                "datetime": "2015-03-24T00:40:07Z",
+                "uri": "http://web.archive.org/web/20150324004007/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-03-24T18:55:07Z",
+                "uri": "http://web.archive.org/web/20150324185507/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-04-07T11:58:51Z",
+                "uri": "http://web.archive.org/web/20150407115851/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-04-14T13:01:24Z",
+                "uri": "http://web.archive.org/web/20150414130124/http://bcci.tv/"
+            },
+            {
+                "datetime": "2015-04-20T13:31:26Z",
+                "uri": "http://archive.is/20150420133126/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-04-24T23:17:34Z",
+                "uri": "http://web.archive.org/web/20150424231734/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-04-26T05:39:00Z",
+                "uri": "http://web.archive.org/web/20150426053900/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-04-30T14:17:11Z",
+                "uri": "http://web.archive.org/web/20150430141711/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-06-27T20:14:59Z",
+                "uri": "http://web.archive.org/web/20150627201459/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-07-09T18:43:30Z",
+                "uri": "http://web.archive.org/web/20150709184330/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-07-12T10:37:23Z",
+                "uri": "http://web.archive.org/web/20150712103723/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-07-12T10:37:25Z",
+                "uri": "http://web.archive.org/web/20150712103725/http://bcci.tv/"
+            },
+            {
+                "datetime": "2015-07-19T03:36:52Z",
+                "uri": "http://web.archive.org/web/20150719033652/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-08-01T00:49:41Z",
+                "uri": "http://web.archive.org/web/20150801004941/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-08-01T00:55:24Z",
+                "uri": "http://web.archive.org/web/20150801005524/http://bcci.tv/"
+            },
+            {
+                "datetime": "2015-08-01T02:27:06Z",
+                "uri": "http://web.archive.org/web/20150801022706/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-08-01T04:20:18Z",
+                "uri": "http://web.archive.org/web/20150801042018/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-08-01T05:58:36Z",
+                "uri": "http://web.archive.org/web/20150801055836/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-08-01T07:41:20Z",
+                "uri": "http://web.archive.org/web/20150801074120/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-08-01T12:51:20Z",
+                "uri": "http://web.archive.org/web/20150801125120/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-08-01T18:55:22Z",
+                "uri": "http://web.archive.org/web/20150801185522/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-08-04T06:41:10Z",
+                "uri": "http://web.archive.org/web/20150804064110/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-08-04T07:24:36Z",
+                "uri": "http://web.archive.org/web/20150804072436/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-08-04T07:25:03Z",
+                "uri": "http://web.archive.org/web/20150804072503/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-08-11T15:13:07Z",
+                "uri": "http://web.archive.org/web/20150811151307/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-08-13T13:13:20Z",
+                "uri": "http://web.archive.org/web/20150813131320/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-08-14T01:24:08Z",
+                "uri": "http://web.archive.org/web/20150814012408/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-08-18T04:38:58Z",
+                "uri": "http://web.archive.org/web/20150818043858/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-08-22T09:43:13Z",
+                "uri": "http://web.archive.org/web/20150822094313/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-08-27T02:46:12Z",
+                "uri": "http://web.archive.org/web/20150827024612/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-08-31T12:52:50Z",
+                "uri": "http://web.archive.org/web/20150831125250/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-09-05T05:23:30Z",
+                "uri": "http://web.archive.org/web/20150905052330/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-09-05T11:42:56Z",
+                "uri": "http://web.archive.org/web/20150905114256/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-09-08T11:07:59Z",
+                "uri": "http://web.archive.org/web/20150908110759/http://bcci.tv/"
+            },
+            {
+                "datetime": "2015-09-10T04:00:27Z",
+                "uri": "http://web.archive.org/web/20150910040027/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-09-14T16:57:32Z",
+                "uri": "http://web.archive.org/web/20150914165732/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-09-23T05:51:22Z",
+                "uri": "http://web.archive.org/web/20150923055122/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-09-23T22:36:58Z",
+                "uri": "http://web.archive.org/web/20150923223658/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-09-27T21:13:07Z",
+                "uri": "http://web.archive.org/web/20150927211307/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-09-28T11:03:19Z",
+                "uri": "http://web.archive.org/web/20150928110319/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-10-03T00:53:58Z",
+                "uri": "http://web.archive.org/web/20151003005358/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-10-04T08:38:24Z",
+                "uri": "http://web.archive.org/web/20151004083824/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-10-07T08:34:30Z",
+                "uri": "http://web.archive.org/web/20151007083430/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-10-09T12:46:56Z",
+                "uri": "http://web.archive.org/web/20151009124656/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-10-15T19:17:37Z",
+                "uri": "http://web.archive.org/web/20151015191737/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-10-22T08:26:54Z",
+                "uri": "http://web.archive.org/web/20151022082654/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-10-23T05:29:21Z",
+                "uri": "http://web.archive.org/web/20151023052921/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-10-23T10:38:04Z",
+                "uri": "http://webarchive.loc.gov/all/20151023103804/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-10-26T05:59:48Z",
+                "uri": "http://web.archive.org/web/20151026055948/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-10-29T15:23:40Z",
+                "uri": "http://web.archive.org/web/20151029152340/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-11-01T08:23:37Z",
+                "uri": "http://web.archive.org/web/20151101082337/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-11-01T14:44:24Z",
+                "uri": "http://archive.is/20151101144424/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-11-04T23:53:47Z",
+                "uri": "http://web.archive.org/web/20151104235347/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-11-10T01:06:53Z",
+                "uri": "http://web.archive.org/web/20151110010653/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-11-13T09:01:57Z",
+                "uri": "http://web.archive.org/web/20151113090157/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-11-16T07:32:17Z",
+                "uri": "http://web.archive.org/web/20151116073217/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-11-19T07:33:31Z",
+                "uri": "http://web.archive.org/web/20151119073331/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-11-22T16:36:31Z",
+                "uri": "http://web.archive.org/web/20151122163631/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-11-27T14:17:03Z",
+                "uri": "http://web.archive.org/web/20151127141703/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2015-12-22T20:26:11Z",
+                "uri": "http://web.archive.org/web/20151222202611/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2015-12-25T21:30:00Z",
+                "uri": "http://web.archive.org/web/20151225213000/http://bcci.tv/"
+            },
+            {
+                "datetime": "2015-12-26T00:10:59Z",
+                "uri": "http://web.archive.org/web/20151226001059/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-01T16:58:57Z",
+                "uri": "http://web.archive.org/web/20160101165857/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-01-09T06:36:26Z",
+                "uri": "http://web.archive.org/web/20160109063626/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-09T08:30:33Z",
+                "uri": "http://web.archive.org/web/20160109083033/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-09T08:32:48Z",
+                "uri": "http://web.archive.org/web/20160109083248/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-10T00:25:25Z",
+                "uri": "http://web.archive.org/web/20160110002525/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-10T10:53:26Z",
+                "uri": "http://web.archive.org/web/20160110105326/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-10T13:47:38Z",
+                "uri": "http://web.archive.org/web/20160110134738/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-10T14:42:28Z",
+                "uri": "http://web.archive.org/web/20160110144228/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-10T23:28:54Z",
+                "uri": "http://web.archive.org/web/20160110232854/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-13T05:42:35Z",
+                "uri": "http://web.archive.org/web/20160113054235/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-13T21:47:53Z",
+                "uri": "http://web.archive.org/web/20160113214753/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-14T17:38:34Z",
+                "uri": "http://web.archive.org/web/20160114173834/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-15T00:40:27Z",
+                "uri": "http://web.archive.org/web/20160115004027/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-18T08:17:52Z",
+                "uri": "http://web.archive.org/web/20160118081752/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-20T13:36:20Z",
+                "uri": "http://web.archive.org/web/20160120133620/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-20T13:36:22Z",
+                "uri": "http://web.archive.org/web/20160120133622/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-20T16:43:24Z",
+                "uri": "http://web.archive.org/web/20160120164324/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-20T20:31:31Z",
+                "uri": "http://web.archive.org/web/20160120203131/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-21T20:48:30Z",
+                "uri": "http://web.archive.org/web/20160121204830/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-21T20:48:32Z",
+                "uri": "http://web.archive.org/web/20160121204832/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-23T13:07:48Z",
+                "uri": "http://web.archive.org/web/20160123130748/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-24T00:28:57Z",
+                "uri": "http://web.archive.org/web/20160124002857/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-26T03:21:55Z",
+                "uri": "http://web.archive.org/web/20160126032155/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-26T03:21:56Z",
+                "uri": "http://web.archive.org/web/20160126032156/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-27T05:19:57Z",
+                "uri": "http://web.archive.org/web/20160127051957/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-27T05:19:59Z",
+                "uri": "http://web.archive.org/web/20160127051959/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-28T07:08:50Z",
+                "uri": "http://web.archive.org/web/20160128070850/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-28T07:08:51Z",
+                "uri": "http://web.archive.org/web/20160128070851/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-29T12:25:29Z",
+                "uri": "http://web.archive.org/web/20160129122529/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-29T12:25:31Z",
+                "uri": "http://web.archive.org/web/20160129122531/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-30T08:00:50Z",
+                "uri": "http://web.archive.org/web/20160130080050/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-30T08:00:53Z",
+                "uri": "http://web.archive.org/web/20160130080053/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-31T03:04:45Z",
+                "uri": "http://web.archive.org/web/20160131030445/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-31T09:09:26Z",
+                "uri": "http://web.archive.org/web/20160131090926/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-01-31T09:09:27Z",
+                "uri": "http://web.archive.org/web/20160131090927/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-01T13:55:47Z",
+                "uri": "http://web.archive.org/web/20160201135547/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-01T13:55:49Z",
+                "uri": "http://web.archive.org/web/20160201135549/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-02T04:23:24Z",
+                "uri": "http://web.archive.org/web/20160202042324/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-02T15:47:36Z",
+                "uri": "http://web.archive.org/web/20160202154736/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-02T15:47:38Z",
+                "uri": "http://web.archive.org/web/20160202154738/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-03T16:29:15Z",
+                "uri": "http://web.archive.org/web/20160203162915/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-03T16:29:17Z",
+                "uri": "http://web.archive.org/web/20160203162917/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-04T19:08:12Z",
+                "uri": "http://web.archive.org/web/20160204190812/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-04T19:08:14Z",
+                "uri": "http://web.archive.org/web/20160204190814/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-06T00:11:50Z",
+                "uri": "http://web.archive.org/web/20160206001150/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-06T00:11:52Z",
+                "uri": "http://web.archive.org/web/20160206001152/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-07T01:21:51Z",
+                "uri": "http://web.archive.org/web/20160207012151/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-07T01:21:52Z",
+                "uri": "http://web.archive.org/web/20160207012152/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-08T04:31:20Z",
+                "uri": "http://web.archive.org/web/20160208043120/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-08T04:31:22Z",
+                "uri": "http://web.archive.org/web/20160208043122/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-09T06:04:56Z",
+                "uri": "http://web.archive.org/web/20160209060456/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-09T06:04:58Z",
+                "uri": "http://web.archive.org/web/20160209060458/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-10T10:38:49Z",
+                "uri": "http://web.archive.org/web/20160210103849/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-10T10:38:50Z",
+                "uri": "http://web.archive.org/web/20160210103850/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-11T12:50:51Z",
+                "uri": "http://web.archive.org/web/20160211125051/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-11T12:50:52Z",
+                "uri": "http://web.archive.org/web/20160211125052/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-12T14:51:16Z",
+                "uri": "http://web.archive.org/web/20160212145116/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-12T14:51:18Z",
+                "uri": "http://web.archive.org/web/20160212145118/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-13T16:41:00Z",
+                "uri": "http://web.archive.org/web/20160213164100/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-13T16:41:02Z",
+                "uri": "http://web.archive.org/web/20160213164102/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-14T21:59:14Z",
+                "uri": "http://web.archive.org/web/20160214215914/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-14T21:59:16Z",
+                "uri": "http://web.archive.org/web/20160214215916/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-15T21:39:57Z",
+                "uri": "http://web.archive.org/web/20160215213957/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-16T02:15:37Z",
+                "uri": "http://web.archive.org/web/20160216021537/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-16T02:15:39Z",
+                "uri": "http://web.archive.org/web/20160216021539/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-17T06:14:10Z",
+                "uri": "http://web.archive.org/web/20160217061410/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-17T06:14:13Z",
+                "uri": "http://web.archive.org/web/20160217061413/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-18T08:12:37Z",
+                "uri": "http://web.archive.org/web/20160218081237/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-18T08:12:39Z",
+                "uri": "http://web.archive.org/web/20160218081239/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-19T01:36:50Z",
+                "uri": "http://web.archive.org/web/20160219013650/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-19T09:54:15Z",
+                "uri": "http://web.archive.org/web/20160219095415/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-19T09:54:16Z",
+                "uri": "http://web.archive.org/web/20160219095416/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-19T23:59:05Z",
+                "uri": "http://web.archive.org/web/20160219235905/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-20T00:00:57Z",
+                "uri": "http://web.archive.org/web/20160220000057/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-20T10:40:33Z",
+                "uri": "http://web.archive.org/web/20160220104033/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-20T10:40:35Z",
+                "uri": "http://web.archive.org/web/20160220104035/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-20T11:59:57Z",
+                "uri": "http://web.archive.org/web/20160220115957/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-20T12:00:01Z",
+                "uri": "http://web.archive.org/web/20160220120001/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-20T12:00:04Z",
+                "uri": "http://web.archive.org/web/20160220120004/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-20T12:00:08Z",
+                "uri": "http://web.archive.org/web/20160220120008/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-21T12:33:10Z",
+                "uri": "http://web.archive.org/web/20160221123310/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-21T12:33:14Z",
+                "uri": "http://web.archive.org/web/20160221123314/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-22T15:03:23Z",
+                "uri": "http://web.archive.org/web/20160222150323/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-22T15:03:27Z",
+                "uri": "http://web.archive.org/web/20160222150327/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-23T02:15:23Z",
+                "uri": "http://web.archive.org/web/20160223021523/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-23T16:42:52Z",
+                "uri": "http://web.archive.org/web/20160223164252/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-23T16:42:54Z",
+                "uri": "http://web.archive.org/web/20160223164254/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-24T18:27:06Z",
+                "uri": "http://web.archive.org/web/20160224182706/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-24T18:27:08Z",
+                "uri": "http://web.archive.org/web/20160224182708/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-25T20:10:32Z",
+                "uri": "http://web.archive.org/web/20160225201032/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-25T20:10:34Z",
+                "uri": "http://web.archive.org/web/20160225201034/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-26T21:05:36Z",
+                "uri": "http://web.archive.org/web/20160226210536/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-26T21:05:38Z",
+                "uri": "http://web.archive.org/web/20160226210538/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-27T22:17:53Z",
+                "uri": "http://web.archive.org/web/20160227221753/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-27T22:17:55Z",
+                "uri": "http://web.archive.org/web/20160227221755/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-29T00:56:37Z",
+                "uri": "http://web.archive.org/web/20160229005637/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-02-29T00:56:39Z",
+                "uri": "http://web.archive.org/web/20160229005639/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-01T10:19:49Z",
+                "uri": "http://web.archive.org/web/20160301101949/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-02T14:31:22Z",
+                "uri": "http://web.archive.org/web/20160302143122/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-03T17:27:42Z",
+                "uri": "http://web.archive.org/web/20160303172742/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-03T22:38:29Z",
+                "uri": "http://web.archive.org/web/20160303223829/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-04T05:40:30Z",
+                "uri": "http://web.archive.org/web/20160304054030/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-04T05:41:16Z",
+                "uri": "http://web.archive.org/web/20160304054116/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-04T11:51:18Z",
+                "uri": "http://web.archive.org/web/20160304115118/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-04T19:58:36Z",
+                "uri": "http://web.archive.org/web/20160304195836/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-05T09:07:43Z",
+                "uri": "http://web.archive.org/web/20160305090743/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-05T20:04:47Z",
+                "uri": "http://web.archive.org/web/20160305200447/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-06T00:55:07Z",
+                "uri": "http://web.archive.org/web/20160306005507/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-06T10:42:13Z",
+                "uri": "http://web.archive.org/web/20160306104213/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-06T11:04:59Z",
+                "uri": "http://web.archive.org/web/20160306110459/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-06T11:05:46Z",
+                "uri": "http://web.archive.org/web/20160306110546/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-03-06T19:52:35Z",
+                "uri": "http://web.archive.org/web/20160306195235/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-07T13:27:26Z",
+                "uri": "http://web.archive.org/web/20160307132726/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-08T20:45:54Z",
+                "uri": "http://web.archive.org/web/20160308204554/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-09T08:10:23Z",
+                "uri": "http://web.archive.org/web/20160309081023/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-10T11:22:07Z",
+                "uri": "http://web.archive.org/web/20160310112207/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-03-11T06:47:29Z",
+                "uri": "http://web.archive.org/web/20160311064729/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-12T21:20:15Z",
+                "uri": "http://web.archive.org/web/20160312212015/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-13T12:42:48Z",
+                "uri": "http://web.archive.org/web/20160313124248/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-14T00:12:17Z",
+                "uri": "http://web.archive.org/web/20160314001217/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-14T12:37:29Z",
+                "uri": "http://web.archive.org/web/20160314123729/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-03-15T06:22:31Z",
+                "uri": "http://web.archive.org/web/20160315062231/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-17T19:16:25Z",
+                "uri": "http://web.archive.org/web/20160317191625/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-03-19T11:36:40Z",
+                "uri": "http://web.archive.org/web/20160319113640/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-19T13:27:22Z",
+                "uri": "http://web.archive.org/web/20160319132722/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-21T16:05:54Z",
+                "uri": "http://web.archive.org/web/20160321160554/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-03-23T11:14:53Z",
+                "uri": "http://web.archive.org/web/20160323111453/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-24T15:35:26Z",
+                "uri": "http://web.archive.org/web/20160324153526/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-25T15:50:39Z",
+                "uri": "http://web.archive.org/web/20160325155039/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-03-26T09:50:10Z",
+                "uri": "http://web.archive.org/web/20160326095010/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-26T17:26:07Z",
+                "uri": "http://web.archive.org/web/20160326172607/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-29T12:14:57Z",
+                "uri": "http://web.archive.org/web/20160329121457/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-29T12:57:43Z",
+                "uri": "http://web.archive.org/web/20160329125743/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-29T15:48:38Z",
+                "uri": "http://web.archive.org/web/20160329154838/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-03-29T17:39:40Z",
+                "uri": "http://web.archive.org/web/20160329173940/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-04-01T14:20:20Z",
+                "uri": "http://web.archive.org/web/20160401142020/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-04-02T16:05:09Z",
+                "uri": "http://web.archive.org/web/20160402160509/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-04-05T20:17:09Z",
+                "uri": "http://web.archive.org/web/20160405201709/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-04-06T12:53:57Z",
+                "uri": "http://web.archive.org/web/20160406125357/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-04-10T15:53:31Z",
+                "uri": "http://web.archive.org/web/20160410155331/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-04-12T13:42:18Z",
+                "uri": "http://web.archive.org/web/20160412134218/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-04-13T03:10:00Z",
+                "uri": "http://web.archive.org/web/20160413031000/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-04-14T17:25:33Z",
+                "uri": "http://web.archive.org/web/20160414172533/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-04-14T21:20:40Z",
+                "uri": "http://web.archive.org/web/20160414212040/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-04-16T01:15:12Z",
+                "uri": "http://web.archive.org/web/20160416011512/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-04-18T05:52:54Z",
+                "uri": "http://web.archive.org/web/20160418055254/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-04-19T04:01:36Z",
+                "uri": "http://web.archive.org/web/20160419040136/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-04-20T04:50:59Z",
+                "uri": "http://web.archive.org/web/20160420045059/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-04-20T05:11:37Z",
+                "uri": "http://web.archive.org/web/20160420051137/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-04-21T06:28:16Z",
+                "uri": "http://web.archive.org/web/20160421062816/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-04-22T08:15:17Z",
+                "uri": "http://web.archive.org/web/20160422081517/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-04-23T08:59:54Z",
+                "uri": "http://web.archive.org/web/20160423085954/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-04-24T11:19:14Z",
+                "uri": "http://web.archive.org/web/20160424111914/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-04-24T13:15:22Z",
+                "uri": "http://web.archive.org/web/20160424131522/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-04-25T13:12:59Z",
+                "uri": "http://web.archive.org/web/20160425131259/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-04-26T14:58:30Z",
+                "uri": "http://web.archive.org/web/20160426145830/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-04-29T07:52:15Z",
+                "uri": "http://web.archive.org/web/20160429075215/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-05-04T07:59:08Z",
+                "uri": "http://web.archive.org/web/20160504075908/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-05-05T09:46:36Z",
+                "uri": "http://web.archive.org/web/20160505094636/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-05-07T18:23:12Z",
+                "uri": "http://web.archive.org/web/20160507182312/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-05-09T21:01:32Z",
+                "uri": "http://web.archive.org/web/20160509210132/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-05-10T10:28:07Z",
+                "uri": "http://web.archive.org/web/20160510102807/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-05-12T20:16:24Z",
+                "uri": "http://web.archive.org/web/20160512201624/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-05-15T06:06:43Z",
+                "uri": "http://web.archive.org/web/20160515060643/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-05-22T07:53:44Z",
+                "uri": "http://web.archive.org/web/20160522075344/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-05-23T21:42:45Z",
+                "uri": "http://web.archive.org/web/20160523214245/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-05-24T01:57:28Z",
+                "uri": "http://web.archive.org/web/20160524015728/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-05-24T02:32:38Z",
+                "uri": "http://web.archive.org/web/20160524023238/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-05-29T09:46:54Z",
+                "uri": "http://web.archive.org/web/20160529094654/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-06-02T11:24:46Z",
+                "uri": "http://web.archive.org/web/20160602112446/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-03T13:10:02Z",
+                "uri": "http://web.archive.org/web/20160603131002/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-04T04:24:34Z",
+                "uri": "http://web.archive.org/web/20160604042434/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-06-04T15:00:59Z",
+                "uri": "http://web.archive.org/web/20160604150059/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-05T17:55:45Z",
+                "uri": "http://web.archive.org/web/20160605175545/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-06T16:58:42Z",
+                "uri": "http://web.archive.org/web/20160606165842/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-09T01:50:36Z",
+                "uri": "http://web.archive.org/web/20160609015036/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-06-11T15:26:27Z",
+                "uri": "http://web.archive.org/web/20160611152627/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-12T14:41:37Z",
+                "uri": "http://web.archive.org/web/20160612144137/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-13T17:10:00Z",
+                "uri": "http://web.archive.org/web/20160613171000/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-14T04:13:51Z",
+                "uri": "http://web.archive.org/web/20160614041351/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-06-14T14:41:29Z",
+                "uri": "http://web.archive.org/web/20160614144129/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-15T16:13:45Z",
+                "uri": "http://web.archive.org/web/20160615161345/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-16T08:28:19Z",
+                "uri": "http://web.archive.org/web/20160616082819/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-17T10:06:52Z",
+                "uri": "http://web.archive.org/web/20160617100652/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-18T16:55:53Z",
+                "uri": "http://web.archive.org/web/20160618165553/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-19T04:19:57Z",
+                "uri": "http://web.archive.org/web/20160619041957/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-06-19T18:50:50Z",
+                "uri": "http://web.archive.org/web/20160619185050/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-20T23:23:59Z",
+                "uri": "http://web.archive.org/web/20160620232359/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-21T23:19:30Z",
+                "uri": "http://web.archive.org/web/20160621231930/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-23T16:19:22Z",
+                "uri": "http://web.archive.org/web/20160623161922/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-06-24T03:03:41Z",
+                "uri": "http://web.archive.org/web/20160624030341/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-24T03:03:42Z",
+                "uri": "http://web.archive.org/web/20160624030342/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-06-28T06:30:53Z",
+                "uri": "http://web.archive.org/web/20160628063053/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-06-29T09:08:01Z",
+                "uri": "http://web.archive.org/web/20160629090801/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-07-04T11:56:57Z",
+                "uri": "http://web.archive.org/web/20160704115657/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-07-08T23:34:57Z",
+                "uri": "http://web.archive.org/web/20160708233457/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-07-09T11:24:27Z",
+                "uri": "http://web.archive.org/web/20160709112427/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-07-11T21:06:17Z",
+                "uri": "http://web.archive.org/web/20160711210617/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-07-13T14:50:03Z",
+                "uri": "http://web.archive.org/web/20160713145003/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-07-18T22:16:52Z",
+                "uri": "http://web.archive.org/web/20160718221652/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-07-23T13:19:00Z",
+                "uri": "http://web.archive.org/web/20160723131900/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-07-24T18:36:28Z",
+                "uri": "http://web.archive.org/web/20160724183628/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-07-29T13:57:13Z",
+                "uri": "http://web.archive.org/web/20160729135713/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-08-03T13:23:35Z",
+                "uri": "http://web.archive.org/web/20160803132335/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-08-08T05:32:50Z",
+                "uri": "http://web.archive.org/web/20160808053250/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-08-13T06:46:44Z",
+                "uri": "http://web.archive.org/web/20160813064644/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-08-13T23:18:51Z",
+                "uri": "http://web.archive.org/web/20160813231851/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-08-15T03:18:24Z",
+                "uri": "http://web.archive.org/web/20160815031824/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-08-17T14:33:07Z",
+                "uri": "http://web.archive.org/web/20160817143307/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-08-22T12:27:13Z",
+                "uri": "http://web.archive.org/web/20160822122713/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-08-25T02:05:32Z",
+                "uri": "http://web.archive.org/web/20160825020532/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-08-26T07:06:37Z",
+                "uri": "http://web.archive.org/web/20160826070637/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-08-27T15:33:39Z",
+                "uri": "http://web.archive.org/web/20160827153339/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-08-28T19:02:40Z",
+                "uri": "http://web.archive.org/web/20160828190240/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-08-29T09:11:24Z",
+                "uri": "http://web.archive.org/web/20160829091124/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-09-04T10:03:07Z",
+                "uri": "http://web.archive.org/web/20160904100307/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-09-06T17:36:32Z",
+                "uri": "http://web.archive.org/web/20160906173632/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-09-09T04:58:21Z",
+                "uri": "http://web.archive.org/web/20160909045821/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-09-09T08:43:18Z",
+                "uri": "http://web.archive.org/web/20160909084318/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-09-14T06:51:31Z",
+                "uri": "http://web.archive.org/web/20160914065131/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-09-22T23:09:02Z",
+                "uri": "http://web.archive.org/web/20160922230902/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-09-29T22:36:00Z",
+                "uri": "http://web.archive.org/web/20160929223600/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-10-01T18:48:47Z",
+                "uri": "http://web.archive.org/web/20161001184847/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-10-06T17:19:30Z",
+                "uri": "http://web.archive.org/web/20161006171930/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-10-07T11:06:05Z",
+                "uri": "http://web.archive.org/web/20161007110605/http://bcci.tv/"
+            },
+            {
+                "datetime": "2016-10-07T11:13:48Z",
+                "uri": "http://web.archive.org/web/20161007111348/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-10-10T22:23:35Z",
+                "uri": "http://web.archive.org/web/20161010222335/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-10-11T23:01:59Z",
+                "uri": "http://web.archive.org/web/20161011230159/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-10-13T04:33:25Z",
+                "uri": "http://web.archive.org/web/20161013043325/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-10-13T05:14:20Z",
+                "uri": "http://web.archive.org/web/20161013051420/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-10-15T06:19:36Z",
+                "uri": "http://web.archive.org/web/20161015061936/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-10-15T23:26:05Z",
+                "uri": "http://web.archive.org/web/20161015232605/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-10-23T14:33:38Z",
+                "uri": "http://web.archive.org/web/20161023143338/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-10-26T16:19:45Z",
+                "uri": "http://web.archive.org/web/20161026161945/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-11-16T19:27:07Z",
+                "uri": "http://web.archive.org/web/20161116192707/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-11-18T21:54:57Z",
+                "uri": "http://web.archive.org/web/20161118215457/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-11-19T13:42:56Z",
+                "uri": "http://web.archive.org/web/20161119134256/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-11-21T04:44:49Z",
+                "uri": "http://web.archive.org/web/20161121044449/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-11-21T04:44:49Z",
+                "uri": "http://web.archive.org/web/20161121044449/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2016-11-25T14:51:07Z",
+                "uri": "http://web.archive.org/web/20161125145107/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-11-28T20:12:53Z",
+                "uri": "http://web.archive.org/web/20161128201253/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-12-11T03:47:55Z",
+                "uri": "http://web.archive.org/web/20161211034755/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-12-15T07:39:59Z",
+                "uri": "http://web.archive.org/web/20161215073959/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-12-15T19:45:27Z",
+                "uri": "http://web.archive.org/web/20161215194527/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-12-27T23:10:57Z",
+                "uri": "http://web.archive.org/web/20161227231057/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2016-12-31T22:07:25Z",
+                "uri": "http://web.archive.org/web/20161231220725/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-01-03T06:52:51Z",
+                "uri": "http://web.archive.org/web/20170103065251/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-01-04T01:44:55Z",
+                "uri": "http://web.archive.org/web/20170104014455/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-01-05T09:08:56Z",
+                "uri": "http://web.archive.org/web/20170105090856/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-01-10T10:22:32Z",
+                "uri": "http://web.archive.org/web/20170110102232/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-01-11T00:54:09Z",
+                "uri": "http://web.archive.org/web/20170111005409/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-01-11T00:54:09Z",
+                "uri": "http://web.archive.org/web/20170111005409/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-01-11T14:40:53Z",
+                "uri": "http://web.archive.org/web/20170111144053/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-01-12T08:53:54Z",
+                "uri": "http://web.archive.org/web/20170112085354/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-01-27T18:57:26Z",
+                "uri": "http://web.archive.org/web/20170127185726/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-01-28T17:51:01Z",
+                "uri": "http://web.archive.org/web/20170128175101/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-02-03T22:08:29Z",
+                "uri": "http://web.archive.org/web/20170203220829/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-02-10T09:15:58Z",
+                "uri": "http://web.archive.org/web/20170210091558/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-02-27T07:17:10Z",
+                "uri": "http://web.archive.org/web/20170227071710/http://www.bcci.tv:80/?"
+            },
+            {
+                "datetime": "2017-03-12T08:21:28Z",
+                "uri": "http://web.archive.org/web/20170312082128/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-03-18T09:53:15Z",
+                "uri": "http://web.archive.org/web/20170318095315/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-03-22T11:13:22Z",
+                "uri": "http://web.archive.org/web/20170322111322/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-03-26T15:12:01Z",
+                "uri": "http://wayback.archive-it.org/all/20170326151201/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-03-26T15:12:01Z",
+                "uri": "http://web.archive.org/web/20170326151201/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-03-30T18:37:14Z",
+                "uri": "http://web.archive.org/web/20170330183714/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-03-31T13:00:02Z",
+                "uri": "http://web.archive.org/web/20170331130002/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-04-06T17:38:41Z",
+                "uri": "http://web.archive.org/web/20170406173841/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-04-07T02:58:41Z",
+                "uri": "http://web.archive.org/web/20170407025841/http://web.archive.org/screenshot/http://bcci.tv/"
+            },
+            {
+                "datetime": "2017-04-11T03:45:48Z",
+                "uri": "http://web.archive.org/web/20170411034548/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-04-15T22:06:30Z",
+                "uri": "http://web.archive.org/web/20170415220630/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-04-16T19:49:27Z",
+                "uri": "http://web.archive.org/web/20170416194927/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-04-30T19:12:13Z",
+                "uri": "http://web.archive.org/web/20170430191213/http://bcci.tv/"
+            },
+            {
+                "datetime": "2017-05-03T20:02:31Z",
+                "uri": "http://web.archive.org/web/20170503200231/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-05-09T17:09:46Z",
+                "uri": "http://web.archive.org/web/20170509170946/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-05-11T16:07:39Z",
+                "uri": "http://web.archive.org/web/20170511160739/http://www.bcci.tv:80/?"
+            },
+            {
+                "datetime": "2017-05-12T02:49:06Z",
+                "uri": "http://web.archive.org/web/20170512024906/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-05-12T13:26:51Z",
+                "uri": "http://web.archive.org/web/20170512132651/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-05-12T13:26:51Z",
+                "uri": "http://web.archive.org/web/20170512132651/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-05-14T03:25:17Z",
+                "uri": "http://web.archive.org/web/20170514032517/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-05-18T00:09:44Z",
+                "uri": "http://web.archive.org/web/20170518000944/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-05-20T20:46:11Z",
+                "uri": "http://web.archive.org/web/20170520204611/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-05-21T00:32:12Z",
+                "uri": "http://web.archive.org/web/20170521003212/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-05-22T09:36:27Z",
+                "uri": "http://web.archive.org/web/20170522093627/http://bcci.tv/"
+            },
+            {
+                "datetime": "2017-05-27T08:56:59Z",
+                "uri": "http://web.archive.org/web/20170527085659/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-05-27T20:55:12Z",
+                "uri": "http://web.archive.org/web/20170527205512/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-05-30T11:29:59Z",
+                "uri": "http://web.archive.org/web/20170530112959/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-05-31T04:19:13Z",
+                "uri": "http://web.archive.org/web/20170531041913/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-06-01T10:56:42Z",
+                "uri": "http://web.archive.org/web/20170601105642/http://bcci.tv/"
+            },
+            {
+                "datetime": "2017-06-01T11:39:56Z",
+                "uri": "http://web.archive.org/web/20170601113956/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-06-01T11:40:06Z",
+                "uri": "http://web.archive.org/web/20170601114006/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-06-02T21:17:37Z",
+                "uri": "http://web.archive.org/web/20170602211737/http://bcci.tv/"
+            },
+            {
+                "datetime": "2017-06-02T21:35:36Z",
+                "uri": "http://web.archive.org/web/20170602213536/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-06-07T09:09:20Z",
+                "uri": "http://web.archive.org/web/20170607090920/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-06-11T20:54:40Z",
+                "uri": "http://web.archive.org/web/20170611205440/http://www.bcci.tv:80/?"
+            },
+            {
+                "datetime": "2017-06-12T20:34:14Z",
+                "uri": "http://web.archive.org/web/20170612203414/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-06-19T11:03:08Z",
+                "uri": "http://web.archive.org/web/20170619110308/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-06-22T19:39:09Z",
+                "uri": "http://wayback.archive-it.org/all/20170622193909/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-06-22T19:39:09Z",
+                "uri": "http://web.archive.org/web/20170622193909/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-06-30T19:16:30Z",
+                "uri": "http://web.archive.org/web/20170630191630/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-07-05T01:34:51Z",
+                "uri": "http://web.archive.org/web/20170705013451/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-07-10T15:14:31Z",
+                "uri": "http://web.archive.org/web/20170710151431/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-07-14T14:18:50Z",
+                "uri": "http://web.archive.org/web/20170714141850/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-07-14T14:18:50Z",
+                "uri": "http://web.archive.org/web/20170714141850/http://bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-07-14T20:21:31Z",
+                "uri": "http://web.archive.org/web/20170714202131/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-07-18T18:53:08Z",
+                "uri": "http://web.archive.org/web/20170718185308/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-07-23T02:37:03Z",
+                "uri": "http://web.archive.org/web/20170723023703/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-07-29T09:32:39Z",
+                "uri": "http://web.archive.org/web/20170729093239/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-08-02T15:17:42Z",
+                "uri": "http://web.archive.org/web/20170802151742/http://www.bcci.tv:80/"
+            },
+            {
+                "datetime": "2017-08-22T17:39:21Z",
+                "uri": "http://web.archive.org/web/20170822173921/http://bcci.tv/"
+            },
+            {
+                "datetime": "2017-08-22T21:41:42Z",
+                "uri": "http://web.archive.org/web/20170822214142/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-08-22T21:41:49Z",
+                "uri": "http://web.archive.org/web/20170822214149/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-08-22T21:41:52Z",
+                "uri": "http://web.archive.org/web/20170822214152/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-09-05T15:30:15Z",
+                "uri": "http://web.archive.org/web/20170905153015/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-09-14T17:36:12Z",
+                "uri": "http://web.archive.org/web/20170914173612/http://bcci.tv/"
+            },
+            {
+                "datetime": "2017-09-15T09:57:35Z",
+                "uri": "http://web.archive.org/web/20170915095735/http://bcci.tv/"
+            },
+            {
+                "datetime": "2017-09-29T00:43:59Z",
+                "uri": "http://wayback.archive-it.org/all/20170929004359/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-09-29T00:43:59Z",
+                "uri": "http://web.archive.org/web/20170929004359/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-11-17T17:28:49Z",
+                "uri": "http://wayback.archive-it.org/all/20171117172849/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-11-17T17:28:49Z",
+                "uri": "http://web.archive.org/web/20171117172849/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-12-14T22:53:35Z",
+                "uri": "http://web.archive.org/web/20171214225335/http://bcci.tv/"
+            },
+            {
+                "datetime": "2017-12-14T22:53:56Z",
+                "uri": "http://web.archive.org/web/20171214225356/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-12-17T01:48:56Z",
+                "uri": "http://web.archive.org/web/20171217014856/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-12-22T15:03:11Z",
+                "uri": "http://web.archive.org/web/20171222150311/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-12-25T11:38:38Z",
+                "uri": "http://wayback.archive-it.org/all/20171225113838/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2017-12-29T13:29:24Z",
+                "uri": "http://web.archive.org/web/20171229132924/http://bcci.tv/"
+            },
+            {
+                "datetime": "2017-12-29T21:09:46Z",
+                "uri": "http://web.archive.org/web/20171229210946/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2018-01-27T04:46:34Z",
+                "uri": "http://web.archive.org/web/20180127044634/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2018-01-31T15:06:19Z",
+                "uri": "http://web.archive.org/web/20180131150619/http://bcci.tv/"
+            },
+            {
+                "datetime": "2018-02-04T00:27:58Z",
+                "uri": "http://web.archive.org/web/20180204002758/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2018-02-04T20:53:19Z",
+                "uri": "http://web.archive.org/web/20180204205319/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2018-02-05T22:36:19Z",
+                "uri": "http://web.archive.org/web/20180205223619/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2018-02-06T23:14:45Z",
+                "uri": "http://web.archive.org/web/20180206231445/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2018-02-08T01:21:48Z",
+                "uri": "http://web.archive.org/web/20180208012148/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2018-02-09T08:25:54Z",
+                "uri": "http://web.archive.org/web/20180209082554/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2018-02-10T12:30:08Z",
+                "uri": "http://web.archive.org/web/20180210123008/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2018-02-10T14:28:07Z",
+                "uri": "http://web.archive.org/web/20180210142807/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2018-02-11T14:12:26Z",
+                "uri": "http://web.archive.org/web/20180211141226/http://www.bcci.tv/"
+            },
+            {
+                "datetime": "2018-02-12T16:59:31Z",
+                "uri": "http://web.archive.org/web/20180212165931/http://www.bcci.tv/"
+            }
+        ]
+    },
+    "original_uri": "http://www.bcci.tv/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.bcci.tv/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.bcci.tv/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.bcci.tv/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.bcci.tv/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.bcci.tv/"
+    }
+}

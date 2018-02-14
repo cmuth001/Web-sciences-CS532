@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T03:40:29Z",
+            "uri": "http://web.archive.org/web/20180208034029/https://deadspin.com/football-recruit-picks-florida-mom-wearing-vols-and-ba-1822811454"
+        },
+        "last": {
+            "datetime": "2018-02-08T03:54:27Z",
+            "uri": "http://web.archive.org/web/20180208035427/http://deadspin.com/football-recruit-picks-florida-mom-wearing-vols-and-ba-1822811454"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T03:40:29Z",
+                "uri": "http://web.archive.org/web/20180208034029/https://deadspin.com/football-recruit-picks-florida-mom-wearing-vols-and-ba-1822811454"
+            },
+            {
+                "datetime": "2018-02-08T03:54:27Z",
+                "uri": "http://web.archive.org/web/20180208035427/http://deadspin.com/football-recruit-picks-florida-mom-wearing-vols-and-ba-1822811454"
+            }
+        ]
+    },
+    "original_uri": "https://deadspin.com/football-recruit-picks-florida-mom-wearing-vols-and-ba-1822811454",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://deadspin.com/football-recruit-picks-florida-mom-wearing-vols-and-ba-1822811454",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://deadspin.com/football-recruit-picks-florida-mom-wearing-vols-and-ba-1822811454",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://deadspin.com/football-recruit-picks-florida-mom-wearing-vols-and-ba-1822811454",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://deadspin.com/football-recruit-picks-florida-mom-wearing-vols-and-ba-1822811454",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://deadspin.com/football-recruit-picks-florida-mom-wearing-vols-and-ba-1822811454"
+    }
+}

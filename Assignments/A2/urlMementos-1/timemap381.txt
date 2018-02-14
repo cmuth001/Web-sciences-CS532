@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T09:07:51Z",
+            "uri": "http://web.archive.org/web/20180208090751/https://sports.yahoo.com/way-early-look-top-fantasy-qbs-rbs-wrs-tes-2018-145127487.html"
+        },
+        "last": {
+            "datetime": "2018-02-08T09:07:51Z",
+            "uri": "http://web.archive.org/web/20180208090751/https://sports.yahoo.com/way-early-look-top-fantasy-qbs-rbs-wrs-tes-2018-145127487.html"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T09:07:51Z",
+                "uri": "http://web.archive.org/web/20180208090751/https://sports.yahoo.com/way-early-look-top-fantasy-qbs-rbs-wrs-tes-2018-145127487.html"
+            }
+        ]
+    },
+    "original_uri": "https://sports.yahoo.com/way-early-look-top-fantasy-qbs-rbs-wrs-tes-2018-145127487.html",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://sports.yahoo.com/way-early-look-top-fantasy-qbs-rbs-wrs-tes-2018-145127487.html",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://sports.yahoo.com/way-early-look-top-fantasy-qbs-rbs-wrs-tes-2018-145127487.html",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://sports.yahoo.com/way-early-look-top-fantasy-qbs-rbs-wrs-tes-2018-145127487.html",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://sports.yahoo.com/way-early-look-top-fantasy-qbs-rbs-wrs-tes-2018-145127487.html",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://sports.yahoo.com/way-early-look-top-fantasy-qbs-rbs-wrs-tes-2018-145127487.html"
+    }
+}

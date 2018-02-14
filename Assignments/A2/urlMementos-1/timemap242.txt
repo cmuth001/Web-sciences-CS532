@@ -1,0 +1,106 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2013-08-13T16:44:33Z",
+            "uri": "http://web.archive.org/web/20130813164433/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+        },
+        "last": {
+            "datetime": "2018-02-05T15:46:41Z",
+            "uri": "http://web.archive.org/web/20180205154641/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+        },
+        "list": [
+            {
+                "datetime": "2013-08-13T16:44:33Z",
+                "uri": "http://web.archive.org/web/20130813164433/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2013-10-16T11:47:12Z",
+                "uri": "http://web.archive.org/web/20131016114712/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2013-12-03T11:51:47Z",
+                "uri": "http://web.archive.org/web/20131203115147/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2014-04-19T07:38:30Z",
+                "uri": "http://web.archive.org/web/20140419073830/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2015-09-17T10:41:41Z",
+                "uri": "http://web.archive.org/web/20150917104141/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2016-03-05T16:47:27Z",
+                "uri": "http://web.archive.org/web/20160305164727/http://mgmt.firststreaming.com/listen/player.php?callsign=wibw_am"
+            },
+            {
+                "datetime": "2016-04-12T15:40:48Z",
+                "uri": "http://wayback.archive-it.org/all/20160412154048/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2016-04-12T15:40:48Z",
+                "uri": "http://web.archive.org/web/20160412154048/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2016-05-23T07:05:40Z",
+                "uri": "http://web.archive.org/web/20160523070540/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2016-10-22T13:01:19Z",
+                "uri": "http://web.archive.org/web/20161022130119/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2016-11-13T16:59:17Z",
+                "uri": "http://wayback.archive-it.org/all/20161113165917/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2016-11-13T16:59:17Z",
+                "uri": "http://web.archive.org/web/20161113165917/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2017-05-24T04:38:28Z",
+                "uri": "http://web.archive.org/web/20170524043828/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2017-05-26T14:31:20Z",
+                "uri": "http://web.archive.org/web/20170526143120/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2017-06-15T17:10:46Z",
+                "uri": "http://web.archive.org/web/20170615171046/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2017-09-05T13:11:55Z",
+                "uri": "http://web.archive.org/web/20170905131155/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2017-10-05T15:46:29Z",
+                "uri": "http://wayback.archive-it.org/all/20171005154629/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2017-10-05T15:46:29Z",
+                "uri": "http://web.archive.org/web/20171005154629/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2017-11-03T21:11:34Z",
+                "uri": "http://web.archive.org/web/20171103211134/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2018-02-05T15:46:41Z",
+                "uri": "http://wayback.archive-it.org/all/20180205154641/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            },
+            {
+                "datetime": "2018-02-05T15:46:41Z",
+                "uri": "http://web.archive.org/web/20180205154641/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+            }
+        ]
+    },
+    "original_uri": "http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://mgmt.firststreaming.com/listen/player.php?callsign=WIBW_AM"
+    }
+}

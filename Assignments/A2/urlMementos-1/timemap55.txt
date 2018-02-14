@@ -1,0 +1,38 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T12:43:47Z",
+            "uri": "http://web.archive.org/web/20180208124347/https://www.thesun.co.uk/sport/football/5524519/arsenal-alex-iwobi-nigerias-world-cup-kit/"
+        },
+        "last": {
+            "datetime": "2018-02-09T13:52:21Z",
+            "uri": "http://web.archive.org/web/20180209135221/http://www.thesun.co.uk/sport/football/5524519/arsenal-alex-iwobi-nigerias-world-cup-kit/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T12:43:47Z",
+                "uri": "http://web.archive.org/web/20180208124347/https://www.thesun.co.uk/sport/football/5524519/arsenal-alex-iwobi-nigerias-world-cup-kit/"
+            },
+            {
+                "datetime": "2018-02-08T12:43:53Z",
+                "uri": "http://web.archive.org/web/20180208124353/http://www.thesun.co.uk/sport/football/5524519/arsenal-alex-iwobi-nigerias-world-cup-kit/"
+            },
+            {
+                "datetime": "2018-02-09T13:52:19Z",
+                "uri": "http://web.archive.org/web/20180209135219/https://www.thesun.co.uk/sport/football/5524519/arsenal-alex-iwobi-nigerias-world-cup-kit/"
+            },
+            {
+                "datetime": "2018-02-09T13:52:21Z",
+                "uri": "http://web.archive.org/web/20180209135221/http://www.thesun.co.uk/sport/football/5524519/arsenal-alex-iwobi-nigerias-world-cup-kit/"
+            }
+        ]
+    },
+    "original_uri": "https://www.thesun.co.uk/sport/football/5524519/arsenal-alex-iwobi-nigerias-world-cup-kit/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5524519/arsenal-alex-iwobi-nigerias-world-cup-kit/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thesun.co.uk/sport/football/5524519/arsenal-alex-iwobi-nigerias-world-cup-kit/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thesun.co.uk/sport/football/5524519/arsenal-alex-iwobi-nigerias-world-cup-kit/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5524519/arsenal-alex-iwobi-nigerias-world-cup-kit/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thesun.co.uk/sport/football/5524519/arsenal-alex-iwobi-nigerias-world-cup-kit/"
+    }
+}

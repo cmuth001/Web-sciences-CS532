@@ -1,0 +1,46 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2016-12-31T19:03:11Z",
+            "uri": "http://web.archive.org/web/20161231190311/https://sopralalunawithpenguinsintherain.blogspot.com/"
+        },
+        "last": {
+            "datetime": "2018-02-02T04:59:09Z",
+            "uri": "http://web.archive.org/web/20180202045909/https://sopralalunawithpenguinsintherain.blogspot.com/"
+        },
+        "list": [
+            {
+                "datetime": "2016-12-31T19:03:11Z",
+                "uri": "http://web.archive.org/web/20161231190311/https://sopralalunawithpenguinsintherain.blogspot.com/"
+            },
+            {
+                "datetime": "2016-12-31T19:04:10Z",
+                "uri": "http://web.archive.org/web/20161231190410/https://sopralalunawithpenguinsintherain.blogspot.com/"
+            },
+            {
+                "datetime": "2017-10-03T21:15:21Z",
+                "uri": "http://web.archive.org/web/20171003211521/https://sopralalunawithpenguinsintherain.blogspot.com/"
+            },
+            {
+                "datetime": "2018-01-31T14:40:17Z",
+                "uri": "http://web.archive.org/web/20180131144017/http://sopralalunawithpenguinsintherain.blogspot.com/"
+            },
+            {
+                "datetime": "2018-01-31T14:40:48Z",
+                "uri": "http://web.archive.org/web/20180131144048/https://sopralalunawithpenguinsintherain.blogspot.com/"
+            },
+            {
+                "datetime": "2018-02-02T04:59:09Z",
+                "uri": "http://web.archive.org/web/20180202045909/https://sopralalunawithpenguinsintherain.blogspot.com/"
+            }
+        ]
+    },
+    "original_uri": "https://sopralalunawithpenguinsintherain.blogspot.com",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://sopralalunawithpenguinsintherain.blogspot.com",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://sopralalunawithpenguinsintherain.blogspot.com",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://sopralalunawithpenguinsintherain.blogspot.com",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://sopralalunawithpenguinsintherain.blogspot.com",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://sopralalunawithpenguinsintherain.blogspot.com"
+    }
+}

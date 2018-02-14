@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-11T06:35:54Z",
+            "uri": "http://wayback.archive-it.org/all/20180211063554/https://247sports.com/college/alabama/Bolt/Alabama-Crimson-Tide-Football-Recruiting-National-Signing-Day-2018-5-star-CB-Patrick-Surtain-commits-to-Alabama--114786378"
+        },
+        "last": {
+            "datetime": "2018-02-11T06:35:54Z",
+            "uri": "http://web.archive.org/web/20180211063554/https://247sports.com/college/alabama/Bolt/Alabama-Crimson-Tide-Football-Recruiting-National-Signing-Day-2018-5-star-CB-Patrick-Surtain-commits-to-Alabama--114786378"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-11T06:35:54Z",
+                "uri": "http://wayback.archive-it.org/all/20180211063554/https://247sports.com/college/alabama/Bolt/Alabama-Crimson-Tide-Football-Recruiting-National-Signing-Day-2018-5-star-CB-Patrick-Surtain-commits-to-Alabama--114786378"
+            },
+            {
+                "datetime": "2018-02-11T06:35:54Z",
+                "uri": "http://web.archive.org/web/20180211063554/https://247sports.com/college/alabama/Bolt/Alabama-Crimson-Tide-Football-Recruiting-National-Signing-Day-2018-5-star-CB-Patrick-Surtain-commits-to-Alabama--114786378"
+            }
+        ]
+    },
+    "original_uri": "https://247sports.com/college/alabama/Bolt/Alabama-Crimson-Tide-Football-Recruiting-National-Signing-Day-2018-5-star-CB-Patrick-Surtain-commits-to-Alabama--114786378",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://247sports.com/college/alabama/Bolt/Alabama-Crimson-Tide-Football-Recruiting-National-Signing-Day-2018-5-star-CB-Patrick-Surtain-commits-to-Alabama--114786378",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://247sports.com/college/alabama/Bolt/Alabama-Crimson-Tide-Football-Recruiting-National-Signing-Day-2018-5-star-CB-Patrick-Surtain-commits-to-Alabama--114786378",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://247sports.com/college/alabama/Bolt/Alabama-Crimson-Tide-Football-Recruiting-National-Signing-Day-2018-5-star-CB-Patrick-Surtain-commits-to-Alabama--114786378",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://247sports.com/college/alabama/Bolt/Alabama-Crimson-Tide-Football-Recruiting-National-Signing-Day-2018-5-star-CB-Patrick-Surtain-commits-to-Alabama--114786378",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://247sports.com/college/alabama/Bolt/Alabama-Crimson-Tide-Football-Recruiting-National-Signing-Day-2018-5-star-CB-Patrick-Surtain-commits-to-Alabama--114786378"
+    }
+}

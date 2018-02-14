@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T05:34:11Z",
+            "uri": "http://web.archive.org/web/20180208053411/https://www.chron.com/sports/college/article/College-football-recruiting-team-rankings-Signing-12559412.php"
+        },
+        "last": {
+            "datetime": "2018-02-08T05:34:11Z",
+            "uri": "http://web.archive.org/web/20180208053411/https://www.chron.com/sports/college/article/College-football-recruiting-team-rankings-Signing-12559412.php"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T05:34:11Z",
+                "uri": "http://web.archive.org/web/20180208053411/https://www.chron.com/sports/college/article/College-football-recruiting-team-rankings-Signing-12559412.php"
+            }
+        ]
+    },
+    "original_uri": "http://www.chron.com/sports/college/article/College-football-recruiting-team-rankings-Signing-12559412.php",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.chron.com/sports/college/article/College-football-recruiting-team-rankings-Signing-12559412.php",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.chron.com/sports/college/article/College-football-recruiting-team-rankings-Signing-12559412.php",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.chron.com/sports/college/article/College-football-recruiting-team-rankings-Signing-12559412.php",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.chron.com/sports/college/article/College-football-recruiting-team-rankings-Signing-12559412.php",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.chron.com/sports/college/article/College-football-recruiting-team-rankings-Signing-12559412.php"
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-01-26T12:20:08Z",
+            "uri": "http://web.archive.org/web/20180126122008/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+        },
+        "last": {
+            "datetime": "2018-02-11T22:38:17Z",
+            "uri": "http://web.archive.org/web/20180211223817/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+        },
+        "list": [
+            {
+                "datetime": "2018-01-26T12:20:08Z",
+                "uri": "http://web.archive.org/web/20180126122008/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-01-26T17:15:33Z",
+                "uri": "http://web.archive.org/web/20180126171533/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-01-26T18:53:58Z",
+                "uri": "http://web.archive.org/web/20180126185358/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-01-26T21:42:47Z",
+                "uri": "http://web.archive.org/web/20180126214247/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-01-27T04:07:59Z",
+                "uri": "http://web.archive.org/web/20180127040759/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-01-27T06:34:12Z",
+                "uri": "http://web.archive.org/web/20180127063412/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-01-27T08:45:46Z",
+                "uri": "http://web.archive.org/web/20180127084546/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-01-28T08:14:08Z",
+                "uri": "http://web.archive.org/web/20180128081408/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-01-28T09:24:24Z",
+                "uri": "http://web.archive.org/web/20180128092424/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-01-29T09:29:20Z",
+                "uri": "http://web.archive.org/web/20180129092920/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-01-30T09:16:34Z",
+                "uri": "http://web.archive.org/web/20180130091634/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-01-30T11:04:56Z",
+                "uri": "http://web.archive.org/web/20180130110456/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-01-31T09:45:04Z",
+                "uri": "http://web.archive.org/web/20180131094504/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-01-31T11:29:29Z",
+                "uri": "http://web.archive.org/web/20180131112929/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-02-01T11:05:50Z",
+                "uri": "http://web.archive.org/web/20180201110550/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-02-01T12:44:40Z",
+                "uri": "http://web.archive.org/web/20180201124440/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-02-02T11:38:20Z",
+                "uri": "http://web.archive.org/web/20180202113820/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-02-02T13:30:40Z",
+                "uri": "http://web.archive.org/web/20180202133040/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-02-03T12:06:10Z",
+                "uri": "http://web.archive.org/web/20180203120610/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-02-03T13:34:17Z",
+                "uri": "http://web.archive.org/web/20180203133417/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-02-03T17:05:15Z",
+                "uri": "http://web.archive.org/web/20180203170515/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-02-04T12:46:45Z",
+                "uri": "http://web.archive.org/web/20180204124645/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-02-04T13:51:13Z",
+                "uri": "http://web.archive.org/web/20180204135113/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-02-05T13:04:36Z",
+                "uri": "http://web.archive.org/web/20180205130436/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-02-06T17:08:19Z",
+                "uri": "http://web.archive.org/web/20180206170819/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-02-07T18:35:17Z",
+                "uri": "http://web.archive.org/web/20180207183517/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-02-10T21:28:38Z",
+                "uri": "http://web.archive.org/web/20180210212838/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-02-10T21:28:38Z",
+                "uri": "http://web.archive.org/web/20180210212838/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-02-11T22:36:38Z",
+                "uri": "http://web.archive.org/web/20180211223638/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            },
+            {
+                "datetime": "2018-02-11T22:38:17Z",
+                "uri": "http://web.archive.org/web/20180211223817/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+            }
+        ]
+    },
+    "original_uri": "https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/football/2018/jan/26/eric-lamela-tottenham-brother-wheelchair"
+    }
+}

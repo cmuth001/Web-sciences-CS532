@@ -1,0 +1,630 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-02-04T02:00:16Z",
+            "uri": "http://web.archive.org/web/20170204020016/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+        },
+        "last": {
+            "datetime": "2018-02-13T21:30:58Z",
+            "uri": "http://web.archive.org/web/20180213213058/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+        },
+        "list": [
+            {
+                "datetime": "2017-02-04T02:00:16Z",
+                "uri": "http://web.archive.org/web/20170204020016/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-07-30T00:09:42Z",
+                "uri": "http://web.archive.org/web/20170730000942/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-08-31T08:24:25Z",
+                "uri": "http://web.archive.org/web/20170831082425/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-09-06T22:18:16Z",
+                "uri": "http://web.archive.org/web/20170906221816/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-04T08:00:32Z",
+                "uri": "http://web.archive.org/web/20171104080032/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-04T20:30:50Z",
+                "uri": "http://web.archive.org/web/20171104203050/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-05T08:00:31Z",
+                "uri": "http://web.archive.org/web/20171105080031/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-06T08:00:32Z",
+                "uri": "http://web.archive.org/web/20171106080032/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-06T15:01:36Z",
+                "uri": "http://web.archive.org/web/20171106150136/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-07T08:01:20Z",
+                "uri": "http://web.archive.org/web/20171107080120/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-07T15:01:33Z",
+                "uri": "http://web.archive.org/web/20171107150133/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-07T20:32:07Z",
+                "uri": "http://web.archive.org/web/20171107203207/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-08T08:00:31Z",
+                "uri": "http://web.archive.org/web/20171108080031/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-08T15:02:56Z",
+                "uri": "http://web.archive.org/web/20171108150256/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-09T15:01:47Z",
+                "uri": "http://web.archive.org/web/20171109150147/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-10T08:00:52Z",
+                "uri": "http://web.archive.org/web/20171110080052/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-10T15:01:47Z",
+                "uri": "http://web.archive.org/web/20171110150147/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-11T08:00:38Z",
+                "uri": "http://web.archive.org/web/20171111080038/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-11T15:01:36Z",
+                "uri": "http://web.archive.org/web/20171111150136/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-11T20:30:55Z",
+                "uri": "http://web.archive.org/web/20171111203055/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-14T08:00:30Z",
+                "uri": "http://web.archive.org/web/20171114080030/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-14T15:01:39Z",
+                "uri": "http://web.archive.org/web/20171114150139/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-15T08:00:34Z",
+                "uri": "http://web.archive.org/web/20171115080034/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-15T20:30:58Z",
+                "uri": "http://web.archive.org/web/20171115203058/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-16T08:00:29Z",
+                "uri": "http://web.archive.org/web/20171116080029/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-17T08:00:31Z",
+                "uri": "http://web.archive.org/web/20171117080031/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-17T20:31:26Z",
+                "uri": "http://web.archive.org/web/20171117203126/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-18T15:01:35Z",
+                "uri": "http://web.archive.org/web/20171118150135/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-19T08:00:31Z",
+                "uri": "http://web.archive.org/web/20171119080031/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-19T15:01:37Z",
+                "uri": "http://web.archive.org/web/20171119150137/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-19T20:30:53Z",
+                "uri": "http://web.archive.org/web/20171119203053/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-20T16:01:39Z",
+                "uri": "http://web.archive.org/web/20171120160139/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-20T21:31:17Z",
+                "uri": "http://web.archive.org/web/20171120213117/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-21T08:00:33Z",
+                "uri": "http://web.archive.org/web/20171121080033/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-21T16:01:48Z",
+                "uri": "http://web.archive.org/web/20171121160148/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-21T21:31:04Z",
+                "uri": "http://web.archive.org/web/20171121213104/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-22T16:01:42Z",
+                "uri": "http://web.archive.org/web/20171122160142/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-23T08:00:30Z",
+                "uri": "http://web.archive.org/web/20171123080030/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-23T16:01:56Z",
+                "uri": "http://web.archive.org/web/20171123160156/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-23T21:30:52Z",
+                "uri": "http://web.archive.org/web/20171123213052/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-24T16:01:40Z",
+                "uri": "http://web.archive.org/web/20171124160140/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-24T21:30:57Z",
+                "uri": "http://web.archive.org/web/20171124213057/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-25T08:00:39Z",
+                "uri": "http://web.archive.org/web/20171125080039/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-25T16:01:35Z",
+                "uri": "http://web.archive.org/web/20171125160135/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-25T21:31:00Z",
+                "uri": "http://web.archive.org/web/20171125213100/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-26T08:00:31Z",
+                "uri": "http://web.archive.org/web/20171126080031/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-26T16:02:33Z",
+                "uri": "http://web.archive.org/web/20171126160233/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-27T08:00:29Z",
+                "uri": "http://web.archive.org/web/20171127080029/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-28T08:00:42Z",
+                "uri": "http://web.archive.org/web/20171128080042/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-28T16:01:46Z",
+                "uri": "http://web.archive.org/web/20171128160146/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-30T08:00:31Z",
+                "uri": "http://web.archive.org/web/20171130080031/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-30T16:01:35Z",
+                "uri": "http://web.archive.org/web/20171130160135/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-11-30T21:31:05Z",
+                "uri": "http://web.archive.org/web/20171130213105/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-01T08:00:31Z",
+                "uri": "http://web.archive.org/web/20171201080031/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-01T21:31:06Z",
+                "uri": "http://web.archive.org/web/20171201213106/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-02T08:00:37Z",
+                "uri": "http://web.archive.org/web/20171202080037/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-02T16:01:36Z",
+                "uri": "http://web.archive.org/web/20171202160136/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-02T21:31:03Z",
+                "uri": "http://web.archive.org/web/20171202213103/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-03T08:00:45Z",
+                "uri": "http://web.archive.org/web/20171203080045/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-03T16:01:38Z",
+                "uri": "http://web.archive.org/web/20171203160138/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-04T08:00:40Z",
+                "uri": "http://web.archive.org/web/20171204080040/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-04T16:01:45Z",
+                "uri": "http://web.archive.org/web/20171204160145/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-04T21:31:42Z",
+                "uri": "http://web.archive.org/web/20171204213142/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-05T08:00:30Z",
+                "uri": "http://web.archive.org/web/20171205080030/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-05T16:01:43Z",
+                "uri": "http://web.archive.org/web/20171205160143/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-05T21:31:28Z",
+                "uri": "http://web.archive.org/web/20171205213128/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-06T08:00:35Z",
+                "uri": "http://web.archive.org/web/20171206080035/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-06T16:01:42Z",
+                "uri": "http://web.archive.org/web/20171206160142/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-07T16:01:39Z",
+                "uri": "http://web.archive.org/web/20171207160139/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-08T08:00:38Z",
+                "uri": "http://web.archive.org/web/20171208080038/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-09T08:00:32Z",
+                "uri": "http://web.archive.org/web/20171209080032/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-09T16:01:42Z",
+                "uri": "http://web.archive.org/web/20171209160142/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-09T21:31:01Z",
+                "uri": "http://web.archive.org/web/20171209213101/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-11T08:00:42Z",
+                "uri": "http://web.archive.org/web/20171211080042/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-11T16:01:43Z",
+                "uri": "http://web.archive.org/web/20171211160143/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-12T08:00:30Z",
+                "uri": "http://web.archive.org/web/20171212080030/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-13T08:00:36Z",
+                "uri": "http://web.archive.org/web/20171213080036/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-14T08:00:31Z",
+                "uri": "http://web.archive.org/web/20171214080031/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-14T21:31:02Z",
+                "uri": "http://web.archive.org/web/20171214213102/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-15T08:00:33Z",
+                "uri": "http://web.archive.org/web/20171215080033/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-15T16:01:42Z",
+                "uri": "http://web.archive.org/web/20171215160142/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-15T21:31:04Z",
+                "uri": "http://web.archive.org/web/20171215213104/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-16T08:00:36Z",
+                "uri": "http://web.archive.org/web/20171216080036/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-16T21:30:54Z",
+                "uri": "http://web.archive.org/web/20171216213054/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-17T16:01:35Z",
+                "uri": "http://web.archive.org/web/20171217160135/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-17T21:30:57Z",
+                "uri": "http://web.archive.org/web/20171217213057/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-19T21:31:05Z",
+                "uri": "http://web.archive.org/web/20171219213105/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-20T08:00:46Z",
+                "uri": "http://web.archive.org/web/20171220080046/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-20T16:01:36Z",
+                "uri": "http://web.archive.org/web/20171220160136/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-20T21:30:55Z",
+                "uri": "http://web.archive.org/web/20171220213055/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-21T08:00:30Z",
+                "uri": "http://web.archive.org/web/20171221080030/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-21T21:30:52Z",
+                "uri": "http://web.archive.org/web/20171221213052/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-22T16:01:35Z",
+                "uri": "http://web.archive.org/web/20171222160135/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-23T08:00:32Z",
+                "uri": "http://web.archive.org/web/20171223080032/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-23T16:01:37Z",
+                "uri": "http://web.archive.org/web/20171223160137/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-23T21:30:52Z",
+                "uri": "http://web.archive.org/web/20171223213052/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-24T16:01:36Z",
+                "uri": "http://web.archive.org/web/20171224160136/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-25T08:00:35Z",
+                "uri": "http://web.archive.org/web/20171225080035/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-25T16:01:31Z",
+                "uri": "http://web.archive.org/web/20171225160131/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-25T21:30:51Z",
+                "uri": "http://web.archive.org/web/20171225213051/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-26T08:00:52Z",
+                "uri": "http://web.archive.org/web/20171226080052/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-26T16:01:47Z",
+                "uri": "http://web.archive.org/web/20171226160147/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-28T21:30:58Z",
+                "uri": "http://web.archive.org/web/20171228213058/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-29T08:00:35Z",
+                "uri": "http://web.archive.org/web/20171229080035/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-29T21:31:02Z",
+                "uri": "http://web.archive.org/web/20171229213102/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-31T08:00:43Z",
+                "uri": "http://web.archive.org/web/20171231080043/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2017-12-31T21:31:01Z",
+                "uri": "http://web.archive.org/web/20171231213101/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-01T08:00:43Z",
+                "uri": "http://web.archive.org/web/20180101080043/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-01T16:02:51Z",
+                "uri": "http://web.archive.org/web/20180101160251/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-02T16:02:50Z",
+                "uri": "http://web.archive.org/web/20180102160250/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-03T16:01:35Z",
+                "uri": "http://web.archive.org/web/20180103160135/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-03T21:30:54Z",
+                "uri": "http://web.archive.org/web/20180103213054/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-04T08:00:37Z",
+                "uri": "http://web.archive.org/web/20180104080037/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-13T21:32:52Z",
+                "uri": "http://web.archive.org/web/20180113213252/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-15T16:02:20Z",
+                "uri": "http://web.archive.org/web/20180115160220/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-16T16:01:40Z",
+                "uri": "http://web.archive.org/web/20180116160140/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-17T21:31:54Z",
+                "uri": "http://web.archive.org/web/20180117213154/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-18T16:02:11Z",
+                "uri": "http://web.archive.org/web/20180118160211/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-18T21:31:13Z",
+                "uri": "http://web.archive.org/web/20180118213113/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-20T08:01:19Z",
+                "uri": "http://web.archive.org/web/20180120080119/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-20T21:31:10Z",
+                "uri": "http://web.archive.org/web/20180120213110/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-21T08:02:00Z",
+                "uri": "http://web.archive.org/web/20180121080200/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-23T08:00:31Z",
+                "uri": "http://web.archive.org/web/20180123080031/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-25T16:01:53Z",
+                "uri": "http://web.archive.org/web/20180125160153/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-25T21:31:20Z",
+                "uri": "http://web.archive.org/web/20180125213120/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-26T08:00:29Z",
+                "uri": "http://web.archive.org/web/20180126080029/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-26T21:31:03Z",
+                "uri": "http://web.archive.org/web/20180126213103/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-28T08:00:31Z",
+                "uri": "http://web.archive.org/web/20180128080031/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-30T08:00:38Z",
+                "uri": "http://web.archive.org/web/20180130080038/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-30T16:01:54Z",
+                "uri": "http://web.archive.org/web/20180130160154/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-30T21:31:02Z",
+                "uri": "http://web.archive.org/web/20180130213102/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-01-31T08:00:35Z",
+                "uri": "http://web.archive.org/web/20180131080035/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-01T08:00:31Z",
+                "uri": "http://web.archive.org/web/20180201080031/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-01T16:01:39Z",
+                "uri": "http://web.archive.org/web/20180201160139/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-03T04:01:27Z",
+                "uri": "http://web.archive.org/web/20180203040127/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-06T21:30:53Z",
+                "uri": "http://web.archive.org/web/20180206213053/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-07T16:01:40Z",
+                "uri": "http://web.archive.org/web/20180207160140/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-07T21:30:53Z",
+                "uri": "http://web.archive.org/web/20180207213053/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-07T21:31:08Z",
+                "uri": "http://web.archive.org/web/20180207213108/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-08T16:01:42Z",
+                "uri": "http://web.archive.org/web/20180208160142/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-08T21:31:12Z",
+                "uri": "http://web.archive.org/web/20180208213112/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-09T21:31:23Z",
+                "uri": "http://web.archive.org/web/20180209213123/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-10T16:02:40Z",
+                "uri": "http://web.archive.org/web/20180210160240/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-10T21:30:50Z",
+                "uri": "http://web.archive.org/web/20180210213050/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-11T08:00:30Z",
+                "uri": "http://web.archive.org/web/20180211080030/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-11T08:00:35Z",
+                "uri": "http://web.archive.org/web/20180211080035/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-11T16:01:34Z",
+                "uri": "http://web.archive.org/web/20180211160134/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-11T16:01:38Z",
+                "uri": "http://web.archive.org/web/20180211160138/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-12T08:00:30Z",
+                "uri": "http://web.archive.org/web/20180212080030/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-13T16:01:37Z",
+                "uri": "http://web.archive.org/web/20180213160137/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-13T16:01:37Z",
+                "uri": "http://web.archive.org/web/20180213160137/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            },
+            {
+                "datetime": "2018-02-13T21:30:58Z",
+                "uri": "http://web.archive.org/web/20180213213058/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+            }
+        ]
+    },
+    "original_uri": "http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://info.rightrelevance.com/right-relevance-influencers-topical-scores-rankings/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T02:18:27Z",
+            "uri": "http://web.archive.org/web/20180208021827/https://www.alligatorarmy.com/2018/1/20/16914072/justin-watkins-commits-florida-gators-football-recruiting"
+        },
+        "last": {
+            "datetime": "2018-02-08T02:18:27Z",
+            "uri": "http://web.archive.org/web/20180208021827/https://www.alligatorarmy.com/2018/1/20/16914072/justin-watkins-commits-florida-gators-football-recruiting"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T02:18:27Z",
+                "uri": "http://web.archive.org/web/20180208021827/https://www.alligatorarmy.com/2018/1/20/16914072/justin-watkins-commits-florida-gators-football-recruiting"
+            }
+        ]
+    },
+    "original_uri": "https://www.alligatorarmy.com/2018/1/20/16914072/justin-watkins-commits-florida-gators-football-recruiting",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.alligatorarmy.com/2018/1/20/16914072/justin-watkins-commits-florida-gators-football-recruiting",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.alligatorarmy.com/2018/1/20/16914072/justin-watkins-commits-florida-gators-football-recruiting",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.alligatorarmy.com/2018/1/20/16914072/justin-watkins-commits-florida-gators-football-recruiting",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.alligatorarmy.com/2018/1/20/16914072/justin-watkins-commits-florida-gators-football-recruiting",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.alligatorarmy.com/2018/1/20/16914072/justin-watkins-commits-florida-gators-football-recruiting"
+    }
+}

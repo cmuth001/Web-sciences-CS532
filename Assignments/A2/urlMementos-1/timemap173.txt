@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T07:19:03Z",
+            "uri": "http://web.archive.org/web/20180208071903/https://www.si.com/college-football/2018/02/07/jacob-copeland-commit-florida-mom-walks-out-video"
+        },
+        "last": {
+            "datetime": "2018-02-08T10:06:27Z",
+            "uri": "http://web.archive.org/web/20180208100627/https://www.si.com/college-football/2018/02/07/jacob-copeland-commit-florida-mom-walks-out-video"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T07:19:03Z",
+                "uri": "http://web.archive.org/web/20180208071903/https://www.si.com/college-football/2018/02/07/jacob-copeland-commit-florida-mom-walks-out-video"
+            },
+            {
+                "datetime": "2018-02-08T10:06:27Z",
+                "uri": "http://web.archive.org/web/20180208100627/https://www.si.com/college-football/2018/02/07/jacob-copeland-commit-florida-mom-walks-out-video"
+            }
+        ]
+    },
+    "original_uri": "https://www.si.com/college-football/2018/02/07/jacob-copeland-commit-florida-mom-walks-out-video",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.si.com/college-football/2018/02/07/jacob-copeland-commit-florida-mom-walks-out-video",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.si.com/college-football/2018/02/07/jacob-copeland-commit-florida-mom-walks-out-video",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.si.com/college-football/2018/02/07/jacob-copeland-commit-florida-mom-walks-out-video",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.si.com/college-football/2018/02/07/jacob-copeland-commit-florida-mom-walks-out-video",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.si.com/college-football/2018/02/07/jacob-copeland-commit-florida-mom-walks-out-video"
+    }
+}

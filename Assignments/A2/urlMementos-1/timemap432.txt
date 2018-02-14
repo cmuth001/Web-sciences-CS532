@@ -1,0 +1,26 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-01-30T17:39:17Z",
+            "uri": "http://web.archive.org/web/20180130173917/https://www.footballwebpages.co.uk/isthmian-football-league-south-division/league-table"
+        },
+        "last": {
+            "datetime": "2018-01-30T17:39:17Z",
+            "uri": "http://web.archive.org/web/20180130173917/https://www.footballwebpages.co.uk/isthmian-football-league-south-division/league-table"
+        },
+        "list": [
+            {
+                "datetime": "2018-01-30T17:39:17Z",
+                "uri": "http://web.archive.org/web/20180130173917/https://www.footballwebpages.co.uk/isthmian-football-league-south-division/league-table"
+            }
+        ]
+    },
+    "original_uri": "https://www.footballwebpages.co.uk/isthmian-football-league-south-division/league-table",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.footballwebpages.co.uk/isthmian-football-league-south-division/league-table",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.footballwebpages.co.uk/isthmian-football-league-south-division/league-table",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.footballwebpages.co.uk/isthmian-football-league-south-division/league-table",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.footballwebpages.co.uk/isthmian-football-league-south-division/league-table",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.footballwebpages.co.uk/isthmian-football-league-south-division/league-table"
+    }
+}

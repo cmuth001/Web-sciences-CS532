@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T15:35:14Z",
+            "uri": "http://web.archive.org/web/20180208153514/http://www.espncricinfo.com/story/_/id/22358355/hampshire-set-coveted-ashes-test"
+        },
+        "last": {
+            "datetime": "2018-02-10T21:22:09Z",
+            "uri": "http://web.archive.org/web/20180210212209/http://www.espncricinfo.com/story/_/id/22358355/hampshire-set-coveted-ashes-test"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T15:35:14Z",
+                "uri": "http://web.archive.org/web/20180208153514/http://www.espncricinfo.com/story/_/id/22358355/hampshire-set-coveted-ashes-test"
+            },
+            {
+                "datetime": "2018-02-10T21:22:09Z",
+                "uri": "http://web.archive.org/web/20180210212209/http://www.espncricinfo.com/story/_/id/22358355/hampshire-set-coveted-ashes-test"
+            }
+        ]
+    },
+    "original_uri": "http://www.espncricinfo.com/story/_/id/22358355/hampshire-set-coveted-ashes-test",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.espncricinfo.com/story/_/id/22358355/hampshire-set-coveted-ashes-test",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.espncricinfo.com/story/_/id/22358355/hampshire-set-coveted-ashes-test",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.espncricinfo.com/story/_/id/22358355/hampshire-set-coveted-ashes-test",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.espncricinfo.com/story/_/id/22358355/hampshire-set-coveted-ashes-test",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.espncricinfo.com/story/_/id/22358355/hampshire-set-coveted-ashes-test"
+    }
+}

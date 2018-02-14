@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T12:43:12Z",
+            "uri": "http://web.archive.org/web/20180208124312/https://www.thesun.co.uk/sport/football/5525020/watford-striker-troy-deeney-gets-warning-but-escapes-charge-over-one-finger-celebration-against-chelsea/"
+        },
+        "last": {
+            "datetime": "2018-02-08T12:43:16Z",
+            "uri": "http://web.archive.org/web/20180208124316/http://www.thesun.co.uk/sport/football/5525020/watford-striker-troy-deeney-gets-warning-but-escapes-charge-over-one-finger-celebration-against-chelsea/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T12:43:12Z",
+                "uri": "http://web.archive.org/web/20180208124312/https://www.thesun.co.uk/sport/football/5525020/watford-striker-troy-deeney-gets-warning-but-escapes-charge-over-one-finger-celebration-against-chelsea/"
+            },
+            {
+                "datetime": "2018-02-08T12:43:16Z",
+                "uri": "http://web.archive.org/web/20180208124316/http://www.thesun.co.uk/sport/football/5525020/watford-striker-troy-deeney-gets-warning-but-escapes-charge-over-one-finger-celebration-against-chelsea/"
+            }
+        ]
+    },
+    "original_uri": "https://www.thesun.co.uk/sport/football/5525020/watford-striker-troy-deeney-gets-warning-but-escapes-charge-over-one-finger-celebration-against-chelsea/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5525020/watford-striker-troy-deeney-gets-warning-but-escapes-charge-over-one-finger-celebration-against-chelsea/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thesun.co.uk/sport/football/5525020/watford-striker-troy-deeney-gets-warning-but-escapes-charge-over-one-finger-celebration-against-chelsea/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thesun.co.uk/sport/football/5525020/watford-striker-troy-deeney-gets-warning-but-escapes-charge-over-one-finger-celebration-against-chelsea/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5525020/watford-striker-troy-deeney-gets-warning-but-escapes-charge-over-one-finger-celebration-against-chelsea/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thesun.co.uk/sport/football/5525020/watford-striker-troy-deeney-gets-warning-but-escapes-charge-over-one-finger-celebration-against-chelsea/"
+    }
+}

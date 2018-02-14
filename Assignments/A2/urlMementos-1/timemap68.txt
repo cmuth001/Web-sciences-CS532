@@ -1,0 +1,54 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T07:00:20Z",
+            "uri": "http://web.archive.org/web/20180208070020/https://www.thesun.co.uk/sport/football/5522188/england-world-cup-2018-new-kit-nike/"
+        },
+        "last": {
+            "datetime": "2018-02-11T14:42:18Z",
+            "uri": "http://web.archive.org/web/20180211144218/http://www.thesun.co.uk/sport/football/5522188/england-world-cup-2018-new-kit-nike/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T07:00:20Z",
+                "uri": "http://web.archive.org/web/20180208070020/https://www.thesun.co.uk/sport/football/5522188/england-world-cup-2018-new-kit-nike/"
+            },
+            {
+                "datetime": "2018-02-08T07:00:21Z",
+                "uri": "http://web.archive.org/web/20180208070021/http://www.thesun.co.uk/sport/football/5522188/england-world-cup-2018-new-kit-nike/"
+            },
+            {
+                "datetime": "2018-02-09T13:44:22Z",
+                "uri": "http://web.archive.org/web/20180209134422/https://www.thesun.co.uk/sport/football/5522188/england-world-cup-2018-new-kit-nike/"
+            },
+            {
+                "datetime": "2018-02-09T13:44:24Z",
+                "uri": "http://web.archive.org/web/20180209134424/http://www.thesun.co.uk/sport/football/5522188/england-world-cup-2018-new-kit-nike/"
+            },
+            {
+                "datetime": "2018-02-10T14:30:23Z",
+                "uri": "http://web.archive.org/web/20180210143023/https://www.thesun.co.uk/sport/football/5522188/england-world-cup-2018-new-kit-nike/"
+            },
+            {
+                "datetime": "2018-02-10T14:30:25Z",
+                "uri": "http://web.archive.org/web/20180210143025/http://www.thesun.co.uk/sport/football/5522188/england-world-cup-2018-new-kit-nike/"
+            },
+            {
+                "datetime": "2018-02-11T14:42:15Z",
+                "uri": "http://web.archive.org/web/20180211144215/https://www.thesun.co.uk/sport/football/5522188/england-world-cup-2018-new-kit-nike/"
+            },
+            {
+                "datetime": "2018-02-11T14:42:18Z",
+                "uri": "http://web.archive.org/web/20180211144218/http://www.thesun.co.uk/sport/football/5522188/england-world-cup-2018-new-kit-nike/"
+            }
+        ]
+    },
+    "original_uri": "https://www.thesun.co.uk/sport/football/5522188/england-world-cup-2018-new-kit-nike/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5522188/england-world-cup-2018-new-kit-nike/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thesun.co.uk/sport/football/5522188/england-world-cup-2018-new-kit-nike/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thesun.co.uk/sport/football/5522188/england-world-cup-2018-new-kit-nike/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5522188/england-world-cup-2018-new-kit-nike/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thesun.co.uk/sport/football/5522188/england-world-cup-2018-new-kit-nike/"
+    }
+}

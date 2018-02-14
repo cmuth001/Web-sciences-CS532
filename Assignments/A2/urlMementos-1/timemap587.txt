@@ -1,0 +1,198 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-08-06T02:32:07Z",
+            "uri": "http://web.archive.org/web/20170806023207/https://n.rivals.com/team_rankings/2018/all-teams/football"
+        },
+        "last": {
+            "datetime": "2018-02-08T06:06:31Z",
+            "uri": "http://web.archive.org/web/20180208060631/https://n.rivals.com/team_rankings/2018/all-teams/football"
+        },
+        "list": [
+            {
+                "datetime": "2017-08-06T02:32:07Z",
+                "uri": "http://web.archive.org/web/20170806023207/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-08-30T14:44:21Z",
+                "uri": "http://web.archive.org/web/20170830144421/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-02T10:23:12Z",
+                "uri": "http://web.archive.org/web/20170902102312/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-03T09:43:53Z",
+                "uri": "http://web.archive.org/web/20170903094353/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-04T09:53:43Z",
+                "uri": "http://web.archive.org/web/20170904095343/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-05T10:41:38Z",
+                "uri": "http://web.archive.org/web/20170905104138/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-06T12:47:00Z",
+                "uri": "http://web.archive.org/web/20170906124700/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-07T13:06:30Z",
+                "uri": "http://web.archive.org/web/20170907130630/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-08T13:11:56Z",
+                "uri": "http://web.archive.org/web/20170908131156/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-09T13:39:04Z",
+                "uri": "http://web.archive.org/web/20170909133904/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-10T14:29:55Z",
+                "uri": "http://web.archive.org/web/20170910142955/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-11T15:03:11Z",
+                "uri": "http://web.archive.org/web/20170911150311/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-12T15:39:31Z",
+                "uri": "http://web.archive.org/web/20170912153931/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-13T16:13:03Z",
+                "uri": "http://web.archive.org/web/20170913161303/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-14T16:29:36Z",
+                "uri": "http://web.archive.org/web/20170914162936/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-15T19:15:23Z",
+                "uri": "http://web.archive.org/web/20170915191523/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-16T18:39:43Z",
+                "uri": "http://web.archive.org/web/20170916183943/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-17T19:05:07Z",
+                "uri": "http://web.archive.org/web/20170917190507/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-18T20:33:54Z",
+                "uri": "http://web.archive.org/web/20170918203354/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-19T20:05:44Z",
+                "uri": "http://web.archive.org/web/20170919200544/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-09-20T20:51:06Z",
+                "uri": "http://web.archive.org/web/20170920205106/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-10-04T01:53:29Z",
+                "uri": "http://web.archive.org/web/20171004015329/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-10-25T02:09:50Z",
+                "uri": "http://web.archive.org/web/20171025020950/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-11-01T23:01:33Z",
+                "uri": "http://web.archive.org/web/20171101230133/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-11-08T22:54:41Z",
+                "uri": "http://web.archive.org/web/20171108225441/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-11-13T11:34:52Z",
+                "uri": "http://web.archive.org/web/20171113113452/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-11-16T01:04:03Z",
+                "uri": "http://web.archive.org/web/20171116010403/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-11-23T00:28:48Z",
+                "uri": "http://web.archive.org/web/20171123002848/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-11-30T01:54:45Z",
+                "uri": "http://web.archive.org/web/20171130015445/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-12-07T01:10:45Z",
+                "uri": "http://web.archive.org/web/20171207011045/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-12-14T01:56:56Z",
+                "uri": "http://web.archive.org/web/20171214015656/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-12-21T02:37:24Z",
+                "uri": "http://web.archive.org/web/20171221023724/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2017-12-28T03:20:29Z",
+                "uri": "http://web.archive.org/web/20171228032029/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2018-01-04T03:12:00Z",
+                "uri": "http://web.archive.org/web/20180104031200/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2018-01-11T03:39:24Z",
+                "uri": "http://web.archive.org/web/20180111033924/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2018-01-18T03:58:43Z",
+                "uri": "http://web.archive.org/web/20180118035843/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2018-01-23T03:31:27Z",
+                "uri": "http://web.archive.org/web/20180123033127/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2018-01-25T04:47:19Z",
+                "uri": "http://web.archive.org/web/20180125044719/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2018-01-28T12:06:07Z",
+                "uri": "http://web.archive.org/web/20180128120607/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2018-01-29T18:03:49Z",
+                "uri": "http://wayback.archive-it.org/all/20180129180349/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2018-01-29T18:03:49Z",
+                "uri": "http://web.archive.org/web/20180129180349/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2018-01-30T16:30:58Z",
+                "uri": "http://web.archive.org/web/20180130163058/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2018-02-01T05:17:37Z",
+                "uri": "http://web.archive.org/web/20180201051737/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            },
+            {
+                "datetime": "2018-02-08T06:06:31Z",
+                "uri": "http://web.archive.org/web/20180208060631/https://n.rivals.com/team_rankings/2018/all-teams/football"
+            }
+        ]
+    },
+    "original_uri": "https://n.rivals.com/team_rankings/2018/all-teams/football",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://n.rivals.com/team_rankings/2018/all-teams/football",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://n.rivals.com/team_rankings/2018/all-teams/football",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://n.rivals.com/team_rankings/2018/all-teams/football",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://n.rivals.com/team_rankings/2018/all-teams/football",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://n.rivals.com/team_rankings/2018/all-teams/football"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-08T13:52:20Z",
+            "uri": "http://web.archive.org/web/20180208135220/https://www.thesun.co.uk/sport/football/5519623/clubs-brazil-vote-var-size-11000-match/"
+        },
+        "last": {
+            "datetime": "2018-02-08T13:52:21Z",
+            "uri": "http://web.archive.org/web/20180208135221/http://www.thesun.co.uk/sport/football/5519623/clubs-brazil-vote-var-size-11000-match/"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-08T13:52:20Z",
+                "uri": "http://web.archive.org/web/20180208135220/https://www.thesun.co.uk/sport/football/5519623/clubs-brazil-vote-var-size-11000-match/"
+            },
+            {
+                "datetime": "2018-02-08T13:52:21Z",
+                "uri": "http://web.archive.org/web/20180208135221/http://www.thesun.co.uk/sport/football/5519623/clubs-brazil-vote-var-size-11000-match/"
+            }
+        ]
+    },
+    "original_uri": "https://www.thesun.co.uk/sport/football/5519623/clubs-brazil-vote-var-size-11000-match/",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5519623/clubs-brazil-vote-var-size-11000-match/",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thesun.co.uk/sport/football/5519623/clubs-brazil-vote-var-size-11000-match/",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thesun.co.uk/sport/football/5519623/clubs-brazil-vote-var-size-11000-match/",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thesun.co.uk/sport/football/5519623/clubs-brazil-vote-var-size-11000-match/",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thesun.co.uk/sport/football/5519623/clubs-brazil-vote-var-size-11000-match/"
+    }
+}

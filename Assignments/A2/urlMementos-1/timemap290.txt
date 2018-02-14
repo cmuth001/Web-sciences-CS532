@@ -1,0 +1,54 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2018-02-02T22:45:40Z",
+            "uri": "http://web.archive.org/web/20180202224540/https://www.merriam-webster.com/words-at-play/winter-olympics-terms-sports-vocabulary/hat-trick"
+        },
+        "last": {
+            "datetime": "2018-02-06T03:25:01Z",
+            "uri": "http://web.archive.org/web/20180206032501/http://www.merriam-webster.com/words-at-play/winter-olympics-terms-sports-vocabulary/hat-trick"
+        },
+        "list": [
+            {
+                "datetime": "2018-02-02T22:45:40Z",
+                "uri": "http://web.archive.org/web/20180202224540/https://www.merriam-webster.com/words-at-play/winter-olympics-terms-sports-vocabulary/hat-trick"
+            },
+            {
+                "datetime": "2018-02-02T22:45:42Z",
+                "uri": "http://web.archive.org/web/20180202224542/http://www.merriam-webster.com/words-at-play/winter-olympics-terms-sports-vocabulary/hat-trick"
+            },
+            {
+                "datetime": "2018-02-04T01:53:45Z",
+                "uri": "http://web.archive.org/web/20180204015345/https://www.merriam-webster.com/words-at-play/winter-olympics-terms-sports-vocabulary/hat-trick"
+            },
+            {
+                "datetime": "2018-02-04T01:53:47Z",
+                "uri": "http://web.archive.org/web/20180204015347/http://www.merriam-webster.com/words-at-play/winter-olympics-terms-sports-vocabulary/hat-trick"
+            },
+            {
+                "datetime": "2018-02-05T02:14:37Z",
+                "uri": "http://web.archive.org/web/20180205021437/https://www.merriam-webster.com/words-at-play/winter-olympics-terms-sports-vocabulary/hat-trick"
+            },
+            {
+                "datetime": "2018-02-05T02:14:40Z",
+                "uri": "http://web.archive.org/web/20180205021440/http://www.merriam-webster.com/words-at-play/winter-olympics-terms-sports-vocabulary/hat-trick"
+            },
+            {
+                "datetime": "2018-02-06T03:24:59Z",
+                "uri": "http://web.archive.org/web/20180206032459/https://www.merriam-webster.com/words-at-play/winter-olympics-terms-sports-vocabulary/hat-trick"
+            },
+            {
+                "datetime": "2018-02-06T03:25:01Z",
+                "uri": "http://web.archive.org/web/20180206032501/http://www.merriam-webster.com/words-at-play/winter-olympics-terms-sports-vocabulary/hat-trick"
+            }
+        ]
+    },
+    "original_uri": "https://www.merriam-webster.com/words-at-play/winter-olympics-terms-sports-vocabulary/hat-trick",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://www.merriam-webster.com/words-at-play/winter-olympics-terms-sports-vocabulary/hat-trick",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.merriam-webster.com/words-at-play/winter-olympics-terms-sports-vocabulary/hat-trick",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.merriam-webster.com/words-at-play/winter-olympics-terms-sports-vocabulary/hat-trick",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.merriam-webster.com/words-at-play/winter-olympics-terms-sports-vocabulary/hat-trick",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.merriam-webster.com/words-at-play/winter-olympics-terms-sports-vocabulary/hat-trick"
+    }
+}

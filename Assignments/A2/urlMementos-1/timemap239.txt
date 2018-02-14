@@ -1,0 +1,34 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2017-09-14T21:39:24Z",
+            "uri": "http://web.archive.org/web/20170914213924/https://petition.parliament.uk/petitions/200094"
+        },
+        "last": {
+            "datetime": "2017-11-19T22:14:38Z",
+            "uri": "http://web.archive.org/web/20171119221438/https://petition.parliament.uk/petitions/200094"
+        },
+        "list": [
+            {
+                "datetime": "2017-09-14T21:39:24Z",
+                "uri": "http://web.archive.org/web/20170914213924/https://petition.parliament.uk/petitions/200094"
+            },
+            {
+                "datetime": "2017-10-04T08:24:11Z",
+                "uri": "http://web.archive.org/web/20171004082411/https://petition.parliament.uk/petitions/200094"
+            },
+            {
+                "datetime": "2017-11-19T22:14:38Z",
+                "uri": "http://web.archive.org/web/20171119221438/https://petition.parliament.uk/petitions/200094"
+            }
+        ]
+    },
+    "original_uri": "https://petition.parliament.uk/petitions/200094",
+    "self": "https://memgator.cs.odu.edu/timemap/json/https://petition.parliament.uk/petitions/200094",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://petition.parliament.uk/petitions/200094",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://petition.parliament.uk/petitions/200094",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/https://petition.parliament.uk/petitions/200094",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/https://petition.parliament.uk/petitions/200094"
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "mementos": {
+        "first": {
+            "datetime": "2015-07-30T23:39:12Z",
+            "uri": "http://web.archive.org/web/20150730233912/http://www.contragoal.com:80/"
+        },
+        "last": {
+            "datetime": "2018-01-30T09:26:03Z",
+            "uri": "http://web.archive.org/web/20180130092603/http://www.contragoal.com/"
+        },
+        "list": [
+            {
+                "datetime": "2015-07-30T23:39:12Z",
+                "uri": "http://web.archive.org/web/20150730233912/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2015-08-26T18:00:40Z",
+                "uri": "http://web.archive.org/web/20150826180040/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2015-09-16T05:29:46Z",
+                "uri": "http://web.archive.org/web/20150916052946/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2015-10-08T07:28:18Z",
+                "uri": "http://web.archive.org/web/20151008072818/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2015-10-25T16:28:09Z",
+                "uri": "http://web.archive.org/web/20151025162809/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2015-11-10T07:16:51Z",
+                "uri": "http://web.archive.org/web/20151110071651/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2015-12-30T19:18:54Z",
+                "uri": "http://web.archive.org/web/20151230191854/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2016-03-07T02:42:07Z",
+                "uri": "http://web.archive.org/web/20160307024207/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2016-03-17T16:42:00Z",
+                "uri": "http://web.archive.org/web/20160317164200/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2016-03-28T08:47:47Z",
+                "uri": "http://web.archive.org/web/20160328084747/http://www.contragoal.com/"
+            },
+            {
+                "datetime": "2016-03-31T01:42:13Z",
+                "uri": "http://web.archive.org/web/20160331014213/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2016-04-17T05:39:41Z",
+                "uri": "http://web.archive.org/web/20160417053941/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2016-05-14T04:33:31Z",
+                "uri": "http://web.archive.org/web/20160514043331/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2016-06-15T00:37:25Z",
+                "uri": "http://web.archive.org/web/20160615003725/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2016-07-16T18:28:20Z",
+                "uri": "http://web.archive.org/web/20160716182820/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2016-10-02T20:58:51Z",
+                "uri": "http://web.archive.org/web/20161002205851/http://contragoal.com/"
+            },
+            {
+                "datetime": "2016-10-25T21:20:00Z",
+                "uri": "http://web.archive.org/web/20161025212000/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2016-11-20T19:35:29Z",
+                "uri": "http://web.archive.org/web/20161120193529/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2017-01-31T03:07:11Z",
+                "uri": "http://web.archive.org/web/20170131030711/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2017-04-04T19:55:14Z",
+                "uri": "http://web.archive.org/web/20170404195514/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2017-05-15T19:33:20Z",
+                "uri": "http://web.archive.org/web/20170515193320/http://contragoal.com/"
+            },
+            {
+                "datetime": "2017-05-17T13:12:45Z",
+                "uri": "http://web.archive.org/web/20170517131245/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2017-05-28T21:33:35Z",
+                "uri": "http://web.archive.org/web/20170528213335/http://www.contragoal.com/"
+            },
+            {
+                "datetime": "2017-06-23T11:00:02Z",
+                "uri": "http://web.archive.org/web/20170623110002/http://www.contragoal.com:80/"
+            },
+            {
+                "datetime": "2017-08-30T02:09:56Z",
+                "uri": "http://web.archive.org/web/20170830020956/http://www.contragoal.com/"
+            },
+            {
+                "datetime": "2017-09-01T06:10:17Z",
+                "uri": "http://web.archive.org/web/20170901061017/http://www.contragoal.com/"
+            },
+            {
+                "datetime": "2018-01-30T08:53:33Z",
+                "uri": "http://web.archive.org/web/20180130085333/http://www.contragoal.com/"
+            },
+            {
+                "datetime": "2018-01-30T09:26:03Z",
+                "uri": "http://web.archive.org/web/20180130092603/http://www.contragoal.com/"
+            }
+        ]
+    },
+    "original_uri": "http://www.contragoal.com",
+    "self": "https://memgator.cs.odu.edu/timemap/json/http://www.contragoal.com",
+    "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.contragoal.com",
+    "timemap_uri": {
+        "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.contragoal.com",
+        "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.contragoal.com",
+        "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.contragoal.com"
+    }
+}
