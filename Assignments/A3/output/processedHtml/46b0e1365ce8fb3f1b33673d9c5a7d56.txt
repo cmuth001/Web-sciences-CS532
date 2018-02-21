@@ -1,0 +1,19 @@
+Right Relevance (RR) provides curated information and intelligence on over 50 thousand topics. This includes:
+Topic relationships including related topics & semantic information like synonyms, acronyms.
+Topical influencers (over 2.5M) with score and rank.
+Topical content and information in the form of articles, videos and conversations.
+Often asked questions are, what does score for a topic tag assigned to an influencer signify and how is it calculated. For e.g. the scores shown for ‘ climate change ‘ for the top 4 influencers, along with scores for the additional topic tags, in the image below.
+Right Relevance ‘climate change’ influencers
+The Right Relevance score of an influencer for a TOPIC represents the authority within the social community for that topic, say for e.g. ‘machine learning’, of that influencer. It is a normalized score ranging from 10 to 100. This numeric influence is then inductively applied to the topical content curated by that individual for measuring relevance.
+The process is fully algorithmic and leverages ML, semantic analysis and NLP on unstructured data at scale. It is primarily graph based and involves performing a 2-level proprietary people rank (custom page rank for social graphs):
+Stage 1. Global PR to reduce a ~300M nodes graph to ~6M (for now) globally ranked influencers. This is a first level reduction and we don’t expose the scores. It doesn’t have any topical context.
+Stage 2. Graph partitioning of the ~6M connected nodes from stage 1 across our ~50K structured topic space using unstructured data assigned to each node. This leads to ~50K per topic sub-graphs, where a secondary PR is applied to determine the topic score for each node in each topical sub-graph. This secondary PR score is normalized to calculate the Right Relevance topic score and rank influencers for every structured topic in our platform. 
+Our custom PR algorithm is derived from google pagerank but is specialized for social graphs (instead of links/webpages) with many important differences applicable to social networks.
+This measure of influence per topic is termed as ‘topical influence’ or Tribes. More details on our related Insights service including Tribes and Flocks is available here .
+Points to note:
+We dampen followers count, tweet count etc. noisy signals and lay much more focus on the topical network itself.
+Each influencer can be part of multiple topical sub-graphs aka communities and have a different score, and rank, within each. This is exposed in our apps via scored tags.
+Other, non structured, topics work via free-form search but the relevance may not be of the same quality. This can be seen by the score ’10’, which, probably poorly done, means we didn’t find a community for the topic.
+Both our topics and graph are mined and built algorithmically at scale and increasing in number with higher quality with every iteration.
+Post navigation
+

@@ -1,0 +1,342 @@
+\documentclass[letterpaper,11pt]{article}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage[super]{nth}
+\usepackage[hyphens]{url}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage[makeroom]{cancel}
+\usepackage[table]{xcolor}
+\usepackage{comment}
+\usepackage[space]{grffile}
+\usepackage{csvsimple}
+
+\newcommand*{\srcPath}{../src}%
+
+\lstset{
+numbers=left,
+backgroundcolor=\color{white},
+frame=single,
+tabsize=2,
+captionpos=b,
+breaklines=true,
+breakautoindent=true,
+escapeinside={\%*}{*)}
+}
+
+\begin{document}
+
+\begin{titlepage}
+
+\begin{center}
+
+\Huge{Assignment 3}
+
+\Large{CS 532:  Introduction to Web Science}
+
+\Large{Spring 2018}
+
+\Large{Chandrasekhar Reddy Muthyala}
+
+\Large Finished on \today
+
+\end{center}
+
+\end{titlepage}
+
+\newpage
+
+
+% =================================
+% First question
+% =================================
+\section*{1}
+
+
+\subsection*{Question}
+
+\begin{verbatim}
+1.  Download the 1000 URIs from assignment #2.  "curl", "wget", or
+"lynx" are all good candidate programs to use.  We want just the
+raw HTML, not the images, stylesheets, etc.
+
+from the command line:
+
+% curl http://www.cnn.com/ > www.cnn.com
+% wget -O www.cnn.com http://www.cnn.com/
+% lynx -source http://www.cnn.com/ > www.cnn.com
+
+"www.cnn.com" is just an example output file name, keep in mind
+that the shell will not like some of the characters that can occur
+in URIs (e.g., "?", "&").  You might want to hash the URIs, like:
+
+% echo -n "http://www.cs.odu.edu/show_features.shtml?72" | md5
+41d5f125d13b4bb554e6e31b6b591eeb
+
+("md5sum" on some machines; note the "-n" in echo -- this removes
+the trailing newline.) 
+
+Now use a tool to remove (most) of the HTML markup.  "lynx" will
+do a fair job:
+
+% lynx -dump -force_html www.cnn.com > www.cnn.com.processed
+
+Use another (better) tool if you know of one.  
+
+A "better" approach is to use BeautifulSoup, see:
+
+http://stackoverflow.com/questions/1936466/beautifulsoup-grab-visible-webpage-text
+
+for some hints on how to start.  Note that none of these methods 
+are going to be perfect.
+
+Keep both files for each URI (i.e., raw HTML and processed). 
+Upload both sets of files to your github account.
+\end{verbatim}
+
+\subsection*{Answer}
+
+The problem is  to extract the text from 1000 URL which we got from assignment\#2 “finalUrls.txt”.
+The libraries used for extraction of text from URLs
+\begin{itemize}
+    \item import urllib.request
+    \item import hashlib
+    \item import os, errno
+    \item import csvn
+  \item from boilerpipe.extract import Extractor
+\end{itemize}
+
+Initially I tried extracting a text from URLs  using  Beautiful soup library, after gone through many forum  as well as class  room discussions,  there is an another library called “Boilerpipe” which  will outperform than Beautiful soup in extracting  main content of webpage. In this program I started with opening of “finalUrls.txt” file and then created a  “output” folder and in which we have “rawHtml” and “processedHtml” folders to  dump raw html  and  text  of 1000 URLs  respectively.  All the three directories  I am creating using function called  “createDirectories” . To store raw html and processed text of webpage in new file,  I hashed the URL  using “hashlib” library to “hashedUrl.html” and “hashedUrl.txt” respectively. The  function I used md5 for hashing URLs has no decrypt function, so I stored URL and corresponding hash key in “hashedUrls.csv”  file in output directory. 
+By using urllib.request we will get the raw html and to parse it I used boilerpipe. Raw html is stored in “rawHtml”  folder and corresponding processed text will store in “processedHtml” folder.
+\subsection*{Run on the command line}
+\begin{lstlisting}[frame=single]
+python checkHtmlContent.py
+\end{lstlisting}
+\lstinputlisting[frame=single,caption={Python script for storing raw html and processed html },label=lst:q1tweepy,captionpos=b,numbers=left,showspaces=false,breakindent=0.5pt,showstringspaces=false,basicstyle=\footnotesize]{checkHtmlContent.py}
+
+
+
+\clearpage
+
+% =================================
+% Second question
+% =================================
+
+\section*{2}
+
+\subsection*{Question}
+
+\begin{verbatim}
+2.  Choose a query term (e.g., "shadow") that is not a stop word
+(see week 5 slides) and not HTML markup from step 1 (e.g., "http")
+that matches at least 10 documents (hint: use "grep" on the processed
+files).  If the term is present in more than 10 documents, choose
+any 10 from your list.  (If you do not end up with a list of 10
+URIs, you've done something wrong).
+
+As per the example in the week 5 slides, compute TFIDF values for
+the term in each of the 10 documents and create a table with the
+TF, IDF, and TFIDF values, as well as the corresponding URIs.  The
+URIs will be ranked in decreasing order by TFIDF values.  For
+example:
+
+Table 1. 10 Hits for the term "shadow", ranked by TFIDF.
+
+TFIDF	TF	IDF	URI
+-----	--	---	---
+0.150	0.014	10.680	http://foo.com/
+0.044	0.008	10.680	http://bar.com/
+
+
+You can use Google or Bing for the DF estimation.  To count the
+number of words in the processed document (i.e., the deonminator
+for TF), you can use "wc":
+
+% wc -w www.cnn.com.processed
+    2370 www.cnn.com.processed
+
+It won't be completely accurate, but it will be probably be
+consistently inaccurate across all files.  You can use more 
+accurate methods if you'd like, just explain how you did it.  
+
+Don't forget the log base 2 for IDF, and mind your significant
+digits!
+
+https://en.wikipedia.org/wiki/Significant_figures#Rounding_and_decimal_places
+\end{verbatim}
+
+\subsection*{Answer}		
+
+In this problem I calculated a TF-IDF, TF and  IDF  for 10 short  listed URLs from 1000 URLs.
+\begin{itemize}
+    \item TF = (total number of searched word/total number of words in a document)
+    \item IDF = log2(total docs in corpus / docs with term)
+    \item TF-IDF = TF × IDF
+\end{itemize}
+
+First and foremost to identify 10 URLs I wrote a python code where if the search word count in a file is greater than 10  I am storing it in a “tenUrls.txt”.  Here my search keyword is “football”
+libraries used for getting 10 URLs
+\begin{itemize}
+    \item import os
+    \item import re
+\end{itemize}
+\subsection*{Run on the command line}
+\begin{lstlisting}[frame=single]
+python searchWordFromFile.py>tenUrls.txt
+\end{lstlisting}
+\lstinputlisting[frame=single,caption={Python script for storing raw html and processed html },label=lst:q1tweepy,captionpos=b,numbers=left,showspaces=false,breakindent=0.5pt,showstringspaces=false,basicstyle=\footnotesize]{searchWordFromFile.py}
+
+Libraries used for solving problem\#2
+\begin{itemize}
+    \item import os
+    \item from collections import Counter
+    \item import pandas as pd
+    \item import numpy as np
+\end{itemize}
+ steps to be followed :
+\begin{itemize}
+    \item I am having hashed 10 Urls in “tenUrls.txt” files, we are having original URL and hashed URL in “hashedUrls.csv” file, from this file I am reading storing all the 10 URLs original name in “hashedUrls” data structure called dictionary. 
+    \item From “tenUrls.txt” reading each URL and reading the content of the URL line by line and splitting each line into word, comparing each word with search key word and keep on incrementing if search key word exist and finding total word count of each URL. Finding TF using search key word count and total number of words in a document.
+    \item Calculating IDF=1000/345, 1000 is my total number of URLs and 345 is total number of files my search key word present
+    \item Calculating TF-IDF =TF*IDF
+\end{itemize}
+\subsection*{Run on the command line}
+\begin{lstlisting}[frame=single]
+Python wordcount.py>problem2output.txt
+\end{lstlisting}
+\lstinputlisting[frame=single,caption={Python script for calculating TF-IDF, TF and IDF },label=lst:q1tweepy,captionpos=b,numbers=left,showspaces=false,breakindent=0.5pt,showstringspaces=false,basicstyle=\footnotesize]{wordcount.py}
+
+
+\begin{table}
+\begin{tabular}{ | l | l | l | p{7.8cm} | }
+\hline
+\textbf{TFIDF} & \textbf{TF} & \textbf{IDF} & \textbf{URI} \\
+\hline
+0.0213 & 0.0138 & 1.5353 & \url{http://www.pressofatlanticcity.com/sports/local/highschool/football/atlantic-city-football-players-sign-to-play-division-ii-football/article_d481acc6-a0d5-5d8a-9900-230622b6e8f8.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share} \\
+\hline
+0.0076 & 0.0049  &1.53532 & \url{ https://www.azcentral.com/story/sports/ncaaf/2018/02/07/asu-football-herm-edwards-arizona-football-kevin-sumlin-contract/311731002/} \\
+\hline
+0.0051 & 0.0033 & 1.5353 & \url{http://www.citizen-times.com/story/sports/high-school/hshuddle/2018/02/07/wnc-talent-display-during-national-signing-day/316890002/} \\
+\hline
+0.0028 & 0.00199 & 1.5353& \url{https://www.postandcourier.com/sports/citadel-football-recruiting-class-boosted-by-pair-of--star/article_bc681706-0bff-11e8-baca-7f18d5c08a83.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share} \\
+\hline
+0.0019 & 0.0013& 1.5353& \url{ https://www.sportbuzzbusiness.fr/liga-sengage-football-feminin-nigeria.html?utm_source=Sociallymap&utm_medium=Sociallymap&utm_campaign=Sociallymap} \\
+\hline
+0.001 & 0.00086 & 1.5353 & \url{http://www.the42.ie/liam-whelan-munich-air-disaster-busby-babes-60th-anniversary-3785714-Feb2018/?utm_source=shortlink} \\
+\hline
+0.0011  & 0.00081 & 1.5353 & \url{https://www.postandcourier.com/sports/the-citadel-football-signs-new-players-awaits-at-least-one/article_bc681706-0bff-11e8-baca-7f18d5c08a83.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share} \\
+\hline
+0.0008 & 0.00034 & 1.5353 & \url{https://elpasoheraldpost.com/videoinfo-dimel-announces-2018-utep-football-signing-class/} \\
+\hline
+0.0007 & 0.00088 & 1.5353 & \url{http://www.wbur.org/onlyagame/2018/02/02/zac-easter-cte-concussion-football} \\
+\hline
+0.0007 & 0.00180 & 1.5353 & \url{http://www.nationalreview.com/article/456152/philadelphia-eagles-win-god-loves-them-us-all} \\
+\hline
+\end{tabular}
+\caption{10 URIs found containing \emph{football}, with calculations TFIDF, TF and IDF}
+\label{table:tfidf}
+\end{table}
+
+\clearpage
+
+% =================================
+% Third question
+% =================================
+
+\section*{3}
+
+\subsection*{Question}
+
+\begin{verbatim}
+3.  Now rank the same 10 URIs from question #2, but this time 
+by their PageRank.  Use any of the free PR estimaters on the web,
+such as:
+
+http://pr.eyedomain.com/
+http://www.prchecker.info/check_page_rank.php
+http://www.seocentro.com/tools/search-engines/pagerank.html
+http://www.checkpagerank.net/
+
+If you use these tools, you'll have to do so by hand (they have
+anti-bot captchas), but there are only 10 to do.  Normalize the
+values they give you to be from 0 to 1.0.  Use the same tool on all
+10 (again, consistency is more important than accuracy).  Also
+note that these tools typically report on the domain rather than
+the page, so it's not entirely accurate.  
+
+Create a table similar to Table 1:
+
+Table 2.  10 hits for the term "shadow", ranked by PageRank.
+
+PageRank	URI
+--------	---
+0.9		http://bar.com/
+0.5		http://foo.com/
+
+Briefly compare and contrast the rankings produced in questions 2
+and 3.
+\end{verbatim}
+
+\clearpage
+\subsection*{Answer}
+
+Using the \url{http://www.checkpagerank.net/} website I checked the page rank of my 10 URIs obtained from question 2. This website only did domain searches on the URIs provided, making the 2 postandcourier.com URIs included the same value for each Page Rank.  I also attempted prchecker.info and checkerpagerank.net but was unable to get past their captchas. The end result is shown in Table \ref{table:pgrank}.
+
+When comparing the Page Rank to the TFIDF for each of the URIs, it's apparent that Page Rank is a much higher value for each of the URIs. What was surprising to me was the difference in TFIDF but also the values of the wbur.org and nationalreview.com  URIs. Those  URIs tend to correlate as the top 3 highest TFIDF values as well as the top Page Rank values.  The terms and the TFIDF for majority of the values actually correlates very nicely with one another. However the biggest discrepancy was the Page Rank and TFIDF forwbur.org and nationalreview.com . The Page Rank of those  was 0.7 but it also had the  lowest TFIDF.  Those URI turned out to be a very high indexed news website, but TFIDF wasn't reliable enough to receive great values on those URIs.
+
+\begin{table}
+\begin{tabular}{ | l | l | p{8.2cm} | }
+\hline
+\textbf{PR} & \textbf{TFIDF} & \textbf{URI} \\
+\hline
+0.6 &  0.0213 & \url{http://www.pressofatlanticcity.com} \\
+\hline
+0.8  & 0.0076 & \url{https://www.azcentral.com} \\
+\hline
+0.7 & 0.0051 & \url{http://www.citizen-times.com} \\
+\hline
+0.7 & 0.0028  & \url{https://www.postandcourier.com} \\
+\hline
+0.5 & 0.0019 & \url{https://www.sportbuzzbusiness.fr} \\
+\hline
+0.6 & 0.001  & \url{http://www.the42.ie} \\
+\hline
+0.7 & 0.0011  & \url{https://www.postandcourier.com} \\
+\hline
+0.5 & 0.0008  & \url{https://elpasoheraldpost.com} \\
+\hline
+0.7 & 0.0007 & \url{http://www.wbur.org} \\
+\hline
+0.7 & 0.0007 & \url{http://www.nationalreview.com} \\
+\hline
+\end{tabular}
+\caption{Page Rank and TFIDF Comparison of 10 URIs with PR on a 0 to 1 scale}
+\label{table:pgrank}
+\end{table}
+
+
+\clearpage
+% =================================
+% Bibliography
+% =================================
+
+\begin{thebibliography}{9}
+\bibitem{eyedomainref}
+``Check last known Google PageRank.'' eyedomain. EyeDomain, n.d. Web. 22 Feb. 2017. \url{http://pr.eyedomain.com/}.
+\bibitem{invertedindexref}
+``Inverted Index.'' Roseta Code Inverted index. N.p.,n.d. Web. 22 Feb. 2017. \url{http://rosettacode.org/wiki/Inverted_index#Simple_inverted_index}
+\bibitem{wikipediaref}
+``Kendall rank correlation coefficient.'' Wikipedia - Kendall Rank Correlation coefficient. Wikipedia, n.d. Web. 22 Feb. 2017. \url{https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient#Tau-b}
+\bibitem{finalurisref}
+Atkins, Grant. ``finalURIs.txt - Twitter scraped URIs.'' cs532-s17 Github Repository. N.p., 09 Feb. 2017. Web. 22 Feb. 2017.\url{https://github.com/grantat/cs532-s17/blob/master/assignments/A3/src/output/finalURIs.txt}.
+\bibitem{finalurisref}
+Atkins, Grant. ``Inverted Index results.'' cs532-s17 Github Repository. N.p., 09 Feb. 2017. Web. 22 Feb. 2017.\url{https://github.com/grantat/cs532-s17/blob/master/assignments/A3/src/output/invertedIndex.txt}.
+\bibitem{stackoverflowpostref}
+Fellows, Ian. ``Measures of association in R ? Kendall's tau-b and tau-c.'' Stackoverflow. Stackoverflow, 10 April 2010. Web. 22 Feb. 2017. \url{http://stackoverflow.com/questions/2557863/measures-of-association-in-r-kendalls-tau-b-and-tau-c}.
+\bibitem{worldwidewebsizeref}
+Kunder, Maurice. ``The size of the Dutch World Wide Web'' worldwidwebsize. N.p., n.d. Web. 22 Feb. 2017.\url{http://www.worldwidewebsize.com/}.
+\bibitem{curlref} 
+Stenberg, Daniel. ``Curl.1 the Man Page.'' Curl - How To Use. N.p., n.d. Web. 24 Jan. 2017. \url{https://curl.haxx.se/docs/manpage.html}.
+\end{thebibliography}
+
+\end{document}

@@ -1,0 +1,18 @@
+The checkin is now hidden from your main brewery feed.
+Unhide this Check-in
+Once this is processed, it will show up in your brewery's main feed.
+Unhide Checkin
+The checkin should now appear on your brewery's main feed.
+Report this Check-in
+Does this check-in contain something inappropriate? Please note that we only remove checkins that match the criteria below.
+Please select a reason for reporting this check-in:
+Inappropriate or offensive language
+Inappropriate or offensive photo
+Check-in may be spam
+We do not remove check-ins, because a user has checked in to the wrong beer, made a low rating, or the check-in details are incorrect (venue/location/etc). The best practice is to comment on the check-in to ask the user for feedback on your issue if you are friends with them.
+Additional comments or notes? Please try to be as descriptive as possible.
+I understand that I am not reporting this due to a incorrect check-in or low rating.
+Send Report
+To report this as user error, please select from the following reasons:
+Report this Check-in
+

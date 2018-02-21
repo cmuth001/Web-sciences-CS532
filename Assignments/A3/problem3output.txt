@@ -1,0 +1,14 @@
+pageRank	URL
+--------	-----
+0.6 		http://www.pressofatlanticcity.com
+0.8 		https://www.azcentral.com
+0.7 		http://www.citizen-times.com
+0.7 		https://www.postandcourier.com
+0.5 		https://www.sportbuzzbusiness.fr
+0.6 		http://www.the42.ie
+0.7 		https://www.postandcourier.com
+0.5 		https://elpasoheraldpost.com
+0.7 		http://www.wbur.org
+0.7 		http://www.nationalreview.com
+
+
