@@ -9,9 +9,8 @@
 \usepackage[table]{xcolor}
 \usepackage{comment}
 \usepackage[space]{grffile}
-\usepackage{csvsimple}
 
-\newcommand*{\srcPath}{../src}%
+
 
 \lstset{
 numbers=left,
@@ -56,7 +55,7 @@ escapeinside={\%*}{*)}
 \subsection*{Question}
 
 
-\begin{justify}
+
 \begin{verbatim}
 The "friendship paradox" (http://en.wikipedia.org/wiki/Friendship_paradox)
 says that your friends have more friends than you do.  
@@ -75,18 +74,27 @@ friend to approve this operation, effectively making it impossible.
 
 I will upload a csv file of my 2014 friends list on the #assignment-4 slack channel
 \end{verbatim}
-\end{justify}
+
 
 \clearpage
 \subsection*{Answer}
 
-To solve this problem I have gone 
+To solve this problem I have gone through the above link and understood what friendship paradox is, and started writing a programming in python \textbf{friendsParadox.py}  for displaying friendship paradox graph for Prof. anwala’s Facebook account. Prof. anwala gave his facebook friends of friends count in \textbf{acnwala-friendscount.csv}.\\
+List of python dependency libraries
+\begin{itemize}
+    \item import matplotlib.pyplot as plt
+    \item import pandas as pd
+    \item import numpy as np
+    \item import math
+\end{itemize}
+Initially in the program I am reading a csv using pandas and it will convert into data frame. From that data frame I took friends count column and converted in to list \textbf{y\_axis} that acts as y-axis. Using that list length I have created a \textbf{x\_axis} list to indicate number of friends. First Using numpy library I calculated mean, median and standard deviation (SD) and appending into y\_axis list to plot the mark on the graph. I took \textbf{myFriends} variable which will store prof. Anwal’s friends count and appending into y\_axis list just like mean, median and SD to plot where Prof. anwala stands in the graph whether above or below mean and median values. 
+\subsection*{Run on the command line}
+\begin{lstlisting}[frame=single]
+python friendsParadox.py
+\end{lstlisting}
+\lstinputlisting[frame=single,caption={Python script for ploting friends paradox for Facebook account },label=lst:q1tweepy,captionpos=b,numbers=left,showspaces=false,breakindent=0.5pt,showstringspaces=false,basicstyle=\footnotesize]{friendsParadox.py}
 
-This python script goes through each node, which was a friend of Dr. Nelson on Facebook from 2013, and picks out the friend count for each user assigning that value to a dictionary with the key being the user's name. After iterating through all the nodes, Dr. Nelson was assigned a value of the total number of nodes in the file. It should be noted that there were 11 users that did not have a friend count, possibly due to privacy reason. The 11 users were: James Florance, Joy Gooden, Kim Beveridge, Alfredo S�nchez, Sarah Shreeves, Sally Mauck, Dan Swaney, Robert Gordeaux, Joseph Kaplan, Michael Milner and Catherine Kemble Cronin. After this data was created I saved it to a csv called \textbf{facebookFriends.csv}.
-
-It should also be noted that the number of nodes that the \textbf{mln.graphml} file provided was 165, but you'll notice my graph only goes up to 155. This is taken from the fact that some of the nodes in the xml file didn't have a friend count so they weren't included in this set.
-
-I then wrote a script in R called \textbf{friendshipParadox.R} to plot these values in an ascending order based on friend count. In the plot shown in Figure \ref{fig:q1facebookplot}, you can see that Dr. Nelson has many friends with higher friend counts than him, with his count being 154 (not including himself). Therefore, the friendship paradox does hold for Dr. Nelson's Facebook account. I also used this R script to compute the Mean, Standard Deviation and Median of Dr. Nelson's Facebook friend counts shown in Table \ref{table:q1summary}.
+ In the plot shown in below  Figure , you can see that Prof.Anwala has many friends with higher friend counts than him, with his count being 98 (not including himself). Therefore, the friendship paradox does hold for Prof.Anwala's Facebook account. I also used this Python script to compute the Mean, Standard Deviation and Median of Prof.Anwala's Facebook friend counts shown in Table.
 
 \begin{table}[htb]
 \centering
@@ -94,19 +102,19 @@ I then wrote a script in R called \textbf{friendshipParadox.R} to plot these val
 \hline
 \textbf{Mean} & \textbf{Standard Deviation} & \textbf{Median} \\
 \hline
-357.6645 & 370.7427 & 259 \\
+542.67 & 536.67 & 396.0\\
 \hline
 \end{tabular}
-\caption{Mean, Standard Deviation and Median generated from R Script for Facebook friend counts}
+\caption{Mean, Standard Deviation and Median generated from Python  Script for Facebook friend counts}
 \label{table:q1summary}
 \end{table}
-
+\clearpage
 \begin{figure}[h]
 \centering
-\includegraphics[scale=0.6]{facebookPlot.pdf}
-\caption{Plot of Dr. Nelson's Facebook friends vs. friend counts}
+\includegraphics[scale=0.6]{facebookPlot.png} 
+\caption{Plot of Prof.Anwala's Facebook friends vs. friend counts}
 \label{fig:q1facebookplot}
-\end{figure}
+\end{figure}}
 
 \clearpage
 
@@ -128,50 +136,58 @@ mean, standard deviation, and median values.
 
 For the Twitter 1.1 API to help gather this data, see:
 
-https://dev.twitter.com/docs/api/1.1/get/followers/list
+https://developer.twitter.com/en/docs/accounts-and-users/follow-search-get-users
 
 If you do not have followers on Twitter (or don't have more than 50),
-then use my twitter account "phonedude_mln".
+then use my twitter account "acnwala".
+
 \end{verbatim}
 
 \clearpage
 \subsection*{Answer}
 
-Since my twitter account had no followers, I used Dr. Nelson's twitter account $``phonedude\_mln$'' for this problem. I wrote a script in python 3.6 using the Tweepy dependency to communicate with Twitter's api as shown in Listing \ref{lst:twitterpy}. I used the pages option instead of the items option to reduce number of API calls, where pages return more json information per request. I retrieved this data and save the names of the users and their follower counts to a CSV file named \textbf{twitterFollowers.csv}.
+To solve this problem I have gone through the twitter API Tweepy and found one solution for getting followings and followers based on the screen name given to that API. There is a cursor function in tweepy library  to get details of friends of friends in twitter. 
+For this problem I am passing screen name and variable which I wanted to  extracting from my friends account let say  in this problem I want following count of  my friends (that is whom I am following in twitter).  I am saving screen name of my friends and their corresponding following count in \textbf{friendsCount.csv} file, like wise for followers of my followers I am passing followers and screen name to the cursor function which will give me count of my flowers of followers count ad storing in \textbf{followersCount.csv} file. I have collected data for problem\#2 in \textbf{friendsCount.csv} and problem\#4 in \textbf{followersCount.csv} to plot friendship paradox.\\
+List of python dependency libraries to extract above data
 
-I then wrote a script in R called \textbf{twitterFriendship.R} to plot these values in an ascending order based on follower count. In the plot shown in Figure \ref{fig:q1facebookplot}, you can see that Dr. Nelson still has many followers with higher follower counts than him, with his count being 624 (not including himself). Therefore, the friendship paradox does hold for Dr. Nelson's Twitter account for followers. I also used this R script to compute the Mean, Standard Deviation and Median of Dr. Nelson's Facebook friend counts shown in Table \ref{table:q2summary}. 
-
+\begin{itemize}
+    \item import tweepy
+    \item import csv
+\end{itemize}
+\subsection*{Run on the command line}
+\begin{lstlisting}[frame=single]
+python friendsofFriendsFromTwitter.py
+\end{lstlisting}
+\lstinputlisting[frame=single,caption={Python script for extracting friends and followers of friends from twitter },label=lst:q1tweepy,captionpos=b,numbers=left,showspaces=false,breakindent=0.5pt,showstringspaces=false,basicstyle=\footnotesize]{friendsofFriendsFromTwitter.py}
+To draw the friendship paradox of twitter friends I wrote a program just like problem\#1 named as \textbf{twitterFriendsParadox.py}
+\subsection*{Run on the command line}
+\begin{lstlisting}[frame=single]
+python twitterFriendsParadox.py
+\end{lstlisting}
+\lstinputlisting[frame=single,caption={Python script for generating a plot  Twitter Friends Of friends Of  Hemanth Malla},label=lst:q1tweepy,captionpos=b,numbers=left,showspaces=false,breakindent=0.5pt,showstringspaces=false,basicstyle=\footnotesize]{twitterFriendsParadox.py}
+\clearpage
 \begin{table}[htb]
 \centering
 \begin{tabular}{ | l | l | l |}
 \hline
 \textbf{Mean} & \textbf{Standard Deviation} & \textbf{Median} \\
 \hline
-1510.395 & 10150.67 & 310 \\
+820.14 & 2359.61 & 324 \\
 \hline
 \end{tabular}
-\caption{Mean, Standard Deviation and Median generated from R Script for twitter follower count}
+\caption{Mean, Standard Deviation and Median generated from python Script for twitter follower count}
 \label{table:q2summary}
 \end{table}
-
-\lstinputlisting[frame=single,caption={R Script for generating plot of twitter followers},label=lst:q2process,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{\srcPath/twitterFriendship.R}
-
+In the plot shown in below  Figure , you can see that Hemanth malla has many friends with higher friend counts than him, with his count being 746 (not including himself). Therefore, the friendship paradox does hold for Hemanth malla's Twitter account.
 \begin{figure}[h]
 \centering
-\includegraphics[scale=0.6]{twitterFollowers.pdf}
-\caption{Plot of Dr. Nelson's Twitter followers vs. follower counts}
+\includegraphics[width=\textwidth]{twitterFriendsParadox.png}
+\caption{Plot of Hemanth malla's Twitter friends vs. friends counts}
 \label{fig:q2followers}
 \end{figure}
 
-\begin{figure}[h]
-\centering
-\includegraphics[scale=0.6]{logTwitterFollowers.pdf}
-\caption{Natural log plot of Dr. Nelson's Twitter followers vs. follower counts}
-\label{fig:q2logfollowers}
-\end{figure}
 
-
-\lstinputlisting[frame=single,caption={Python script for receiving twitter followers and friends from Dr. Nelson's twitter},label=lst:twitterpy,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{\srcPath/twitterFriendship.py}
+\lstinputlisting[frame=single,caption={Python script for receiving twitter followers and friends from  Hemanth malla's twitter},label=lst:twitterpy,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{\srcPath/twitterFriendship.py}
 
 \clearpage
 
@@ -186,56 +202,82 @@ I then wrote a script in R called \textbf{twitterFriendship.R} to plot these val
 \begin{verbatim}
 Extra credit, 1 point:
 
-5.  Repeat question #2, but change "followers" to "following"?  In
-other words, are the people I am following following more people?
+3.  Repeat question #1, but with your (or a specified) LinkedIn profile.
 \end{verbatim}
 
 \clearpage
 \subsection*{Answer}
 
-The Twitter API labels the connection between a user following another user a ``friend'' which just means I had to switch a value in my \textbf{twitterFriendship.py} script to check for friends rather than followers, this is shown above in Listing \ref{lst:twitterpy}, which is the same script as earlier just with an extra function \cite{twitterapi}. I retrieved this data and save the names of the users and their follower counts to a CSV file named \textbf{twitterFollowing.csv}. For this problem I used practically the same R script, \textbf{twitterFollowing.R}, from problem 2 as shown in Listing \ref{lst:q3rscript}. This time I just interchanged the file names being used for data, as well as the labels. The CSV file is again read into the script taking both twitter usernames but this time with count of number of people they are following.
+To solve this problem I have gone through LinkedIn api for developers documentation, after gone through the documentation I understood that developers account is to get the basic information of my own profile and it is not providing any information of my connections profile. There is REST Console to check the api, when I tested it on the console by hitting the below URL I got below json as a result.
+\begin{lstlisting}[frame=single]
+https://api.linkedin.com/v1/people/~?format=json
+\end{lstlisting}
+\begin{lstlisting}[frame=single]
+{
+  "firstName": "Chandra Sekhar Reddy",
+  "headline": "Actively seeking Summer Internship.",
+  "id": "ieRtV_6P-3",
+  "lastName": "muthyala",
+  "siteStandardProfileRequest": {"url": "https://www.linkedin.com/profile/view?id=AAoAABAxil4Bvywspn9jEWbxrqYnUoABFEL_rYE&authType=name&authToken=yJSt&trk=api*a3227641*s3301901*"}
+}
+\end{lstlisting}
+\clearpage
 
-Again this graph shows that Dr. Nelson is following people who also seem to follow more people than him, showing that the Friendship paradox is also true in this case as well.
+% =================================
+% Fourth question
+% =================================
 
+\section*{4}
+
+\subsection*{Question}
+
+\begin{verbatim}
+4.  Repeat question #2, but change "followers" to "following"?  In
+other words, are the people I am following following more people?
+
+For the Twitter 1.1 API to help gather this data, see:
+
+https://developer.twitter.com/en/docs/accounts-and-users/follow-search-get-users/
+\end{verbatim}
+
+\clearpage
+\subsection*{Answer}
+
+To solve this problem, we got data for this problem from \textbf{friendsofFriendsFromTwitter.py”} and stored in \textbf{followersCount.csv} file.
+
+To draw the friendship paradox of twitter followers of my screen name followers I wrote a program just like problem\#1 named as \textbf{twitterFriendsParadox.py}
+\subsection*{Run on the command line}
+\begin{lstlisting}[frame=single]
+pythontwitterFollowersParadox.py
+\end{lstlisting}
+\lstinputlisting[frame=single,caption={Python Script for generating plot Twitter Followers Of Followers Of  Hemanth Malla},label=lst:q3rscript,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{twitterFollowersParadox.py}
 \begin{table}[htb]
 \centering
 \begin{tabular}{ | l | l | l |}
 \hline
 \textbf{Mean} & \textbf{Standard Deviation} & \textbf{Median} \\
 \hline
-853.816 & 4868.175 & 256 \\
+5643.14 & 42238.58 & 155 \\
 \hline
 \end{tabular}
-\caption{Mean, Standard Deviation and Median generated from R Script for twitter following count}
+\caption{Mean, Standard Deviation and Median generated from python Script for twitter following count}
 \label{table:summaryExtra}
 \end{table}
-
-\lstinputlisting[frame=single,caption={R Script for generating plot of twitter followers},label=lst:q3rscript,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{\srcPath/twitterFollowing.R}
-
+In the plot shown in below  Figure , you can see that Hemanth malla has many Followers with higher Follwers counts than him, with his count being 193 (not including himself). Therefore, the friendship paradox does hold for Hemanth malla's Twitter account.
 \begin{figure}[h]
 \centering
-\includegraphics[scale=0.6]{twitterFollowing.pdf}
-\caption{Plot of Dr. Nelson's Facebook Twitter following vs. following counts}
-\label{fig:q2followers}
-\end{figure}
-
-\begin{figure}[h]
-\centering
-\includegraphics[scale=0.6]{logTwitterFollowing.pdf}
-\caption{Natural log plot of Dr. Nelson's Facebook Twitter following vs. following counts}
-\label{fig:q2logfollowers}
+\includegraphics[scale=1.0]{twitterFollowersParadox.png}
+\caption{ plot of Hemanth malla's Facebook Twitter following vs. following counts}
+\label{fig:scatterplot}
 \end{figure}
 \clearpage
-
 % =================================
 % Bibliography
 % =================================
 
 \begin{thebibliography}{9}
-\bibitem{finalurisref}
-Nelson, Michael. ``Facebook Friends GraphML.'' cs532-s17 Github Repository. N.p., 1 March. 2017. Web. 1 March 2017.\url{https://github.com/grantat/cs532-s17/blob/master/assignments/A3/src/output/mln.graphml}.
-\bibitem{pygraphml}
-Mary, Hadrien. ``pygraphml – API documentation.''N.p., n.d. Web. 1 March 2017 \url{http://hadim.fr/pygraphml/reference.html}.
+
+\bibitem{LinkedInapi} \url{https://developer.linkedin.com/docs/rest-api}.
 \bibitem{twitterapi}
 ``Twitter Developer Documentation''. Twitter. Twitter, n.d. Web. 1 March 2017. \url{https://dev.twitter.com/rest/reference/get/followers/list}.
 \end{thebibliography}

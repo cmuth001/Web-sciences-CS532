@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2018.1.28)  28 FEB 2018 12:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2018.1.28)  28 FEB 2018 20:12
 entering extended mode
 **./assignment4.tex
 (assignment4.tex
@@ -303,78 +303,45 @@ Package grffile Info: Option `multidot' is set to `true'.
 Package grffile Info: Option `extendedchars' is set to `false'.
 Package grffile Info: Option `space' is set to `true'.
 Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
-)
-(\\cifs-ecs.cs.odu.edu\Grad\cmuthyal\win_user_profile\AppData\MiKTeX\2.9\tex\la
-tex\csvsimple\csvsimple.sty
-Package: csvsimple 2016/07/01 version 1.20 LaTeX CSV file processing
-
-(\\cifs-ecs.cs.odu.edu\Grad\cmuthyal\win_user_profile\AppData\MiKTeX\2.9\tex\la
-tex\pgf\utilities\pgfkeys.sty
-(\\cifs-ecs.cs.odu.edu\Grad\cmuthyal\win_user_profile\AppData\MiKTeX\2.9\tex\ge
-neric\pgf\utilities\pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks23
-\pgfkeys@temptoks=\toks24
-
-(\\cifs-ecs.cs.odu.edu\Grad\cmuthyal\win_user_profile\AppData\MiKTeX\2.9\tex\ge
-neric\pgf\utilities\pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks25
-)))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(\\cifs-ecs.cs.odu.edu\Grad\cmuthyal\win_user_profile\AppData\MiKTeX\2.9\tex\la
-tex\etoolbox\etoolbox.sty
-Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count119
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty"
-Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
-Package shellesc Info: Restricted shell escape enabled on input line 69.
-)
-\csv@file=\read1
-\c@csvinputline=\count120
-\c@csvrow=\count121
-\c@csvcol=\count122
-\csv@out=\write4
 ) (assignment4.aux
 
-LaTeX Warning: Label `fig:q2followers' multiply defined.
+LaTeX Warning: Label `lst:q1tweepy' multiply defined.
 
 
-LaTeX Warning: Label `fig:q2logfollowers' multiply defined.
+LaTeX Warning: Label `lst:q1tweepy' multiply defined.
 
 )
 \openout1 = `assignment4.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 
 (\\cifs-ecs.cs.odu.edu\Grad\cmuthyal\win_user_profile\AppData\MiKTeX\2.9\tex\co
 ntext\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count123
+\scratchcounter=\count119
 \scratchdimen=\dimen124
 \scratchbox=\box30
-\nofMPsegments=\count124
-\nofMParguments=\count125
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count126
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count122
 \MPscratchDim=\dimen125
-\MPnumerator=\count127
-\makeMPintoPDFobject=\count128
-\everyMPtoPDFconversion=\toks27
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks24
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -388,9 +355,9 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-\c@lstlisting=\count129
+\c@lstlisting=\count125
 \AtBeginShipoutBox=\box31
-Package hyperref Info: Link coloring OFF on input line 27.
+Package hyperref Info: Link coloring OFF on input line 26.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -398,337 +365,295 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count130
+\c@section@level=\count126
 )
-LaTeX Info: Redefining \ref on input line 27.
-LaTeX Info: Redefining \pageref on input line 27.
-LaTeX Info: Redefining \nameref on input line 27.
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
 
 (assignment4.out) (assignment4.out)
-\@outlinefile=\write5
-\openout5 = `assignment4.out'.
+\@outlinefile=\write4
+\openout4 = `assignment4.out'.
 
  [1
 
 {C:/Users/cmuthyal/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-
-! LaTeX Error: Environment justify undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.59 \begin{justify}
-                    
-? 
-
-Overfull \hbox (65.4029pt too wide) in paragraph at lines 77--77
+Overfull \hbox (65.4029pt too wide) in paragraph at lines 76--76
 []\OT1/cmtt/m/n/10.95 The "friendship paradox" (http://en.wikipedia.org/wiki/Fr
 iendship_paradox)[] 
  []
 
 
-Overfull \hbox (13.6647pt too wide) in paragraph at lines 77--77
+Overfull \hbox (13.6647pt too wide) in paragraph at lines 76--76
 []\OT1/cmtt/m/n/10.95 account.* Compute the mean, standard deviation, and media
 n of the[] 
  []
 
 
-Overfull \hbox (7.91602pt too wide) in paragraph at lines 77--77
+Overfull \hbox (7.91602pt too wide) in paragraph at lines 76--76
 []\OT1/cmtt/m/n/10.95 number of friends (y-axis) and the friends themselves, so
 rted by[] 
  []
 
 
-Overfull \hbox (19.41339pt too wide) in paragraph at lines 77--77
+Overfull \hbox (19.41339pt too wide) in paragraph at lines 76--76
 []\OT1/cmtt/m/n/10.95 number of friends (y-axis).  (The friends don't need to b
 e labeled[] 
  []
 
 
-Overfull \hbox (30.91077pt too wide) in paragraph at lines 77--77
+Overfull \hbox (30.91077pt too wide) in paragraph at lines 76--76
 []\OT1/cmtt/m/n/10.95 on the x-axis: just f1, f2, f3, ... fn.)  Do include me i
 n the graph[] 
  []
 
 
-Overfull \hbox (53.90552pt too wide) in paragraph at lines 77--77
+Overfull \hbox (53.90552pt too wide) in paragraph at lines 76--76
 []\OT1/cmtt/m/n/10.95 * = This used to be more interesting when you could more 
 easily download[] 
  []
 
 
-Overfull \hbox (36.65945pt too wide) in paragraph at lines 77--77
+Overfull \hbox (36.65945pt too wide) in paragraph at lines 76--76
 []\OT1/cmtt/m/n/10.95 your friend's friends data from Facebook.  Facebook now r
 equires each[] 
  []
 
 
-Overfull \hbox (25.16208pt too wide) in paragraph at lines 77--77
+Overfull \hbox (25.16208pt too wide) in paragraph at lines 76--76
 []\OT1/cmtt/m/n/10.95 friend to approve this operation, effectively making it i
 mpossible.[] 
  []
 
 
-Overfull \hbox (117.14108pt too wide) in paragraph at lines 77--77
+Overfull \hbox (117.14108pt too wide) in paragraph at lines 76--76
 []\OT1/cmtt/m/n/10.95 I will upload a csv file of my 2014 friends list on the #
 assignment-4 slack channel[] 
  []
 
-
-! LaTeX Error: \begin{document} ended by \end{justify}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.78 \end{justify}
-                  
-? 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.80 \clearpage
+l.79 \clearpage
                 [1]
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no ø in font cmr10!
-Missing character: There is no Ω in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 85.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 85.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+(friendsParadox.py [2
+
+]) [3]
+<facebookPlot.png, id=77, 611.28375pt x 1110.39844pt>
+File: facebookPlot.png Graphic file (type png)
+ <use facebookPlot.png>
+Package pdftex.def Info: facebookPlot.png used on input line 114.
+(pdftex.def)             Requested size: 366.77307pt x 666.24422pt.
+
+Overfull \hbox (6.77307pt too wide) in paragraph at lines 114--115
+ [][] 
+ []
 
 
-LaTeX Warning: File `facebookPlot.pdf' not found on input line 106.
+LaTeX Warning: Float too large for page by 150.57315pt on input line 117.
 
 
-! Package pdftex.def Error: File `facebookPlot.pdf' not found.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.106 ...ludegraphics[scale=0.6]{facebookPlot.pdf}
-                                                  
+! Too many }'s.
+l.117 \end{figure}}
+                   
 ? 
-[2
-
-]
-Overfull \hbox (48.15683pt too wide) in paragraph at lines 135--135
+[4 <./facebookPlot.png>]
+Overfull \hbox (48.15683pt too wide) in paragraph at lines 144--144
 []\OT1/cmtt/m/n/10.95 2.  Determine if the friendship paradox holds for your Tw
 itter account.[] 
  []
 
 
-Overfull \hbox (48.15683pt too wide) in paragraph at lines 135--135
+Overfull \hbox (48.15683pt too wide) in paragraph at lines 144--144
 []\OT1/cmtt/m/n/10.95 Since Twitter is a directed graph, use "followers" as val
 ue you measure[] 
  []
 
 
-Overfull \hbox (7.91602pt too wide) in paragraph at lines 135--135
+Overfull \hbox (7.91602pt too wide) in paragraph at lines 144--144
 []\OT1/cmtt/m/n/10.95 Generate the same graph as in question #1, and calcuate t
 he same[] 
  []
 
 
-Overfull \hbox (36.65945pt too wide) in paragraph at lines 135--135
+Overfull \hbox (99.89502pt too wide) in paragraph at lines 144--144
+[]\OT1/cmtt/m/n/10.95 https://developer.twitter.com/en/docs/accounts-and-users/
+follow-search-get-users[] 
+ []
+
+
+Overfull \hbox (36.65945pt too wide) in paragraph at lines 144--144
 []\OT1/cmtt/m/n/10.95 If you do not have followers on Twitter (or don't have mo
 re than 50),[] 
  []
 
-[3
+[5
+
+
+] (friendsofFriendsFromTwitter.py [6
 
 ]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+) (twitterFriendsParadox.py [7])
+[8] <twitterFriendsParadox.png, id=191, 594.72188pt x 1080.28593pt>
+File: twitterFriendsParadox.png Graphic file (type png)
 
-LaTeX Warning: Reference `lst:twitterpy' on page 4 undefined on input line 140.
+<use twitterFriendsParadox.png>
+Package pdftex.def Info: twitterFriendsParadox.png used on input line 184.
+(pdftex.def)             Requested size: 360.0pt x 653.91293pt.
 
 
+LaTeX Warning: Float too large for page by 138.24187pt on input line 187.
 
-! Package Listings Error: File `../src/twitterFriendship(.R)' not found.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: R)
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-Enter file name: 
 ! Undefined control sequence.
-\\lst@inputlisting ...}}\reserved@a }\lst@doendpe 
-                                                  \@newlistfalse \ignorespaces 
-l.157 ...otnotesize]{\srcPath/twitterFriendship.R}
+<argument> \lst@inputpath \srcPath 
+                                   /twitterFriendship.py
+l.190 ...tnotesize]{\srcPath/twitterFriendship.py}
+                                                  
+? 
+! Undefined control sequence.
+<argument> \srcPath 
+                    
+l.190 ...tnotesize]{\srcPath/twitterFriendship.py}
                                                   
 ? 
 
-LaTeX Warning: File `twitterFollowers.pdf' not found on input line 161.
-
-
-! Package pdftex.def Error: File `twitterFollowers.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.161 ...graphics[scale=0.6]{twitterFollowers.pdf}
-                                                  
-? 
-
-LaTeX Warning: File `logTwitterFollowers.pdf' not found on input line 168.
-
-
-! Package pdftex.def Error: File `logTwitterFollowers.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.168 ...phics[scale=0.6]{logTwitterFollowers.pdf}
-                                                  
-? 
-
-! Package Listings Error: File `../src/twitterFriendship(.py)' not found.
+! Package Listings Error: File `/twitterFriendship(.py)' not found.
 
 Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: py)
 
 Enter file name: 
-! Undefined control sequence.
-\\lst@inputlisting ...}}\reserved@a }\lst@doendpe 
-                                                  \@newlistfalse \ignorespaces 
-l.174 ...tnotesize]{\srcPath/twitterFriendship.py}
-                                                  
-? 
-[4
+[9
+
+] [10 <./twitterFriendsParadox.png>]
+Overfull \hbox (53.90552pt too wide) in paragraph at lines 206--206
+[]\OT1/cmtt/m/n/10.95 3.  Repeat question #1, but with your (or a specified) Li
+nkedIn profile.[] 
+ []
+
+[11
+
+] [12
 
 ]
-Overfull \hbox (19.41339pt too wide) in paragraph at lines 191--191
-[]\OT1/cmtt/m/n/10.95 5.  Repeat question #2, but change "followers" to "follow
+Overfull \hbox (19.41339pt too wide) in paragraph at lines 241--241
+[]\OT1/cmtt/m/n/10.95 4.  Repeat question #2, but change "followers" to "follow
 ing"?  In[] 
  []
 
 
-Overfull \hbox (13.6647pt too wide) in paragraph at lines 191--191
+Overfull \hbox (13.6647pt too wide) in paragraph at lines 241--241
 []\OT1/cmtt/m/n/10.95 other words, are the people I am following following more
  people?[] 
  []
 
-[5
+
+Overfull \hbox (105.6437pt too wide) in paragraph at lines 241--241
+[]\OT1/cmtt/m/n/10.95 https://developer.twitter.com/en/docs/accounts-and-users/
+follow-search-get-users/[] 
+ []
+
+[13
 
 ]
+Missing character: There is no ‚ in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ù in font cmbx10!
 
-LaTeX Warning: Reference `lst:twitterpy' on page 6 undefined on input line 196.
+Overfull \hbox (7.5473pt too wide) in paragraph at lines 248--249
+\OT1/cmr/m/n/10.95 low-ers I wrote a pro-gram just like prob-lem#1 named as \OT
+1/cmr/bx/n/10.95 twit-ter-FriendsPara-
+ []
 
+(twitterFollowersParadox.py [14
 
+])
+<twitterFollowersParadox.png, id=273, 367.3725pt x 676.02562pt>
+File: twitterFollowersParadox.png Graphic file (type png)
 
-LaTeX Warning: Reference `lst:q3rscript' on page 6 undefined on input line 196.
+<use twitterFollowersParadox.png>
+Package pdftex.def Info: twitterFollowersParadox.png used on input line 269.
+(pdftex.def)             Requested size: 367.37158pt x 676.02396pt.
 
-
-
-! Package Listings Error: File `../src/twitterFollowing(.R)' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: R)
-
-Enter file name: 
-! Undefined control sequence.
-\\lst@inputlisting ...}}\reserved@a }\lst@doendpe 
-                                                  \@newlistfalse \ignorespaces 
-l.213 ...ootnotesize]{\srcPath/twitterFollowing.R}
-                                                  
-? 
-
-LaTeX Warning: File `twitterFollowing.pdf' not found on input line 217.
-
-
-! Package pdftex.def Error: File `twitterFollowing.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.217 ...graphics[scale=0.6]{twitterFollowing.pdf}
-                                                  
-? 
-
-LaTeX Warning: File `logTwitterFollowing.pdf' not found on input line 224.
-
-
-! Package pdftex.def Error: File `logTwitterFollowing.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.224 ...phics[scale=0.6]{logTwitterFollowing.pdf}
-                                                  
-? 
-[6
-
-]
-Underfull \hbox (badness 1226) in paragraph at lines 236--237
-[]\OT1/cmr/m/n/10.95 Nelson, Michael. ``Face-book Friends GraphML.'' cs532-s17 
-Github
+Overfull \hbox (7.37158pt too wide) in paragraph at lines 269--270
+ [][] 
  []
 
 
-Underfull \hbox (badness 4266) in paragraph at lines 236--237
-\OT1/cmr/m/n/10.95 Repos-i-tory. N.p., 1 March. 2017. Web. 1 March 2017.[]$\OT1
-/cmtt/m/n/10.95 https :
- []
+LaTeX Warning: Float too large for page by 171.82373pt on input line 272.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--237
-\OT1/cmtt/m/n/10.95 / / github . com / grantat / cs532 -[] s17 / blob / master 
-/ assignments /
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ì in font cmr10!
-
-Underfull \hbox (badness 1430) in paragraph at lines 240--241
+[15] [16 <./twitterFollowersParadox.png>]
+Underfull \hbox (badness 1430) in paragraph at lines 282--283
 []\OT1/cmr/m/n/10.95 ``Twitter De-vel-oper Doc-u-men-ta-tion''. Twit-ter. Twit-
 ter, n.d. Web.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
 \OT1/cmr/m/n/10.95 1 March 2017. []$\OT1/cmtt/m/n/10.95 https : / / dev . twitt
 er . com / rest / reference / get /
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 243.
-[7
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 285.
+[17
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 243.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 285.
  (assignment4.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 243.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 243.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 285.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 285.
 Package rerunfilecheck Info: File `assignment4.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 243.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 285.
  ) 
 Here is how much of TeX's memory you used:
- 8792 strings out of 493335
- 138314 string characters out of 3139251
- 238358 words of memory out of 3000000
- 12193 multiletter control sequences out of 15000+200000
- 9038 words of font info for 33 fonts, out of 3000000 for 9000
+ 7803 strings out of 493335
+ 113336 string characters out of 3139251
+ 326470 words of memory out of 3000000
+ 11016 multiletter control sequences out of 15000+200000
+ 10402 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,9n,46p,895b,337s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,9n,35p,718b,1734s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmtt10.pfb>
-Output written on assignment4.pdf (8 pages, 119391 bytes).
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.p
+fb>
+Output written on assignment4.pdf (18 pages, 336820 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 381 PDF objects out of 1000 (max. 8388607)
+ 225 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
