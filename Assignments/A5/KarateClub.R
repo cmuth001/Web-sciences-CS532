@@ -14,7 +14,7 @@ kclub <- karate
 clust <- cluster_edge_betweenness(kclub)
 
 # Original split
-# origCommunties <- plot.igraph(kclub)
+origCommunties <- plot.igraph(kclub)
 # Second value is number of communities to create
 groups <- cutat(clust, 2)
 # Assumed should have split
@@ -32,9 +32,9 @@ while(connected_components_count != 3){
   origCommunties <- edgesRemoved
   #get separate pdf according to the split
   # pdf(paste("Iteration",edgeIndex,".pdf"))
-  # plot.igraph(origCommunties)
+  plot.igraph(origCommunties)
   edgeIndex <- edgeIndex + 1
 }
 
 print(paste("Iteration Count",edgeIndex))
-plot.igraph(origCommunties)
+# plot.igraph(origCommunties)
