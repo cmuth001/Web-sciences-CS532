@@ -1,0 +1,1620 @@
+movieId,ImdbId,movieTitle,Rating,imdbVotes,movieLenseRating,movieLensUserCount
+344,tt3255278,Apostle,5.7,12,3.65,55.0
+345,tt0118954,Deconstructing Harry,7.4,"38,172",3.4,65.0
+346,tt0119396,Jackie Brown,7.5,"263,487",3.64,126.0
+347,tt0120885,Wag the Dog,7.1,"71,713",3.51,137.0
+340,tt0118749,Boogie Nights,7.9,"207,531",3.59,189.0
+341,tt0118901,Critical Care,6.0,"1,546",3.09,11.0
+342,tt0120483,The Man Who Knew Too Little,6.6,"25,916",2.92,52.0
+343,tt0118583,Alien: Resurrection,6.2,"195,521",3.1,124.0
+348,tt0118966,Desperate Measures,6.1,"14,600",3.3,27.0
+349,tt0120696,Hard Rain,5.8,"28,886",2.9,31.0
+1653,tt0116212,Entertaining Angels: The Dorothy Day Story,6.4,355,5.0,1.0
+298,tt0119094,Face/Off,7.3,"307,833",3.77,194.0
+299,tt0119311,Hoodlum,6.3,"9,161",2.93,73.0
+296,tt1766016,Promesse,N/A,N/A,3.33,6.0
+297,tt0120402,Ulee's Gold,7.1,"6,061",3.96,50.0
+294,tt0119528,Liar Liar,6.8,"243,349",3.16,485.0
+295,tt0118771,Breakdown,6.9,"41,758",3.4,77.0
+292,tt0120036,Rosewood,7.2,"6,550",3.67,114.0
+293,tt0119008,Donnie Brasco,7.8,"244,515",3.8,147.0
+290,tt0119115,Fierce Creatures,6.4,"20,782",3.11,96.0
+291,tt0118548,Absolute Power,6.7,"43,257",3.37,127.0
+270,tt0119177,Gattaca,7.8,"244,555",3.6,136.0
+271,tt0120201,Starship Troopers,7.2,"239,738",3.23,211.0
+272,tt0119217,Good Will Hunting,8.3,"703,100",4.26,198.0
+273,tt0113277,Heat,8.2,"486,621",3.57,223.0
+274,tt0047437,Sabrina,7.7,"49,663",3.5,190.0
+275,tt0114388,Sense and Sensibility,7.7,"86,524",4.01,268.0
+276,tt0113627,Leaving Las Vegas,7.6,"100,943",3.7,298.0
+277,tt0114272,Restoration,6.7,"7,995",3.46,71.0
+278,tt0115644,Bed of Roses,6.1,"7,208",3.23,60.0
+279,tt0114039,Once Upon a Time... When We Were Colored,7.2,429,3.29,28.0
+108,tt0116768,Kids in the Hall: Brain Candy,6.9,"7,458",3.08,65.0
+109,tt0117128,Mystery Science Theater 3000: The Movie,7.4,"16,581",3.43,130.0
+102,tt0065421,The Aristocats,7.1,"74,836",3.13,54.0
+103,tt0115509,All Dogs Go to Heaven 2,5.5,"4,602",1.87,15.0
+100,tt0116282,Fargo,8.1,"519,773",4.16,508.0
+101,tt0082509,Heavy Metal,6.7,"26,436",3.26,73.0
+106,tt0046911,Diabolique,8.1,"48,640",2.89,71.0
+107,tt0117071,Moll Flanders,6.5,"3,579",3.5,42.0
+104,tt0114658,Theodore Rex,2.4,"3,517",1.4,5.0
+105,tt0117608,Sgt. Bilko,5.7,"19,098",2.57,74.0
+1001,tt0117768,The Stupids,4.2,"5,902",2.0,17.0
+1210,tt0114857,Virtuosity,5.6,"25,125",2.74,38.0
+1655,tt1971397,Favor,6.3,737,2.0,1.0
+99,tt0029583,Snow White and the Seven Dwarfs,7.6,"151,208",3.71,172.0
+98,tt2665218,Silence of the Lambs,7.1,8,4.29,390.0
+91,tt0107688,The Nightmare Before Christmas,8.0,"250,785",3.59,143.0
+90,tt0108174,So I Married an Axe Murderer,6.4,"29,854",3.05,95.0
+93,tt0114906,Welcome to the Dollhouse,7.4,"28,550",3.72,112.0
+92,tt0108399,True Romance,7.9,"178,119",3.62,104.0
+95,tt0103639,Aladdin,8.0,"295,566",3.81,219.0
+94,tt0099785,Home Alone,7.5,"367,247",3.09,137.0
+97,tt0099348,Dances with Wolves,8.0,"205,765",3.79,256.0
+96,tt5895304,Terminator 2: Judgment Day,N/A,N/A,4.01,295.0
+1622,tt0869994,Paris,6.9,"10,662",2.33,3.0
+1621,tt0112604,Butterfly Kiss,6.4,"1,721",1.0,1.0
+1620,tt0120142,The Sixth Man,5.6,"4,806",3.22,9.0
+1627,tt0452694,The Time Traveler's Wife,7.1,"125,404",3.0,1.0
+1626,tt0110251,Nobody Loves Me,7.3,"1,012",1.0,1.0
+1625,tt0119791,Nightwatch,6.2,"17,263",4.0,1.0
+1624,tt5022702,Hush,6.6,"59,945",2.0,1.0
+1629,tt0113973,Nico Icon,7.3,583,4.0,2.0
+1628,tt0110299,Lamerica,7.6,"1,807",3.75,4.0
+559,tt0110148,Interview with the Vampire: The Vampire Chronicles,7.6,"259,507",3.18,137.0
+558,tt0110005,Heavenly Creatures,7.4,"53,612",3.67,70.0
+555,tt0114928,White Man's Burden,5.2,"4,202",2.0,10.0
+554,tt0114898,Waterworld,6.1,"157,344",2.8,102.0
+556,tt1795702,Wild Bill,7.2,"10,976",2.5,12.0
+551,tt0113690,Lord of Illusions,6.1,"12,252",2.42,24.0
+550,tt0112864,Die Hard with a Vengeance,7.6,"324,090",3.28,151.0
+553,tt1677073,Walk in the Clouds,N/A,N/A,3.29,63.0
+552,tt0114508,Species,5.8,"65,773",2.87,45.0
+1439,tt0110186,Jason's Lyric,6.6,"2,910",3.0,8.0
+1199,tt0109592,Cemetery Man,7.3,"17,606",2.87,23.0
+1198,tt0054189,Purple Noon,7.8,"10,628",3.14,7.0
+1191,tt0119521,A Letter from Death Row,4.1,502,4.33,3.0
+1190,tt0120318,That Old Feeling,6.1,"3,157",3.36,11.0
+1193,tt0110882,Before the Rain,8.1,"12,218",3.8,10.0
+1192,tt0106473,The Boys of St. Vincent,7.7,"1,326",3.38,13.0
+1195,tt0106966,Strawberry and Chocolate,7.5,"4,624",3.27,11.0
+1194,tt0110729,Once Were Warriors,7.9,"27,619",4.06,31.0
+1197,tt0116275,A Family Thing,7.0,"2,879",3.56,45.0
+1196,tt0105032,Savage Nights,7.1,"1,924",3.0,3.0
+1177,tt0116151,Dunston Checks In,5.3,"10,553",1.86,7.0
+1176,tt0120490,Welcome to Sarajevo,6.9,"6,307",3.36,22.0
+1175,tt0119327,Hugo Pool,5.2,"1,742",3.4,5.0
+1174,tt0040221,Caught,7.1,"2,575",3.25,8.0
+1173,tt0978649,Bliss,7.6,"6,849",2.57,7.0
+1172,tt0207201,What Women Want,6.4,"172,133",3.67,15.0
+1171,tt0111019,Wild Reeds,7.5,"4,490",3.14,14.0
+1170,tt0111252,Spanking the Monkey,6.3,"5,432",3.07,27.0
+1179,tt0331933,Man of the House,5.4,"20,961",2.11,9.0
+1178,tt0110443,Major Payne,6.2,"25,303",2.47,19.0
+511,tt0056172,Lawrence of Arabia,8.3,"218,647",4.23,173.0
+510,tt0143557,Magnificent Seven,N/A,N/A,3.94,121.0
+1285,tt0110892,Princess Caraboo,6.0,"2,180",3.13,15.0
+1284,tt0115645,Before and After,6.1,"7,310",2.85,26.0
+1287,tt0116165,Ed,2.6,"7,521",1.33,6.0
+512,tt0093191,Wings of Desire,8.1,"52,937",4.0,57.0
+1281,tt1778931,Manny,7.2,"2,051",3.15,13.0
+1280,tt0118900,Gang Related,6.5,"6,782",2.69,16.0
+1283,tt0119848,Out to Sea,6.1,"6,882",2.68,19.0
+1282,tt0113211,The Grass Harp,7.1,"2,957",3.22,9.0
+1003,tt0059793,That Darn Cat!,6.7,"4,599",2.25,8.0
+879,tt0100343,Peacemaker,5.3,426,3.27,136.0
+1288,tt0112844,Denise Calls Up,6.8,"1,109",3.0,7.0
+514,tt0075686,Annie Hall,8.1,"220,810",3.91,180.0
+1579,tt0094822,Baton Rouge,6.5,230,1.0,1.0
+1578,tt0402105,La collectionneuse,6.9,33,2.0,2.0
+689,tt0011361,Jackal,N/A,N/A,3.15,87.0
+688,tt0050032,Leave It to Beaver,7.6,"5,172",1.84,44.0
+685,tt0116253,Executive Decision,6.4,"44,245",3.36,157.0
+684,tt0107206,In the Line of Fire,7.2,"80,451",3.79,169.0
+687,tt0119640,McHale's Navy,4.4,"5,793",2.19,69.0
+686,tt0238796,Perfect World,8.4,194,3.68,50.0
+681,tt0120524,Wishmaster,5.8,"16,741",2.44,27.0
+680,tt0119484,Kull the Conqueror,4.8,"7,016",2.56,34.0
+683,tt0468431,Rocket Man,7.6,108,2.41,49.0
+682,tt0119345,I Know What You Did Last Summer,5.7,"115,707",3.06,100.0
+458,tt0113987,Nixon,7.1,"25,845",3.12,90.0
+1226,tt0119783,Night Falls on Manhattan,6.6,"5,486",3.38,32.0
+621,tt0006570,Davy Crockett,5.8,6,2.91,11.0
+873,tt0119896,Picture Perfect,5.5,"17,143",2.96,81.0
+1224,tt0338415,Scout,6.4,17,2.67,12.0
+1223,tt0118375,King of the Hill,7.3,"38,996",3.5,4.0
+1222,tt0107286,Judgment Night,6.6,"13,233",2.68,25.0
+1221,tt0111693,When a Man Loves a Woman,6.5,"18,027",3.49,39.0
+1220,tt0113305,Higher Learning,6.5,"15,901",3.33,30.0
+407,tt0117723,Spy Hard,5.3,"32,071",2.51,43.0
+406,tt0117894,Thinner,5.7,"23,037",2.45,49.0
+405,tt0117060,Mission: Impossible,7.1,"329,883",3.31,344.0
+1372,tt4574334,Stranger Things,8.9,"463,912",3.0,3.0
+1375,tt0106535,The Cement Garden,7.2,"3,887",3.6,10.0
+1374,tt0080714,Falling in Love Again,5.2,303,1.0,2.0
+1377,tt0116565,Hotel de Love,6.4,564,3.25,4.0
+400,tt3798668,Little Rascals,N/A,N/A,2.72,18.0
+1379,tt0116931,Love and Other Catastrophes,6.3,"1,757",2.86,7.0
+1378,tt0120014,Rhyme & Reason,7.5,690,2.2,5.0
+1342,tt0217331,The Convent,5.1,"2,183",2.5,2.0
+409,tt0116669,Jack,5.8,"50,139",3.14,70.0
+408,tt1500154,Close Shave,7.2,5,4.49,112.0
+453,tt0085750,Jaws 3-D,3.6,"32,020",1.94,16.0
+1346,tt0104109,Dingo,6.9,275,2.4,5.0
+1347,tt0084390,The Ballad of Narayama,7.9,"5,696",2.75,4.0
+378,tt0039628,Miracle on 34th Street,7.9,"34,259",3.72,101.0
+371,tt0112579,The Bridges of Madison County,7.6,"60,702",3.16,67.0
+370,tt0117002,Mary Reilly,5.8,"12,691",2.82,39.0
+373,tt0113492,Judge Dredd,5.5,"96,991",2.9,39.0
+372,tt0113464,Jeffrey,6.7,"5,083",3.53,34.0
+375,tt0114436,Showgirls,4.7,"54,592",1.96,23.0
+374,tt0113820,Mighty Morphin Power Rangers: The Movie,5.1,"22,036",2.27,11.0
+377,tt0780134,Heavyweights,6.5,627,2.15,13.0
+376,tt0110066,Houseguest,5.9,"4,884",2.83,24.0
+393,tt0107614,Mrs. Doubtfire,6.9,"203,772",3.41,192.0
+392,tt0107501,The Man Without a Face,6.7,"24,763",3.54,68.0
+391,tt0107362,Last Action Hero,6.3,"116,946",2.75,59.0
+390,tt0106880,Fear of a Black Hat,7.2,"3,489",3.2,10.0
+397,tt0108238,Striking Distance,5.8,"36,012",2.58,12.0
+396,tt0111127,Serial Mom,6.7,"22,996",2.81,54.0
+395,tt0107977,Robin Hood: Men in Tights,6.7,"100,519",2.59,56.0
+394,tt0110939,Radioland Murders,6.2,"2,950",3.33,12.0
+399,tt0230877,Three Musketeers,6.7,68,3.3,89.0
+398,tt0108255,Super Mario Bros.,4.0,"41,436",2.08,26.0
+895,tt0120082,Scream 2,6.1,"136,010",3.22,106.0
+245,tt0118972,The Devil's Own,6.1,"50,529",3.11,240.0
+244,tt0120152,Smilla's Sense of Snow,6.4,"12,340",3.17,48.0
+247,tt0120389,Turbo: A Power Rangers Movie,3.5,"7,284",1.8,5.0
+246,tt0118842,Chasing Amy,7.3,"121,082",3.94,124.0
+241,tt0076300,Last of the Mohicans,6.9,149,3.55,128.0
+240,tt0115641,Beavis and Butt-Head Do America,6.8,"46,282",2.79,156.0
+242,tt0116790,Kolya,7.8,"13,051",3.99,117.0
+249,tt0118655,Austin Powers: International Man of Mystery,7.0,"196,439",3.25,130.0
+248,tt0119229,Grosse Pointe Blank,7.4,"78,659",3.67,160.0
+179,tt0066921,A Clockwork Orange,8.3,"634,358",3.91,221.0
+178,tt0050083,12 Angry Men,8.9,"532,915",4.34,125.0
+177,tt0119217,Good Will Hunting,8.3,"703,100",3.86,137.0
+176,tt0090605,Aliens,8.4,"558,223",3.95,284.0
+175,tt0088846,Brazil,8.0,"166,218",3.82,208.0
+174,tt0082971,Raiders of the Lost Ark,8.5,"747,601",4.25,420.0
+173,tt0093779,The Princess Bride,8.1,"330,190",4.17,324.0
+172,tt0080684,Star Wars: Episode V - The Empire Strikes Back,8.8,"965,932",4.2,367.0
+171,tt0101700,Delicatessen,7.7,"71,854",3.88,65.0
+170,tt0095765,Cinema Paradiso,8.5,"179,448",4.17,121.0
+1502,tt0110623,Naked in New York,5.7,"1,403",1.5,2.0
+1503,tt0113188,Gold Diggers: The Secret of Bear Mountain,6.0,"3,616",3.1,10.0
+1500,tt0117550,Santa with Muscles,2.4,"8,142",5.0,2.0
+1501,tt0116754,Prisoner of the Mountains,7.6,"3,708",3.0,5.0
+1507,tt0117968,Three Lives and Only One Death,7.1,993,3.0,1.0
+1505,tt0113542,Killer: A Journal of Murder,6.4,"1,869",4.0,1.0
+1227,tt0112427,An Awfully Big Adventure,6.0,"2,295",2.38,8.0
+659,tt0036613,Arsenic and Old Lace,8.0,"58,598",4.08,115.0
+1618,tt0099939,King of New York,7.0,"26,087",1.0,1.0
+1619,tt0113720,All Things Fair,7.0,"4,611",3.0,1.0
+1616,tt0112849,Desert Winds,5.8,106,4.0,1.0
+1617,tt0119327,Hugo Pool,5.2,"1,742",3.0,2.0
+1614,tt0052126,The Reluctant Debutante,7.0,"1,020",3.0,1.0
+1615,tt0120479,Warriors of Virtue,4.6,"2,449",3.0,10.0
+1612,tt0116845,The Leading Man,5.8,"1,253",3.75,4.0
+1613,tt0114690,Tokyo Fist,7.1,"2,417",4.0,1.0
+1610,tt5328158,Truth or Consequences,N/A,N/A,2.0,3.0
+1611,tt0116643,Intimate Relations,6.4,645,3.0,2.0
+1142,tt0118147,When We Were Kings,8.0,"13,296",4.05,44.0
+1143,tt0119256,Hard Eight,7.3,"32,549",4.0,15.0
+1140,tt0111001,The Road to Wellville,5.8,"10,355",2.29,17.0
+1141,tt3832914,War Room,6.4,"10,634",3.33,9.0
+1146,tt0106505,Calendar Girl,5.0,"1,934",2.0,3.0
+1147,tt0257315,My Family,7.6,"7,443",3.67,21.0
+1144,tt0997174,Welcome to the Quiet Room,7.2,617,3.67,3.0
+1145,tt0109305,Blue Chips,6.1,"10,271",2.67,9.0
+1148,tt0274294,Tom and Jerry,8.7,"28,298",3.33,9.0
+1149,tt0067959,Walkabout,7.7,"19,190",3.85,26.0
+692,tt0112346,The American President,6.8,"45,924",3.63,164.0
+693,tt0112641,Casino,8.2,"377,676",3.65,91.0
+690,tt0120102,Seven Years in Tibet,7.0,"106,054",3.46,155.0
+691,tt0118929,Dark City,7.7,"169,701",3.5,16.0
+696,tt0115907,City Hall,6.2,"17,738",3.14,79.0
+697,tt0112461,The Basketball Diaries,7.3,"88,372",3.42,40.0
+694,tt0844330,Persuasion,7.6,"11,834",4.05,44.0
+695,tt0113537,Kicking and Screaming,7.0,"7,963",2.92,13.0
+698,tt0043362,The Browning Version,8.2,"3,601",3.0,10.0
+699,tt0110367,Little Women,7.3,"40,560",3.68,102.0
+1548,tt0112727,The Courtyard,5.2,187,1.0,1.0
+1549,tt0112899,Dream Man,4.6,217,1.5,2.0
+542,tt0114148,Pocahontas,6.7,"137,468",2.53,51.0
+540,tt0113845,Money Train,5.6,"34,596",2.51,43.0
+541,tt0113855,Mortal Kombat,5.8,"88,530",2.88,49.0
+546,tt0115759,Broken Arrow,6.0,"82,314",3.03,254.0
+547,tt0115033,The Young Poisoner's Handbook,7.1,"3,194",3.34,41.0
+544,tt0114660,Things to Do in Denver When You're Dead,6.8,"23,620",3.15,71.0
+545,tt0114825,Vampire in Brooklyn,4.5,"18,770",1.83,12.0
+548,tt0110647,The NeverEnding Story III,3.1,"9,061",2.17,12.0
+549,tt0114287,Rob Roy,6.9,"36,720",3.57,92.0
+414,tt0084370,My Favorite Year,7.4,"7,591",3.53,62.0
+415,tt0072653,The Apple Dumpling Gang,6.4,"3,998",2.84,25.0
+416,tt0050798,Old Yeller,7.3,"9,752",3.48,64.0
+417,tt0120783,The Parent Trap,6.5,"98,835",3.1,73.0
+1388,tt0116384,Gabbeh,7.1,"2,364",3.33,6.0
+411,tt0117218,The Nutty Professor,5.6,"94,758",2.91,163.0
+412,tt0118073,A Very Brady Sequel,5.6,"8,794",2.4,93.0
+1384,tt0117724,Squeeze,6.0,262,1.67,3.0
+1385,tt0120034,Roseanna's Grave,7.2,"2,972",2.8,5.0
+1386,tt0105569,Tetsuo II: Body Hammer,6.4,"3,303",2.67,6.0
+1387,tt0119098,Fall,6.0,"1,571",2.0,3.0
+1380,tt0113314,Hollow Reed,7.4,942,2.33,6.0
+1381,tt0116920,Losing Chase,6.8,663,3.25,8.0
+1382,tt0058985,Le Bonheur,7.7,"2,666",2.0,4.0
+1383,tt0120087,The Second Jungle Book: Mowgli & Baloo,4.5,819,2.0,6.0
+368,tt0115683,Bio-Dome,4.4,"23,192",1.9,31.0
+369,tt0779982,Black Sheep,5.8,"36,502",2.64,55.0
+366,tt0112792,Dangerous Minds,6.4,"41,713",3.34,47.0
+367,tt0112697,Clueless,6.8,"141,690",3.46,170.0
+364,tt0112281,Ace Ventura: When Nature Calls,6.3,"176,990",2.68,37.0
+365,tt0114168,Powder,6.6,"26,132",3.21,48.0
+362,tt0118747,Blues Brothers 2000,4.8,"28,036",2.82,28.0
+363,tt0114576,Sudden Death,5.7,"28,133",2.72,47.0
+360,tt0335563,Wonderland,6.6,"19,619",3.2,10.0
+361,tt0119365,Incognito,6.6,"2,730",3.5,10.0
+380,tt0111280,Star Trek: Generations,6.6,"66,086",3.34,116.0
+381,tt0110598,Muriel's Wedding,7.2,"30,363",3.55,100.0
+382,tt0109045,"The Adventures of Priscilla, Queen of the Desert",7.5,"40,292",3.59,111.0
+383,tt0109813,The Flintstones,4.8,"65,617",2.06,31.0
+384,tt0110622,Naked Gun 33 1/3: The Final Insult,6.5,"83,506",2.78,69.0
+385,tt0111503,True Lies,7.2,"207,630",3.56,208.0
+386,tt0106220,Addams Family Values,6.6,"64,577",2.82,87.0
+387,tt0075640,Age of Innocence,6.2,105,3.38,65.0
+388,tt0109254,Beverly Hills Cop III,5.5,"66,160",2.39,28.0
+389,tt0109279,Black Beauty,6.6,"7,990",3.44,27.0
+258,tt0118884,Contact,7.4,"222,931",3.8,509.0
+259,tt0119190,George of the Jungle,5.4,"61,730",2.69,162.0
+252,tt0119567,The Lost World: Jurassic Park,6.5,"313,063",2.94,158.0
+253,tt0114134,The Pillow Book,6.7,"11,273",3.69,26.0
+250,tt0119116,The Fifth Element,7.7,"379,640",3.48,197.0
+251,tt0117615,Shall We Dance?,7.8,"9,639",4.26,46.0
+257,tt0119654,Men in Black,7.3,"446,773",3.75,303.0
+254,tt0096895,Batman,7.6,"296,001",2.45,62.0
+255,tt0119738,My Best Friend's Wedding,6.3,"108,737",3.36,172.0
+1679,tt0120594,B. Monkey,6.0,"3,074",3.0,1.0
+168,tt0071853,Monty Python and the Holy Grail,8.3,"425,837",4.07,316.0
+169,tt0108598,The Wrong Trousers,8.4,"44,421",4.47,118.0
+164,tt1731963,Abyss,N/A,N/A,3.59,151.0
+165,tt0091288,Jean de Florette,8.1,"21,265",4.11,64.0
+166,tt0091480,Manon of the Spring,8.0,"18,149",4.12,58.0
+167,tt0081375,Private Benjamin,6.1,"20,113",2.96,67.0
+160,tt0104348,Glengarry Glen Ross,7.8,"84,367",3.46,69.0
+161,tt0092099,Top Gun,6.9,"242,928",3.48,220.0
+162,tt0082846,On Golden Pond,7.7,"23,479",3.56,106.0
+163,tt0072081,The Return of the Pink Panther,7.1,"21,360",3.55,92.0
+678,tt0120461,Volcano,5.4,"63,765",2.81,219.0
+679,tt0082198,Conan the Barbarian,6.9,"121,975",3.05,107.0
+670,tt0106452,Body Snatchers,5.9,"14,611",3.0,36.0
+671,tt0026138,Bride of Frankenstein,7.9,"36,228",3.61,46.0
+1609,tt0118663,B*A*P*S,4.1,"3,087",1.67,3.0
+1608,tt0371589,Buddy,6.8,"3,985",2.25,4.0
+1601,tt0119819,Office Killer,4.9,"1,648",1.0,1.0
+1600,tt0109949,Guantanamera,7.0,"1,250",3.75,4.0
+1603,tt0112364,Angela,6.4,692,3.0,1.0
+1602,tt0120793,A Price Above Rubies,6.6,"2,412",3.33,3.0
+1605,tt0116930,Love Serenade,7.0,"1,276",3.0,4.0
+1604,tt0040427,He Walked by Night,7.2,"3,757",4.0,1.0
+1607,tt0119338,Hurricane Streets,6.5,"1,065",3.33,3.0
+1606,tt0119527,Deceiver,6.7,"5,372",2.0,1.0
+809,tt0107969,Rising Sun,6.2,"37,528",2.91,43.0
+808,tt0366178,Program,7.2,"3,253",2.84,31.0
+803,tt0246677,Heaven,7.1,"21,423",2.56,9.0
+802,tt0107076,Hard Target,6.1,"38,311",2.7,40.0
+801,tt0109067,The Air Up There,5.5,"7,770",2.81,16.0
+800,tt0113409,In the Mouth of Madness,7.2,"48,978",2.88,26.0
+807,tt0107840,Poetic Justice,5.9,"10,163",2.78,9.0
+806,tt0107554,Menace II Society,7.5,"43,610",3.46,50.0
+805,tt0107507,Manhattan Murder Mystery,7.4,"31,564",3.63,27.0
+804,tt0110197,Jimmy Hollywood,5.3,"2,723",2.88,8.0
+608,tt0038109,Spellbound,7.6,"36,540",3.93,30.0
+1159,tt0079944,Stalker,8.1,"84,338",3.55,11.0
+1158,tt0168419,Une fille seule,N/A,N/A,4.0,4.0
+1155,tt0114266,Rendezvous in Paris,7.6,"1,188",3.33,3.0
+1154,tt0058898,Alphaville,7.2,"18,755",3.33,12.0
+1157,tt6114050,Relic,N/A,N/A,2.88,25.0
+1156,tt0112767,Cyclo,7.4,"4,110",3.0,1.0
+1151,tt0117260,Original Gangstas,5.7,"1,230",2.14,7.0
+1150,tt0116827,Last Dance,5.8,"3,503",3.11,9.0
+1153,tt0106339,Backbeat,6.7,"5,106",3.47,19.0
+1152,tt0116621,In Love and War,6.0,"7,251",3.43,28.0
+1555,tt0108069,The Secret Adventures of Tom Thumb,7.4,"1,229",2.6,5.0
+1554,tt0111054,Safe Passage,6.4,"1,086",3.0,2.0
+1551,tt0109906,The Glass Shield,6.6,"2,998",2.0,2.0
+1550,tt0112854,Destiny Turns on the Radio,4.5,"1,988",3.0,2.0
+1553,tt1595032,Underneath,N/A,N/A,2.75,4.0
+1552,tt2069449,Hunted,7.5,"7,787",2.0,3.0
+59,tt0111495,Three Colors: Red,8.1,"71,502",4.06,83.0
+58,tt0110932,Quiz Show,7.5,"58,019",3.65,175.0
+1557,tt0111787,Yankee Zulu,6.5,"1,273",1.0,1.0
+1556,tt0112712,Condition Red,5.0,275,2.0,2.0
+54,tt0114069,Outbreak,6.6,"97,016",3.24,104.0
+57,tt0822847,Priest,5.7,"103,766",4.0,40.0
+56,tt0110912,Pulp Fiction,8.9,"1,501,400",4.06,394.0
+51,tt0110322,Legends of the Fall,7.5,"124,230",3.46,81.0
+50,tt3748528,Rogue One: A Star Wars Story,7.8,"413,891",4.36,583.0
+53,tt0110632,Natural Born Killers,7.3,"189,920",2.95,128.0
+52,tt0110428,The Madness of King George,7.2,"13,235",3.77,91.0
+537,tt0102494,My Own Private Idaho,7.1,"41,349",3.63,30.0
+536,tt0117359,Ponette,7.6,"3,612",3.3,10.0
+535,tt0118556,Addicted to Love,6.1,"21,163",3.17,54.0
+534,tt0120366,Traveller,6.2,"1,560",3.31,13.0
+533,tt0244900,Daytrippers,5.4,5,3.67,15.0
+532,tt0116743,Kama Sutra: A Tale of Love,6.0,"8,952",3.32,22.0
+531,tt0117631,Shine,7.7,"46,324",3.92,129.0
+530,tt0073341,The Man Who Would Be King,7.9,"38,689",4.03,80.0
+1081,tt0115994,Curdled,5.9,"4,371",2.75,8.0
+538,tt0118617,Anastasia,7.1,"97,361",3.42,66.0
+1558,tt0048956,Aparajito,8.2,"8,297",3.57,7.0
+429,tt0970416,The Day the Earth Stood Still,5.5,"149,171",3.94,97.0
+428,tt0067185,Harold and Maude,8.0,"61,753",3.82,121.0
+1399,tt0104505,Stranger in the House,6.3,380,2.43,7.0
+1398,tt1715336,Anna,6.5,"17,190",4.5,2.0
+1397,tt0025586,Of Human Bondage,7.3,"4,866",3.2,5.0
+1396,tt3018070,Stonewall,5.0,"2,634",4.2,5.0
+423,tt0083866,E.T. the Extra-Terrestrial,7.9,"314,606",3.83,300.0
+422,tt0115491,Aladdin and the King of Thieves,6.4,"27,398",2.85,26.0
+1393,tt4845906,Stag,7.1,"1,216",2.11,9.0
+1392,tt0452640,Locusts,4.0,"1,217",2.0,5.0
+427,tt0056592,To Kill a Mockingbird,8.3,"247,349",4.29,219.0
+1390,tt4875202,Innocent Sleep,N/A,N/A,2.0,2.0
+229,tt0088170,Star Trek III: The Search for Spock,6.7,"64,818",3.11,171.0
+227,tt0102975,Star Trek VI: The Undiscovered Country,7.2,"60,903",3.28,161.0
+226,tt0099423,Die Hard 2,7.1,"294,604",3.36,166.0
+225,tt0055254,101 Dalmatians,7.2,"127,018",2.91,109.0
+224,tt0117477,Ridicule,7.5,"6,427",3.7,44.0
+223,tt0117666,Sling Blade,8.0,"77,967",4.2,136.0
+222,tt0117731,Star Trek: First Contact,7.6,"105,191",3.66,365.0
+221,tt0115751,Breaking the Waves,7.9,"53,433",3.73,74.0
+220,tt0117057,The Mirror Has Two Faces,6.5,"12,384",3.36,66.0
+151,tt3872780,Willy Wonka and the Chocolate Factory in the Playroom,5.8,12,3.63,326.0
+150,tt0117802,Swingers,7.3,"68,202",3.83,157.0
+153,tt0095159,A Fish Called Wanda,7.6,"116,162",3.79,247.0
+152,tt0070707,Sleeper,7.3,"35,951",3.63,82.0
+155,tt0092890,Dirty Dancing,6.9,"160,633",3.1,98.0
+157,tt0091763,Platoon,8.1,"325,040",3.69,127.0
+156,tt0105236,Reservoir Dogs,8.3,"755,760",3.99,148.0
+159,tt0103772,Basic Instinct,6.9,"147,028",3.23,101.0
+158,tt0098627,Weekend at Bernie's,6.4,"41,710",2.62,60.0
+1524,tt0110246,Kaspar Hauser,7.0,410,4.25,8.0
+1544,tt0113442,It Takes Two,5.8,"16,556",2.67,3.0
+1525,tt0464825,Object of My Affection,6.0,12,4.0,1.0
+1526,tt0090329,Witness,7.4,"73,385",4.0,1.0
+818,tt0116414,Girl 6,5.0,"5,180",2.76,25.0
+819,tt0116168,Eddie,5.1,"7,711",2.7,40.0
+1527,tt0120820,Senseless,6.0,"11,574",2.43,7.0
+810,tt1425253,Shadow,5.5,"2,351",2.89,45.0
+811,tt0108328,Thirty Two Short Films About Glenn Gould,7.5,"3,249",3.94,18.0
+812,tt0109120,Andre,5.7,"5,644",3.11,18.0
+813,tt0112651,The Celluloid Closet,7.8,"5,395",3.89,56.0
+814,tt0109934,A Great Day in Harlem,7.6,362,5.0,1.0
+815,tt0117247,One Fine Day,6.5,"38,820",3.23,112.0
+816,tt0112625,Candyman: Farewell to the Flesh,5.2,"8,287",2.43,21.0
+817,tt0113122,Frisk,4.9,559,2.67,3.0
+1545,tt0113107,Frankie Starlight,6.7,781,2.5,4.0
+1522,tt0111488,Trial by Jury,5.3,"1,481",2.43,7.0
+1523,tt0109920,A Good Man in Africa,5.0,"2,047",3.0,2.0
+1490,tt3037576,Fausto,7.4,10,3.0,3.0
+1491,tt0114706,Tough and Deadly,5.9,345,3.0,2.0
+1492,tt0110719,Window to Paris,7.4,"1,142",4.0,1.0
+1493,tt0113839,A Modern Affair,5.7,149,1.0,1.0
+1494,tt1312238,Mostro,N/A,N/A,1.0,1.0
+1495,tt0113080,Flirt,6.3,"1,704",3.6,5.0
+1496,tt0115836,Carpool,4.9,"3,725",2.8,5.0
+420,tt1014759,Alice in Wonderland,6.5,"338,769",3.67,81.0
+1498,tt0439774,The Real Dirt on Farmer John,7.5,582,4.0,1.0
+1499,tt2971774,Grosse fatigue,8.2,9,3.25,4.0
+1395,tt0119338,Hurricane Streets,6.5,"1,065",2.33,6.0
+425,tt0103850,Bob Roberts,7.0,"12,196",3.74,85.0
+424,tt0115885,Children of the Corn: The Gathering,4.2,"3,656",1.32,19.0
+1391,tt0116334,For Ever Mozart,6.6,695,2.0,3.0
+426,tt0092106,The Transformers: The Movie,7.3,"34,079",2.84,32.0
+1128,tt0113283,Heidi Fleiss: Hollywood Madam,6.6,585,2.69,13.0
+1129,tt0109424,Chungking Express,8.1,"47,335",3.57,28.0
+1120,tt0116601,I'm Not Rappaport,6.6,"1,380",3.0,17.0
+1121,tt0058450,The Umbrellas of Cherbourg,7.8,"18,104",3.76,21.0
+1122,tt0032022,They Made Me a Criminal,7.1,"1,574",5.0,1.0
+1123,tt0047162,The Last Time I Saw Paris,6.2,"2,720",3.67,3.0
+1124,tt0022879,A Farewell to Arms,6.5,"4,010",3.83,12.0
+1125,tt0168631,Innocents,4.7,469,4.25,4.0
+1126,tt0052027,The Old Man and the Sea,7.0,"6,041",3.34,32.0
+1127,tt0120382,The Truman Show,8.1,"763,282",2.91,11.0
+524,tt0032553,The Great Dictator,8.5,"163,315",4.02,46.0
+525,tt0038355,The Big Sleep,8.0,"69,787",4.03,73.0
+526,tt0052618,Ben-Hur,8.1,"185,031",3.83,124.0
+527,tt0083987,Gandhi,8.1,"194,516",4.02,195.0
+520,tt5581530,Great Escape,N/A,N/A,4.1,124.0
+521,tt6214742,Deer Hunter,N/A,N/A,3.83,120.0
+522,tt0090967,Down by Law,7.8,"40,563",3.77,35.0
+523,tt0061512,Cool Hand Luke,8.2,"135,461",3.99,164.0
+1014,tt0120032,Romy and Michele's High School Reunion,6.2,"36,596",3.06,98.0
+1015,tt0120118,Shiloh,6.4,"2,390",2.83,12.0
+1016,tt0118880,Con Air,6.8,"244,339",3.46,137.0
+1017,tt0117958,Trees Lounge,7.2,"11,974",3.24,50.0
+528,tt5350248,Killing Fields,7.6,684,4.13,121.0
+529,tt0089606,My Life as a Dog,7.7,"15,970",3.98,93.0
+1012,tt0119951,Private Parts,6.8,"31,046",3.53,100.0
+1013,tt0118615,Anaconda,4.7,"81,741",2.29,38.0
+1234,tt0118836,Chairman of the Board,2.3,"5,397",2.38,8.0
+1235,tt0898266,The Big Bang Theory,8.3,"595,893",4.0,1.0
+1236,tt0160616,Other Voices,5.9,210,3.0,1.0
+1237,tt0315297,Twisted,5.2,"18,212",3.5,6.0
+1230,tt0110907,Ready to Wear,5.0,"13,061",1.83,18.0
+1231,tt0100114,Marked for Death,5.9,"16,729",2.5,22.0
+1232,tt0102370,Madonna: Truth or Dare,6.2,"7,879",2.47,17.0
+1238,tt4993964,Full Speed,5.7,"1,192",3.13,8.0
+1239,tt0112760,Cutthroat Island,5.6,"22,889",2.44,18.0
+438,tt0085159,Amityville 3-D,4.0,"4,650",1.17,6.0
+439,tt0106262,Amityville: A New Generation,3.7,"1,244",1.0,5.0
+436,tt0082010,An American Werewolf in London,7.6,"75,251",3.54,99.0
+434,tt0049223,Forbidden Planet,7.7,"38,421",3.84,67.0
+435,tt0064115,Butch Cassidy and the Sundance Kid,8.1,"171,124",3.95,216.0
+432,tt0032455,Fantasia,7.8,"77,872",3.77,174.0
+433,tt0097493,Heathers,7.3,"70,091",3.69,171.0
+430,tt0023969,Duck Soup,8.0,"50,028",4.0,93.0
+431,tt0091203,Highlander,7.2,"107,044",3.54,153.0
+238,tt0093822,Raising Arizona,7.4,"110,052",3.88,256.0
+239,tt0105435,Sneakers,7.1,"46,697",3.51,150.0
+234,tt0073195,Jaws,8.0,"467,693",3.77,280.0
+235,tt0116996,Mars Attacks!,6.3,"187,104",2.85,217.0
+236,tt0115906,Citizen Ruth,7.0,"6,188",3.62,45.0
+237,tt0116695,Jerry Maguire,7.3,"209,168",3.71,384.0
+230,tt0092007,Star Trek IV: The Voyage Home,7.3,"67,795",3.45,199.0
+231,tt0103776,Batman Returns,7.0,"237,392",2.68,142.0
+232,tt0096487,Young Guns,6.8,"46,975",3.21,101.0
+233,tt0105690,Under Siege,6.5,"66,655",3.29,124.0
+1,tt0114709,Toy Story,8.3,"720,659",3.88,452.0
+146,tt0118044,Unhook the Stars,6.6,"1,902",2.5,10.0
+147,tt2599172,Long Kiss Goodnight,N/A,N/A,3.47,185.0
+144,tt0095016,Die Hard,8.2,"670,200",3.87,243.0
+145,tt0104692,The Lawnmower Man,5.4,"30,219",2.45,65.0
+142,tt0066817,Bedknobs and Broomsticks,7.1,"28,796",3.07,57.0
+143,tt0380142,Sound of Music,7.8,13,3.77,222.0
+140,tt0107131,Homeward Bound: The Incredible Journey,6.9,"36,680",3.21,61.0
+141,tt0120694,Halloween H20: 20 Years Later,5.7,"54,180",3.5,72.0
+148,tt0116409,The Ghost and the Darkness,6.8,"49,820",3.2,128.0
+149,tt0116722,Jude,7.0,"9,150",3.0,23.0
+939,tt0113870,Murder in the First,7.3,"23,521",3.6,60.0
+938,tt0120151,A Smile Like Yours,4.8,"1,245",2.88,25.0
+933,tt0109831,Four Weddings and a Funeral,7.1,"117,914",2.43,21.0
+932,tt0116311,First Kid,5.2,"8,453",2.92,40.0
+931,tt0116654,The Island of Dr. Moreau,4.4,"27,826",2.16,57.0
+930,tt0115857,Chain Reaction,5.6,"43,335",2.7,80.0
+937,tt0120323,A Thousand Acres,6.0,"4,550",3.41,37.0
+936,tt0115744,Brassed Off,7.1,"16,815",3.94,32.0
+935,tt0119859,Paradise Road,6.8,"4,574",3.29,7.0
+934,tt0117372,The Preacher's Wife,5.5,"9,592",2.93,68.0
+829,tt0116320,Fled,5.3,"7,547",2.65,34.0
+828,tt0115493,Alaska,5.7,"4,537",2.69,13.0
+825,tt2543164,Arrival,7.9,"433,018",3.04,83.0
+824,tt0116448,The Great White Hype,5.4,"7,725",2.76,49.0
+827,tt0116040,Daylight,5.8,"57,998",2.77,57.0
+826,tt1922685,Phantom,5.9,"12,311",2.58,80.0
+821,tt0117104,Mrs. Winterbourne,6.2,"6,126",3.05,22.0
+820,tt0117705,Space Jam,6.3,"128,839",2.77,93.0
+823,tt0117107,Mulholland Falls,6.2,"13,916",2.88,82.0
+822,tt0062952,Faces,7.7,"7,735",3.0,4.0
+1483,tt0120744,The Man in the Iron Mask,6.5,"138,221",3.42,12.0
+1481,tt0111048,S.F.W.,5.9,"4,306",3.0,2.0
+1480,tt0071607,Herbie Rides Again,5.6,"6,133",2.27,11.0
+1487,tt0106834,Even Cowgirls Get the Blues,4.3,"6,392",2.0,5.0
+1486,tt0113173,Girl in the Cadillac,6.1,156,1.0,1.0
+1485,tt0109454,Colonel Chabert,7.0,"1,486",3.5,4.0
+1484,tt0110189,The Jerky Boys,4.6,"2,212",2.67,3.0
+1489,tt0109403,Chasers,5.0,"4,879",2.2,5.0
+1488,tt0107002,Germinal,7.1,"3,867",3.0,4.0
+797,tt0111438,Timecop,5.8,"49,012",3.1,31.0
+796,tt5592146,Speechless,7.7,"4,548",3.08,36.0
+795,tt0360307,Richie Rich,5.8,642,2.43,21.0
+794,tt0110167,It Could Happen to You,6.3,"30,055",3.65,46.0
+793,tt0109504,Crooklyn,6.9,"6,628",3.5,10.0
+792,tt0109348,Bullets Over Broadway,7.5,"31,610",3.72,86.0
+791,tt0112435,The Baby-Sitters Club,5.8,"4,635",2.5,10.0
+790,tt0114694,Tommy Boy,7.1,"67,472",2.91,66.0
+799,tt0779794,Boys Life,7.1,9,3.2,5.0
+798,tt0280486,Bad Company,5.6,"41,828",2.22,9.0
+1270,tt0107413,Life with Mikey,5.5,"4,701",2.29,7.0
+1271,tt0110687,North,4.4,"12,023",2.71,7.0
+1272,tt0111357,Talking About Sex,6.1,27,1.8,5.0
+1139,tt0113243,Hackers,6.2,"58,647",2.61,33.0
+1138,tt0118702,Best Men,5.7,"2,443",3.4,5.0
+1133,tt0072951,Escape to Witch Mountain,6.4,"7,771",2.97,30.0
+1132,tt0116289,Feeling Minnesota,5.4,"9,592",2.63,32.0
+1131,tt1656190,Safe,6.5,"91,626",4.0,13.0
+1130,tt0110217,Jupiter's Wife,7.2,217,4.0,1.0
+1137,tt0115640,Beautiful Thing,7.7,"20,201",3.97,29.0
+1136,tt0116410,Ghosts of Mississippi,6.7,"9,169",3.48,29.0
+1135,tt0101761,The Doors,7.2,"73,672",2.98,46.0
+1134,tt0116404,Get on the Bus,6.8,"4,380",3.32,38.0
+1276,tt0117784,Sunset Park,5.9,"1,350",2.5,8.0
+1277,tt0117603,Set It Off,6.8,"11,552",3.42,19.0
+519,tt0040897,The Treasure of the Sierra Madre,8.3,"89,796",4.1,80.0
+518,tt0100150,Miller's Crossing,7.8,"112,148",3.65,89.0
+1009,tt0117737,Stealing Beauty,6.6,"22,206",3.38,64.0
+1008,tt0116594,I Shot Andy Warhol,6.6,"5,746",3.38,37.0
+1007,tt0118111,Waiting for Guffman,7.6,"23,863",4.13,47.0
+1006,tt0101458,Until the End of the World,6.8,"7,523",2.83,23.0
+513,tt3229434,Third Man,N/A,N/A,4.33,72.0
+1004,tt0107004,Geronimo: An American Legend,6.5,"7,302",3.11,9.0
+515,tt2368643,Boot,6.2,16,4.2,201.0
+1002,tt0430462,Pest,N/A,N/A,1.88,8.0
+517,tt0079522,Manhattan,8.0,"115,321",3.77,91.0
+1000,tt0110353,Lightning Jack,5.4,"5,565",3.0,10.0
+623,tt0109127,Angels in the Outfield,6.1,"24,386",2.92,39.0
+622,tt0054357,Swiss Family Robinson,7.2,"11,404",3.36,39.0
+1225,tt0112368,Angus,6.7,"5,749",2.64,14.0
+620,tt4190666,Chamber,9.6,28,3.09,43.0
+627,tt0102798,Robin Hood: Prince of Thieves,6.9,"157,131",3.23,75.0
+626,tt0041890,So Dear to My Heart,7.2,"1,028",3.25,4.0
+625,tt0057546,The Sword in the Stone,7.2,"73,605",3.33,82.0
+624,tt0038166,The Three Caballeros,6.5,"9,676",3.27,22.0
+629,tt0265987,Victor/Victoria,7.8,"1,463",3.34,77.0
+628,tt0117665,Sleepers,7.6,"166,467",3.51,169.0
+1229,tt0114151,Poison Ivy II,4.4,"4,828",2.15,13.0
+1228,tt0114781,Under Siege 2: Dark Territory,5.4,"38,967",2.46,48.0
+1535,tt0278874,Radio Enfer,8.0,237,3.0,4.0
+2,tt0113189,GoldenEye,7.2,"212,810",3.21,131.0
+1286,tt0117615,Shall We Dance?,7.8,"9,639",3.71,17.0
+11,tt0047478,Seven Samurai,8.7,"257,405",3.85,236.0
+10,tt0114279,Richard III,7.5,"12,413",3.83,89.0
+13,tt0113819,Mighty Aphrodite,7.1,"34,017",3.42,184.0
+12,tt0114814,The Usual Suspects,8.6,"839,909",4.39,267.0
+15,tt0113862,Mr. Holland's Opus,7.3,"32,137",3.78,293.0
+14,tt0110877,Il Postino,7.7,"28,287",3.97,183.0
+17,tt0116367,From Dusk Till Dawn,7.3,"243,434",3.12,92.0
+16,tt0113149,French Twist,6.4,"3,945",3.21,39.0
+19,tt0112379,Antonia's Line,7.5,"7,260",3.96,69.0
+18,tt0112445,The White Balloon,7.8,"5,402",2.8,10.0
+1534,tt0120394,Twin Town,6.7,"5,057",2.17,6.0
+201,tt0092991,Evil Dead II,7.8,"126,335",3.52,89.0
+200,tt0081505,The Shining,8.4,"705,594",3.83,206.0
+203,tt0105695,Unforgiven,8.2,"314,129",3.87,182.0
+202,tt0107048,Groundhog Day,8.0,"498,919",3.76,280.0
+205,tt0066206,Patton,8.0,"83,664",3.99,136.0
+204,tt0088763,Back to the Future,8.5,"850,206",3.83,350.0
+207,tt0099334,Cyrano de Bergerac,7.6,"19,612",3.82,66.0
+206,tt0094625,Akira,8.1,"123,338",3.38,50.0
+209,tt0088258,This Is Spinal Tap,8.0,N/A,3.91,191.0
+208,tt0072431,Young Frankenstein,8.0,"125,997",3.94,200.0
+1573,tt0063715,Spirits of the Dead,6.7,"4,388",2.5,2.0
+1572,tt0084898,Wend Kuuni,7.2,133,1.0,1.0
+1571,tt0070820,Touki Bouki,7.1,"1,525",1.0,1.0
+1570,tt0105201,Quartier Mozart,6.8,65,1.0,1.0
+1577,tt0049521,Death in the Garden,6.9,"1,268",1.0,1.0
+1576,tt0093199,A Hungarian Fairy Tale,6.6,102,1.0,1.0
+1575,tt0120915,Star Wars: Episode I - The Phantom Menace,6.5,"607,829",1.0,1.0
+1574,tt0114122,Pharaoh's Army,6.9,495,1.0,1.0
+928,tt0115963,The Craft,6.3,"63,817",3.12,104.0
+929,tt0116493,Harriet the Spy,5.9,"8,495",2.7,40.0
+920,tt0114753,Two Bits,6.3,"2,901",2.2,5.0
+921,tt0106332,Farewell My Concubine,8.1,"19,977",3.98,46.0
+922,tt0112817,Dead Man,7.7,"79,182",3.82,34.0
+923,tt0101640,Raise the Red Lantern,8.2,"23,369",4.16,58.0
+924,tt0118158,White Squall,6.6,"19,170",3.4,85.0
+925,tt1842530,Unforgettable,6.7,"14,012",3.32,34.0
+926,tt0116130,Down Periscope,6.0,"18,400",2.7,101.0
+927,tt0113083,The Flower of My Secret,7.1,"8,620",3.17,6.0
+832,tt0115725,Bogus,5.3,"5,472",2.55,22.0
+833,tt0115783,Bulletproof,5.8,"31,714",3.2,49.0
+830,tt0114170,Power 98,4.6,234,1.0,1.0
+831,tt0116225,Escape from L.A.,5.7,"59,751",2.46,91.0
+836,tt0031725,Ninotchka,8.0,"16,000",3.77,26.0
+837,tt0033891,Meet John Doe,7.7,"10,198",3.92,25.0
+834,tt0113253,Halloween: The Curse of Michael Myers,5.0,"23,766",2.2,25.0
+835,tt0025164,The Gay Divorcee,7.6,"5,736",3.87,15.0
+839,tt0113682,Loch Ness,5.4,"3,551",2.5,4.0
+3,tt0113101,Four Rooms,6.7,"85,656",3.03,90.0
+1532,tt0109828,Foreign Student,5.8,275,2.0,2.0
+784,tt0106402,Beyond Bedlam,3.4,420,1.0,2.0
+785,tt0110737,Only You,6.5,"17,034",3.15,39.0
+786,tt0114113,The Perez Family,6.1,"1,850",2.64,14.0
+787,tt0114296,Roommates,6.4,"1,528",3.23,13.0
+780,tt0109686,Dumb and Dumber,7.3,"313,613",3.0,69.0
+781,tt0113117,French Kiss,6.6,"41,704",3.33,84.0
+782,tt0110365,Little Odessa,6.8,"6,084",2.6,10.0
+783,tt0110516,Milk Money,5.5,"10,031",2.73,37.0
+788,tt0110965,Relative Fear,5.7,253,1.67,3.0
+789,tt0114594,Swimming with Sharks,7.1,"20,232",3.57,47.0
+60,tt0108394,Three Colors: Blue,8.0,"71,049",4.02,64.0
+61,tt0111507,Three Colors: White,7.7,"50,316",3.86,59.0
+62,tt0111282,Stargate,7.1,"158,371",3.14,127.0
+63,tt0212482,Santa Clause,7.8,13,3.1,82.0
+64,tt0111161,The Shawshank Redemption,9.3,"1,914,618",4.45,283.0
+65,tt0108550,What's Eating Gilbert Grape,7.8,"187,329",3.54,115.0
+66,tt0114924,While You Were Sleeping,6.7,"79,178",3.55,162.0
+67,tt0109040,Ace Ventura: Pet Detective,6.9,"238,704",3.05,103.0
+68,tt0435506,Crow,6.3,29,3.42,134.0
+69,tt0109830,Forrest Gump,8.8,"1,449,570",3.85,321.0
+1371,tt5785200,Machine,2.6,454,1.5,2.0
+1589,tt0117561,Schizopolis,7.1,"4,591",3.0,4.0
+1370,tt0110171,I Can't Sleep,7.0,895,2.67,3.0
+1582,tt0039881,T-Men,7.0,"2,318",1.0,1.0
+1583,tt1291182,Invitation,5.5,721,1.0,1.0
+1580,tt0024252,Liebelei,7.7,"1,050",1.0,1.0
+1373,tt0053134,Good Morning,7.9,"5,472",1.0,1.0
+1584,tt3697948,Symphonie Pastorale,N/A,N/A,1.0,1.0
+1585,tt0099028,American Dream,8.0,642,2.5,2.0
+1038,tt0119210,Switchback,6.4,"10,826",2.82,17.0
+404,tt0032910,Pinocchio,7.5,"104,821",3.67,101.0
+508,tt0117318,The People vs. Larry Flynt,7.3,"77,352",3.6,215.0
+509,tt0097937,My Left Foot,7.9,"56,430",3.85,121.0
+1032,tt0110363,Little Big League,6.1,"8,382",2.88,16.0
+403,tt0096895,Batman,7.6,"296,001",3.43,201.0
+1030,tt0106400,The Beverly Hillbillies,4.9,"15,457",2.25,20.0
+505,tt0046912,Dial M for Murder,8.2,"125,519",4.0,68.0
+502,tt0066808,Bananas,7.1,"30,055",3.7,57.0
+503,tt0376533,Candidate,6.4,44,3.64,39.0
+500,tt0116329,Fly Away Home,6.8,"21,155",3.9,31.0
+402,tt0099653,Ghost,7.0,"167,948",3.46,170.0
+1212,tt3507484,Flesh and Bone,8.0,"8,299",2.83,6.0
+1213,tt0107057,Guilty as Sin,5.6,"3,901",2.17,6.0
+632,tt0084707,Sophie's Choice,7.7,"33,407",3.9,58.0
+633,tt0270278,Christmas Carol,7.5,232,4.06,69.0
+1216,tt0116783,Kissed,6.5,"3,232",3.0,6.0
+401,tt0112572,The Brady Bunch Movie,5.9,"18,479",2.8,76.0
+636,tt0082340,Escape from New York,7.2,"103,017",3.24,91.0
+637,tt2186819,Howling,6.2,"1,448",3.03,38.0
+638,tt0084589,The Return of Martin Guerre,7.4,"3,368",3.77,44.0
+639,tt0078875,The Tin Drum,7.6,"19,268",3.7,40.0
+1218,tt0113118,Friday,7.3,"84,335",3.46,26.0
+1376,tt0119644,Meet Wally Sparks,5.2,"2,761",2.14,7.0
+465,tt5663482,Jungle Book,N/A,N/A,3.56,85.0
+1106,tt0120769,The Newton Boys,6.1,"9,189",3.0,4.0
+1107,tt0112495,Beyond Rangoon,6.6,"4,376",3.06,18.0
+1456,tt0046414,Beat the Devil,6.6,"6,812",3.71,7.0
+1105,tt0120670,Firestorm,4.6,"3,320",2.83,18.0
+1102,tt0118001,Two Much,5.4,"4,780",2.43,7.0
+1103,tt1529572,Trust,6.9,"37,467",3.79,19.0
+1100,tt0111689,What Happened Was...,7.0,"1,062",2.63,8.0
+1101,tt0108149,Six Degrees of Separation,6.9,"17,770",3.77,74.0
+1458,tt0028757,A Damsel in Distress,6.9,"1,476",4.0,1.0
+1459,tt0113731,Madame Butterfly,7.0,505,3.57,7.0
+1108,tt0113044,Feast of July,6.4,423,2.4,5.0
+1109,tt0109579,Death and the Maiden,7.3,"19,191",3.43,28.0
+216,tt0098635,When Harry Met Sally...,7.6,"166,223",3.91,290.0
+217,tt0103874,Bram Stoker's Dracula,7.5,"160,822",3.16,120.0
+214,tt0084503,Pink Floyd: The Wall,8.0,"66,120",3.35,114.0
+215,tt0097351,Field of Dreams,7.5,"94,330",3.7,212.0
+212,tt0096332,The Unbearable Lightness of Being,7.4,"29,519",3.46,92.0
+213,tt3866930,Room with a View,N/A,N/A,3.99,134.0
+210,tt0097576,Indiana Jones and the Last Crusade,8.3,"585,693",3.93,331.0
+211,tt0068098,M*A*S*H,8.4,"42,878",3.91,206.0
+1530,tt0113463,Jefferson in Paris,5.7,"2,535",2.0,5.0
+218,tt0101540,Cape Fear,7.3,"141,569",3.46,171.0
+219,tt0087800,A Nightmare on Elm Street,7.5,"169,812",3.17,111.0
+4,tt0113161,Get Shorty,6.9,"67,443",3.55,209.0
+919,tt0112682,The City of Lost Children,7.6,"59,243",3.79,96.0
+918,tt0120632,City of Angels,6.7,"102,082",3.0,8.0
+915,tt0119942,Primary Colors,6.7,"25,051",3.92,13.0
+914,tt0120890,Wild Things,6.5,"96,949",2.73,11.0
+917,tt0120749,Mercury Rising,6.1,"58,723",3.43,7.0
+916,tt0120738,Lost in Space,5.1,"62,606",3.17,18.0
+911,tt1099212,Twilight,5.2,"372,765",2.5,4.0
+910,tt0119792,Nil by Mouth,7.4,"7,610",2.0,4.0
+913,tt0119574,Love and Death on Long Island,7.1,"3,523",2.5,2.0
+847,tt0116913,Looking for Richard,7.4,"7,402",3.73,55.0
+846,tt0117924,To Gillian on Her 37th Birthday,5.8,"4,224",3.07,44.0
+845,tt0117887,That Thing You Do!,6.9,"54,316",3.47,176.0
+844,tt0116361,Freeway,6.9,"23,488",3.36,42.0
+843,tt0393735,The Shaggy Dog,4.4,"16,163",3.0,30.0
+842,tt0054195,Pollyanna,7.4,"7,575",3.15,27.0
+841,tt0116421,The Glimmer Man,5.3,"16,672",2.75,48.0
+840,tt0116830,Last Man Standing,6.4,"47,702",2.66,53.0
+849,tt0099371,Days of Thunder,5.9,"66,528",2.72,53.0
+848,tt0405507,Murder,5.4,"2,978",3.56,9.0
+663,tt0078841,Being There,8.0,"56,643",3.91,116.0
+1587,tt0052287,Terror in a Texas Town,6.9,"1,290",1.0,1.0
+662,tt0081534,Somewhere in Time,7.3,"22,946",3.43,82.0
+1039,tt0116477,Hamlet,7.8,"32,618",4.01,90.0
+753,tt0111579,Burnt by the Sun,8.0,"12,317",3.71,24.0
+752,tt0120008,The Replacement Killers,6.1,"24,564",3.31,39.0
+751,tt0120347,Tomorrow Never Dies,6.5,"160,635",3.43,180.0
+750,tt0118607,Amistad,7.3,"62,285",3.85,124.0
+757,tt0112286,Across the Sea of Time,6.4,215,2.75,4.0
+756,tt0113041,Father of the Bride Part II,6.0,"29,290",2.9,128.0
+755,tt0113497,Jumanji,6.9,"246,203",3.31,96.0
+754,tt0119994,Red Corner,6.3,"14,160",3.39,57.0
+759,tt0977855,Fair Game,6.8,"41,504",2.18,11.0
+758,tt0116839,Lawnmower Man 2: Beyond Cyberspace,2.4,"8,414",1.71,21.0
+1595,tt0111173,Shopping,5.4,"2,251",2.0,1.0
+506,tt0048545,Rebel Without a Cause,7.8,"70,750",3.86,90.0
+1597,tt0105275,Romper Stomper,6.8,"33,969",3.0,5.0
+1596,tt0113948,Nemesis 2: Nebula,4.7,"1,392",2.0,1.0
+1590,tt0037382,To Have and Have Not,8.0,"25,893",2.0,2.0
+1593,tt0101692,Death in Brunswick,6.6,857,4.0,1.0
+507,tt0044081,A Streetcar Named Desire,8.0,"85,693",3.82,98.0
+1599,tt0114494,Someone Else's America,7.1,527,5.0,1.0
+504,tt0061418,Bonnie and Clyde,7.9,"88,288",3.82,122.0
+1025,tt0119123,Fire Down Below,5.0,"14,782",2.93,44.0
+1024,tt0119723,Mrs Dalloway,6.9,"3,092",3.6,15.0
+1027,tt0822854,Shooter,7.2,"278,034",2.67,3.0
+1031,tt0110305,Lassie,5.9,"4,289",2.29,7.0
+1021,tt0276747,8 1/2 x 11,6.5,15,3.82,38.0
+1020,tt0036855,Gaslight,7.9,"19,241",3.89,35.0
+1023,tt0119109,Fathers' Day,5.1,"12,981",2.58,31.0
+1022,tt1905041,Fast & Furious 6,7.1,"331,383",3.44,32.0
+1036,tt0101775,Drop Dead Fred,5.8,"23,603",2.75,24.0
+1029,tt0113500,Jury Duty,4.1,"6,656",2.0,14.0
+1028,tt0113228,Grumpier Old Men,6.6,"21,180",3.04,148.0
+1037,tt0084021,Grease 2,4.2,"28,645",2.0,24.0
+1034,tt0117419,Quest,7.4,466,2.52,27.0
+501,tt0033563,Dumbo,7.3,"97,631",3.5,123.0
+605,tt0037059,Meet Me in St. Louis,7.7,"16,771",3.35,31.0
+604,tt0025316,It Happened One Night,8.1,"74,769",4.01,81.0
+607,tt0032976,Rebecca,8.2,"100,996",3.97,66.0
+606,tt0042192,All About Eve,8.3,"96,336",4.05,66.0
+601,tt0035896,For Whom the Bell Tolls,7.0,"7,049",4.0,20.0
+1208,tt0113552,Kiss of Death,5.9,"15,208",2.85,20.0
+603,tt0047396,Rear Window,8.5,"360,212",4.39,209.0
+602,tt0440034,American in Paris,7.6,12,3.7,50.0
+1205,tt0028231,Secret Agent,6.6,"6,697",3.0,6.0
+1204,tt0035446,To Be or Not to Be,8.2,"21,398",3.61,18.0
+1207,tt0113451,Jade,5.2,"10,003",2.29,17.0
+1206,tt0088713,Amos,7.1,231,2.68,19.0
+609,tt0101862,Father of the Bride,6.5,"59,867",3.58,60.0
+1200,tt0042644,Kim,6.6,"1,491",3.29,7.0
+1203,tt0027125,Top Hat,7.8,"14,712",4.05,21.0
+1202,tt1517218,Maybe,6.3,143,3.5,8.0
+1211,tt0109306,Blue Sky,6.4,"5,782",3.42,12.0
+1217,tt0112401,Assassins,6.3,"68,849",2.87,39.0
+1214,tt0074102,In the Realm of the Senses,6.6,"15,070",2.0,9.0
+1215,tt0115624,Barb Wire,3.2,"21,972",1.93,30.0
+1111,tt0109655,Double Happiness,7.2,963,3.43,7.0
+1110,tt0114614,Tank Girl,5.3,"26,853",2.85,41.0
+1113,tt0110588,Mrs. Parker and the Vicious Circle,6.4,"3,861",3.27,22.0
+1112,tt0109450,Cobb,6.5,"6,312",2.8,15.0
+1115,tt0081668,Twelfth Night,8.1,191,3.41,29.0
+1114,tt0116269,Faithful,5.9,"1,677",3.3,10.0
+1117,tt0117791,Surviving Picasso,6.4,"6,207",3.11,19.0
+464,tt0111590,Vanya on 42nd Street,7.5,"3,703",3.59,27.0
+1119,tt0094006,Some Kind of Wonderful,7.1,"22,682",3.66,59.0
+1118,tt0078446,Up in Smoke,7.0,"31,387",3.26,47.0
+467,tt0106489,A Bronx Tale,7.8,"109,229",3.79,48.0
+1449,tt0048473,Pather Panchali,8.4,"16,654",4.63,8.0
+1448,tt0107471,My Favorite Season,7.3,"1,637",3.67,3.0
+1219,tt0113198,A Goofy Movie,6.8,"38,019",2.9,20.0
+1357,tt0109823,For the Moment,6.3,821,2.67,3.0
+460,tt0112744,The Crossing Guard,6.3,"11,403",3.0,28.0
+1355,tt0116635,Infinity,6.1,"1,524",2.67,6.0
+489,tt0038787,Notorious,8.0,"80,448",4.12,52.0
+488,tt2256853,Sunset Blvd.,5.2,17,4.2,65.0
+487,tt0046250,Roman Holiday,8.1,"111,190",4.1,68.0
+486,tt0047437,Sabrina,7.7,"49,663",3.8,64.0
+485,tt0058385,My Fair Lady,7.9,"74,376",3.82,125.0
+1354,tt0105729,Venice/Venice,6.1,173,1.0,2.0
+483,tt0034583,Casablanca,8.5,"438,329",4.46,243.0
+482,tt0053291,Some Like It Hot,8.3,"201,587",3.98,128.0
+481,tt0409703,Apartment,5.4,120,3.94,63.0
+480,tt0053125,North by Northwest,8.4,"246,454",4.28,179.0
+199,tt0050212,The Bridge on the River Kwai,8.2,"169,980",4.18,165.0
+198,tt1592154,Nikita,7.7,"44,770",4.01,127.0
+195,tt1994570,Terminator,4.7,18,3.93,301.0
+194,tt1245763,Sting,6.7,64,4.06,241.0
+197,tt0061722,The Graduate,8.0,"226,084",4.1,239.0
+196,tt0097165,Dead Poets Society,8.1,"317,927",3.92,251.0
+191,tt0086879,Amadeus,8.3,"310,568",4.16,276.0
+190,tt0097499,Henry V,7.7,"25,303",4.14,124.0
+193,tt0086197,The Right Stuff,7.9,"49,164",3.92,157.0
+192,tt0081398,Raging Bull,8.2,"265,895",4.12,116.0
+1454,tt0039152,Angel and the Badman,7.0,"4,271",3.0,6.0
+1455,tt0758771,Outlaw,5.8,"11,721",2.5,2.0
+1457,tt0116928,Love Is All There Is,5.1,"1,032",3.0,1.0
+1450,tt0039428,Golden Earrings,6.7,800,4.0,2.0
+1451,tt0032484,Foreign Correspondent,7.6,"15,262",3.87,15.0
+1452,tt0036094,Lady of Burlesque,6.4,"1,662",4.0,1.0
+1453,tt0038300,Angel on My Shoulder,6.9,"1,895",2.0,1.0
+902,tt0118715,The Big Lebowski,8.2,"613,012",3.83,42.0
+903,tt0118566,Afterglow,6.1,"2,983",3.11,18.0
+900,tt0119485,Kundun,7.0,"23,030",3.69,42.0
+901,tt0119718,Mr. Magoo,3.9,"12,856",1.92,12.0
+906,tt0102603,Oscar,6.4,"25,613",3.19,21.0
+907,tt0840022,Vermin,5.9,16,2.0,2.0
+904,tt0119590,Ma Vie en Rose,7.6,"7,887",3.45,20.0
+905,tt0119223,Great Expectations,6.8,"46,062",3.22,27.0
+1511,tt0115886,Children of the Revolution,6.3,"2,122",3.2,5.0
+908,tt0120693,Half Baked,6.7,"51,536",2.5,20.0
+909,tt0118892,Dangerous Beauty,7.3,"13,764",3.77,13.0
+854,tt0092610,Bad Taste,6.7,"39,301",3.38,16.0
+855,tt0082269,Diva,7.3,"10,194",3.73,66.0
+856,tt0102536,Night on Earth,7.8,"46,040",3.83,36.0
+857,tt0114093,Paris Was a Woman,7.6,117,3.0,1.0
+850,tt0117320,A Perfect Candidate,7.3,253,4.0,4.0
+851,tt0060304,Two or Three Things I Know About Her...,7.0,"5,301",3.75,4.0
+852,tt0115715,The Bloody Child,3.9,116,1.0,1.0
+853,tt4877736,BrainDead,8.1,"8,150",3.86,14.0
+858,tt0115535,Amityville Dollhouse,4.1,"1,650",1.0,3.0
+859,tt0090655,April Fool's Day,6.2,"11,602",2.67,15.0
+6,tt0115012,Shanghai Triad,7.2,"4,497",3.58,26.0
+740,tt1229822,Jane Eyre,7.4,"70,560",3.48,63.0
+741,tt0104687,Last Supper,7.2,133,3.45,58.0
+742,tt0117438,Ransom,6.6,"106,197",3.64,267.0
+743,tt0115986,The Crow: City of Angels,4.6,"17,054",1.95,39.0
+744,tt0117039,Michael Collins,7.1,"25,955",3.46,92.0
+745,tt2070796,Ruling Class,7.6,37,3.88,16.0
+746,tt0089886,Real Genius,7.0,"25,849",3.66,119.0
+747,tt0889169,Benny,8.8,13,3.46,102.0
+748,tt1167675,Saint,5.6,"7,607",3.12,316.0
+749,tt0873587,Matchmaker,5.4,35,3.18,51.0
+1050,tt0039420,The Ghost and Mrs. Muir,7.9,"13,069",3.65,43.0
+1051,tt0115580,The Associate,6.1,"6,628",3.24,41.0
+1052,tt0112896,Dracula: Dead and Loving It,5.8,"33,010",2.28,25.0
+1053,tt0114011,Now and Then,6.8,"23,029",3.46,24.0
+1054,tt0117102,Mr. Wrong,3.8,"4,539",2.3,23.0
+1055,tt4947656,Simple Twist of Fate,N/A,N/A,3.2,10.0
+1056,tt0104029,Cronos,6.7,"22,156",3.2,10.0
+1057,tt3784088,Pallbearer,N/A,N/A,2.32,22.0
+1058,tt0499556,War,6.3,"77,521",3.27,15.0
+1059,tt0116126,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,6.6,"41,775",2.77,35.0
+1278,tt0120094,Selena,6.7,"21,117",3.63,16.0
+1279,tt0120512,Wild America,6.3,"5,877",2.89,9.0
+618,tt0048491,Picnic,7.2,"6,823",3.61,18.0
+619,tt0116259,Extreme Measures,6.1,"15,189",3.17,64.0
+612,tt0029162,Lost Horizon,7.8,"10,267",3.94,34.0
+613,tt0028010,My Man Godfrey,8.1,"17,152",4.04,27.0
+610,tt0051658,Gigi,6.8,"16,401",3.66,41.0
+611,tt0037008,Laura,8.1,"35,812",4.1,40.0
+616,tt0063350,Night of the Living Dead,7.9,"97,982",3.42,64.0
+617,tt0321472,Blue Angel,5.8,13,3.78,18.0
+614,tt0049261,Giant,7.7,"28,873",3.75,51.0
+615,tt0026029,The 39 Steps,7.8,"43,671",4.05,59.0
+1472,tt0301989,Visitors,5.1,"1,113",3.5,2.0
+1473,tt0934676,Little Princess,6.1,158,3.56,9.0
+1470,tt0113234,Gumby: The Movie,6.3,606,2.6,5.0
+1471,tt0113303,Hideaway,5.3,"5,422",2.44,9.0
+1476,tt0091828,Raw Deal,5.5,"25,546",2.0,1.0
+1477,tt0119791,Nightwatch,6.2,"17,263",2.5,2.0
+1474,tt0110671,Nina Takes a Lover,5.6,523,2.83,6.0
+1475,tt0106408,Bhaji on the Beach,6.5,886,2.88,8.0
+1478,tt0112819,Dead Presidents,6.9,"16,726",2.72,18.0
+1479,tt2734804,Reckless,7.2,"2,934",2.75,8.0
+1304,tt0117169,New York Cop,4.3,166,2.5,2.0
+1306,tt0109593,Delta of Venus,4.5,"1,602",3.0,2.0
+1307,tt0109381,Carmen Miranda: Bananas Is My Business,7.8,210,1.5,2.0
+1300,tt0118523,'Til There Was You,4.8,"2,437",2.33,9.0
+1301,tt0083131,Stripes,6.9,"53,995",3.8,5.0
+1302,tt0841109,Late Bloomers,7.1,883,3.4,5.0
+1303,tt2167202,Getaway,4.4,"21,101",2.33,18.0
+1308,tt0109191,Babyfever,5.4,96,1.0,2.0
+1309,tt0072362,A Very Natural Thing,6.7,575,1.0,1.0
+498,tt0449805,African Queen,N/A,N/A,4.18,152.0
+499,tt0051459,Cat on a Hot Tin Roof,8.1,"37,447",3.95,62.0
+494,tt0032599,His Girl Friday,8.0,"45,377",4.0,56.0
+495,tt0327437,Around the World in 80 Days,5.8,"74,926",3.66,59.0
+496,tt0038650,It's a Wonderful Life,8.6,"320,637",4.12,231.0
+497,tt0029947,Bringing Up Baby,8.0,"48,346",3.84,68.0
+490,tt0048728,To Catch a Thief,7.5,"51,780",4.02,50.0
+491,tt0029843,The Adventures of Robin Hood,8.0,"41,469",3.79,67.0
+492,tt0048028,East of Eden,8.0,"33,736",3.86,59.0
+493,tt0025878,The Thin Man,8.1,"22,319",4.15,60.0
+24,tt0113326,Rumble in the Bronx,6.7,"33,045",3.45,174.0
+25,tt2271217,Birdcage,N/A,N/A,3.44,293.0
+26,tt0112585,The Brothers McMullen,6.6,"6,609",3.45,73.0
+27,tt0112442,Bad Boys,6.8,"191,935",3.11,57.0
+20,tt0112365,Angels and Insects,7.0,"4,135",3.42,72.0
+21,tt0117110,Muppet Treasure Island,6.9,"17,745",2.76,84.0
+22,tt0112573,Braveheart,8.4,"832,000",4.15,297.0
+23,tt0075314,Taxi Driver,8.3,"581,788",4.12,182.0
+28,tt0112384,Apollo 13,7.6,"230,704",3.93,276.0
+29,tt0112462,Batman Forever,5.4,"208,081",2.67,114.0
+7,tt0114746,Twelve Monkeys,8.0,"515,001",3.8,392.0
+1087,tt0112536,Bloodsport 2,4.8,"2,555",1.7,10.0
+1086,tt0113443,It's My Party,7.1,"2,459",3.29,21.0
+1085,tt0115837,Carried Away,6.4,"1,354",3.0,11.0
+1084,tt0112373,Anne Frank Remembered,8.1,877,3.86,21.0
+1083,tt0115495,Albino Alligator,6.1,"7,006",2.5,6.0
+1082,tt0116293,Female Perversions,5.5,"2,074",2.63,8.0
+977,tt0922626,Substitute,6.4,77,2.69,49.0
+976,tt0117688,Solo,3.9,"3,672",1.83,12.0
+975,tt0116287,Fear,6.2,"34,790",3.16,44.0
+974,tt0116260,Eye for an Eye,6.1,"11,150",3.03,32.0
+973,tt0113212,Grateful Dead,7.3,19,3.5,4.0
+972,tt0105107,Passion Fish,7.5,"4,448",3.18,28.0
+971,tt0102426,Mediterraneo,7.4,"11,650",3.68,34.0
+970,tt0102014,Hear My Song,7.2,"1,314",3.25,8.0
+1080,tt0107537,Celestial Clockwork,7.0,348,4.0,2.0
+979,tt1126532,Trigger Effect,N/A,N/A,3.2,35.0
+978,tt0116508,Heaven's Prisoners,5.7,"4,506",2.52,27.0
+182,tt0099685,Goodfellas,8.7,"830,904",3.95,226.0
+183,tt0078748,Alien,8.5,"655,688",4.03,291.0
+180,tt0078788,Apocalypse Now,8.5,"506,352",4.05,221.0
+181,tt3169422,Return of the Jedi 30th Anniversary Celebration at the Egyptian Theatre,N/A,N/A,4.01,507.0
+186,tt0080455,The Blues Brothers,7.9,"156,769",3.84,251.0
+187,tt0071562,The Godfather: Part II,9.0,"907,141",4.19,209.0
+184,tt0106308,Army of Darkness,7.6,"142,788",3.43,116.0
+185,tt0054215,Psycho,8.5,"486,799",4.1,239.0
+188,tt0093058,Full Metal Jacket,8.3,"559,170",3.68,170.0
+189,tt0104361,A Grand Day Out,7.8,"26,061",4.11,66.0
+1559,tt0110061,Hostile Intentions,4.3,188,1.0,1.0
+1464,tt0114534,The Stars Fell on Henrietta,6.5,648,2.33,3.0
+869,tt0119141,Fools Rush In,6.0,"29,370",3.0,24.0
+868,tt0071604,Hearts and Minds,8.3,"4,608",3.8,5.0
+860,tt0878652,Believers,5.2,"2,084",2.25,16.0
+862,tt0116705,Jingle All the Way,5.5,"77,518",2.11,18.0
+865,tt0119349,The Ice Storm,7.5,"49,231",3.48,21.0
+864,tt0117119,My Fellow Americans,6.5,"13,005",3.16,86.0
+867,tt0118163,The Whole Wide World,7.3,"2,981",4.0,6.0
+866,tt0117038,Michael,5.7,"36,899",3.32,119.0
+883,tt0120303,Telling Lies in America,6.3,"1,921",3.23,13.0
+882,tt0120481,Washington Square,6.7,"2,837",3.29,34.0
+881,tt0119695,Money Talks,6.2,"24,269",2.93,45.0
+880,tt0120169,Soul Food,7.0,"5,898",3.17,59.0
+887,tt0119080,Eve's Bayou,7.3,"7,461",3.61,64.0
+886,tt0119535,A Life Less Ordinary,6.4,"31,894",3.08,53.0
+885,tt0119891,Phantoms,5.4,"17,506",2.23,13.0
+884,tt0120539,Year of the Horse,6.6,"1,554",3.29,7.0
+889,tt0120275,The Tango Lesson,6.8,"1,982",3.38,13.0
+888,tt0119832,One Night Stand,5.8,"5,937",3.47,15.0
+775,tt0114496,Something to Talk About,5.7,"11,292",2.77,26.0
+774,tt0079758,Prophecy,5.4,"3,288",2.94,32.0
+777,tt0112643,Castle Freak,5.9,"4,873",1.25,4.0
+776,tt0114663,Three Wishes,6.2,"2,313",3.22,9.0
+771,tt0113481,Johnny Mnemonic,5.6,"59,655",2.63,41.0
+770,tt0112857,Devil in a Blue Dress,6.7,"14,781",3.39,57.0
+773,tt0110604,Mute Witness,6.8,"4,711",2.94,17.0
+772,tt0113540,Kids,7.0,"64,290",3.06,49.0
+779,tt0109676,Drop Zone,5.6,"17,094",2.55,31.0
+778,tt0112883,Don Juan DeMarco,6.7,"44,007",3.55,76.0
+77,tt1369497,Firm,7.8,5,3.28,151.0
+76,tt0106519,Carlito's Way,7.9,"176,606",3.41,54.0
+75,tt0109339,Brother Minister: The Assassination of Malcolm X,7.3,83,3.0,5.0
+74,tt0059170,"Faster, Pussycat! Kill! Kill!",6.8,"11,810",3.0,7.0
+73,tt0110478,Maverick,7.0,"90,297",3.47,128.0
+72,tt0089560,Mask,7.2,"22,453",3.19,129.0
+71,tt0110357,The Lion King,8.5,"754,882",3.78,220.0
+70,tt0109831,Four Weddings and a Funeral,7.1,"117,914",3.66,251.0
+79,tt0106977,The Fugitive,7.8,"232,257",4.04,336.0
+78,tt0106965,Free Willy,5.9,"57,534",2.45,33.0
+1043,tt0114268,Rent-a-Kid,5.4,"1,597",3.0,8.0
+1042,tt0113501,Just Cause,6.4,"21,291",3.14,28.0
+1041,tt0113097,Forget Paris,6.4,"10,019",3.19,62.0
+1040,tt0118002,Two If by Sea,5.2,"4,827",2.6,25.0
+1047,tt0117108,Multiplicity,6.0,"26,659",2.84,134.0
+1046,tt0107497,Malice,6.4,"19,806",3.17,46.0
+1045,tt0446059,Fearless,7.7,"66,650",3.24,25.0
+1044,tt3622592,Paper Towns,6.3,"79,973",3.23,40.0
+1049,tt0116571,House Arrest,5.8,"7,044",2.52,25.0
+1048,tt0117628,She's the One,6.0,"14,885",3.01,73.0
+1681,tt0111804,Martin Lawrence: You So Crazy,6.7,816,3.0,1.0
+1680,tt0120148,Sliding Doors,6.8,"56,514",2.0,1.0
+1682,tt0102855,Scream of Stone,6.3,"1,034",3.0,1.0
+1269,tt0050658,Love in the Afternoon,7.3,"11,350",3.9,10.0
+1268,tt0104779,Bitter Moon,7.2,"28,820",3.3,10.0
+669,tt0101492,Body Parts,5.5,"3,306",1.62,13.0
+668,tt0082083,Blood Beach,4.3,"1,742",2.17,6.0
+667,tt0075704,Audrey Rose,5.9,"4,630",2.17,12.0
+1262,tt0118113,Walking and Talking,6.8,"2,747",3.63,8.0
+665,tt0103644,Alien 3,6.4,"237,094",2.83,100.0
+664,tt0869994,Paris,6.9,"10,662",3.54,46.0
+1267,tt0112688,Clockers,6.9,"17,987",3.0,33.0
+1266,tt0070506,Bread and Chocolate,7.6,"1,231",3.17,12.0
+1265,tt0120197,Star Maps,5.9,893,3.05,19.0
+1264,tt0119807,Nothing to Lose,6.7,"38,851",3.29,7.0
+1469,tt0112302,Tom and Huck,5.6,"8,199",3.17,12.0
+1468,tt4731136,A Cure for Wellness,6.4,"57,188",3.33,6.0
+1465,tt0113612,Last Summer in the Hamptons,6.1,315,2.33,3.0
+1018,tt0101026,Tie Me Up! Tie Me Down!,7.0,"20,090",3.19,32.0
+1467,tt0108026,The Saint of Fort Washington,7.2,"2,058",5.0,2.0
+1466,tt0113774,Margaret's Museum,7.3,"1,196",4.0,6.0
+1461,tt0026465,Here Comes Cookie,6.3,115,2.0,1.0
+1460,tt0368975,Sleepover,5.3,"13,562",3.0,1.0
+1463,tt3318220,Boys,7.5,"8,975",3.33,3.0
+1462,tt0118100,Thieves,7.0,"1,647",3.71,7.0
+1317,tt0113490,The Journey of August King,6.6,830,2.0,4.0
+1316,tt0119314,The Horse Whisperer,6.6,"34,974",2.71,7.0
+1315,tt0119381,Inventing the Abbotts,6.4,"10,181",3.13,23.0
+1314,tt0111323,Surviving the Game,6.1,"8,955",2.45,11.0
+1313,tt0120782,Palmetto,6.0,"6,950",3.14,14.0
+1312,tt0117357,The Pompatus of Love,5.3,526,3.0,7.0
+1311,tt0114885,Waiting to Exhale,5.7,"8,157",2.5,16.0
+1310,tt0038235,A Walk in the Sun,7.3,"2,897",3.0,1.0
+1319,tt0113952,The Neon Bible,6.2,621,1.75,4.0
+1318,tt0112646,Catwalk,6.4,174,1.33,3.0
+1010,tt0115632,Basquiat,6.9,"17,177",3.25,44.0
+1011,tt0115438,2 Days in the Valley,6.5,"16,646",3.23,93.0
+319,tt0116242,Everyone Says I Love You,6.8,"32,322",3.27,168.0
+318,tt0108052,Schindler's List,8.9,"989,411",4.47,298.0
+313,tt0120338,Titanic,7.8,"884,857",4.25,350.0
+312,tt0119668,Midnight in the Garden of Good and Evil,6.6,"33,781",3.16,80.0
+311,tt0120520,The Wings of the Dove,7.2,"9,393",3.68,75.0
+310,tt0119978,The Rainmaker,7.1,"51,482",3.6,145.0
+317,tt0107207,In the Name of the Father,8.1,"128,548",3.91,102.0
+316,tt0119822,As Good as It Gets,7.7,"242,504",4.2,112.0
+315,tt0118636,Apt Pupil,6.7,"31,435",4.1,160.0
+314,tt0118539,3 Ninjas: High Noon at Mega Mountain,2.8,"9,438",1.0,5.0
+1335,tt0115530,American Buffalo,5.7,"3,124",2.64,11.0
+1334,tt0111237,Somebody to Love,5.2,607,1.0,2.0
+1337,tt0116823,Larger Than Life,5.6,"5,908",2.33,9.0
+1336,tt0116756,Kazaam,2.8,"20,579",1.8,10.0
+1331,tt0113610,"The Last Klezmer: Leopold Kozlowski, His Life and Music",8.5,28,3.0,4.0
+1330,tt0111546,An Unforgettable Summer,7.5,727,2.5,4.0
+1333,tt0111180,Midnight Dancers,5.7,231,2.8,5.0
+630,tt0059243,The Great Race,7.3,"13,713",3.29,31.0
+631,tt0104036,The Crying Game,7.3,"45,008",3.62,119.0
+1521,tt0107613,Mr. Wonderful,5.9,"2,767",3.0,4.0
+964,tt0113849,A Month by the Lake,6.4,"1,911",3.33,9.0
+965,tt0050419,Funny Face,7.1,"21,727",3.67,21.0
+966,tt0050105,An Affair to Remember,7.6,"24,030",4.19,26.0
+967,tt0081062,Little Lord Fauntleroy,7.4,"3,221",3.17,12.0
+960,tt0107653,Naked,7.9,"27,402",3.24,25.0
+961,tt0107756,Orlando,7.2,"10,955",3.62,34.0
+962,tt0108000,Ruby in Paradise,7.1,"2,142",3.13,23.0
+963,tt0108181,Some Folks Call It a Sling Blade,7.6,"1,528",4.29,41.0
+968,tt0041509,The Inspector General,6.9,"2,615",3.72,18.0
+969,tt0063819,Winnie the Pooh and the Blustery Day,8.0,"3,975",3.8,75.0
+635,tt1245094,Fog,6.3,35,2.74,23.0
+1560,tt0109443,Clean Slate,5.7,"3,289",2.75,4.0
+1241,tt0338526,Van Helsing,6.1,"216,139",2.67,6.0
+878,tt0059793,That Darn Cat!,6.7,"4,599",2.52,33.0
+1240,tt1219827,Ghost in the Shell,6.4,"145,756",3.65,26.0
+876,tt0119695,Money Talks,6.2,"24,269",2.7,47.0
+877,tt0119086,Excess Baggage,5.3,"11,497",2.54,52.0
+874,tt0118818,Career Girls,7.2,"4,411",3.26,39.0
+875,tt0120112,She's So Lovely,5.9,"7,375",2.74,53.0
+872,tt0119572,Love Jones,7.5,"3,168",3.1,42.0
+1243,tt0119784,The Night Flier,6.0,"8,073",3.71,7.0
+870,tt1821681,Touch,7.4,"39,560",2.78,9.0
+871,tt0120434,Vegas Vacation,5.9,"37,190",2.4,75.0
+1242,tt0103207,The Old Lady Who Walked in the Sea,6.5,218,2.6,5.0
+9,tt0112818,Dead Man Walking,7.5,"78,739",3.9,299.0
+1245,tt0119225,Gridlock'd,7.0,"12,914",3.21,19.0
+1244,tt0119664,Metro,5.5,"22,858",2.92,36.0
+890,tt0119707,Mortal Kombat: Annihilation,3.7,"39,577",1.95,43.0
+891,tt0118698,Bent,7.3,"6,822",2.67,6.0
+892,tt0119137,Flubber,5.2,"72,008",2.75,53.0
+893,tt0119142,For Richer or Poorer,5.7,"8,782",2.43,14.0
+894,tt0119303,Home Alone 3,4.4,"87,060",1.89,19.0
+1247,tt0109198,Bad Girls,5.1,"10,379",1.83,6.0
+896,tt0120255,The Sweet Hereafter,7.6,"28,784",3.77,44.0
+897,tt0128755,Time Tracers,4.4,48,1.5,2.0
+898,tt1212129,Postman,7.2,217,3.22,58.0
+899,tt3591126,Winter Guest,N/A,N/A,3.44,9.0
+646,tt0064116,Once Upon a Time in the West,8.5,"247,090",3.87,38.0
+1249,tt0106941,For Love or Money,6.1,"10,247",2.83,12.0
+1248,tt0109297,Blink,6.2,"6,840",3.0,19.0
+1537,tt0115951,Cosi,6.8,"1,608",4.0,4.0
+768,tt0112642,Casper,6.1,"97,939",3.08,52.0
+769,tt0112715,Congo,5.1,"37,315",2.45,42.0
+762,tt0115639,Beautiful Girls,7.2,"28,321",3.39,115.0
+763,tt0116483,Happy Gilmore,7.0,"170,036",3.39,149.0
+760,tt0114367,Screamers,6.4,"21,991",2.65,46.0
+761,tt0113972,Nick of Time,6.3,"34,872",3.05,44.0
+766,tt0483726,Man of the Year,6.2,"29,420",3.11,9.0
+767,tt1024640,Addiction,6.0,70,2.18,11.0
+764,tt0116606,If Lucy Fell,4.9,"3,530",2.76,29.0
+765,tt0103859,Boomerang,5.4,"22,110",2.81,32.0
+1078,tt0086041,Oliver,7.7,37,2.77,22.0
+1079,tt0116707,Joe's Apartment,5.4,"11,261",2.24,45.0
+1076,tt0110763,The Pagemaster,6.0,"17,712",2.25,12.0
+1077,tt0110395,Love and a .45,6.1,"3,504",3.13,8.0
+1074,tt0110950,Reality Bites,6.6,"39,380",2.96,77.0
+1075,tt0110455,A Man of No Importance,6.9,816,3.43,7.0
+1072,tt0114210,A Pyromaniac's Love Story,5.4,902,2.43,7.0
+1073,tt0111149,Shallow Grave,7.3,"49,662",3.82,66.0
+1070,tt0113677,Living in Oblivion,7.5,"14,022",3.74,27.0
+1071,tt0114095,Party Girl,6.6,"3,829",2.88,16.0
+1561,tt0111430,Tigrero: A Film That Was Never Made,6.8,322,1.0,1.0
+1674,tt0056215,Mamma Roma,7.9,"6,557",4.0,1.0
+1675,tt0117781,The Sunchaser,6.2,"3,153",3.0,1.0
+1676,tt4664952,War at Home,N/A,N/A,2.0,1.0
+1677,tt0114592,Sweet Nothing,5.9,437,3.0,1.0
+1670,tt0128690,Tainted,4.6,104,3.0,1.0
+1672,tt0107315,Kika,6.5,"10,452",2.0,2.0
+1673,tt0059448,Mirage,7.4,"3,254",3.0,1.0
+1094,tt0117891,A Thin Line Between Love and Hate,5.7,"3,523",2.42,12.0
+1095,tt0116531,High School High,5.5,"11,504",2.62,29.0
+1096,tt0115927,Commandments,5.6,"1,383",2.67,3.0
+1097,tt0147800,10 Things I Hate About You,7.2,"249,909",3.5,18.0
+1090,tt0108162,Sliver,4.9,"24,855",2.41,37.0
+1091,tt2788732,Pete's Dragon,6.7,"44,046",2.72,43.0
+1092,tt0116059,Dear God,5.3,"3,295",2.5,12.0
+1093,tt0113674,Live Nude Girls,5.4,"1,562",3.09,23.0
+674,tt0083722,Cat People,6.1,"15,804",2.9,48.0
+675,tt0013442,Nosferatu,8.0,"75,397",3.56,54.0
+676,tt3581692,Crucible,6.7,7,3.34,77.0
+677,tt0082380,Fire on the Mountain,7.2,89,3.0,1.0
+1098,tt0116324,Flirting with Disaster,6.8,"15,955",3.69,42.0
+1099,tt0110769,"Red Firecracker, Green Firecracker",7.0,442,3.46,13.0
+672,tt0103919,Candyman,6.6,"55,123",2.72,65.0
+673,tt0101540,Cape Fear,7.3,"141,569",3.52,86.0
+1533,tt0106678,I Don't Want to Talk About It,7.0,299,4.0,1.0
+1418,tt0107282,The Joy Luck Club,7.6,"13,266",3.67,3.0
+1410,tt0034950,Harlem,5.5,8,2.75,4.0
+1411,tt0062711,Barbarella,5.9,"27,168",2.57,28.0
+1412,tt0113596,The Land Before Time III: The Time of the Great Giving,5.7,"4,674",1.67,6.0
+1413,tt0111301,Street Fighter,3.8,"57,063",2.75,8.0
+1414,tt0112702,Coldblooded,6.8,"3,038",2.0,1.0
+1415,tt0110657,The Next Karate Kid,4.4,"20,685",2.44,9.0
+1416,tt1781922,No Escape,6.8,"63,755",2.4,5.0
+1417,tt2219894,Turning,6.9,59,2.5,2.0
+1322,tt5276348,The Man from U.N.C.L.E.: Metisse Motorcycles: Proper and Very British,N/A,N/A,2.33,6.0
+1320,tt0113319,Homage,5.9,128,1.0,1.0
+1321,tt0400717,Open Season,6.2,"73,309",2.5,2.0
+1326,tt3318220,Boys,7.5,"8,975",3.33,6.0
+1327,tt0109374,Captives,6.4,"1,959",2.33,3.0
+1324,tt0893406,Loaded,4.7,"2,673",2.4,5.0
+1325,tt0470679,August,5.4,"3,801",1.0,1.0
+1328,tt0110712,Of Love and Shadows,5.1,"1,613",3.17,6.0
+1329,tt0403100,Low Life,6.1,221,1.0,1.0
+5,tt0112722,Copycat,6.6,"46,166",3.3,86.0
+1531,tt0113028,Far from Home: The Adventures of Yellow Dog,6.4,"2,220",3.29,7.0
+1256,tt0118964,The Designated Mourner,6.1,286,2.0,3.0
+1257,tt0118964,The Designated Mourner,6.1,286,1.75,4.0
+1254,tt0119214,Gone Fishin',4.7,"8,468",1.82,11.0
+1255,tt0772157,Broken English,6.4,"5,704",2.25,8.0
+1252,tt0057345,Contempt,7.7,"22,533",3.0,9.0
+1253,tt0114666,The Tie That Binds,5.0,982,2.43,7.0
+1250,tt0112483,Best of the Best 3: No Turning Back,4.8,"1,627",1.5,6.0
+1251,tt0117050,A Chef in Love,6.8,521,4.13,8.0
+1528,tt0119809,Nowhere,6.4,"7,181",2.33,3.0
+1529,tt0114787,Underground,8.1,"48,611",2.8,5.0
+1258,tt0120373,Trial and Error,5.7,"5,510",2.52,23.0
+1259,tt0106102,Pie in the Sky,7.6,766,2.0,4.0
+308,tt0119095,FairyTale: A True Story,6.5,"4,998",2.97,30.0
+309,tt0119527,Deceiver,6.7,"5,372",2.86,28.0
+300,tt0118571,Air Force One,6.5,"159,262",3.63,431.0
+301,tt0119654,Men in Black,7.3,"446,773",3.3,230.0
+302,tt0119488,L.A. Confidential,8.3,"458,887",4.16,297.0
+303,tt0120402,Ulee's Gold,7.1,"6,061",3.69,134.0
+304,tt0116329,Fly Away Home,6.8,"21,155",3.54,149.0
+305,tt0119349,The Ice Storm,7.5,"49,231",3.64,87.0
+306,tt0119280,Mrs Brown,7.3,"12,013",3.95,96.0
+307,tt0112858,Devil's Advocate,6.6,127,3.52,188.0
+473,tt0116683,James and the Giant Peach,6.7,"53,583",3.13,126.0
+470,tt0108358,Tombstone,7.8,"106,260",3.67,108.0
+471,tt0115956,Courage Under Fire,6.6,"43,970",3.61,221.0
+1443,tt0109021,8 Seconds,6.5,"4,103",3.75,4.0
+476,tt0116313,The First Wives Club,6.3,"35,692",3.02,160.0
+959,tt0106677,Dazed and Confused,7.7,"136,984",3.47,64.0
+958,tt0110081,To Live,8.3,"12,974",3.79,14.0
+951,tt0113419,The Indian in the Cupboard,5.9,"22,472",2.82,39.0
+950,tt0113158,Georgia,6.5,"2,569",2.9,30.0
+953,tt0114798,Unstrung Heroes,6.7,"2,792",3.32,22.0
+952,tt0112541,Blue in the Face,6.7,"8,086",3.18,45.0
+955,tt0112471,Before Sunrise,8.1,"214,016",3.41,49.0
+954,tt0114805,Unzipped,6.4,956,3.55,11.0
+957,tt0105652,Pushing Hands,7.3,"2,831",2.0,2.0
+956,tt0110684,Nobody's Fool,7.4,"16,071",3.61,46.0
+1442,tt0114345,The Scarlet Letter,5.2,"12,933",2.4,5.0
+477,tt0117008,Matilda,6.9,"101,535",3.21,95.0
+1440,tt0109035,Above the Rim,6.6,"11,780",3.0,5.0
+1263,tt0116353,Foxfire,6.2,"7,567",2.93,15.0
+666,tt0071233,Blood for Dracula,6.2,"4,485",2.4,5.0
+1261,tt0114307,The Run of the Country,6.2,341,3.25,4.0
+1260,tt0114702,Total Eclipse,6.6,"11,341",2.75,4.0
+719,tt0109370,Canadian Bacon,5.9,"14,457",2.41,29.0
+718,tt4285594,Elements of Rehearsal in the Bleak Midwinter,N/A,N/A,3.69,16.0
+717,tt0116731,The Juror,5.6,"15,019",2.82,82.0
+716,tt0113321,Home for the Holidays,6.6,"10,076",3.16,58.0
+715,tt0114681,To Die For,6.8,"37,681",3.28,87.0
+714,tt0112637,Carrington,6.9,"4,620",3.23,13.0
+713,tt0114057,Othello,6.9,"8,023",3.61,72.0
+712,tt0094155,Tin Men,6.5,"7,061",3.08,51.0
+711,tt0117773,The Substance of Fire,6.0,545,4.0,1.0
+710,tt0088794,Better Off Dead...,7.2,"36,650",3.57,79.0
+661,tt0044706,High Noon,8.0,"86,151",4.1,88.0
+660,tt0101921,Fried Green Tomatoes,7.7,"57,115",3.76,153.0
+1069,tt0109093,Amateur,7.0,"4,829",3.17,18.0
+1068,tt0114808,The Star Maker,7.4,"4,130",3.17,12.0
+1061,tt0106836,Evening Star,8.4,21,2.93,29.0
+1060,tt0115472,The Adventures of Pinocchio,5.3,"4,503",3.05,39.0
+1063,tt0934676,Little Princess,6.1,158,3.66,41.0
+1062,tt0119815,Four Days in September,7.4,"3,917",3.75,12.0
+1065,tt0085809,Koyaanisqatsi,8.3,"29,618",3.49,53.0
+1064,tt0039286,Crossfire,7.4,"6,098",4.25,4.0
+1067,tt0115734,Bottle Rocket,7.1,"60,020",3.45,44.0
+1066,tt0112453,Balto,7.1,"33,978",3.0,16.0
+1669,tt0116949,MURDER and murder,7.0,45,2.0,1.0
+1668,tt0118127,Wedding Bell Blues,4.9,381,3.0,1.0
+1667,tt0454517,Next Step,5.6,66,3.0,1.0
+1666,tt0117482,Ripe,3.9,905,2.0,1.0
+1665,tt0118783,A Brother's Kiss,6.3,297,2.0,1.0
+1664,tt0118541,8 Heads in a Duffel Bag,5.3,"8,553",3.25,4.0
+1663,tt1320352,Nothing Personal,7.1,"3,991",2.0,1.0
+1662,tt0114303,Rough Magic,5.5,"1,603",2.5,2.0
+1661,tt3345840,New Age,N/A,N/A,1.0,1.0
+1660,tt0114474,Small Faces,7.1,"1,298",2.0,1.0
+591,tt0117381,Primal Fear,7.7,"148,506",3.6,178.0
+590,tt0116514,Hellraiser: Bloodline,5.1,"16,092",2.0,18.0
+593,tt0108211,Stalingrad,7.5,"26,176",3.17,12.0
+592,tt0139668,True Crime,6.6,"27,737",3.33,9.0
+595,tt3495026,Fan,7.2,"35,780",3.09,64.0
+594,tt0113280,Heavy,7.0,"3,850",2.4,5.0
+597,tt0116213,Eraser,6.1,"91,604",3.15,206.0
+596,tt0116583,The Hunchback of Notre Dame,6.9,"117,442",3.38,127.0
+598,tt0115680,The Big Squeeze,5.2,248,2.25,4.0
+1089,tt0120179,Speed 2: Cruise Control,3.8,"65,192",2.13,38.0
+1088,tt0119013,Double Team,4.7,"27,539",2.23,13.0
+1409,tt0111333,The Swan Princess,6.4,"19,483",2.86,7.0
+1408,tt0113199,Gordy,3.9,"1,716",1.0,3.0
+1403,tt0109382,Caro diario,7.3,"5,942",2.75,4.0
+1402,tt0870089,Ciao,6.4,"2,063",2.75,4.0
+1401,tt0107468,M. Butterfly,6.8,"7,343",3.22,18.0
+1400,tt0114129,Picture Bride,6.8,994,3.1,10.0
+1407,tt5245810,Specialist,7.5,11,2.25,20.0
+1406,tt0114916,When Night Is Falling,6.7,"5,821",3.4,5.0
+1546,tt0053270,Shadows,7.4,"8,013",1.0,1.0
+449,tt0079945,Star Trek: The Motion Picture,6.4,"70,315",3.03,117.0
+448,tt0371267,Omen,4.5,207,3.39,85.0
+1339,tt0108220,Stefano Quantestorie,6.8,117,1.0,1.0
+1338,tt0117999,Two Deaths,6.6,391,2.25,4.0
+1547,tt0120382,The Truman Show,8.1,"763,282",3.0,2.0
+443,tt0056869,The Birds,7.7,"144,843",3.81,162.0
+442,tt0099030,The Amityville Curse,2.9,"1,384",1.25,4.0
+441,tt0384806,The Amityville Horror,6.0,"93,559",2.57,53.0
+440,tt0083550,Amityville II: The Possession,5.5,"8,336",1.64,14.0
+447,tt0074285,Carrie,7.4,"140,272",3.5,121.0
+446,tt0074258,Burnt Offerings,6.5,"7,651",2.44,9.0
+445,tt5672060,Body Snatcher,N/A,N/A,3.5,22.0
+444,tt1720059,Blob,N/A,N/A,2.72,46.0
+1520,tt0116287,Fear,6.2,"34,790",3.0,1.0
+1542,tt0114345,The Scarlet Letter,5.2,"12,933",3.0,2.0
+1543,tt0116714,Johns,6.3,"1,546",3.0,1.0
+39,tt0114558,Strange Days,7.2,"58,866",3.26,87.0
+38,tt0113957,The Net,5.9,"52,749",3.01,120.0
+1540,tt0112342,The Amazing Panda Adventure,5.8,"3,402",2.8,10.0
+33,tt0112851,Desperado,7.2,"151,252",3.45,97.0
+32,tt0109508,Crumb,8.0,"15,644",3.79,81.0
+31,tt0112740,Crimson Tide,7.3,"88,309",3.63,154.0
+30,tt0061395,Belle de Jour,7.8,"32,745",3.95,37.0
+37,tt0110620,Nadja,6.0,"2,605",2.25,8.0
+36,tt0113729,Mad Love,5.3,"5,630",2.15,13.0
+35,tt0113114,Free Willy 2: The Adventure Home,4.9,"14,257",2.18,11.0
+34,tt0112887,The Doom Generation,6.0,"12,261",2.71,7.0
+641,tt0050825,Paths of Glory,8.4,"139,988",4.21,33.0
+640,tt0097108,"The Cook, the Thief, His Wife & Her Lover",7.6,"29,703",3.02,82.0
+643,tt0106185,The Innocent,5.7,"1,339",3.0,4.0
+642,tt5615822,Grifters,N/A,N/A,3.48,89.0
+645,tt0100332,Paris Is Burning,8.1,"6,649",3.81,27.0
+644,tt5127844,Thin Blue Line,N/A,N/A,3.77,35.0
+647,tt0089881,Ran,8.2,"90,070",4.1,70.0
+1246,tt0112602,Bushwhacked,5.5,"4,946",1.57,7.0
+649,tt0087843,Once Upon a Time in America,8.4,"253,646",3.4,50.0
+648,tt0045061,The Quiet Man,7.9,"29,553",4.03,67.0
+1539,tt1595680,Being Human,7.5,"22,539",1.75,4.0
+1538,tt0118586,All Over Me,6.6,"2,905",3.0,3.0
+339,tt0119592,Mad City,6.2,"17,434",3.26,47.0
+338,tt0118689,Bean,6.4,"83,707",2.66,91.0
+335,tt0119326,How to Be a Player,5.4,"2,719",2.76,21.0
+334,tt0120399,U Turn,6.8,"44,628",3.36,64.0
+337,tt0119324,The House of Yes,6.7,"7,023",3.0,18.0
+336,tt0119906,Playing God,5.6,"6,683",2.63,43.0
+331,tt4687906,Edge,6.4,750,3.54,113.0
+330,tt6217824,187,N/A,N/A,3.02,41.0
+333,tt0944947,Game of Thrones,9.5,"1,298,417",3.59,251.0
+332,tt0119468,Kiss the Girls,6.6,"55,652",3.46,143.0
+1026,tt0343965,Lay of the Land,5.3,7,2.5,4.0
+8,tt0112431,Babe,6.8,"102,310",4.0,219.0
+948,tt0118750,Booty Call,5.3,"6,869",2.17,48.0
+949,tt0113347,How to Make an American Quilt,6.2,"9,386",3.34,71.0
+946,tt0082406,The Fox and the Hound,7.3,"71,088",3.15,61.0
+947,tt2376170,Big Blue,N/A,N/A,3.24,17.0
+944,tt0110971,Renaissance Man,6.1,"15,023",3.0,43.0
+945,tt0056923,Charade,8.0,"55,211",3.92,40.0
+942,tt0108551,What's Love Got to Do with It,7.2,"14,580",3.49,45.0
+943,tt0110265,Killing Zoe,6.5,"18,217",3.48,40.0
+940,tt0109068,Airheads,6.1,"41,007",2.34,32.0
+941,tt0111732,With Honors,6.7,"11,781",3.07,46.0
+133,tt0031381,Gone with the Wind,8.2,"241,426",3.87,171.0
+132,tt0032138,The Wizard of Oz,8.1,"327,388",4.08,246.0
+131,tt0054698,Breakfast at Tiffany's,7.7,"139,815",3.73,95.0
+130,tt0116745,Kansas City,6.3,"3,789",2.26,23.0
+137,tt0115678,Big Night,7.3,"14,332",3.9,171.0
+136,tt0031679,Mr. Smith Goes to Washington,8.2,"88,134",4.12,105.0
+135,tt0062622,2001: A Space Odyssey,8.3,"488,243",3.97,259.0
+134,tt0033467,Citizen Kane,8.4,"335,761",4.29,198.0
+139,tt1478427,Love Bug,8.4,57,2.78,50.0
+138,tt0116000,D3: The Mighty Ducks,5.4,"20,908",2.58,19.0
+708,tt1000774,Sex and the City,5.6,"105,803",3.48,101.0
+709,tt0105488,Strictly Ballroom,7.2,"22,105",4.03,104.0
+704,tt3185176,House of the Spirits,N/A,N/A,3.04,24.0
+705,tt0045152,Singin' in the Rain,8.3,"178,179",3.99,137.0
+706,tt0115610,Bad Moon,5.7,"4,427",2.67,6.0
+707,tt0101811,Enchanted April,7.4,"5,349",3.93,70.0
+700,tt0113808,Miami Rhapsody,5.4,"2,838",2.6,15.0
+701,tt0038650,It's a Wonderful Life,8.6,"320,637",4.0,10.0
+702,tt0109219,Barcelona,7.0,"4,942",3.02,53.0
+703,tt0111712,Widows' Peak,6.8,"1,406",3.58,19.0
+88,tt0108160,Sleepless in Seattle,6.8,"135,792",3.54,213.0
+89,tt0083658,Blade Runner,8.2,"566,320",4.14,275.0
+82,tt0107290,Jurassic Park,8.1,"712,884",3.72,261.0
+83,tt0107616,Much Ado About Nothing,7.4,"40,142",4.06,176.0
+80,tt0107144,Hot Shots! Part Deux,6.6,"74,063",2.76,68.0
+81,tt0110074,The Hudsucker Proxy,7.3,"69,659",3.55,110.0
+86,tt4103972,Remains of the Day,N/A,N/A,3.94,150.0
+87,tt0108065,Searching for Bobby Fischer,7.5,"25,794",3.91,138.0
+85,tt3723758,Ref,N/A,N/A,3.03,58.0
+1658,tt0117773,The Substance of Fire,6.0,545,3.0,3.0
+1659,tt0116405,Getting Away with Murder,4.5,"1,082",1.0,1.0
+1652,tt0116295,Temptress Moon,6.9,"1,586",1.67,3.0
+410,tt0116778,Kingpin,6.9,"68,152",3.13,162.0
+1650,tt0118804,The Butcher Boy,7.2,"8,337",4.0,1.0
+1651,tt0120176,The Spanish Prisoner,7.3,"19,696",4.0,1.0
+1656,tt0119548,Little City,6.0,944,3.5,2.0
+1657,tt0090130,Target,6.0,"3,368",3.0,1.0
+1654,tt0118836,Chairman of the Board,2.3,"5,397",1.0,1.0
+1389,tt0117076,Mondo,7.4,483,3.0,3.0
+586,tt0111400,Terminal Velocity,5.4,"11,564",2.68,34.0
+584,tt1841321,Secret Garden,8.4,"3,293",3.54,79.0
+585,tt0108186,Son in Law,5.7,"14,736",2.49,39.0
+582,tt0107822,The Piano,7.6,"69,085",3.6,168.0
+583,tt0107983,Romeo Is Bleeding,6.6,"11,546",3.0,37.0
+580,tt0112966,The Englishman Who Went Up a Hill But Came Down a Mountain,6.6,"14,414",3.38,32.0
+581,tt0107302,Kalifornia,6.7,"45,326",3.22,59.0
+588,tt0101414,Beauty and the Beast,8.0,"356,526",3.79,202.0
+589,tt0065214,The Wild Bunch,8.0,"68,319",4.02,43.0
+1436,tt0107611,Mr. Jones,5.8,"5,951",2.5,2.0
+1437,tt0110064,House Party 3,4.2,"2,852",2.0,9.0
+1434,tt0120122,Shooting Fish,6.6,"6,927",2.5,10.0
+1435,tt0114536,Steal Big Steal Little,4.8,836,2.57,7.0
+1432,tt0104868,The Mighty Ducks,6.5,"49,322",1.0,3.0
+1433,tt0119655,Men of Means,6.1,129,2.0,2.0
+1430,tt0119352,Ill Gotten Gains,5.0,63,2.33,3.0
+1431,tt0130073,Legal Deceit,3.8,49,3.4,5.0
+418,tt1661199,Cinderella,6.9,"126,964",3.58,129.0
+1438,tt0114084,Panther,6.4,"1,995",2.4,5.0
+419,tt0058331,Mary Poppins,7.8,"122,532",3.72,178.0
+1349,tt0107575,Mille bolle blu,6.8,138,1.0,1.0
+1541,tt0109226,"The Beans of Egypt, Maine",5.3,225,3.5,2.0
+1348,tt1203514,Every Other Weekend,7.3,7,1.0,1.0
+459,tt0171804,Boys Don't Cry,7.6,"83,593",3.75,24.0
+450,tt0098382,Star Trek V: The Final Frontier,5.4,"48,544",2.4,63.0
+451,tt0077631,Grease,7.2,"189,708",3.35,170.0
+452,tt0077766,Jaws 2,5.7,"58,038",2.67,66.0
+1343,tt0113695,Lotto Land,6.9,38,1.0,1.0
+454,tt0115633,Bastard Out of Carolina,7.5,"3,696",2.88,16.0
+456,tt0118708,Beverly Hills Ninja,5.5,"33,606",2.31,48.0
+457,tt0119152,Free Willy 3: The Rescue,4.6,"7,908",1.74,27.0
+656,tt0022100,M,8.4,"113,605",4.0,44.0
+657,tt0368008,The Manchurian Candidate,6.6,"92,807",4.26,131.0
+654,tt0071315,Chinatown,8.2,"242,753",4.14,147.0
+655,tt0092005,Stand by Me,8.1,"309,803",3.88,227.0
+1506,tt5326364,Nelly,5.9,248,3.67,3.0
+653,tt0052311,Touch of Evil,8.1,"81,597",3.91,34.0
+650,tt0050976,The Seventh Seal,8.2,"130,087",3.54,72.0
+651,tt0097441,Glory,7.9,"108,982",4.08,171.0
+1508,tt3446062,Babysitter,6.2,58,2.33,3.0
+1509,tt0109891,Getting Even with Dad,4.6,"6,430",1.6,5.0
+658,tt0100436,Pump Up the Volume,7.2,"23,123",3.42,79.0
+516,tt0085859,Local Hero,7.5,"17,536",3.97,63.0
+322,tt0119731,Murder at 1600,6.1,"25,303",3.09,218.0
+323,tt0118928,Dante's Peak,5.9,"69,002",2.93,240.0
+320,tt0117293,Paradise Lost: The Child Murders at Robin Hood Hills,8.3,"12,245",4.05,20.0
+321,tt1216496,Mother,7.8,"33,127",3.13,169.0
+326,tt0119173,G.I. Jane,5.9,"65,755",3.36,175.0
+327,tt0118887,Cop Land,6.9,"75,381",3.38,175.0
+324,tt0116922,Lost Highway,7.6,"110,662",3.14,125.0
+325,tt0375679,Crash,7.8,"384,803",2.55,128.0
+328,tt0118883,Conspiracy Theory,6.7,"82,740",3.42,295.0
+329,tt0118966,Desperate Measures,6.1,"14,600",3.33,45.0
+1340,tt0112746,The Crude Oasis,5.3,83,1.0,1.0
+1594,tt2719848,Everest,7.1,"166,699",4.5,2.0
+1341,tt0104403,Hedd Wyn,7.2,309,1.0,1.0
+1592,tt2302701,Magic Hour,5.5,80,3.6,5.0
+1598,tt0118859,City of Industry,6.2,"5,103",2.5,6.0
+995,tt1859522,Kiss Me,6.9,"7,569",3.16,31.0
+994,tt0119502,The Last Time I Committed Suicide,5.8,"1,793",2.29,7.0
+997,tt0114571,Stuart Saves His Family,5.3,"2,363",2.13,16.0
+996,tt0112499,The Big Green,5.5,"7,635",2.5,14.0
+991,tt0116762,Keys to Tulsa,5.2,"1,402",2.24,25.0
+990,tt1781769,Anna Karenina,6.6,"79,154",3.09,33.0
+993,tt0119282,Hercules,7.3,"164,685",3.52,66.0
+992,tt0116502,Head Above Water,6.0,"6,746",3.0,4.0
+999,tt0109443,Clean Slate,5.7,"3,289",2.8,10.0
+998,tt0109361,Cabin Boy,5.1,"7,301",2.56,16.0
+120,tt0117765,Striptease,4.3,"37,579",2.24,67.0
+121,tt0116629,Independence Day,7.0,"469,442",3.44,429.0
+122,tt0115798,The Cable Guy,6.1,"133,159",2.34,106.0
+123,tt0398470,Frighteners,N/A,N/A,3.23,115.0
+124,tt0116905,Lone Star,7.5,"24,925",4.05,187.0
+125,tt0117333,Phenomenon,6.4,"67,693",3.56,244.0
+126,tt0117718,The Spitfire Grill,6.9,"4,978",3.8,97.0
+127,tt0353496,Godfather,8.5,"1,719",4.28,413.0
+128,tt0104558,Supercop,6.9,"16,400",3.54,65.0
+129,tt0115736,Bound,7.4,"44,383",3.82,129.0
+1645,tt0118804,The Butcher Boy,7.2,"8,337",4.0,1.0
+1644,tt0117775,Sudden Manhattan,6.5,246,1.5,2.0
+1646,tt0119657,Men with Guns,7.6,"2,421",3.5,2.0
+1641,tt0112777,Dadetown,7.2,191,3.0,1.0
+1640,tt0116581,The Eighth Day,7.6,"7,873",3.0,1.0
+1643,tt0112362,Angel Baby,7.2,"1,189",3.75,4.0
+1642,tt0117690,Some Mother's Son,7.3,"2,264",4.5,2.0
+1649,tt0285454,Big One,N/A,N/A,3.0,1.0
+1648,tt0046126,Niagara,7.1,"12,186",2.0,1.0
+579,tt0106873,Fatal Instinct,5.7,"5,880",2.63,19.0
+578,tt0106697,Demolition Man,6.6,"136,436",3.15,92.0
+573,tt0106452,Body Snatchers,5.9,"14,611",2.94,33.0
+572,tt0109303,Blown Away,6.2,"24,876",2.76,29.0
+571,tt0106292,Another Stakeout,5.5,"11,735",2.5,28.0
+570,tt0111756,Wyatt Earp,6.7,"38,923",3.1,50.0
+577,tt0106598,Coneheads,5.3,"44,792",2.22,41.0
+576,tt0106582,Cliffhanger,6.4,"104,830",3.02,93.0
+575,tt0109439,City Slickers II: The Legend of Curly's Gold,5.5,"16,064",2.55,44.0
+574,tt0106471,Boxing Helena,4.6,"10,250",2.2,15.0
+1209,tt0110538,Mixed Nuts,5.4,"8,817",2.53,15.0
+1421,tt0450351,My Crazy Life,7.3,19,3.18,11.0
+1423,tt1391741,Walking Dead,6.9,147,2.25,4.0
+1422,tt0108260,Suture,6.6,"1,459",2.25,4.0
+1425,tt0110097,I'll Do Anything,5.6,"2,186",2.6,10.0
+1424,tt0110091,I Like It Like That,6.8,"1,309",2.33,3.0
+1427,tt0112907,Drunks,6.4,841,2.8,5.0
+1426,tt0116442,Grace of My Heart,6.7,"3,135",3.25,8.0
+1429,tt0120148,Sliding Doors,6.8,"56,514",2.75,4.0
+1428,tt0120238,SubUrbia,6.8,"7,898",3.67,12.0
+731,tt0109484,"Corrina, Corrina",6.5,"10,847",3.15,39.0
+730,tt0110963,Queen Margot,7.5,"14,537",3.5,24.0
+733,tt0109913,Go Fish,5.6,"1,743",3.2,15.0
+732,tt0106673,Dave,6.8,"43,466",3.65,180.0
+735,tt0107818,Philadelphia,7.7,"194,583",3.85,137.0
+734,tt0107478,Made in America,4.9,"12,878",2.52,27.0
+737,tt0111201,Sirens,5.8,"8,722",2.98,59.0
+736,tt0108101,Shadowlands,7.4,"14,559",3.94,78.0
+739,tt0100405,Pretty Woman,7.0,"239,587",3.32,164.0
+738,tt0111418,Threesome,6.2,"11,510",2.84,31.0
+469,tt0108122,Short Cuts,7.7,"37,762",3.78,67.0
+468,tt0108002,Rudy,7.5,"46,913",3.31,64.0
+1353,tt0109001,1-900,6.3,563,2.6,5.0
+1352,tt0075169,Shadow of Angels,6.9,135,1.0,1.0
+1351,tt0116934,Lover's Knot,4.7,179,2.0,3.0
+466,tt0105226,Red Rock West,7.0,"17,201",3.6,52.0
+461,tt0114478,Smoke,7.4,"29,958",3.62,74.0
+1356,tt0116167,Ed's Next Move,6.4,402,2.67,3.0
+463,tt0111112,The Secret of Roan Inish,7.5,"6,372",3.86,71.0
+462,tt0103994,Like Water for Chocolate,7.2,"14,817",3.8,148.0
+1273,tt0109456,Color of Night,5.1,"20,124",2.73,15.0
+1519,tt0113967,New Jersey Drive,6.7,"2,389",3.0,2.0
+1518,tt0113691,Losing Isaiah,6.4,"4,793",3.0,12.0
+1515,tt0114952,Wings of Courage,6.5,533,4.0,1.0
+1514,tt0119019,Dream with the Fishes,7.0,"1,592",3.14,7.0
+1517,tt0117427,Race the Sun,5.4,"2,801",2.8,5.0
+1516,tt1085516,Wedding Gift,N/A,N/A,4.0,3.0
+1274,tt0107978,RoboCop 3,4.0,"39,019",1.73,11.0
+1510,tt0116953,Mad Dog Time,5.5,"2,433",3.0,1.0
+1513,tt0120190,Sprung,5.0,852,2.0,3.0
+1512,tt0052572,The World of Apu,8.3,"8,399",4.0,6.0
+1275,tt1448755,Killer Elite,6.5,"113,112",2.5,4.0
+357,tt0073486,One Flew Over the Cuckoo's Nest,8.7,"768,354",4.29,264.0
+356,tt5545586,Client,N/A,N/A,3.38,97.0
+355,tt0120184,Sphere,6.1,"88,965",2.93,41.0
+354,tt0120888,The Wedding Singer,6.8,"118,655",3.49,72.0
+353,tt0118956,Deep Rising,6.0,"28,493",2.43,14.0
+352,tt0120185,Spice World,3.4,"29,754",2.12,26.0
+351,tt0118643,The Prophecy II,5.8,"6,286",2.7,20.0
+350,tt0119099,Fallen,7.0,"64,109",3.15,41.0
+359,tt2853806,Assignment,2.8,140,3.5,18.0
+358,tt0120177,Spawn,5.2,"57,185",2.62,143.0
+1033,tt0116552,Homeward Bound II: Lost in San Francisco,5.9,"11,777",2.78,32.0
+1447,tt0106537,Century,6.3,258,3.0,1.0
+1446,tt0350670,Bye Bye,7.1,7,3.13,15.0
+1445,tt0110296,Ladybird Ladybird,7.5,"2,630",2.75,4.0
+289,tt0116250,Evita,6.3,"30,959",2.98,259.0
+288,tt0117571,Scream,7.2,"243,974",3.44,478.0
+1444,tt0059793,That Darn Cat!,6.7,"4,599",2.47,19.0
+281,tt0110997,The River Wild,6.3,"35,891",3.14,146.0
+280,tt1467412,Up Close and Personal with Natalie Merchant,N/A,N/A,3.19,85.0
+283,tt0116191,Emma,6.7,"30,510",3.72,177.0
+282,tt0100762,Time to Kill,5.3,512,3.69,232.0
+285,tt0976244,Secrets,5.2,440,4.27,162.0
+284,tt0117918,Tin Cup,6.3,"40,907",3.16,193.0
+287,tt0116999,Marvin's Room,6.7,"22,153",3.59,78.0
+286,tt0116209,The English Patient,7.4,"156,792",3.66,481.0
+1441,tt0113851,Moonlight and Valentino,5.8,"3,120",2.57,7.0
+1116,tt0074101,Mark of Zorro,5.5,19,3.62,13.0
+263,tt0120207,Steel,2.8,"9,460",2.16,19.0
+262,tt0119361,In the Company of Men,7.3,"12,064",3.71,66.0
+261,tt0118570,Air Bud,5.1,"14,236",2.56,43.0
+260,tt0119081,Event Horizon,6.7,"133,853",2.57,127.0
+267,tt1401152,Unknown,6.9,"225,693",3.44,9.0
+266,tt0119484,Kull the Conqueror,4.8,"7,016",2.71,35.0
+265,tt0099810,The Hunt for Red October,7.6,"155,106",3.86,227.0
+264,tt0119675,Mimic,5.9,"40,199",2.74,101.0
+269,tt0119164,The Full Monty,7.2,"88,571",3.93,315.0
+268,tt0118842,Chasing Amy,7.3,"121,082",3.79,255.0
+1563,tt0427914,Promise,6.3,680,1.0,1.0
+1564,tt0103095,To Cross the Rubicon,5.4,16,1.0,1.0
+1565,tt0104046,Daens,7.7,"3,329",1.0,1.0
+1566,tt0031612,The Man from Down Under,6.3,154,1.0,1.0
+1567,tt0103926,Careful,7.2,"1,513",1.0,1.0
+988,tt0118691,The Beautician and the Beast,5.3,"7,320",2.31,86.0
+989,tt0118829,Cats Don't Dance,6.9,"6,140",2.84,32.0
+982,tt0117011,Maximum Risk,5.5,"17,315",2.8,20.0
+983,tt0117473,The Rich Man's Wife,5.2,"2,625",2.4,15.0
+980,tt0117093,Mother Night,7.2,"4,447",3.18,22.0
+981,tt0118927,Dangerous Ground,4.5,"1,704",1.75,8.0
+986,tt0120390,Turbulence,4.8,"9,535",2.57,23.0
+987,tt0320691,Underworld,7.0,"229,425",2.5,4.0
+984,tt0120107,Shadow Conspiracy,4.9,"3,969",2.86,44.0
+985,tt0450259,Blood Diamond,8.0,"440,219",2.86,22.0
+115,tt0113270,The Haunted World of Edward D. Wood Jr.,7.3,399,3.73,15.0
+114,tt3256218,Wallace,9.3,6,4.45,67.0
+117,tt0117500,The Rock,7.4,"279,143",3.69,378.0
+116,tt0112701,Cold Comfort Farm,7.3,"5,972",3.82,125.0
+111,tt0117979,The Truth About Cats & Dogs,6.3,"23,352",3.49,272.0
+110,tt0114048,Operation Dumbo Drop,5.0,"7,486",2.52,31.0
+113,tt0113362,The Horseman on the Roof,7.1,"5,109",4.11,9.0
+112,tt0116322,Flipper,5.2,"8,729",2.45,20.0
+119,tt0110480,Maya Lin: A Strong Clear Vision,7.4,375,4.5,4.0
+118,tt0117998,Twister,6.3,"154,479",3.22,293.0
+1035,tt0106611,Cool Runnings,6.9,"78,327",3.16,68.0
+1631,tt3242934,SlingShot,7.7,852,3.5,2.0
+1632,tt0114671,Land and Freedom,7.6,"8,686",3.0,1.0
+484,tt0033870,The Maltese Falcon,8.1,"129,203",4.21,138.0
+1635,tt4176556,Two Friends,6.1,970,3.0,1.0
+1636,tt0112586,Brothers in Trouble,6.8,124,4.0,1.0
+1637,tt0116418,Girls Town,6.2,687,3.0,1.0
+1638,tt0117202,Normal Life,6.3,"1,959",3.0,1.0
+1639,tt0115600,Bitter Sugar,7.2,591,4.33,3.0
+568,tt0111257,Speed,7.2,"285,438",3.65,230.0
+569,tt0111742,Wolf,6.2,"46,665",2.7,67.0
+560,tt0113538,A Kid in King Arthur's Court,4.8,"4,982",2.73,22.0
+561,tt0109836,Mary Shelley's Frankenstein,6.4,"45,855",3.07,59.0
+562,tt0114214,The Quick and the Dead,6.4,"74,472",3.21,48.0
+564,tt0114609,Tales from the Hood,6.2,"5,233",2.04,27.0
+565,tt0114852,Village of the Damned,5.6,"24,161",2.68,22.0
+566,tt0109444,Clear and Present Danger,6.9,"75,905",3.57,179.0
+1188,tt0100994,Young Guns II,6.5,"26,342",2.77,44.0
+1189,tt0119937,Prefontaine,6.8,"6,273",5.0,3.0
+1186,tt0110137,The Inkwell,6.5,"1,170",3.33,3.0
+1187,tt0073778,Switchblade Sisters,6.7,"2,810",3.23,13.0
+1184,tt0109729,The Endless Summer 2,7.6,"1,611",2.5,10.0
+1185,tt0110123,In the Army Now,4.8,"10,877",2.28,18.0
+1182,tt0109480,Cops and Robbersons,5.0,"5,524",2.31,13.0
+1183,tt0109493,The Cowboy Way,5.8,"6,706",2.21,19.0
+1180,tt0110093,I Love Trouble,5.2,"10,302",2.5,10.0
+1181,tt0110399,A Low Down Dirty Shame,5.9,"4,552",2.5,10.0
+726,tt0113089,Fluke,6.7,"5,669",2.43,14.0
+727,tt0110116,Immortal Beloved,7.5,"20,476",3.46,63.0
+724,tt0112679,Circle of Friends,6.6,"7,320",3.49,76.0
+725,tt0109758,Exit to Eden,4.1,"5,801",2.75,16.0
+722,tt0113986,Nine Months,5.5,"31,832",2.93,58.0
+723,tt0112571,Boys on the Side,6.4,"10,301",3.15,34.0
+720,tt0113071,First Knight,5.9,"60,201",3.02,86.0
+721,tt0113749,Mallrats,7.2,"104,957",3.44,54.0
+728,tt0110216,Junior,4.6,"57,795",3.02,45.0
+729,tt0110638,Nell,6.5,"24,467",3.48,81.0
+1164,tt0120550,Zeus and Roxanne,5.3,"2,504",2.17,6.0
+1165,tt0115676,Big Bully,4.6,"4,009",1.86,14.0
+1166,tt3774694,Love,6.0,"28,113",3.17,12.0
+1167,tt0111309,The Sum of Us,7.4,"4,617",3.55,11.0
+1160,tt0119578,Love! Valour! Compassion!,6.8,"3,034",3.62,26.0
+1161,tt0117284,Palookaville,6.6,"2,218",2.92,13.0
+1162,tt0117332,Phat Beach,3.9,737,1.6,5.0
+1163,tt2777004,Portrait of a Lady,N/A,N/A,2.68,25.0
+1168,tt0107426,Little Buddha,6.0,"13,491",3.32,22.0
+1169,tt0109842,Fresh,7.6,"10,504",4.1,10.0
+48,tt0110057,Hoop Dreams,8.3,"21,093",4.09,117.0
+49,tt0110099,I.Q.,6.2,"21,209",3.32,81.0
+46,tt0109759,Exotica,7.1,"15,748",3.56,27.0
+47,tt0109707,Ed Wood,7.9,"151,639",3.6,133.0
+44,tt0109642,Dolores Claiborne,7.4,"32,246",3.34,79.0
+45,tt0111797,Eat Drink Man Woman,7.8,"15,286",4.05,80.0
+42,tt0109445,Clerks,7.8,"193,597",3.8,148.0
+43,tt0109635,Disclosure,6.0,"39,886",3.0,40.0
+40,tt0114682,"To Wong Foo Thanks for Everything, Julie Newmar",6.4,"23,620",2.89,57.0
+41,tt0112508,Billy Madison,6.4,"114,305",3.08,37.0
+1568,tt0105737,Vermont Is for Lovers,7.0,22,1.0,1.0
+1569,tt0161066,La vie est belle,4.0,10,1.0,1.0
+1298,tt1874426,Band Wagon,N/A,N/A,3.67,9.0
+1299,tt0034012,Penny Serenade,7.2,"5,156",3.0,8.0
+1292,tt0120133,A Simple Wish,5.4,"4,603",1.67,3.0
+1293,tt0120478,Star Kid,5.4,"2,097",5.0,3.0
+1290,tt0109491,Country Life,6.8,618,1.5,2.0
+1291,tt0115851,Celtic Pride,5.2,"8,809",2.2,15.0
+1296,tt0107212,Indian Summer,6.5,"4,382",3.25,20.0
+1297,tt0110391,Love Affair,5.9,"3,995",2.83,12.0
+1294,tt0118662,Ayn Rand: A Sense of Life,6.7,492,3.14,7.0
+1295,tt0119457,Kicked in the Head,3.7,841,2.57,7.0
+475,tt0117951,Trainspotting,8.2,"548,188",3.88,250.0
+1201,tt0116992,Marlene Dietrich: Shadow and Light,7.1,59,5.0,1.0
+472,tt0116136,DragonHeart,6.4,"83,093",3.08,158.0
+1367,tt0016847,Faust,8.1,"11,749",4.2,5.0
+1364,tt0115684,Bird of Prey,4.7,138,1.0,1.0
+1362,tt0115531,American Strays,5.4,555,2.0,2.0
+1363,tt0116859,The Leopard Son,7.3,147,1.0,1.0
+474,tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.5,"383,183",4.25,194.0
+1361,tt0117577,The Search for One-eye Jimmy,6.0,"1,216",2.67,3.0
+478,tt2871064,Philadelphia Story,N/A,N/A,4.12,104.0
+479,tt0052357,Vertigo,8.4,"290,051",4.25,179.0
+1368,tt0110521,Mina Tannenbaum,7.4,849,3.67,6.0
