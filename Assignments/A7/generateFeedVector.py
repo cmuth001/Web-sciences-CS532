@@ -5,7 +5,7 @@ import re
 from nltk.corpus import stopwords
 
 stops = stopwords.words("english")
-
+stopWordsCount = 0
 def getwordcounts(url):
     '''
     Returns title and dictionary of word counts for an RSS feed
@@ -28,6 +28,8 @@ def getwordcounts(url):
             if word not in stops:
                 wc.setdefault(word, 0)
                 wc[word] += 1
+            else:
+                stopWordsCount += 1
 
     return (d.feed.title, wc)
 
@@ -83,3 +85,4 @@ for (blog, wc) in wordcounts.items():
             out.write('\t0')
     out.write('\n')
 print("nofeed:",nofeed)
+print("stopWordsCount:", stopWordsCount)

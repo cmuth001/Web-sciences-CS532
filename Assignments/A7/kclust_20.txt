@@ -1,0 +1,161 @@
+Total Number Of Iterations: 3 
+---
+Cluster 1 
+1.	Alex Denney
+2.	Motion Suggests Itself
+3.	Notes from a Genius
+4.	Radiohead Bootlegs
+5.	the traveling neighborhood
+
+---
+Cluster 2 
+1.	STATUS
+
+---
+Cluster 3 
+
+---
+Cluster 4 
+
+---
+Cluster 5 
+1.	persona mia
+2.	Kinky Adventures of Nikkij
+3.	60@60 Sounding Booth
+4.	Lost in the Shuffle
+5.	MPC
+6.	The Campus Buzz on WSOU
+7.	adrianoblog
+
+---
+Cluster 6 
+1.	Everything Starts With an A...
+
+---
+Cluster 7 
+1.	Web Science and Digital Libraries Research Group
+2.	hello my name is justin.
+
+---
+Cluster 8 
+1.	Δίσκοι Μουσικής στο Χρόνο
+
+---
+Cluster 9 
+1.	Skiptrack music
+2.	unter diesem gesichtspunkt
+3.	Diagnosis: No Radio
+4.	F-Measure
+5.	Friday Night Record Party
+6.	My Name Is Blue Canary
+7.	KiDCHAIR
+8.	Lyrically Speaking
+9.	my music world
+10.	The Jeopardy of Contentment
+11.	The Slow Music Movement
+12.	New Amusements
+
+---
+Cluster 10 
+1.	300 Vinyl Challenge 2017
+
+---
+Cluster 11 
+1.	mattgarman
+2.	a duchess nonethelesss
+3.	Spinitron Charts
+
+---
+Cluster 12 
+1.	Hip In Detroit
+2.	Mile In Mine
+3.	Pithy Title Here
+4.	Stonehill Sketchbook
+5.	What A Wonderful World
+6.	Stephanie Veto Photography
+7.	The Stearns Family
+
+---
+Cluster 13 
+1.	Media Coursework
+2.	simone goes
+3.	ELLIA TOWNSEND A2
+4.	A2 Media Blog
+5.	A2 MEDIA COURSEWORK JOINT BLOG
+
+---
+Cluster 14 
+1.	DaveCromwell Writes
+2.	Earthly Pleasures
+3.	.
+4.	2+2=5?
+5.	Did Not Chart
+6.	PSI LAB
+7.	macthemost
+8.	Broken Biscuit Records
+9.	Stereo Pills
+10.	Captain Panda's Local & Independent Music Showcase
+11.	SPIN IT RECORDS Moncton 467A Main Street Moncton NB CANADA
+12.	Encore
+13.	The Stark Online
+
+---
+Cluster 15 
+1.	The Power of Independent Trucking
+
+---
+Cluster 16 
+1.	tumbleweed
+2.	Label Goes Here
+3.	The Professional Daydreamer
+4.	Morgan's Blog
+5.	nonsense a la mode
+6.	Yestermorrow
+7.	The Themes of My Life
+8.	headphonehead
+9.	Words
+10.	Nothing But Ordinary Glances At Extraordinary Things
+11.	She May Be Naked
+12.	Rants from the Pants
+13.	bittersweet
+14.	The Cheat Codes For Drugs
+15.	Myopiamuse
+16.	The Perfect Vent
+17.	Luke And The Real Blog
+18.	isyeli's
+
+---
+Cluster 17 
+1.	IoTube     :)
+2.	Out And Down In The Colonies
+3.	|[Tu queres ver isto]|
+4.	Chemical Robert!
+5.	Who needs a TV?
+6.	MarkFisher's-MusicReview
+7.	earenjoy
+8.	ΜΕΣΑ ΣΤΗ ΒΡΩΜΙΑ
+9.	Out of my Mind
+10.	Stories From the City, Stories From the Sea
+11.	The Great Adventure 2016
+12.	MarkEOrtega's Journalism Portfolio
+13.	sweeping the kitchen
+14.	Me fala uma música boa aí
+15.	FOLK IS NOT HAPPY
+
+---
+Cluster 18 
+1.	Friday Night Dream
+2.	MTJR RANTS & RAVES ON MUSIC
+3.	A Music History by Wayne R. Flower
+4.	Year 13 coursework
+5.	fractalpress.gr
+6.	Fools Rush In
+7.	Music-Drop Magazine
+
+---
+Cluster 19 
+1.	THE HUB
+
+---
+Cluster 20 
+

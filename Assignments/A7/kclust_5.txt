@@ -1,0 +1,116 @@
+Total Number Of Iterations: 7 
+---
+Cluster 1 
+1.	Skiptrack music
+2.	mattgarman
+3.	Diagnosis: No Radio
+4.	persona mia
+5.	Chemical Robert!
+6.	MarkFisher's-MusicReview
+7.	DaveCromwell Writes
+8.	F-Measure
+9.	Hip In Detroit
+10.	Earthly Pleasures
+11.	.
+12.	2+2=5?
+13.	Did Not Chart
+14.	PSI LAB
+15.	macthemost
+16.	Broken Biscuit Records
+17.	Stonehill Sketchbook
+18.	Stereo Pills
+19.	Stories From the City, Stories From the Sea
+20.	Captain Panda's Local & Independent Music Showcase
+21.	Stephanie Veto Photography
+22.	KiDCHAIR
+23.	The Power of Independent Trucking
+24.	Encore
+25.	my music world
+26.	The Jeopardy of Contentment
+27.	Everything Starts With an A...
+28.	The Stark Online
+29.	Myopiamuse
+30.	300 Vinyl Challenge 2017
+31.	The Slow Music Movement
+32.	New Amusements
+
+---
+Cluster 2 
+1.	Media Coursework
+2.	tumbleweed
+3.	Label Goes Here
+4.	The Professional Daydreamer
+5.	nonsense a la mode
+6.	Yestermorrow
+7.	Pithy Title Here
+8.	The Themes of My Life
+9.	Kinky Adventures of Nikkij
+10.	headphonehead
+11.	a duchess nonethelesss
+12.	Words
+13.	What A Wonderful World
+14.	My Name Is Blue Canary
+15.	simone goes
+16.	60@60 Sounding Booth
+17.	Nothing But Ordinary Glances At Extraordinary Things
+18.	Lost in the Shuffle
+19.	She May Be Naked
+20.	SPIN IT RECORDS Moncton 467A Main Street Moncton NB CANADA
+21.	Rants from the Pants
+22.	Lyrically Speaking
+23.	THE HUB
+24.	bittersweet
+25.	MPC
+26.	The Campus Buzz on WSOU
+27.	ELLIA TOWNSEND A2
+28.	A2 Media Blog
+29.	The Cheat Codes For Drugs
+30.	A2 MEDIA COURSEWORK JOINT BLOG
+31.	hello my name is justin.
+32.	Spinitron Charts
+33.	The Perfect Vent
+34.	Luke And The Real Blog
+35.	isyeli's
+36.	The Stearns Family
+37.	adrianoblog
+
+---
+Cluster 3 
+1.	IoTube     :)
+2.	Alex Denney
+3.	|[Tu queres ver isto]|
+4.	unter diesem gesichtspunkt
+5.	Motion Suggests Itself
+6.	Who needs a TV?
+7.	Morgan's Blog
+8.	earenjoy
+9.	Mile In Mine
+10.	Web Science and Digital Libraries Research Group
+11.	ΜΕΣΑ ΣΤΗ ΒΡΩΜΙΑ
+12.	Out of my Mind
+13.	The Great Adventure 2016
+14.	MarkEOrtega's Journalism Portfolio
+15.	Notes from a Genius
+16.	Radiohead Bootlegs
+17.	sweeping the kitchen
+18.	Me fala uma música boa aí
+19.	the traveling neighborhood
+20.	FOLK IS NOT HAPPY
+
+---
+Cluster 4 
+1.	Out And Down In The Colonies
+2.	Friday Night Dream
+3.	MTJR RANTS & RAVES ON MUSIC
+4.	STATUS
+5.	Year 13 coursework
+6.	fractalpress.gr
+7.	Fools Rush In
+8.	Δίσκοι Μουσικής στο Χρόνο
+9.	Music-Drop Magazine
+
+---
+Cluster 5 
+1.	A Music History by Wayne R. Flower
+2.	Friday Night Record Party
+
