@@ -1,0 +1,329 @@
+\documentclass[letterpaper,11pt]{article}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage[super]{nth}
+\usepackage[hyphens]{url}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage[makeroom]{cancel}
+\usepackage[table]{xcolor}
+\usepackage{comment}
+\usepackage[space]{grffile}
+\usepackage{csvsimple}
+\usepackage{longtable}
+
+
+
+
+\lstset{
+	basicstyle=\footnotesize,
+	breaklines=true,
+}
+
+\begin{document}
+
+\begin{titlepage}
+
+\begin{center}
+
+\Huge{Assignment 8}
+
+\Large{CS 532:  Introduction to Web Science}
+
+\Large{Spring 2018}
+
+\Large{Chandrasekhar Reddy Muthyala}
+
+
+\end{center}
+
+\end{titlepage}
+
+\newpage
+
+
+% =================================
+% First question
+% =================================
+\section*{1}
+
+\subsection*{Question}
+
+\begin{verbatim}
+1.  Create a blog-term matrix.  Start by grabbing 100 blogs; include:
+
+http://f-measure.blogspot.com/
+http://ws-dl.blogspot.com/
+
+and grab 98 more as per the method shown in class.  Note that this
+method randomly chooses blogs and each student will separately do
+this process, so it is unlikely that these 98 blogs will be shared
+among students.  In other words, no sharing of blog data.  Upload
+to github your code for grabbing the blogs and provide a list of
+blog URIs, both in the report and in github.
+
+Use the blog title as the identifier for each blog (and row of the
+matrix).  Use the terms from every item/title (RSS) or entry/title
+(Atom) for the columns of the matrix.  The values are the frequency
+of occurrence.  Essentially you are replicating the format of the
+"blogdata.txt" file included with the PCI book code.  Limit the
+number of terms to the most "popular" (i.e., frequent) 1000 terms,
+this is *after* the criteria on p. 32 (slide 7) has been satisfied.
+Remember that blogs are paginated. 
+\end{verbatim}
+
+\clearpage
+\subsection*{Answer}
+
+To solve this problem I decided to write a code in python language called \textbf{getBlogs.py} to get the 100 unique blogs.
+
+Libraries used:
+\begin{itemize}
+ \item import requests
+\end{itemize}
+
+I wrote a \textbf{getUniqueBlogs} function  to retrieve 100 unique blogs. Inside that function I am creating a \textbf{100BlogUrls.txt}  text file to store 100 blogs. To collect unique element in python we have one data type called \textbf{set} and  I used sets to collect my 100 unique blogs. For getting blog I am hitting this URL http://www.blogger.com/next-blog?navBar=true&blogID=3471633091411211117 using \textbf{requests} library  and this is looping 100 time through while  and storing in \textbf{uniqueBlogs} variable. And after collecting 100 blogs, I added two URL given in the question to \textbf{uniqueBlogs} variable. The reason for collecting 100 blogs instead of 98 is sometimes few blogs will be having with no type called “application/atom+xml”.  For safety reasons I am collecting 100 blogs. 
+
+After collecting 100 unique blogs in \textbf{uniqueBlogs”} variable. I am getting raw HTML for each and every blog in uniqueBlogs . All raw HTML are storing in \textbf{blogs}  folder. I saved blog id and the URI found inside a file called \textbf{100BlogUrls.txt}.
+\subsection*{Run on the command line}
+
+\begin{lstlisting}[frame=single]
+python getBlogs.py
+\end{lstlisting}
+ \lstinputlisting[frame=single,caption={Python  script to get 100 unique blogs},label=lst:getBlogs,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{getBlogs.py}
+
+
+ Once this completed I had 100 unique blogs with raw HTML. I then wrote a script in python  called \textbf{getFeed.py} as shown in Listing \ref{lst:getFeed} which parsed each html document saved using the library Beautiful soup which allowed me to search the document by an HTML `link` element to find the atom+xml feed of the blog \cite{beautifulsoupref}. I saved these feeds to a file called \textbf{feedList.txt} which was later cleaned for any blogs that did not have atom+xml feeds. Usually these were blogs that no longer existed.
+
+Libraries used:
+\begin{itemize}
+\item import requests
+\item from bs4 import BeautifulSoup
+\item import os
+
+\end{itemize}
+\begin{lstlisting}[frame=single]
+python getFeed.py
+\end{lstlisting}
+ \lstinputlisting[frame=single,caption={Python  script to get 100  atom feed blogs},label=lst:getBlogs,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{getFeed.py}
+ \begin{figure}[h]
+ \centering
+ \includegraphics[scale=0.2]{blogfolder}
+ \caption{Blogs folder structure}
+ \label{fig:mds}
+ \end{figure}
+
+Finally I proceeded to to write another python script called \textbf{generateFeedVector.py} shown in Listing \ref{lst:generateMat} which utilized the code provide by the Programming Collective Intelligence (PCI) book \cite{collectiveIntell}. This script was slightly modified to be usable for python  but also adding a limit to the amount of words the blog-term matrix allowed to a maximum of 1000 . I also didn't check for stop words when I retrieved the atom feeds, but I did check if words were stop words before creating the the matrix by using the\textbf{from nltk.corpus import stopwords}. If a word was found to be a stop word according to their corpus it would not be added to the matrix. When this was completed it was saved to a file called \textbf{blogdata.txt}.
+
+
+Libraries used:
+
+\begin{itemize}
+\item import feedparser
+\item import re
+\item from nltk.corpus import stopwords
+
+\end{itemize}
+\begin{lstlisting}[frame=single]
+python generateFeedVector.py
+\end{lstlisting}
+
+ \lstinputlisting[frame=single,caption={Python script to generate blog-term matrix},label=lst:generateMat,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{generateFeedVector.py}
+
+
+\clearpage
+
+% =================================
+% Second question
+% =================================
+
+\section*{2}
+
+\subsection*{Question}
+
+\begin{verbatim}
+2.  Create an ASCII and JPEG dendrogram that clusters (i.e., HAC)
+the most similar blogs (see slides 12 & 13).  Include the JPEG in
+your report and upload the ascii file to github (it will be too
+unwieldy for inclusion in the report).
+\end{verbatim}
+
+\subsection*{Answer}
+
+To solve the above question I used the code provided by the Programming Collective Intelligence book to write a script in python  called \textbf{ASCIIAndJPEGDendrogram.py} as shown in Listing \ref{lst:createClusters} \cite{collectiveIntell}. This script has a method called \textit{createDendrogram} which utilizes the clusters.py file provided by the PCI book load the blog-term matrix created in question 1 to create a Hierarchical Clustering tree image, the dendrogram, as shown in Figure \ref{fig:dendro}. I also created an ASCII file named \textbf{ASCII.txt} to represent this tree structure in text which is available on my Github page \cite{github}.
+
+Libraries used:
+
+\begin{itemize}
+\item import clusters
+\item import sys
+\end{itemize}
+\begin{lstlisting}[frame=single]
+python ASCIIAndJPEGDendrogram.py
+\end{lstlisting}
+
+ \lstinputlisting[frame=single,caption={Python script to create Dendrogram image and tree structure},label=lst:generateMat,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{ASCIIAndJPEGDendrogram.py}
+
+
+ \begin{figure}[h]
+ \centering
+ \includegraphics[scale=0.26]{Dendrogram}
+ \caption{Dendrogram for blogs collected}
+ \label{fig:dendro}
+ \end{figure}
+
+\begin{figure}[h]
+ \centering
+ \includegraphics[scale=0.26]{AsciiTreeStructure}
+ \caption{Ascii Tree Structure for collected  blogs}
+ \label{fig:asciiTreeStucture}
+ \end{figure}
+
+ \lstinputlisting[frame=single,caption={Python script to generate clusters with different approaches},label=lst:createClusters,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{\srcPath/createClusters.py}
+
+\clearpage
+
+% =================================
+% 3rd question
+% =================================
+
+\section*{3}
+
+\subsection*{Question}
+
+\begin{verbatim}
+3.  Cluster the blogs using K-Means, using k=5,10,20. (see slide
+18).  Print the values in each centroid, for each value of k.  How
+many interations were required for each value of k?
+\end{verbatim}
+
+\subsection*{Answer}
+
+To solve the above question I  used the code provided by the Programming Collective Intelligence book as shown in below to write a script in python  called \textbf{kMean.py} \cite{collectiveIntell}. The \textbf{kMean} method in \textbf{kMean.py} reads my blog-term matrix and using the method \textit{kcluster} for the clusters.py library. I modified the \textit{kcluster} method to also return the iteration count so it could be saved along with the blog title. For each value of k I created a separate file named \textbf{kclut\_n.txt}and cluster group are listed in that file,  where n is the value of k and those k values are stored in kMeanValues variable . For a k value of 5 it took 7 iterations with the values of each centroids shown in Listing \ref{lst:kclust5}. For a k value of 10 it took 4  iterations with the values of each centroids shown in Listing \ref{lst:kclust10}. For a k value of 20 it took 3 iterations with the values of each centroids shown in below
+\begin{lstlisting}[frame=single]
+python kMean.py
+\end{lstlisting}
+ \lstinputlisting[frame=single,caption={K-means clustering with a value of 5},label=lst:kclust5,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{kMean.py}
+when k = 5, the below text file is generated
+ \lstinputlisting[frame=single,caption={K-means clustering with a value of 5},label=lst:kclust5,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{kclust_5.txt}
+when k = 10, the below text file is generated
+ \lstinputlisting[frame=single,caption={K-means clustering with a value of 10},label=lst:kclust10,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{kclust_10.txt}
+when k = 20, the below text file is generated
+ \lstinputlisting[frame=single,caption={K-means clustering with a value of 20},label=lst:kclust20,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{/kclust_20.txt}
+
+\clearpage
+
+% =================================
+% 4th question
+% =================================
+
+\section*{4}
+
+\subsection*{Question}
+
+\begin{verbatim}
+4.  Use MDS to create a JPEG of the blogs similar to slide 29 of the 
+week 12 lecture.  How many iterations were required?
+\end{verbatim}
+
+\subsection*{Answer}
+
+To solve the above question I again used the code provided by the Programming Collective Intelligence book as shownb elow  to write a script  called \textit{mds.py} \cite{collectiveIntell}. The \textit{mds} method reads my blog-term matrix and this time uses the method \textit{scaledown} in the clusters.py library. I modified the \textit{scaledown} method to also return the iteration count so it could be saved along with the blog title. The \textit{mds} method then utilizes the data it takes from my blog-term matrix and utilizes multidimensional scaling (MDS) to create a visual representation of the distance matrix in two dimensions created from the \textit{scaledown} method. The MDS visualization is shown in Figure \ref{fig:mds}. The iteration count was 345  and  I took the scrren shot of it and saved as \textbf{mdsScreenShot.png} which is available on my Github page \cite{github}.
+\begin{lstlisting}[frame=single]
+python mds.py
+\end{lstlisting}
+\lstinputlisting[frame=single,caption={Python script for MDS visualization},label=lst:kclust5,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{mds.py}
+ \begin{figure}[h]
+ \centering
+ \includegraphics[scale=0.2]{mds}
+ \caption{Two dimensional representation of blogs}
+ \label{fig:mds}
+ \end{figure}
+
+
+\clearpage
+
+% =================================
+% Extra credit
+% 5th question
+% =================================
+
+\section*{5}
+
+\subsection*{Question}
+
+\begin{verbatim}
+5.  Re-run question 2, but this time with proper TFIDF calculations
+instead of the hack discussed on slide 7 (p. 32).  Use the same 1000
+words, but this time replace their frequency count with TFIDF scores
+as computed in assignment #3.  Document the code, techniques,
+methods, etc. used to generate these TFIDF values.  Upload the new
+data file to github.
+
+Compare and contrast the resulting dendrogram with the dendrogram
+from question #2.
+
+Note: ideally you would not reuse the same 1000 terms and instead
+come up with TFIDF scores for all the terms and then choose the top
+1000 from that list, but I'm trying to limit the amount of work
+necessary.
+\end{verbatim}
+
+\subsection*{Answer}
+
+\begin{center}
+\Huge{NOT ATTEMPTED}
+\end{center}
+
+
+\clearpage
+
+% =================================
+% 6th question
+% =================================
+
+\section*{6}
+
+\subsection*{Question}
+
+\begin{verbatim}
+6.  Re-run questions 1-4, but this time instead of using the 98 
+"random" blogs, use 98 blogs that should be "similar" to:
+
+http://f-measure.blogspot.com/
+http://ws-dl.blogspot.com/
+
+Choose approximately equal numbers for both blog sets (it doesn't
+have to be a perfect 49-49 split, but it should be close).  
+Explain in detail your strategy for locating these blogs.  
+
+Compare and contrast the results from the 98 "random" blogs and 
+the 98 "targeted" blogs. 
+\end{verbatim}
+
+\subsection*{Answer}
+
+\begin{center}
+\Huge{NOT ATTEMPTED}
+\end{center}
+
+
+\clearpage
+
+
+% =================================
+% Bibliography
+% =================================
+
+\begin{thebibliography}{9}
+\bibitem{github}
+\url{https://github.com/cmuth001/anwala.github.io/tree/master/Assignments/A7}.
+\bibitem{pythondoc}
+\url{https://docs.python.org/2/library/sets.html}.
+\bibitem{beautifulsoupref} 
+Richardson, Leonard. "Beautiful Soup Documentation." Beautiful Soup Documentation - Beautiful Soup 4.4.0 Documentation. N.p., n.d. Web. 24 Jan. 2017. \url{https://www.crummy.com/software/BeautifulSoup/bs4/doc/}.
+\bibitem{collectiveIntell}
+Segaran, Toby. ``Programming Collective Intelligence''. O' Reilly, 2007. Web. 6 April 2017. \url{https://github.com/arthur-e/Programming-Collective-Intelligence}.
+\end{thebibliography}
+
+\end{document}
