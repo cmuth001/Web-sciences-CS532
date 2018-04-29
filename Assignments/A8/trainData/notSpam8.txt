@@ -1,0 +1,39 @@
+
+<html><head></head><body><div><p><font size=3D"3" color=3D"#444444" face=3D=
+"helvetica">Incident &quot;INC0018299 - Requesting to create a shared maili=
+ng account.&quot; has been updated with a new comment.</font></p><font size=
+=3D"3" color=3D"#444444" face=3D"helvetica"><p>Comments: </p><div><div><spa=
+n colspan=3D"2"><hr /></span></div><div style=3D""><span class=3D"tdwrap"><=
+strong>2018-04-19 13:53:37 EDT - Austin Maiden</strong></span><span style=
+=3D"float:right;"><sup> Additional comments</sup></span></div><div style=3D=
+""><span colspan=3D"2"><span style=3D"word-wrap:break-word;display:block;">=
+Your ticket has been assigned to the appropriate team for resolution.  They=
+ will contact you as soon as possible to provide you with assistance.</span=
+></span></div></div><p></p></font><hr /><font size=3D"3" color=3D"#444444" =
+face=3D"helvetica"><p>Please reply to this email or click the button below =
+to add additional comments or details to this incident. You can also view a=
+ll the details of the incident using the button below. If prompted, log in =
+with your MIDAS ID and password.</p></font></div>
+<div>
+<div><font face=3D"helvetica"><a href=3D"https://oduprod.service-now.com/sp=
+?id=3Dticket&amp;table=3Dincident&amp;sys_id=3D04994006db69d3845140dd0b5e96=
+1918" style=3D"background-color: #5EB863;border: 1px solid #29751a;color: #=
+ffffff;font-size: 16px;font-family: Helvetica, Arial, sans-serif;text-decor=
+ation: none; border-radius: 3px;-webkit-border-radius: 3px;-moz-border-radi=
+us: 3px;display: inline-block;padding: 8px;">Take me to my incident</a></fo=
+nt><br /><br /></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div><table cellpadding=3D"0" height=3D"60" cellspacing=3D"0" width=3D"100%=
+" style=3D"color: #444444;font-size: 16px;font-family: Helvetica, Arial, sa=
+ns-serif;"><tbody><tr><td width=3D"175" height=3D"60" style=3D"background-c=
+olor: #e9f3fe;"><img src=3D"https://www.odu.edu/content/dam/odu/logos/univ/=
+jpeg-300dpi/odu-sig-noidea-fullcolor.jpg" width=3D"175" height=3D"65" alt=
+=3D"Old Dominion University Logo" /></td><td width=3D"10">&nbsp;</td><td><f=
+ont size=3D"2"><span style=3D"line-height:12px;">This is an ITS system noti=
+fication. For questions, please contact the ITS Help Desk at itshelp@odu.ed=
+u or 757-683-3192. <br />Old Dominion University | Information Technology S=
+ervices | 1100 Monarch Hall | Norfolk, VA 23529</span></font></td></tr></tb=
+ody></table><p></p><br /><br /><br /><br /></div>
+</div><div>&nbsp;</div><div style=3D"display:none">Ref:MSG0097161</div></bo=
+dy></html>

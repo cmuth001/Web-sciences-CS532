@@ -1,0 +1,37 @@
+<div><strong><span style="color:red"><span style="font-family:Calibri,sans-serif"><span style="font-size:16.0pt">Note: Need only on W2 Consultant</span></span></span></strong><br />
+<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</strong><br />
+<strong><span style="background-color:#ffff00">Role: MySQL Consultant</span></strong><br />
+<strong><span style="background-color:#ffff00">Job Location: Santa Monica, CA</span></strong><br />
+<strong><span style="background-color:#ffff00">Duration: Long Term Contract</span></strong><br />
+<strong><span style="background-color:#ffff00">Interview: Telephonic/Skype</span></strong><br />
+&nbsp;<br />
+<strong><span style="font-size:14.0pt">Must Have:</span></strong>
+<ul>
+	<li>Bachelor&rsquo;s or Master&rsquo;s degree in Computer Science, Electrical Engineering (or equivalent) preferred</li>
+	<li>1 - 3+ years of PHP, MySQL, HTML, JQuery / JavaScript, and CSS experience (years dependent on seniority)</li>
+	<li>0 - 2+ years of experience with RESTful APIs / AJAX / XML / JSON (years dependent on seniority)</li>
+	<li>1 - 3+ years of experience with MySQL (advanced functions, procedures and triggers a plus) (years dependent on seniority)</li>
+	<li>Good knowledge of relational database design conceptsAttention to detail;</li>
+	<li>Ability to work in a team or individually</li>
+	<li>Experience in LAMP development and linux server administration a plus (but must be able to work from the Linux command line)</li>
+</ul>
+&nbsp;<br />
+&nbsp;<br />
+&nbsp;<br />
+<span style="color:#1f497d">Thanks and Regards,</span><br />
+&nbsp;<br />
+<strong><span style="color:#1f497d">Dhiraj Kumar</span></strong><br />
+<span style="color:#1f497d">IDC Technologies, Inc.<br />
+Milpitas, CA<br />
+W: 408-418-5778 Ext: 3064</span><br />
+<span style="color:#1f497d">Direct: 408-502-8696<br />
+Mailto: </span><a href="mailto:dhiraj.k@idctechnologies.com"><span style="color:blue">dhiraj.k@idctechnologies.com</span></a><br />
+<span style="color:#1f497d"><strong>_____________________________________</strong></span><br />
+<strong><span style="color:#1f497d">Empowering Technologies Services</span></strong><br />
+<span style="color:#1f497d">Remote Services | IT Services | BPO | </span><br />
+<span style="color:#1f497d">IT Consulting | Staffing Solutions |</span><br />
+<strong><span style="color:#1f497d">____________________________________</span></strong><br />
+<em><span style="color:#1f497d"><span style="font-family:Helvetica,sans-serif"><span style="font-size:8.0pt">The views and opinions included in this email belong to their author and do not necessarily mirror the views and opinions of the company. Our employees are obliged not to make any defamatory clauses, infringe, or authorize infringement of any legal right. Therefore, the company will not take any liability for such statements included in emails. This message is sent in compliance with the new email bill section 301. Under Bill S.1618 TITLE III passed by the 105th US Congress, this message cannot be considered SPAM as long as we include the way to be removed, Paragraph (a)(c) of S.1618, further transmissions to you by the sender of this email may be stopped at no cost to you by sending a response of &ldquo;REMOVE&rdquo; in the subject line of the email, we really will remove you with immediate effect.</span></span></span></em><br />
+&nbsp;<br />
+&nbsp;</div>
+<br><br>If you would like to unsubscribe from IDC Technologies Inc, please click <a href='http://jobs.idctechnologies.com/optout.jsp?d=313136335f636d757468303031406f64752e656475&e=d6&t11=1523983384491'>here</a>.<img id='logo' src='http://www1.jobdiva.com/servlets-examples/servlet/trackEmailMerge?a=01fFQg2BxJeNlIHCgJZA1cTV15GAVxSW25cUVRHERNfUQ%3D%3D' />

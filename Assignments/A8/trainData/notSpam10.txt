@@ -1,0 +1,208 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    
+    
+    
+        
+        
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+
+    
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width">
+
+        
+        <style type="text/css">@media screen and (max-width: 480px) {
+    div[class=evt-content], div[class=evt-msgfooter], img[class=evt-image] {
+        width: 100%;
+        height: auto
+        }
+    }</style>
+        
+
+    
+</head>
+
+<body style="background-color:#f6f6f6; color:#000; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; padding:0; text-align:center; width:100%" bgcolor="#f6f6f6" align="center" width="100%">
+
+
+    <div style="background-color:#f6f6f6; margin:0 auto; padding-top:5px; text-align:center; width:100%" bgcolor="#f6f6f6" align="center" width="100%">
+    
+        <img src="https://g5.evitecdn.com/emails/Evite_Logo.png" alt="Evite" style="border:none; outline:none; height:28px; width:69px" height="28" width="69">
+    
+    </div>
+
+    <div style="background-color:#fff; border-bottom:1px solid #ddd; border-top:1px solid #ddd; margin-bottom:15px; text-align:center; width:100%" bgcolor="#ffffff" align="center" width="100%">
+    
+
+        <div>
+        
+    <h1 style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; font-size:22px; font-weight:700; line-height:60px; text-align:center; white-space:normal" align="center">Thank you for your RSVP</h1>
+
+        </div>
+
+        <div>
+        
+    <p style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; color:#000; font-size:18px; line-height:23px; text-align:center" align="center">
+        You replied <strong style="text-transform:capitalize; color:#71ab0b">Yes</strong> for 2 adults to <strong>Taste Of India 2018 Volunteer Party with DINNER</strong>
+    </p>
+
+        </div>
+
+        <div style="margin-top:15px">
+        
+<a href="https://www.evite.com/_ct/5a5501a2f2f08a1e7449b2745c7114f460c63854/view_invitation_bt" id="view_invitation_bt" style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0 5px; margin-bottom:0; padding:0; border:1px solid #62ae20; color:#fff; outline:none; text-decoration:none; -moz-border-radius:2em; -webkit-border-radius:2em; background-color:#62ae20; border-radius:2em; display:inline-block; font-size:14px; text-align:center; vertical-align:middle; white-space:nowrap; width:auto" bgcolor="#62ae20" align="center" valign="middle" width="auto"><span style="-moz-border-radius:2em; -webkit-border-radius:2em; background-color:#62ae20; border-color:#62ae20; border-radius:2em; border-style:solid; border-width:5px 20px; display:block; margin:6px 3px; vertical-align:middle" bgcolor="#62ae20" valign="middle">View Invitation</span></a>
+
+        </div>
+
+        <div style="margin-top:15px; margin-bottom:15px">
+        
+    
+<div style="margin-bottom:15px">
+
+</div>
+
+
+        </div>
+
+    
+    </div>
+
+    <div style="background-color:#f6f6f6; margin-bottom:20px; margin-top:20px; text-align:center; width:100%" bgcolor="#f6f6f6" align="center" width="100%">
+    
+
+        <div>
+        
+    
+    <p style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; color:#999; font-size:11px; line-height:16px; text-align:center" align="center">
+        <span style="color:#b9b9b9; display:block; font-size:11px; line-height:30px; margin:0 auto; text-align:left; width:300px" align="left" width="300">ADVERTISEMENT</span>
+    </p>
+    <div id="advertisement">
+        <div>
+            <table border="0" cellpadding="0" cellspacing="0" style="margin:0 auto">
+            <tr>
+                <td colspan="2">
+                    <a style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; border:none; color:#4cb8eb; outline:none; text-decoration:none; display:block; height:250px; width:300px" href="https://nli.evite.com/click?s=180089&amp;sz=300x250&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" rel="nofollow" height="250" width="300">
+                    <img src="https://nli.evite.com/imp?s=180089&amp;sz=300x250&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6&amp;gifting=0&amp;due=5&amp;host=0&amp;srvr=prod&amp;eid=4d2b8d84fb78697cb94bda87374d4c8e88aab7be&amp;template=general_dyo&amp;et=gcr&amp;state_ctxt=VA&amp;charity=0" border="0" width="300" height="250" style="border:none; outline:none">
+                    </a>
+                </td>
+            </tr>
+            <tr style="display:block; height:1px; line-height:1px;">
+                <td> <img src="https://nli.evite.com/imp?s=180090&amp;sz=1x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" height="1" width="10" style="border:none; outline:none"> </td>
+                <td> <img src="https://nli.evite.com/imp?s=180091&amp;sz=1x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" height="1" width="10" style="border:none; outline:none"> </td>
+            </tr>
+            <tr>
+                <td align="left"> <a href="https://nli.evite.com/click?s=179540&amp;sz=116x15&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" rel="nofollow" style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; border:none; color:#4cb8eb; outline:none; text-decoration:none"> <img src="https://nli.evite.com/imp?s=179540&amp;sz=116x15&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" border="0" style="border:none; outline:none"> </a> </td>
+                <td align="right"> <a href="https://nli.evite.com/click?s=179541&amp;sz=69x15&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" rel="nofollow" style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; border:none; color:#4cb8eb; outline:none; text-decoration:none"> <img src="https://nli.evite.com/imp?s=179541&amp;sz=69x15&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" border="0" style="border:none; outline:none"> </a> </td>
+            </tr>
+            </table>
+        </div>
+    </div>
+    
+
+        </div>
+
+        <div style="margin-left:30px; margin-right:30px">
+        
+            
+            
+    
+    <p style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; color:#999; font-size:11px; line-height:16px; text-align:center" align="center">
+        <a href="https://www.evite.com/_ct/5a5501a2f2f08a1e7449b2745c7114f460c63854/change_notification_preferences_link" title="Change your notification preferences here" id="change_notification_preferences_link" style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; border:none; color:#4cb8eb; outline:none; text-decoration:none">Change your notification preferences.</a>
+    </p>
+    
+
+    
+        
+         <p style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; color:#999; font-size:11px; line-height:16px; text-align:center" align="center">Don't want to receive any Evite emails from this person?
+            <a href="https://www.evite.com/_ct/5a5501a2f2f08a1e7449b2745c7114f460c63854/block_host" id="block_host" style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; border:none; color:#4cb8eb; outline:none; text-decoration:none">Block this host.</a>
+        </p>
+        
+    
+    <div></div>
+    
+    <div>
+        <p style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; font-size:14px; font-style:italic; line-height:2.5em; margin-top:15px; padding-top:5px">Download the Evite Mobile App</p>
+        <p style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; text-align:center; white-space:nowrap; width:100%" align="center" width="100%">
+            <a href="https://www.evite.com/_ct/5a5501a2f2f08a1e7449b2745c7114f460c63854/download_the_android_app_bt" id="download_the_android_app_bt" style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; border:none; color:#4cb8eb; outline:none; text-decoration:none"><img src="https://g5.evitecdn.com/emails/gplaybadge_button2.png" alt="Download the Android App" width="128" height="38" style="border:none; outline:none"></a>
+            <a href="https://www.evite.com/_ct/5a5501a2f2f08a1e7449b2745c7114f460c63854/download_the_evite_app_bt" id="download_the_evite_app_bt" style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; border:none; color:#4cb8eb; outline:none; text-decoration:none"><img src="https://g5.evitecdn.com/emails/download-app-store.png" alt="Download the Evite App" width="130" height="38" style="border:none; outline:none"></a>
+        </p>
+    </div>
+
+    </div>
+
+<p style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:20px; padding:0; color:#999; font-size:16px; font-weight:400; line-height:16px; margin-top:20px; text-align:center" align="center">NOW INVITE GUESTS BY <a href="https://www.evite.com/_ct/5a5501a2f2f08a1e7449b2745c7114f460c63854/text_invitations" style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; border:none; color:#4cb8eb; outline:none; text-decoration:none">TEXT MESSAGE</a> 📱 ❤️   🎉</p>
+
+<p id="privacy_notice" style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; color:#999; font-size:11px; line-height:16px; text-align:center" align="center"><a href="https://www.evite.com/_ct/5a5501a2f2f08a1e7449b2745c7114f460c63854/privacy_policy" title="privacy policy" id="privacy_policy" style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; border:none; color:#4cb8eb; outline:none; text-decoration:none">Privacy policy</a> | <a href="https://help.evite.com" style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; border:none; color:#4cb8eb; outline:none; text-decoration:none">Support page</a></p>
+<p id="add_to_addressbook_notice" style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; color:#999; font-size:11px; line-height:16px; text-align:center" align="center">Add <a href="mailto:evite@mailva.evite.com" style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; border:none; color:#4cb8eb; outline:none; text-decoration:none">evite@mailva.evite.com</a> to your address book to ensure that you receive Evite emails in your inbox.</p>
+
+<div style="margin-bottom:20px; margin-top:20px">
+    <p style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; color:#999; font-size:11px; line-height:16px; text-align:center" align="center">This email was sent to <a href="mailto:cmuth001@odu.edu" style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; border:none; color:#4cb8eb; outline:none; text-decoration:none">cmuth001@odu.edu</a> </p>
+</div>
+<div>
+    <p style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; color:#999; font-size:11px; line-height:16px; text-align:center" align="center">Evite® and Life's Better Together® are registered trademarks of Evite, Inc. in the United States and other countries. The Evite logo and all other Evite-related trademarks are trademarks of Evite, Inc.</p>
+    <p style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; color:#999; font-size:11px; line-height:16px; text-align:center" align="center">Please use this mark only to refer to our services. Other names may be trademarks of their respective owners.</p>
+</div>
+
+            
+        
+        </div>
+
+        <div style="margin-top:20px">
+        
+    <a href="https://www.evite.com/_ct/5a5501a2f2f08a1e7449b2745c7114f460c63854/footer_logo" style="-webkit-text-size-adjust:none; font-family:Lato, Helvetica, Arial, sans-serif; margin:0; margin-bottom:0; padding:0; border:none; color:#4cb8eb; outline:none; text-decoration:none">
+        <img src="https://g5.evitecdn.com/emails/Evite_Logo.png" alt="Evite" style="border:none; outline:none">
+    </a>
+
+        </div>
+
+    
+    
+
+    
+    
+        <img src="https://www.evite.com/_/flood/i/5a5501a2f2f08a1e7449b2745c7114f460c63854" style="border:none; outline:none; display:none">
+    
+    
+    <table cellpadding="0" cellspacing="0" border="0" width="40" height="6" style="border-color:transparent">
+        <tbody> <tr>
+        <td> <img src="https://nli.evite.com/imp?s=124295700&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295701&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295702&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295703&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295704&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295705&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295706&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295707&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295708&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295709&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295710&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295711&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295712&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295713&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295714&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295715&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295716&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295717&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295718&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        <td> <img src="https://nli.evite.com/imp?s=124295719&amp;sz=2x1&amp;li=dinner_party&amp;e=cmuth001@odu.edu&amp;p=601a648e0eb34714867453842550ec6eb9414592ee764d4eb5c9e61a7d585dc6" width="2" height="6" border="0" style="border:none; outline:none; border-color:transparent"> </td>
+        </tr> </tbody>
+    </table>
+    
+
+
+
+</body>
+
+</html>

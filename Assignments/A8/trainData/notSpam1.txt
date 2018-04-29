@@ -1,0 +1,121 @@
+<html>
+ <head>
+  <style type=3D"text/css"><!-- body {font-family:"Trebuchet MS";font-size:=
+14px;} h1, h2, h3, p {text-align:left;} h1 {margin:0;padding:0;font-size:18=
+px;}h2 {margin:0;padding:0;font-size:14px;}h3 {margin:0;padding:0;font-size=
+:14px;padding-bottom:6px;}p {padding-bottom:10px;line-height:1.2em;}.jobDes=
+cription {margin-top:0;padding-top:0;}span {font-weight:bold;}a {text-decor=
+ation:underline;}.endTitle {padding-top:10px;font-size:16px;line-height:1.5=
+em;}.companyAddress,.companyAddress p{text-align:center} --></style>
+ </head>
+ <body>
+  <div align=3D"center">
+   <table border=3D"0" width=3D"600" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody>
+     <tr>
+      <td>
+       <table border=3D"0" width=3D"600" cellspacing=3D"0" cellpadding=3D"0=
+">
+        <tbody>
+         <tr>
+          <td style=3D"text-align: left; color: #ffffff; text-transform: up=
+percase; letter-spacing: 1px; padding-top: 10px; font-family: 'Trebuchet MS=
+'; font-size: 44px; vertical-align: bottom; background-color: #7bac18;">Car=
+eer Opportunities</td>
+         </tr>
+         <tr>
+          <td width=3D"600"><img src=3D"https://cdn09.icims.com/platform_13=
+.2.20130523/images.icims.com/images/mailtemplates/careers/footericon/top_gr=
+een_swoosh.png" alt=3D"" width=3D"600" height=3D"76" /></td>
+         </tr>
+         <tr bgcolor=3D"#FFFFFF">
+          <td>
+           <table border=3D"0" width=3D"600" cellspacing=3D"0" cellpadding=
+=3D"0">
+            <tbody>
+             <tr>
+              <td width=3D"30">&nbsp;</td>
+              <td style=3D"padding-top: 20px;" width=3D"540"><p style=3D"ma=
+rgin: 0px;">Hello&nbsp;Chandrasekhar reddy,</p><p style=3D"margin: 0px;">&n=
+bsp;</p><p style=3D"margin: 0px;">Based on your subscription preferences, w=
+e thought you might be interested in the following new job postings. Click =
+any link below to see a full job description and get started with your appl=
+ication!</p><p style=3D"margin: 0px;">&nbsp;</p><p style=3D"margin: 0px;"><=
+a class=3D"iCIMSlink" href=3D"https://external-maximus.icims.com/jobs/31298=
+/job?hashed=3D2101129130&amp;tid=3Dlk2k-89f1abe8b5&amp;tpid=3D366386&amp;ut=
+m_medium=3Demail&amp;utm_campaign=3Demail_&amp;utm_source=3Demail_04-29-201=
+8&amp;utm_content=3DNew+job+opportunities+at+MD+Remote+Roll+Up+To+MDN017%2C=
+MD+Remote+Roll+up+to+MDN008%2CMD+Remote+Roll+Up+To+MDN015%21">Senior Engine=
+er - Data Analytics - Remote, MD, US</a><br /><a class=3D"iCIMSlink" href=
+=3D"https://external-maximus.icims.com/jobs/31365/job?hashed=3D2101129130&a=
+mp;tid=3Dlk2k-89f1abe8b5&amp;tpid=3D366386&amp;utm_medium=3Demail&amp;utm_c=
+ampaign=3Demail_&amp;utm_source=3Demail_04-29-2018&amp;utm_content=3DNew+jo=
+b+opportunities+at+MD+Remote+Roll+Up+To+MDN017%2CMD+Remote+Roll+up+to+MDN00=
+8%2CMD+Remote+Roll+Up+To+MDN015%21">Manager - Data Analytics Development - =
+Remote, MD, US</a><br /><a class=3D"iCIMSlink" href=3D"https://external-max=
+imus.icims.com/jobs/31351/job?hashed=3D2101129130&amp;tid=3Dlk2k-89f1abe8b5=
+&amp;tpid=3D366386&amp;utm_medium=3Demail&amp;utm_campaign=3Demail_&amp;utm=
+_source=3Demail_04-29-2018&amp;utm_content=3DNew+job+opportunities+at+MD+Re=
+mote+Roll+Up+To+MDN017%2CMD+Remote+Roll+up+to+MDN008%2CMD+Remote+Roll+Up+To=
++MDN015%21">Senior Engineer - Data Analytics - Remote, MD, US</a>&nbsp;</p>=
+<p style=3D"margin: 0px;">&nbsp;</p><p style=3D"margin: 0px;"><a href=3D"ht=
+tps://external-maximus.icims.com/r.jsp?jr=3D&amp;tid=3Dlk2k-89f1abe8b5&amp;=
+tpid=3D366386&amp;utm_medium=3Demail&amp;utm_campaign=3Demail_&amp;utm_sour=
+ce=3Demail_04-29-2018&amp;utm_content=3DNew+job+opportunities+at+MD+Remote+=
+Roll+Up+To+MDN017%2CMD+Remote+Roll+up+to+MDN008%2CMD+Remote+Roll+Up+To+MDN0=
+15%21" target=3D"_blank" title=3D"" class=3D"iCIMSlink">View all Job Recomm=
+endations</a>&nbsp;</p><p style=3D"margin: 0px;">&nbsp;</p><p style=3D"marg=
+in: 0px;">If you don=E2=80=99t see anything you=E2=80=99re interested in he=
+re, or you would like to unsubscribe from these emails, please&nbsp;<a href=
+=3D"https://maximus.icims.com/icims2/?r=3DF174366386&amp;contactId=3D389799=
+2&amp;pid=3D70&amp;hashed=3D1111558073&amp;tid=3Dlk2k-89f1abe8b5&amp;tpid=
+=3D366386" target=3D"_blank" title=3D"" class=3D"iCIMSlink">update your sub=
+scription preferences</a>.</p><p style=3D"margin: 0px;">&nbsp;</p><p style=
+=3D"margin: 0px;">Thank you for your continued interest in our organization=
+!</p><p style=3D"margin: 0px;">&nbsp;</p></td>
+              <td width=3D"30">&nbsp;</td>
+             </tr>
+            </tbody>
+           </table></td>
+         </tr>
+        </tbody>
+       </table></td>
+     </tr>
+     <tr bgcolor=3D"#FFFFFF">
+      <td>
+       <table border=3D"0" width=3D"600" cellspacing=3D"0" cellpadding=3D"0=
+">
+        <tbody>
+         <tr>
+          <td width=3D"30">&nbsp;</td>
+          <td width=3D"540"><p style=3D"margin: 0px;">&nbsp;</p></td>
+          <td width=3D"30">&nbsp;</td>
+         </tr>
+        </tbody>
+       </table></td>
+     </tr>
+     <tr>
+      <td width=3D"600"><img src=3D"https://cdn09.icims.com/platform_13.2.2=
+0130523/images.icims.com/images/mailtemplates/careers/footericon/bottom_gre=
+en_swoosh.png" alt=3D"" width=3D"600" height=3D"118" /></td>
+     </tr>
+     <tr>
+      <td class=3D"companyAddress" width=3D"600">&nbsp;</td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <p style=3D"margin: 0px;">&nbsp;</p>
+  <p style=3D"margin: 0px;">&nbsp;</p>
+  <p style=3D"margin: 0px;">&nbsp;</p>
+  <br />
+  <hr />This message was sent to cmuth001@odu.edu. If you don't want to rec=
+eive these emails from this company in the future, please go to:
+  <br />
+  <a data-notracking=3D"1" href=3D"https://maximus.icims.com/icims2/?r=3DF1=
+74366386&amp;contactId=3D3897992&amp;pid=3D70">https://maximus.icims.com/ic=
+ims2/?r=3DF174366386&amp;contactId=3D3897992&amp;pid=3D70</a>=20
+  <img src=3D"https://maximus.icims.com/icims2?oid=3Dlk2k-89f1abe8b5&amp;tp=
+id=3D366386.gif" style=3D"border:0;width:1px;height:3px;" />
+ </body>
+</html>

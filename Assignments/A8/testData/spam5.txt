@@ -1,0 +1,517 @@
+<html>
+<body>
+<style type=3D"text/css">
+div, p, a, li, td { -webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; }
+table td { border-collapse: collapse; border-spacing:0px;}
+
+@media screen and (max-width: 100%) {
+table[class=3D"bodyMock"] {
+width:300px !important;
+}
+col[class=3D"columnhide" {
+display:none;
+visibility:hidden;
+}
+
+td[class=3D"mobilespacerrow"] {
+height:25px;
+}
+
+td[class=3D"spacerrow mobilespacerrow"] {
+height:25px;
+}
+
+td[class=3D"cblogocell"] {
+text-align:left !important;
+padding-left:15px;
+}
+
+td[class=3D"findborder"] {
+border-color:#FFFFFF !important;
+}
+
+td[class=3D"fixpadding"] {
+padding-left:0px !important;
+}
+
+td[class=3D"welcome"] {
+padding-left:15px !important;
+}
+}
+
+@media screen and (max-device-width: 760px) {
+table[class=3D"bodyMock"] {
+width:300px !important;
+}
+col[class=3D"columnhide" {
+display:none;
+visibility:hidden;
+}
+}
+</style>
+
+<table align=3D"center" class=3D"bodyMock" width=3D"600" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" style=3D"max-width:600px;">
+<col width=3D"30" class=3D"columnhide">
+<col width=3D"546">
+<col width=3D"24" class=3D"columnhide">
+<tr>
+<td colspan=3D"3">
+<table class=3D"header" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+
+<tr class=3D"spacerrow">
+<td style=3D"font-size:1px;" height=3D"4">
+
+</td>
+</tr>
+
+<tr id=3D"cblogo">
+<td class=3D"cblogocell" style=3D"background-color:#FFFFFF;text-align:right=
+;"><img id=3D"cblogo" border=3D"0" src=3D"https://secure.icbdr.com/images/j=
+p/email/cbemailcampaignlogonew.jpg"/>
+</td>
+</tr>
+
+<tr class=3D"spacerrow">
+<td style=3D"font-size:1px;" height=3D"7">
+
+</td>
+</tr>
+
+<tr id=3D"welcome">
+<td class=3D"welcome" width=3D"600" height=3D"34" style=3D"background-color=
+:#FFFFFF; color:#FFFFFF; font-family:'Lucida Sans Unicode', 'Lucida Grande'=
+, sans-serif; font-size:28px; padding-left:30px;"> </td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr class=3D"spacerrow">
+<td colspan=3D"3" height=3D"20">
+
+</td>
+</tr>
+
+<tr>
+<td class=3D"spacer" width=3D"15">
+
+</td>
+
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tbo=
+dy><tr><td width=3D"100%"><!-- MAIN CONTENT AREA --><table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"580" height=3D"120px" align=3D"ce=
+nter"><tbody><tr><td valign=3D"top" style=3D"font-size: 11px;font-family: a=
+rial,sans-serif;"><style type=3D"text/css">table.button:active td, table.bu=
+tton:hover td, table.button:visited td, table.large-button:hover td, table.=
+medium-button:hover td, table.small-button:hover td, table.tiny-button:hove=
+r td {=09background:#2795b6!important}h1 a:active, h1 a:visited, h2 a:activ=
+e, h2 a:visited, h3 a:active, h3 a:visited, h4 a:active, h4 a:visited, h5 a=
+:active, h5 a:visited, h6 a:active, h6 a:visited {=09color:#2ba6cb!importan=
+t}table.button td a:visited, table.button:active td a, table.button:hover t=
+d a, table.button:visited td a, table.large-button td a:visited, table.larg=
+e-button:active td a, table.large-button:hover td a, table.medium-button td=
+ a:visited, table.medium-button:active td a, table.medium-button:hover td a=
+, table.small-button td a:visited, table.small-button:active td a, table.sm=
+all-button:hover td a, table.tiny-button td a:visited, table.tiny-button:ac=
+tive td a, table.tiny-button:hover td a {=09color:#fff!important}table.seco=
+ndary:hover td {=09background:#d0d0d0!important;=09color:#555}table.seconda=
+ry td a:visited, table.secondary:active td a, table.secondary:hover td a {=
+=09color:#555!important}table.success:hover td {=09background:#457a1a!impor=
+tant}table.alert:hover td {=09background:#970b0e!important}@media only scre=
+en and (max-width:600px) {table[class=3Dbody] img {max-width:auto!important=
+;max-height:auto!important}table[class=3Dbody] center {min-width:0!importan=
+t}table[class=3Dbody] .container {width:95%!important}table[class=3Dbody] .=
+row {width:100%!important;display:block!important}table[class=3Dbody] .wrap=
+per {display:block!important;padding-right:0!important}table[class=3Dbody] =
+.column, table[class=3Dbody] .columns {table-layout:fixed!important;float:n=
+one!important;width:100%!important;padding-right:0!important;padding-left:0=
+!important;display:block!important}table[class=3Dbody] .wrapper.first .colu=
+mn, table[class=3Dbody] .wrapper.first .columns {display:table!important}ta=
+ble[class=3Dbody] table.column td, table[class=3Dbody] table.columns td {wi=
+dth:100%!important}table[class=3Dbody] .column td.one, table[class=3Dbody] =
+.columns td.one {width:8.333333%!important}table[class=3Dbody] .column td.t=
+wo, table[class=3Dbody] .columns td.two {width:16.666666%!important}table[c=
+lass=3Dbody] .column td.three, table[class=3Dbody] .columns td.three {width=
+:25%!important}table[class=3Dbody] .column td.four, table[class=3Dbody] .co=
+lumns td.four {width:33.333333%!important}table[class=3Dbody] .column td.fi=
+ve, table[class=3Dbody] .columns td.five {width:41.666666%!important}table[=
+class=3Dbody] .column td.six, table[class=3Dbody] .columns td.six {width:50=
+%!important}table[class=3Dbody] .column td.seven, table[class=3Dbody] .colu=
+mns td.seven {width:58.333333%!important}table[class=3Dbody] .column td.eig=
+ht, table[class=3Dbody] .columns td.eight {width:66.666666%!important}table=
+[class=3Dbody] .column td.nine, table[class=3Dbody] .columns td.nine {width=
+:75%!important}table[class=3Dbody] .column td.ten, table[class=3Dbody] .col=
+umns td.ten {width:83.333333%!important}table[class=3Dbody] .column td.elev=
+en, table[class=3Dbody] .columns td.eleven {width:91.666666%!important}tabl=
+e[class=3Dbody] .column td.twelve, table[class=3Dbody] .columns td.twelve {=
+width:100%!important}table[class=3Dbody] td.offset-by-eight, table[class=3D=
+body] td.offset-by-eleven, table[class=3Dbody] td.offset-by-five, table[cla=
+ss=3Dbody] td.offset-by-four, table[class=3Dbody] td.offset-by-nine, table[=
+class=3Dbody] td.offset-by-one, table[class=3Dbody] td.offset-by-seven, tab=
+le[class=3Dbody] td.offset-by-six, table[class=3Dbody] td.offset-by-ten, ta=
+ble[class=3Dbody] td.offset-by-three, table[class=3Dbody] td.offset-by-two =
+{padding-left:0!important}table[class=3Dbody] table.columns td.expander {wi=
+dth:1px!important}table[class=3Dbody] .right-text-pad, table[class=3Dbody] =
+.text-pad-right {padding-left:10px!important}table[class=3Dbody] .left-text=
+-pad, table[class=3Dbody] .text-pad-left {padding-right:10px!important}tabl=
+e[class=3Dbody] .hide-for-small, table[class=3Dbody] .show-for-desktop {dis=
+play:none!important}table[class=3Dbody] .hide-for-desktop, table[class=3Dbo=
+dy] .show-for-small {display:block!important;width:auto!important;overflow:=
+visible!important}}</style><table class=3D"body" style=3D"margin: 0px; padd=
+ing: 0px; width: 100%; height: 100%; text-align: left; color: rgb(34, 34, 3=
+4); line-height: 19px; font-family: Helvetica, Arial, sans-serif; font-size=
+: 14px; font-weight: normal; vertical-align: top; border-collapse: collapse=
+; border-spacing: 0;">  <tbody>    <tr align=3D"left" style=3D"padding: 0px=
+; text-align: left; vertical-align: top;">      <td align=3D"center" class=
+=3D"center" valign=3D"top" style=3D"margin: 0px; padding: 0px; text-align: =
+center; color: rgb(34, 34, 34); line-height: 19px; font-family: Helvetica, =
+Arial, sans-serif; font-size: 14px; font-weight: normal; vertical-align: to=
+p; border-collapse: collapse !important; hyphens: none; -webkit-hyphens: no=
+ne; -moz-hyphens: none;"><center style=3D"width: 100%; min-width: 580px;"> =
+         <table class=3D"container" style=3D"margin: 0px auto; padding: 0px=
+; width: 580px; text-align: inherit; vertical-align: top; border-collapse: =
+collapse; border-spacing: 0;">            <tbody>              <tr align=3D=
+"left" style=3D"padding: 0px; text-align: left; vertical-align: top;">     =
+           <td align=3D"left" valign=3D"top" style=3D"margin: 0px; padding:=
+ 0px; text-align: left; color: rgb(34, 34, 34); line-height: 19px; font-fam=
+ily: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; ve=
+rtical-align: top; border-collapse: collapse !important; hyphens: none; -we=
+bkit-hyphens: none; -moz-hyphens: none;"><table class=3D"row" style=3D"padd=
+ing: 0px; width: 100%; text-align: left; vertical-align: top; display: bloc=
+k; border-collapse: collapse; position: relative; border-spacing: 0;">     =
+               <tbody>                      <tr align=3D"left" style=3D"pad=
+ding: 0px; text-align: left; vertical-align: top;">                        =
+<td align=3D"left" class=3D"wrapper" valign=3D"top" style=3D"margin: 0px; p=
+adding: 10px 20px 0px 0px; text-align: left; color: rgb(34, 34, 34); line-h=
+eight: 19px; font-family: Helvetica, Arial, sans-serif; font-size: 14px; fo=
+nt-weight: normal; vertical-align: top; border-collapse: collapse !importan=
+t; position: relative; hyphens: none; -webkit-hyphens: none; -moz-hyphens: =
+none;"><table class=3D"twelve columns" style=3D"margin: 0px auto; padding: =
+0px; width: 580px; text-align: left; vertical-align: top; border-collapse: =
+collapse; border-spacing: 0;">                            <tbody>          =
+                    <tr align=3D"left" style=3D"padding: 0px; text-align: l=
+eft; vertical-align: top;">                                <td align=3D"lef=
+t" valign=3D"top" style=3D"margin: 0px; padding: 0px 0px 10px; text-align: =
+left; color: rgb(34, 34, 34); line-height: 19px; font-family: Helvetica, Ar=
+ial, sans-serif; font-size: 14px; font-weight: normal; vertical-align: top;=
+ border-collapse: collapse !important; hyphens: none; -webkit-hyphens: none=
+; -moz-hyphens: none;"><div class=3D"logo"> <img width=3D"78" height=3D"58"=
+ src=3D"https://cdn.careers.com/sites/default/files/assets/216/21891/logo.j=
+pg"> </div></td>                                <td align=3D"left" class=3D=
+"expander" valign=3D"top" style=3D"margin: 0px; padding: 0px; width: 0px; t=
+ext-align: left; color: rgb(34, 34, 34); line-height: 19px; font-family: He=
+lvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; vertical-=
+align: top; visibility: hidden; border-collapse: collapse !important; hyphe=
+ns: none; -webkit-hyphens: none; -moz-hyphens: none;"></td>                =
+              </tr>                              <tr align=3D"left" style=
+=3D"padding: 0px; height: 10px; text-align: left; vertical-align: top;"> </=
+tr>                            </tbody>                          </table></=
+td>                      </tr>                    </tbody>                 =
+ </table>                  <table class=3D"row" style=3D"padding: 0px; widt=
+h: 100%; text-align: left; vertical-align: top; display: block; border-coll=
+apse: collapse; position: relative; border-spacing: 0;">                   =
+ <tbody>                      <tr align=3D"left" style=3D"padding: 0px; tex=
+t-align: left; vertical-align: top;">                        <td align=3D"l=
+eft" class=3D"wrapper" valign=3D"top" style=3D"margin: 0px; padding: 10px 2=
+0px 0px 0px; text-align: left; color: rgb(34, 34, 34); line-height: 19px; f=
+ont-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: nor=
+mal; vertical-align: top; border-collapse: collapse !important; position: r=
+elative; hyphens: none; -webkit-hyphens: none; -moz-hyphens: none;"><table =
+class=3D"twelve columns" style=3D"margin: 0px auto; padding: 0px; width: 58=
+0px; text-align: left; vertical-align: top; border-collapse: collapse; bord=
+er-spacing: 0;">                            <tbody>                        =
+      <tr align=3D"left" style=3D"padding: 0px; text-align: left; vertical-=
+align: top;">                                <td align=3D"left" valign=3D"t=
+op" style=3D"margin: 0px; padding: 0px 0px 10px; text-align: left; color: r=
+gb(34, 34, 34); line-height: 19px; font-family: Helvetica, Arial, sans-seri=
+f; font-size: 14px; vertical-align: top; border-collapse: collapse !importa=
+nt; hyphens: none;"><p align=3D"left" style=3D"margin: 0px 0px 10px; paddin=
+g: 0px; text-align: left; color: rgb(136, 136, 136); line-height: 1.8em; fo=
+nt-family: helvetica, arial, sans-serif; font-size: 14px; font-weight: norm=
+al;"> Hello Chandrasekhar,</p>                                  <p align=3D=
+"left" style=3D"margin: 0px 0px 10px; padding: 0px; text-align: left; color=
+: rgb(136, 136, 136); line-height: 1.8em; font-family: helvetica, arial, sa=
+ns-serif; font-size: 14px;"><span style=3D"font-weight: normal;">Want to ea=
+rn money on your own schedule? &nbsp;Sign up to drive for <a href=3D"http:/=
+/www.careerbuilder.com/JobPoster/EmailCampaign/EmailCampaignClicks.aspx?Sit=
+eID=3DRDB_ECHN35D6DJK2NLJXS4JJ&Log_DID=3DELJX5ZN6VJV35QFBFMV1&RetURL=3Dhttp=
+s://click.appcast.io%2ftrack%2fn10mj6%3fcs%3d5zy%26medium_code%3demail3_AAA=
+3" target=3D"_blank">Lyft </a>today! </span><strong>Apply now and get $500 =
+after you complete 150 rides in 45 days</strong>. &nbsp;</p>               =
+                   <p align=3D"left" style=3D"margin: 0px 0px 10px; padding=
+: 0px; text-align: left; color: rgb(136, 136, 136); line-height: 1.8em; fon=
+t-family: helvetica, arial, sans-serif; font-size: 14px; font-weight: norma=
+l;"><a tabindex=3D"0" href=3D"http://www.careerbuilder.com/JobPoster/EmailC=
+ampaign/EmailCampaignClicks.aspx?SiteID=3DRDB_ECHN35D6DJK2NLJXS4JJ&Log_DID=
+=3DELJX5ZN6VJV35QFBFMV1&RetURL=3Dhttps://click.appcast.io%2ftrack%2fn10mj6%=
+3fcs%3d5zy%26medium_code%3demail3_AAA3" target=3D"_blank">Click here</a> or=
+ the button below to learn more!</p></td>                                <t=
+d align=3D"left" class=3D"expander" valign=3D"top" style=3D"margin: 0px; pa=
+dding: 0px; width: 0px; text-align: left; color: rgb(34, 34, 34); line-heig=
+ht: 19px; font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-=
+weight: normal; vertical-align: top; visibility: hidden; border-collapse: c=
+ollapse !important; hyphens: none; -webkit-hyphens: none; -moz-hyphens: non=
+e;"></td>                              </tr>                            </t=
+body>                          </table></td>                      </tr>    =
+                </tbody>                  </table>                  <table =
+class=3D"row" style=3D"padding: 0px; width: 100%; text-align: left; vertica=
+l-align: top; display: block; border-collapse: collapse; position: relative=
+; border-spacing: 0;">                    <tbody>                      <tr =
+align=3D"left" style=3D"padding: 0px; text-align: left; vertical-align: top=
+;">                        <td align=3D"left" class=3D"wrapper" valign=3D"t=
+op" style=3D"margin: 0px; padding: 10px 20px 0px 0px; text-align: left; col=
+or: rgb(34, 34, 34); line-height: 19px; font-family: Helvetica, Arial, sans=
+-serif; font-size: 14px; font-weight: normal; vertical-align: top; border-c=
+ollapse: collapse !important; position: relative; hyphens: none; -webkit-hy=
+phens: none; -moz-hyphens: none;"><table class=3D"twelve columns" style=3D"=
+margin: 0px auto; padding: 0px; width: 580px; text-align: left; vertical-al=
+ign: top; border-collapse: collapse; border-spacing: 0;">                  =
+          <tbody>                              <tr align=3D"left" style=3D"=
+padding: 0px; text-align: left; vertical-align: top;">                     =
+           <td align=3D"center" valign=3D"top" style=3D"margin: 0px; paddin=
+g: 12px 18px; border-radius: 3px; text-align: center; color: rgb(255, 255, =
+255); line-height: 19px; font-family: Helvetica, Arial, sans-serif; font-we=
+ight: normal; vertical-align: top; border-collapse: collapse !important; hy=
+phens: none;" bgcolor=3D"#ff00bf"><span style=3D"display: block;"><strong><=
+font size=3D"3" style=3D"text-align: center; color: rgb(255, 255, 255); fon=
+t-family: Helvetica, Arial, sans-serif; font-weight: bold; text-decoration:=
+ none; display: block;"><font size=3D"3" style=3D"text-align: center; color=
+: rgb(255, 255, 255); font-family: Helvetica, Arial, sans-serif; font-weigh=
+t: bold; text-decoration: none; display: block;"><font size=3D"3" style=3D"=
+text-align: center; color: rgb(255, 255, 255); font-family: Helvetica, Aria=
+l, sans-serif; font-weight: bold; text-decoration: none; display: block;"><=
+font size=3D"3" style=3D"text-align: center; color: rgb(255, 255, 255); fon=
+t-family: Helvetica, Arial, sans-serif; font-weight: bold; text-decoration:=
+ none; display: block;"><font size=3D"3" style=3D"text-align: center; color=
+: rgb(255, 255, 255); font-family: Helvetica, Arial, sans-serif; font-weigh=
+t: bold; text-decoration: none; display: block;"><font size=3D"3" style=3D"=
+text-align: center; color: rgb(255, 255, 255); font-family: Helvetica, Aria=
+l, sans-serif; font-weight: bold; text-decoration: none; display: block;"><=
+font size=3D"3" style=3D"text-align: center; color: rgb(255, 255, 255); fon=
+t-family: Helvetica, Arial, sans-serif; font-weight: bold; text-decoration:=
+ none; display: block;"><font size=3D"3" style=3D"text-align: center; color=
+: rgb(255, 255, 255); font-family: Helvetica, Arial, sans-serif; font-weigh=
+t: bold; text-decoration: none; display: block;"><font size=3D"3" style=3D"=
+text-align: center; color: rgb(255, 255, 255); font-family: Helvetica, Aria=
+l, sans-serif; font-weight: bold; text-decoration: none; display: block;"><=
+font size=3D"3" style=3D"text-align: center; color: rgb(255, 255, 255); fon=
+t-family: Helvetica, Arial, sans-serif; font-weight: bold; text-decoration:=
+ none; display: block;"><font size=3D"3" style=3D"text-align: center; color=
+: rgb(255, 255, 255); font-family: Helvetica, Arial, sans-serif; font-weigh=
+t: bold; text-decoration: none; display: block;"><font size=3D"3" style=3D"=
+text-align: center; color: rgb(255, 255, 255); font-family: Helvetica, Aria=
+l, sans-serif; font-weight: bold; text-decoration: none; display: block;"><=
+font size=3D"3" style=3D"text-align: center; color: rgb(255, 255, 255); fon=
+t-family: Helvetica, Arial, sans-serif; font-weight: bold; text-decoration:=
+ none; display: block;"><font size=3D"3" style=3D"text-align: center; color=
+: rgb(255, 255, 255); font-family: Helvetica, Arial, sans-serif; font-weigh=
+t: bold; text-decoration: none; display: block;"><font size=3D"3" style=3D"=
+text-align: center; color: rgb(255, 255, 255); font-family: Helvetica, Aria=
+l, sans-serif; font-weight: bold; text-decoration: none; display: block;"><=
+font size=3D"3" style=3D"text-align: center; color: rgb(255, 255, 255); fon=
+t-family: Helvetica, Arial, sans-serif; font-weight: bold; text-decoration:=
+ none; display: block;"><font size=3D"3" style=3D"text-align: center; color=
+: rgb(255, 255, 255); font-family: Helvetica, Arial, sans-serif; font-weigh=
+t: bold; text-decoration: none; display: block;"><font size=3D"3" style=3D"=
+text-align: center; color: rgb(255, 255, 255); font-family: Helvetica, Aria=
+l, sans-serif; font-weight: bold; text-decoration: none; display: block;"><=
+font size=3D"3" style=3D"text-align: center; color: rgb(255, 255, 255); fon=
+t-family: Helvetica, Arial, sans-serif; font-weight: bold; text-decoration:=
+ none; display: block;"><a tabindex=3D"0" style=3D"text-align: center; colo=
+r: rgb(255, 255, 255); font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: bold; text-decoration: none; display: block;" href=3D"http://www.career=
+builder.com/JobPoster/EmailCampaign/EmailCampaignClicks.aspx?SiteID=3DRDB_E=
+CHN35D6DJK2NLJXS4JJ&Log_DID=3DELJX5ZN6VJV35QFBFMV1&RetURL=3Dhttps://click.a=
+ppcast.io%2ftrack%2fn10mj6%3fcs%3d5zy%26medium_code%3demail3_AAA3" target=
+=3D"_blank"><font size=3D"3">View Job</font></a></font></font></font></font=
+></font></font></font></font></font></font></font></font></font></font></fo=
+nt></font></font></font></font></strong></span></td>                       =
+         <td align=3D"left" class=3D"expander" valign=3D"top" style=3D"marg=
+in: 0px; padding: 0px; width: 0px; text-align: left; color: rgb(34, 34, 34)=
+; line-height: 19px; font-family: Helvetica, Arial, sans-serif; font-size: =
+14px; font-weight: normal; vertical-align: top; visibility: hidden; border-=
+collapse: collapse !important; hyphens: none; -webkit-hyphens: none; -moz-h=
+yphens: none;"></td>                              </tr>                    =
+          <tr align=3D"left" style=3D"padding: 0px; height: 20px; text-alig=
+n: left; vertical-align: top;"> </tr>                            </tbody>  =
+                        </table></td>                      </tr>           =
+         </tbody>                  </table>                  <table class=
+=3D"row" style=3D"padding: 0px; width: 100%; text-align: left; vertical-ali=
+gn: top; display: block; border-collapse: collapse; position: relative; bor=
+der-spacing: 0;">                    <tbody>                      <tr align=
+=3D"left" style=3D"padding: 0px; text-align: left; vertical-align: top;">  =
+                      <td align=3D"left" class=3D"wrapper" valign=3D"top" s=
+tyle=3D"margin: 0px; padding: 10px 20px 0px 0px; text-align: left; color: r=
+gb(34, 34, 34); line-height: 19px; font-family: Helvetica, Arial, sans-seri=
+f; font-size: 14px; font-weight: normal; vertical-align: top; border-collap=
+se: collapse !important; position: relative; hyphens: none; -webkit-hyphens=
+: none; -moz-hyphens: none;"><table class=3D"twelve columns" style=3D"margi=
+n: 0px auto; padding: 0px; width: 580px; text-align: left; vertical-align: =
+top; border-collapse: collapse; border-spacing: 0;">                       =
+     <tbody>                              <tr align=3D"left" style=3D"paddi=
+ng: 0px; text-align: left; vertical-align: top;">                          =
+      <td align=3D"left" valign=3D"top" style=3D"margin: 0px; padding: 0px =
+0px 10px; text-align: left; color: rgb(34, 34, 34); line-height: 19px; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal=
+; vertical-align: top; border-collapse: collapse !important; hyphens: none;=
+ -webkit-hyphens: none; -moz-hyphens: none;"><p align=3D"left" style=3D"mar=
+gin: 0px 0px 10px; padding: 0px; text-align: left; color: rgb(136, 136, 136=
+); line-height: 1.8em; font-family: helvetica, arial, sans-serif; font-size=
+: 14px; font-weight: normal;"></p></td>                                <td =
+align=3D"left" class=3D"expander" valign=3D"top" style=3D"margin: 0px; padd=
+ing: 0px; width: 0px; text-align: left; color: rgb(34, 34, 34); line-height=
+: 19px; font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-we=
+ight: normal; vertical-align: top; visibility: hidden; border-collapse: col=
+lapse !important; hyphens: none; -webkit-hyphens: none; -moz-hyphens: none;=
+"></td>                              </tr>                            </tbo=
+dy>                          </table></td>                      </tr>      =
+              </tbody>                  </table></td>              </tr>   =
+         </tbody>          </table>          <!-- Email Content -->        =
+</center></td>    </tr>  </tbody></table></td></tr></tbody></table><!-- END=
+ MAIN CONTENT AREA --></td></tr></tbody></table><br><table cellspacing=3D'2=
+0' cellpadding=3D'1'><tbody><tr><td style=3D'padding-right:15px;' ><table><=
+tr><td align=3D'center' width=3D'140' height=3D'30' bgcolor=3D'#FF6600'><a =
+href=3D"http://www.careerbuilder.com/JobPoster/EmailCampaign/EmailCampaignC=
+licks.aspx?SiteID=3DRDB_ECHN35D6DJK2NLJXS4JJ&Log_DID=3DELJX5ZN6VJV35QFBFMV1=
+&RetURL=3Dhttps://click.appcast.io%2ftrack%2fn10mj6%3fcs%3d5zy%26medium_cod=
+e%3demail3_AAA3" style=3D'font-size:16px; font-weight: bold; font-family: A=
+rial, Helvetica, sans-serif; text-decoration: none; line-height:22px; width=
+:100%; display:inline-block' target=3D'_blank'><span style=3D'color: #FFFFF=
+F'>Visit Link</span></td></tr></table></a></td><td><table><tr><td align=3D'=
+center' width=3D'140' height=3D'30' bgcolor=3D'#696969'><a href=3D"http://w=
+ww.careerbuilder.com/JobPoster/EmailCampaign/EmailCampaignClicks.aspx?SiteI=
+D=3DRDB_ECHN35D6DJK2NLJXS4JJ&Log_DID=3DELJX5ZN6VJV35QFBFMV1&RetURL=3Dhttps:=
+//feedback.usabilla.com%2findex.html%3fid%3db4e2105bdcfd%26group%3db21364b9=
+4f6a%26NotInterested%3dtrue" style=3D'font-size:16px; font-weight: bold; fo=
+nt-family: Arial, Helvetica, sans-serif; text-decoration: none; line-height=
+:22px; width:100%; display:inline-block' target=3D'_blank'><span style=3D'c=
+olor: #FFFFFF'>Not Interested</span></td></tr></table></a></td></tr> </tbod=
+y></table><img src=3D"http://www.careerbuilder.com/JobPoster/EmailCampaign/=
+EmailCampaignImageLoad.aspx?LogDID=3DELJX5ZN6VJV35QFBFMV1" />
+
+</td>
+
+<td class=3D"spacer" width=3D"15">
+
+</td>
+</tr>
+
+<tr>
+<td colspan=3D"3" width=3D"15">
+
+</td>
+</tr>
+
+<tr>
+<td class=3D"spacer" width=3D"15">
+
+</td>
+
+<td>
+
+</td>
+
+<td class=3D"spacer" width=3D"15">
+
+</td>
+</tr>
+
+<tr class=3D"spacerrow">
+<td colspan=3D"3" height=3D"20">
+
+</td>
+</tr>
+
+<tr>
+<td colspan=3D"3">
+<table class=3D"row" style=3D"box-sizing: border-box; border-spacing: 0;bac=
+kground-color:#F6F6F6; border-collapse: collapse; vertical-align: top; text=
+-align: left; width: 100%; position: relative; padding: 0px;"><tr style=3D"=
+box-sizing: border-box; vertical-align: top; text-align: left; padding: 0;"=
+ align=3D"left"><td class=3D"center" style=3D"box-sizing: border-box; word-=
+break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto=
+; border-collapse: collapse !important; vertical-align: top; text-align: ce=
+nter; color: #222222; font-family: Lato, 'Helvetica', 'Arial', sans-serif; =
+font-weight: 400; font-size: 16px; margin: 0; padding: 0;" align=3D"center"=
+ valign=3D"top">
+                                <center style=3D"box-sizing: border-box; wi=
+dth: 100%; min-width: 580px;">
+                                    <table class=3D"container" style=3D"box=
+-sizing: border-box; border-spacing: 0; border-collapse: collapse; vertical=
+-align: top; text-align: inherit; width: 580px; margin: 0 auto; padding: 0;=
+"><tr style=3D"box-sizing: border-box; vertical-align: top; text-align: lef=
+t; padding: 0;" align=3D"left"><td class=3D"wrapper last" style=3D"box-sizi=
+ng: border-box; word-break: break-word; -webkit-hyphens: auto; -moz-hyphens=
+: auto; hyphens: auto; border-collapse: collapse !important; vertical-align=
+: top; text-align: left; position: relative; color: #222222; font-family: L=
+ato, 'Helvetica', 'Arial', sans-serif; font-weight: 400; font-size: 16px; m=
+argin: 0; padding: 0px 0px 0px;" align=3D"left" valign=3D"top">
+                                                <table class=3D"ten column"=
+ align=3D"left" style=3D"box-sizing: border-box; border-spacing: 0; border-=
+collapse: collapse; vertical-align: top; text-align: left; width: 480px; ma=
+rgin: 0 auto; padding: 0;"><td><table class=3D"twelve columns" id=3D"footer=
+">
+                                                        <tr>
+                                                          <td>
+                                                            <p style=3D"box=
+-sizing: border-box; color: #222222; font-family: Lato, 'Helvetica', 'Arial=
+', sans-serif; font-weight: 400; text-align: left; font-size: 14px;  paddin=
+g: 0;margin-top: 10px" align=3D"left">
+                                                     <p style=3D"box-sizing=
+: border-box; color: #222222; font-family: Lato, 'Helvetica', 'Arial', sans=
+-serif; font-weight: 400; text-align: left; font-size: 12px;  padding: 0;wi=
+dth:566px;" align=3D"left">
+                                                                You can <a =
+href=3D"https://www.careerbuilder.com/email-subscriptions" style=3D"box-siz=
+ing: border-box; color: #09A0DB; text-decoration: none;"> update recommenda=
+tion preferences</a> or <a href=3D"http://www.careerbuilder.com/JobPoster/E=
+mailCampaign/EmailCampaignUnsubscribeStamping.aspx?Log_DID=3DELJX5ZN6VJV35Q=
+FBFMV1&RetURL=3Dhttp://www.careerbuilder.com/JobSeeker/Emails/EmailUnSubscr=
+ibe.aspx?eDID=3DSFpHWklDb1d6MHQ0bGUycWNyTk9ldkFaN3ZqQXljNEg=3D&etype=3DRET&=
+siteid=3DRET" target=3D"_blank" style=3D"box-sizing: border-box; color: #09=
+A0DB; text-decoration: none;">unsubscribe from this email</a> at any time.
+                                                            </p>
+                                                           =20
+                                                            <p style=3D"box=
+-sizing: border-box; color: #222222; font-family: Lato, 'Helvetica', 'Arial=
+', sans-serif; font-weight: 400; text-align: left; font-size: 12px; padding=
+: 0;" align=3D"left">
+                                                                    For you=
+r <a href=3D"http://www.careerbuilder.com/JobSeeker/Info/Privacy.aspx?sitei=
+d=3Dthankyou_US_RET&utm_content=3Dprivacy-link" data-msys-linkname=3D"priva=
+cy-link" style=3D"box-sizing: border-box; color: #09A0DB; text-decoration: =
+none;">privacy and protection</a> when applying to a job online: Never give=
+ your social security number to a prospective employer, provide credit card=
+ or bank account information, or perform any sort of monetary transaction.
+                                                                </p>
+                                                                 <p style=
+=3D"box-sizing: border-box; color: #222222; font-family: Lato, 'Helvetica',=
+ 'Arial', sans-serif; font-weight: 400; text-align: left; font-size: 12px; =
+padding: 0;margin-bottom: 10px" align=3D"left">
+                                                                Please do n=
+ot reply to this email, <a href=3D"http://www.careerbuilder.com/JobSeeker/H=
+elp/Default.aspx?siteID=3DETE_WELCOME_JERI&utm_source=3Dwelcome-email-jeri&=
+utm_medium=3Demail&utm_campaign=3Dwelcome&utm_term=3DRETEmail&utm_content=
+=3Dcustomer-service-link" target=3D"_blank" style=3D"box-sizing: border-box=
+; color: #09A0DB; text-decoration: none;"> contact Customer Service</a>.<br=
+ style=3D"box-sizing: border-box;" /> 5550-A Peachtree Parkway, Suite 200 |=
+ Norcross GA 30092
+                                                            </p>
+                                                          </td>
+                                                        </tr>
+                                                    </table>
+</td>
+
+                                                    </table></td>
+                                        </tr></table></center>
+                            </td>
+                        </tr></table>
+</td>
+</tr>
+
+</table>
+</body>
+</html>

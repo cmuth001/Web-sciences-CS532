@@ -1,0 +1,6 @@
+Greetings,
+
+I have compiled nginx to support shibboleth on quiz, 128.82.11.29.
+As this is a custom build, the installation of new modules should not be done through apt.
+
+I am beginning the configuration of shibboleth on the webserver, are there any special concerns you would like for me to take into consideration?

@@ -1,0 +1,7 @@
+Students,
+
+
+Effective immediately, we will be removing individual Avaya phones from Graduate work areas. Going forward, we will have just have one phone per research lab. Each of the phones left in place will have conference calling capability. If there are any questions or concerns, please feel free to contact us at ‘root@cs.odu.edu’.
+
+
+--Systems Group <root@cs.odu.edu>

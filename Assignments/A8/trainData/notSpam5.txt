@@ -1,0 +1,12 @@
+Students,
+
+As you may have noticed, your CS Windows profiles have been configured to use Folder Redirection rather than Roaming Profiles for the Spring 2018 semester. It is important to note that at the end of this semester on May 3rd at 11PM, ALL graduate roaming profiles will be removed. To ensure your data retention, please make sure you have logged in to your CS account at least once before the end of the Spring 2018 semester if you have not already done so. 
+
+
+We would like to reinstate that anytime you are working on important data you should create, compile, and save your projects and data to a folder in your Z-drive. 
+
+Please navigate to the following page for more information on Folder Redirection: https://systems.cs.odu.edu/Folder_Redirection
+
+Please email root@cs.odu.edu if you have any concerns.
+
+--Systems Group <root@cs.odu.edu>

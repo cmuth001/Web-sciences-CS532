@@ -1,0 +1,813 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+  <title>Nexxt Job Alert</title>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-885=
+9-1" />
+  <meta name =3D"viewport" content =3D"initial-scale =3D 1.0, user-scalable=
+ =3D no">
+  <style type=3D"text/css">
+    body {background-color:#f1f2f2;margin:0;padding:15px;-webkit-font-smoot=
+hing:antialiased;font-family:Segoe UI, Lucida Sans Unicode, Arial}
+    table {border-collapse:collapse;padding:0;border:0}
+    img {margin:0;display:block}
+    .appleLinksFooter a {color:#525253!important;text-decoration:none!impor=
+tant}
+       =20
+    @media only screen and (max-width: 479px) {
+            body[yahoo] .appleLinksFooter a {color:#525253!important;text-d=
+ecoration:none!important}
+            body[yahoo] .gmailspacer {display:none!important}  =20
+        }
+  </style>
+</head>
+<body style=3D"font-size:15px;font-family:Segoe UI, Lucida Sans Unicode, Ar=
+ial;color:#525253">
+<div style=3D"display:none;font-size:1px;color:#f1f2f2;line-height:1px;max-=
+height:0px;max-width:0px;opacity:0;overflow:hidden;">We Looked Around & Fou=
+nd Other Jobs You Might Like</div>
+<img height=3D"1" width=3D"1" src=3D"http://www.nexxt.com/t?tcid=3D106&cid=
+=3D123745713&pid=3D4591370&emid=3D16395&ttid=3D1&tl2=3Dsd&tv2=3D20180427+14=
+%3a40&sidxid=3D754849571" alt=3D"" /><img src=3D"http://www.nexxt.com/t?tci=
+d=3D1357&ttid=3D1&rtid=3D1&zid=3D634&lrid=3D&sd=3D20180427+14%3a40&sidxid=
+=3D754849571&cid=3D123745713&pid=3D4591370&emid=3D16395" height=3D"1" width=
+=3D"1" />
+<table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"font-siz=
+e:15px;font-family: Segoe UI, Lucida Sans Unicode, Arial;color:#525253">
+  <tr>
+    <td align=3D"center" style=3D"background-color:#ffffff;border-collapse:=
+collapse;color:#525253">
+
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" bgcolor=3D"#4cb050" style=3D"border:1px solid #4cb050">
+        <tr>
+          <td width=3D"28" style=3D"padding:20px 15px 20px 20px;color:#FFFF=
+FF;"><img src=3D"https://df0lrsxzbmkll.cloudfront.net/assets/emails/1/alert=
+s/jfw-icon.png" width=3D"28" height=3D"28" alt=3D"Jobs From The Web Icon" b=
+order=3D"0" style=3D"margin:0;display:block"></td>
+          <td align=3D"left" style=3D"padding:20px 15px 20px 0;font-size:21=
+px;color:#FFFFFF;font-weight:bold;font-family:Segoe UI, Lucida Sans Unicode=
+, Arial;">Jobs From The Web</td>
+        </tr>
+      </table>
+
+      <table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"fo=
+nt-family:Segoe UI, Lucida Sans Unicode, Arial;font-size:15px;color:#525253=
+;border:1px solid #e1e4e7;border-top:0">
+        <tr>
+          <td style=3D"padding:0 20px">
+           =20
+          </td>
+        </tr>
+        <tr>
+          <td valign=3D"top" style=3D"padding:0 20px" align=3D"left">
+
+            <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=
+=3D"100%" style=3D"font-family:Segoe UI, Lucida Sans Unicode, Arial;font-si=
+ze:15px;color:#525253">
+              <tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13p=
+x 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z=
+_YlQ5FQ2/cgIjD/-7SgKv6gHQNO/i_XSZ/1" style=3D"text-decoration:none"><table>=
+<tr><td style=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http://www.job=
+searchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/cgIjD/-7SgKv6gHQNO/i_XSZ/1=
+" style=3D"color:#525253;font-weight:bold;font-size:17px;text-decoration:no=
+ne">Electrical Engineer</a><br>Kenny Electric, Connellsville PA</td></tr></=
+table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"padding:=
+6px 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/v15/D=
+8l/_rNxGDlAMUGDE4Z_YlQ5FQ2/cgIjD/-7SgKv6gHQNO/i_XSZ/1" style=3D"color:#fff;=
+font-weight:bold;text-decoration:none">View</a></td></tr></table></a></td><=
+/tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px">=
+<a href=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/c=
+ebL4/-7SgKv6gHQNO/i_XSZ/2" style=3D"text-decoration:none"><table><tr><td st=
+yle=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite=
+.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/cebL4/-7SgKv6gHQNO/i_XSZ/2" style=3D=
+"color:#525253;font-weight:bold;font-size:17px;text-decoration:none">Manufa=
+cturing Engineer</a><br>Concise Technologies, Trafford PA</td></tr></table>=
+<table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"padding:6px 20=
+px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8l/_rN=
+xGDlAMUGDE4Z_YlQ5FQ2/cebL4/-7SgKv6gHQNO/i_XSZ/2" style=3D"color:#fff;font-w=
+eight:bold;text-decoration:none">View</a></td></tr></table></a></td></tr><t=
+r><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px"><a hre=
+f=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/cdszp/-=
+7SgKv6gHQNO/i_XSZ/3" style=3D"text-decoration:none"><table><tr><td style=3D=
+"padding:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite.com/t=
+/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/cdszp/-7SgKv6gHQNO/i_XSZ/3" style=3D"color=
+:#525253;font-weight:bold;font-size:17px;text-decoration:none">Advanced Pro=
+cess Control Engineer</a><br>Vitro, Pittsburgh PA</td></tr></table><table><=
+tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"padding:6px 20px;borde=
+r-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8l/_rNxGDlAMUG=
+DE4Z_YlQ5FQ2/cdszp/-7SgKv6gHQNO/i_XSZ/3" style=3D"color:#fff;font-weight:bo=
+ld;text-decoration:none">View</a></td></tr></table></a></td></tr><tr><td st=
+yle=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px"><a href=3D"htt=
+p://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/cZCzU/-7SgKv6gH=
+QNO/i_XSZ/4" style=3D"text-decoration:none"><table><tr><td style=3D"padding=
+:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite.com/t/v15/D8m=
+/_rNxGDlAMUGDE4Z_YlQ5FQ2/cZCzU/-7SgKv6gHQNO/i_XSZ/4" style=3D"color:#525253=
+;font-weight:bold;font-size:17px;text-decoration:none">Electrical Automatio=
+n Interface Engineer</a><br>Primetals Technologies USA LLC, Canonsburg PA</=
+td></tr></table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=
+=3D"padding:6px 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite=
+.com/t/v15/D8l/_rNxGDlAMUGDE4Z_YlQ5FQ2/cZCzU/-7SgKv6gHQNO/i_XSZ/4" style=3D=
+"color:#fff;font-weight:bold;text-decoration:none">View</a></td></tr></tabl=
+e></a></td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:1=
+3px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE=
+4Z_YlQ5FQ2/9d18c35e4d006df2/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/5/1/=
+Project+Manager/15201" style=3D"text-decoration:none"><table><tr><td style=
+=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite.co=
+m/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/9d18c35e4d006df2/Q032JWjb-ECMUqhTQ0a-2A=
+2/-7SgKv6gHQNO/i_XSZ/5/1/Project+Manager/15201" style=3D"color:#525253;font=
+-weight:bold;font-size:17px;text-decoration:none">Project Manager</a><br>Ad=
+ecco, Coraopolis PA</td></tr></table><table><tr><td align=3D"center" bgcolo=
+r=3D"#4cb050" style=3D"padding:6px 20px;border-radius:4px"><a href=3D"http:=
+//www.jobsearchsite.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/9d18c35e4d006df2/=
+Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/5/1/Project+Manager/15201" style=
+=3D"color:#fff;font-weight:bold;text-decoration:none">View</a></td></tr></t=
+able></a></td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;paddin=
+g:13px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMU=
+GDE4Z_YlQ5FQ2/cYVTA/-7SgKv6gHQNO/i_XSZ/6" style=3D"text-decoration:none"><t=
+able><tr><td style=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http://ww=
+w.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/cYVTA/-7SgKv6gHQNO/i_=
+XSZ/6" style=3D"color:#525253;font-weight:bold;font-size:17px;text-decorati=
+on:none">Project Engineer</a><br>Steel Nation, Washington PA</td></tr></tab=
+le><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"padding:6px=
+ 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8l/=
+_rNxGDlAMUGDE4Z_YlQ5FQ2/cYVTA/-7SgKv6gHQNO/i_XSZ/6" style=3D"color:#fff;fon=
+t-weight:bold;text-decoration:none">View</a></td></tr></table></a></td></tr=
+><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px"><a =
+href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/8e69=
+ef45d6075265/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/7/1/Project+Manager=
+/15201" style=3D"text-decoration:none"><table><tr><td style=3D"padding:0 0 =
+8px 0;color:#525253"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNx=
+GDlAMUGDE4Z_YlQ5FQ2/8e69ef45d6075265/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i=
+_XSZ/7/1/Project+Manager/15201" style=3D"color:#525253;font-weight:bold;fon=
+t-size:17px;text-decoration:none">IT Manager</a><br>Computer Aid, Pittsburg=
+h PA</td></tr></table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" s=
+tyle=3D"padding:6px 20px;border-radius:4px"><a href=3D"http://www.jobsearch=
+site.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/8e69ef45d6075265/Q032JWjb-ECMUqh=
+TQ0a-2A2/-7SgKv6gHQNO/i_XSZ/7/1/Project+Manager/15201" style=3D"color:#fff;=
+font-weight:bold;text-decoration:none">View</a></td></tr></table></a></td><=
+/tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px">=
+<a href=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/c=
+YIN4/-7SgKv6gHQNO/i_XSZ/8" style=3D"text-decoration:none"><table><tr><td st=
+yle=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite=
+.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/cYIN4/-7SgKv6gHQNO/i_XSZ/8" style=3D=
+"color:#525253;font-weight:bold;font-size:17px;text-decoration:none">Mechan=
+ical Engineer (Senior/Principal) - Facilities Construction Development & Im=
+plementation</a><br>Naval Nuclear Laboratory, West Mifflin PA</td></tr></ta=
+ble><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"padding:6p=
+x 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8l=
+/_rNxGDlAMUGDE4Z_YlQ5FQ2/cYIN4/-7SgKv6gHQNO/i_XSZ/8" style=3D"color:#fff;fo=
+nt-weight:bold;text-decoration:none">View</a></td></tr></table></a></td></t=
+r><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px"><a=
+ href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/549=
+377c3103609d5/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/9/1/Project+Manage=
+r/15201" style=3D"text-decoration:none"><table><tr><td style=3D"padding:0 0=
+ 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rN=
+xGDlAMUGDE4Z_YlQ5FQ2/549377c3103609d5/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/=
+i_XSZ/9/1/Project+Manager/15201" style=3D"color:#525253;font-weight:bold;fo=
+nt-size:17px;text-decoration:none">Project Manager</a><br>Computer Aid, Pit=
+tsburgh PA</td></tr></table><table><tr><td align=3D"center" bgcolor=3D"#4cb=
+050" style=3D"padding:6px 20px;border-radius:4px"><a href=3D"http://www.job=
+searchsite.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/549377c3103609d5/Q032JWjb-=
+ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/9/1/Project+Manager/15201" style=3D"color=
+:#fff;font-weight:bold;text-decoration:none">View</a></td></tr></table></a>=
+</td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 =
+19px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ=
+5FQ2/cYIN3/-7SgKv6gHQNO/i_XSZ/A" style=3D"text-decoration:none"><table><tr>=
+<td style=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsear=
+chsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/cYIN3/-7SgKv6gHQNO/i_XSZ/A" st=
+yle=3D"color:#525253;font-weight:bold;font-size:17px;text-decoration:none">=
+ELECTRICAL ENGINEER (Senior/Principal) - Facilities Construction Developmen=
+t & Implementation</a><br>Naval Nuclear Laboratory, West Mifflin PA</td></t=
+r></table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"padd=
+ing:6px 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/v=
+15/D8l/_rNxGDlAMUGDE4Z_YlQ5FQ2/cYIN3/-7SgKv6gHQNO/i_XSZ/A" style=3D"color:#=
+fff;font-weight:bold;text-decoration:none">View</a></td></tr></table></a></=
+td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19=
+px"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5F=
+Q2/cc4393ed9da62077/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/B/1/Project+=
+Manager/15201" style=3D"text-decoration:none"><table><tr><td style=3D"paddi=
+ng:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite.com/t/v24/D=
+8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/cc4393ed9da62077/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6=
+gHQNO/i_XSZ/B/1/Project+Manager/15201" style=3D"color:#525253;font-weight:b=
+old;font-size:17px;text-decoration:none">Agile Project Manager</a><br>Compu=
+ter Aid, Pittsburgh PA</td></tr></table><table><tr><td align=3D"center" bgc=
+olor=3D"#4cb050" style=3D"padding:6px 20px;border-radius:4px"><a href=3D"ht=
+tp://www.jobsearchsite.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/cc4393ed9da620=
+77/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/B/1/Project+Manager/15201" st=
+yle=3D"color:#fff;font-weight:bold;text-decoration:none">View</a></td></tr>=
+</table></a></td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;pad=
+ding:13px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGDl=
+AMUGDE4Z_YlQ5FQ2/cTTpK/-7SgKv6gHQNO/i_XSZ/C" style=3D"text-decoration:none"=
+><table><tr><td style=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http:/=
+/www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/cTTpK/-7SgKv6gHQNO=
+/i_XSZ/C" style=3D"color:#525253;font-weight:bold;font-size:17px;text-decor=
+ation:none">Systems Engineer</a><br>APEX Systems, Pittsburgh PA</td></tr></=
+table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"padding:=
+6px 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/v15/D=
+8l/_rNxGDlAMUGDE4Z_YlQ5FQ2/cTTpK/-7SgKv6gHQNO/i_XSZ/C" style=3D"color:#fff;=
+font-weight:bold;text-decoration:none">View</a></td></tr></table></a></td><=
+/tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px">=
+<a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/6=
+d5e87bf541c9f25/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/D/1/Project+Mana=
+ger/15201" style=3D"text-decoration:none"><table><tr><td style=3D"padding:0=
+ 0 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_=
+rNxGDlAMUGDE4Z_YlQ5FQ2/6d5e87bf541c9f25/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQN=
+O/i_XSZ/D/1/Project+Manager/15201" style=3D"color:#525253;font-weight:bold;=
+font-size:17px;text-decoration:none">Project Coordinator/Manager</a><br>IDI=
+ Consulting, Pittsburgh PA</td></tr></table><table><tr><td align=3D"center"=
+ bgcolor=3D"#4cb050" style=3D"padding:6px 20px;border-radius:4px"><a href=
+=3D"http://www.jobsearchsite.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/6d5e87bf=
+541c9f25/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/D/1/Project+Manager/152=
+01" style=3D"color:#fff;font-weight:bold;text-decoration:none">View</a></td=
+></tr></table></a></td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0=
+c0;padding:13px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8m/_=
+rNxGDlAMUGDE4Z_YlQ5FQ2/cNioz/-7SgKv6gHQNO/i_XSZ/E" style=3D"text-decoration=
+:none"><table><tr><td style=3D"padding:0 0 8px 0;color:#525253"><a href=3D"=
+http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/cNioz/-7SgKv=
+6gHQNO/i_XSZ/E" style=3D"color:#525253;font-weight:bold;font-size:17px;text=
+-decoration:none">Electrical Engineer</a><br>Randstad, Pittsburgh PA</td></=
+tr></table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"pad=
+ding:6px 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/=
+v15/D8l/_rNxGDlAMUGDE4Z_YlQ5FQ2/cNioz/-7SgKv6gHQNO/i_XSZ/E" style=3D"color:=
+#fff;font-weight:bold;text-decoration:none">View</a></td></tr></table></a><=
+/td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 1=
+9px"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5=
+FQ2/fbf718b35ce439f4/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/F/1/Project=
++Manager/15201" style=3D"text-decoration:none"><table><tr><td style=3D"padd=
+ing:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite.com/t/v24/=
+D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/fbf718b35ce439f4/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv=
+6gHQNO/i_XSZ/F/1/Project+Manager/15201" style=3D"color:#525253;font-weight:=
+bold;font-size:17px;text-decoration:none">Project Manager</a><br>RemX Speci=
+alty Staffing, Coraopolis PA</td></tr></table><table><tr><td align=3D"cente=
+r" bgcolor=3D"#4cb050" style=3D"padding:6px 20px;border-radius:4px"><a href=
+=3D"http://www.jobsearchsite.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/fbf718b3=
+5ce439f4/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/F/1/Project+Manager/152=
+01" style=3D"color:#fff;font-weight:bold;text-decoration:none">View</a></td=
+></tr></table></a></td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0=
+c0;padding:13px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8m/_=
+rNxGDlAMUGDE4Z_YlQ5FQ2/cNipE/-7SgKv6gHQNO/i_XSZ/G" style=3D"text-decoration=
+:none"><table><tr><td style=3D"padding:0 0 8px 0;color:#525253"><a href=3D"=
+http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/cNipE/-7SgKv=
+6gHQNO/i_XSZ/G" style=3D"color:#525253;font-weight:bold;font-size:17px;text=
+-decoration:none">Project Engineer</a><br>Synerfac, Pittsburgh PA</td></tr>=
+</table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"paddin=
+g:6px 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/v15=
+/D8l/_rNxGDlAMUGDE4Z_YlQ5FQ2/cNipE/-7SgKv6gHQNO/i_XSZ/G" style=3D"color:#ff=
+f;font-weight:bold;text-decoration:none">View</a></td></tr></table></a></td=
+></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px=
+"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2=
+/43ead8b32a80fd28/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/H/1/Project+Ma=
+nager/15201" style=3D"text-decoration:none"><table><tr><td style=3D"padding=
+:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o=
+/_rNxGDlAMUGDE4Z_YlQ5FQ2/43ead8b32a80fd28/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gH=
+QNO/i_XSZ/H/1/Project+Manager/15201" style=3D"color:#525253;font-weight:bol=
+d;font-size:17px;text-decoration:none">Junior Project Manager</a><br>Gatesm=
+an, Pittsburgh PA</td></tr></table><table><tr><td align=3D"center" bgcolor=
+=3D"#4cb050" style=3D"padding:6px 20px;border-radius:4px"><a href=3D"http:/=
+/www.jobsearchsite.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/43ead8b32a80fd28/Q=
+032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/H/1/Project+Manager/15201" style=
+=3D"color:#fff;font-weight:bold;text-decoration:none">View</a></td></tr></t=
+able></a></td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;paddin=
+g:13px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMU=
+GDE4Z_YlQ5FQ2/cEkKc/-7SgKv6gHQNO/i_XSZ/I" style=3D"text-decoration:none"><t=
+able><tr><td style=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http://ww=
+w.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/cEkKc/-7SgKv6gHQNO/i_=
+XSZ/I" style=3D"color:#525253;font-weight:bold;font-size:17px;text-decorati=
+on:none">Project Engineer</a><br>Precision Castparts-US, Toronto OH</td></t=
+r></table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"padd=
+ing:6px 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/v=
+15/D8l/_rNxGDlAMUGDE4Z_YlQ5FQ2/cEkKc/-7SgKv6gHQNO/i_XSZ/I" style=3D"color:#=
+fff;font-weight:bold;text-decoration:none">View</a></td></tr></table></a></=
+td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19=
+px"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5F=
+Q2/66cd2abc7509b060/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/J/1/Project+=
+Manager/15201" style=3D"text-decoration:none"><table><tr><td style=3D"paddi=
+ng:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite.com/t/v24/D=
+8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/66cd2abc7509b060/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6=
+gHQNO/i_XSZ/J/1/Project+Manager/15201" style=3D"color:#525253;font-weight:b=
+old;font-size:17px;text-decoration:none">Project Manager</a><br>eNGINE LLC,=
+ Pittsburgh PA</td></tr></table><table><tr><td align=3D"center" bgcolor=3D"=
+#4cb050" style=3D"padding:6px 20px;border-radius:4px"><a href=3D"http://www=
+.jobsearchsite.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/66cd2abc7509b060/Q032J=
+Wjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/J/1/Project+Manager/15201" style=3D"c=
+olor:#fff;font-weight:bold;text-decoration:none">View</a></td></tr></table>=
+</a></td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13p=
+x 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z=
+_YlQ5FQ2/c6igt/-7SgKv6gHQNO/i_XSZ/K" style=3D"text-decoration:none"><table>=
+<tr><td style=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http://www.job=
+searchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/c6igt/-7SgKv6gHQNO/i_XSZ/K=
+" style=3D"color:#525253;font-weight:bold;font-size:17px;text-decoration:no=
+ne">SMT Process Engineer</a><br>FPC of Huntsville, Pittsburgh PA</td></tr><=
+/table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"padding=
+:6px 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/v15/=
+D8l/_rNxGDlAMUGDE4Z_YlQ5FQ2/c6igt/-7SgKv6gHQNO/i_XSZ/K" style=3D"color:#fff=
+;font-weight:bold;text-decoration:none">View</a></td></tr></table></a></td>=
+</tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px"=
+><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/=
+de5c7da72cd01bb3/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/L/1/Project+Man=
+ager/15201" style=3D"text-decoration:none"><table><tr><td style=3D"padding:=
+0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/=
+_rNxGDlAMUGDE4Z_YlQ5FQ2/de5c7da72cd01bb3/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQ=
+NO/i_XSZ/L/1/Project+Manager/15201" style=3D"color:#525253;font-weight:bold=
+;font-size:17px;text-decoration:none">Entry Level - Project Manager</a><br>=
+Phoenix Technical Solutions, Grove City PA</td></tr></table><table><tr><td =
+align=3D"center" bgcolor=3D"#4cb050" style=3D"padding:6px 20px;border-radiu=
+s:4px"><a href=3D"http://www.jobsearchsite.com/t/v24/D8n/_rNxGDlAMUGDE4Z_Yl=
+Q5FQ2/de5c7da72cd01bb3/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/L/1/Proje=
+ct+Manager/15201" style=3D"color:#fff;font-weight:bold;text-decoration:none=
+">View</a></td></tr></table></a></td></tr><tr><td style=3D"border-bottom:1p=
+x dotted #c0c0c0;padding:13px 0 19px"><a href=3D"http://www.jobsearchsite.c=
+om/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/brW6d/-7SgKv6gHQNO/i_XSZ/M" style=3D"t=
+ext-decoration:none"><table><tr><td style=3D"padding:0 0 8px 0;color:#52525=
+3"><a href=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ=
+2/brW6d/-7SgKv6gHQNO/i_XSZ/M" style=3D"color:#525253;font-weight:bold;font-=
+size:17px;text-decoration:none">Process Engineer</a><br>Synerfac, Tarentum =
+PA</td></tr></table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" sty=
+le=3D"padding:6px 20px;border-radius:4px"><a href=3D"http://www.jobsearchsi=
+te.com/t/v15/D8l/_rNxGDlAMUGDE4Z_YlQ5FQ2/brW6d/-7SgKv6gHQNO/i_XSZ/M" style=
+=3D"color:#fff;font-weight:bold;text-decoration:none">View</a></td></tr></t=
+able></a></td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;paddin=
+g:13px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMU=
+GDE4Z_YlQ5FQ2/2dd0127ffefa7f56/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/N=
+/1/Project+Manager/15201" style=3D"text-decoration:none"><table><tr><td sty=
+le=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite.=
+com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/2dd0127ffefa7f56/Q032JWjb-ECMUqhTQ0a-=
+2A2/-7SgKv6gHQNO/i_XSZ/N/1/Project+Manager/15201" style=3D"color:#525253;fo=
+nt-weight:bold;font-size:17px;text-decoration:none">Associate IT Project Le=
+ader</a><br>Celerity, Pittsburgh PA</td></tr></table><table><tr><td align=
+=3D"center" bgcolor=3D"#4cb050" style=3D"padding:6px 20px;border-radius:4px=
+"><a href=3D"http://www.jobsearchsite.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2=
+/2dd0127ffefa7f56/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/N/1/Project+Ma=
+nager/15201" style=3D"color:#fff;font-weight:bold;text-decoration:none">Vie=
+w</a></td></tr></table></a></td></tr><tr><td style=3D"border-bottom:1px dot=
+ted #c0c0c0;padding:13px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/=
+v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/brVtJ/-7SgKv6gHQNO/i_XSZ/O" style=3D"text-d=
+ecoration:none"><table><tr><td style=3D"padding:0 0 8px 0;color:#525253"><a=
+ href=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/brV=
+tJ/-7SgKv6gHQNO/i_XSZ/O" style=3D"color:#525253;font-weight:bold;font-size:=
+17px;text-decoration:none">PROJECT ENGINEER EP</a><br>Elliott Company, Jean=
+nette PA</td></tr></table><table><tr><td align=3D"center" bgcolor=3D"#4cb05=
+0" style=3D"padding:6px 20px;border-radius:4px"><a href=3D"http://www.jobse=
+archsite.com/t/v15/D8l/_rNxGDlAMUGDE4Z_YlQ5FQ2/brVtJ/-7SgKv6gHQNO/i_XSZ/O" =
+style=3D"color:#fff;font-weight:bold;text-decoration:none">View</a></td></t=
+r></table></a></td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;p=
+adding:13px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxG=
+DlAMUGDE4Z_YlQ5FQ2/3d08a58c621f1b59/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_=
+XSZ/P/1/Project+Manager/15201" style=3D"text-decoration:none"><table><tr><t=
+d style=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearch=
+site.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/3d08a58c621f1b59/Q032JWjb-ECMUqh=
+TQ0a-2A2/-7SgKv6gHQNO/i_XSZ/P/1/Project+Manager/15201" style=3D"color:#5252=
+53;font-weight:bold;font-size:17px;text-decoration:none">Project Manager</a=
+><br>Logix Guru, Pittsburgh PA</td></tr></table><table><tr><td align=3D"cen=
+ter" bgcolor=3D"#4cb050" style=3D"padding:6px 20px;border-radius:4px"><a hr=
+ef=3D"http://www.jobsearchsite.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/3d08a5=
+8c621f1b59/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/P/1/Project+Manager/1=
+5201" style=3D"color:#fff;font-weight:bold;text-decoration:none">View</a></=
+td></tr></table></a></td></tr><tr><td style=3D"border-bottom:1px dotted #c0=
+c0c0;padding:13px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8m=
+/_rNxGDlAMUGDE4Z_YlQ5FQ2/bkJ2j/-7SgKv6gHQNO/i_XSZ/Q" style=3D"text-decorati=
+on:none"><table><tr><td style=3D"padding:0 0 8px 0;color:#525253"><a href=
+=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/bkJ2j/-7=
+SgKv6gHQNO/i_XSZ/Q" style=3D"color:#525253;font-weight:bold;font-size:17px;=
+text-decoration:none">Lead Network Systems Engineer</a><br>CyberCoders, Wes=
+t Mifflin PA</td></tr></table><table><tr><td align=3D"center" bgcolor=3D"#4=
+cb050" style=3D"padding:6px 20px;border-radius:4px"><a href=3D"http://www.j=
+obsearchsite.com/t/v15/D8l/_rNxGDlAMUGDE4Z_YlQ5FQ2/bkJ2j/-7SgKv6gHQNO/i_XSZ=
+/Q" style=3D"color:#fff;font-weight:bold;text-decoration:none">View</a></td=
+></tr></table></a></td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0=
+c0;padding:13px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_=
+rNxGDlAMUGDE4Z_YlQ5FQ2/ad3eb64f417de816/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQN=
+O/i_XSZ/R/1/Project+Manager/15201" style=3D"text-decoration:none"><table><t=
+r><td style=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http://www.jobse=
+archsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/ad3eb64f417de816/Q032JWjb-EC=
+MUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/R/1/Project+Manager/15201" style=3D"color:#=
+525253;font-weight:bold;font-size:17px;text-decoration:none">Project Manage=
+r</a><br>ConsultUSA, Pittsburgh PA</td></tr></table><table><tr><td align=3D=
+"center" bgcolor=3D"#4cb050" style=3D"padding:6px 20px;border-radius:4px"><=
+a href=3D"http://www.jobsearchsite.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/ad=
+3eb64f417de816/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/R/1/Project+Manag=
+er/15201" style=3D"color:#fff;font-weight:bold;text-decoration:none">View</=
+a></td></tr></table></a></td></tr><tr><td style=3D"border-bottom:1px dotted=
+ #c0c0c0;padding:13px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v15=
+/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/bbB4N/-7SgKv6gHQNO/i_XSZ/S" style=3D"text-deco=
+ration:none"><table><tr><td style=3D"padding:0 0 8px 0;color:#525253"><a hr=
+ef=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/bbB4N/=
+-7SgKv6gHQNO/i_XSZ/S" style=3D"color:#525253;font-weight:bold;font-size:17p=
+x;text-decoration:none">Business Process Engineer</a><br>Highmark Inc, Pitt=
+sburgh PA</td></tr></table><table><tr><td align=3D"center" bgcolor=3D"#4cb0=
+50" style=3D"padding:6px 20px;border-radius:4px"><a href=3D"http://www.jobs=
+earchsite.com/t/v15/D8l/_rNxGDlAMUGDE4Z_YlQ5FQ2/bbB4N/-7SgKv6gHQNO/i_XSZ/S"=
+ style=3D"color:#fff;font-weight:bold;text-decoration:none">View</a></td></=
+tr></table></a></td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;=
+padding:13px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNx=
+GDlAMUGDE4Z_YlQ5FQ2/fcb865095079c331/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i=
+_XSZ/T/1/Project+Manager/15201" style=3D"text-decoration:none"><table><tr><=
+td style=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearc=
+hsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/fcb865095079c331/Q032JWjb-ECMUq=
+hTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/T/1/Project+Manager/15201" style=3D"color:#525=
+253;font-weight:bold;font-size:17px;text-decoration:none">Project Manager</=
+a><br>System One, Pittsburgh PA</td></tr></table><table><tr><td align=3D"ce=
+nter" bgcolor=3D"#4cb050" style=3D"padding:6px 20px;border-radius:4px"><a h=
+ref=3D"http://www.jobsearchsite.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/fcb86=
+5095079c331/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/T/1/Project+Manager/=
+15201" style=3D"color:#fff;font-weight:bold;text-decoration:none">View</a><=
+/td></tr></table></a></td></tr><tr><td style=3D"border-bottom:1px dotted #c=
+0c0c0;padding:13px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8=
+m/_rNxGDlAMUGDE4Z_YlQ5FQ2/bP0Y1/-7SgKv6gHQNO/i_XSZ/U" style=3D"text-decorat=
+ion:none"><table><tr><td style=3D"padding:0 0 8px 0;color:#525253"><a href=
+=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/bP0Y1/-7=
+SgKv6gHQNO/i_XSZ/U" style=3D"color:#525253;font-weight:bold;font-size:17px;=
+text-decoration:none">Civil Engineer (Jr.) - Project Manager (74812)</a><br=
+>PEAK Technical Staffing USA, Coraopolis PA</td></tr></table><table><tr><td=
+ align=3D"center" bgcolor=3D"#4cb050" style=3D"padding:6px 20px;border-radi=
+us:4px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8l/_rNxGDlAMUGDE4Z_Y=
+lQ5FQ2/bP0Y1/-7SgKv6gHQNO/i_XSZ/U" style=3D"color:#fff;font-weight:bold;tex=
+t-decoration:none">View</a></td></tr></table></a></td></tr><tr><td style=3D=
+"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px"><a href=3D"http://ww=
+w.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/e24fc7e218d3a1fd/Q032=
+JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/V/1/Project+Manager/15201" style=3D"=
+text-decoration:none"><table><tr><td style=3D"padding:0 0 8px 0;color:#5252=
+53"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5F=
+Q2/e24fc7e218d3a1fd/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/V/1/Project+=
+Manager/15201" style=3D"color:#525253;font-weight:bold;font-size:17px;text-=
+decoration:none">Project Manager</a><br>Technical Solutions Inc., Pittsburg=
+h PA</td></tr></table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" s=
+tyle=3D"padding:6px 20px;border-radius:4px"><a href=3D"http://www.jobsearch=
+site.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/e24fc7e218d3a1fd/Q032JWjb-ECMUqh=
+TQ0a-2A2/-7SgKv6gHQNO/i_XSZ/V/1/Project+Manager/15201" style=3D"color:#fff;=
+font-weight:bold;text-decoration:none">View</a></td></tr></table></a></td><=
+/tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px">=
+<a href=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/b=
+3t2G/-7SgKv6gHQNO/i_XSZ/W" style=3D"text-decoration:none"><table><tr><td st=
+yle=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite=
+.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/b3t2G/-7SgKv6gHQNO/i_XSZ/W" style=3D=
+"color:#525253;font-weight:bold;font-size:17px;text-decoration:none">Remote=
+ Pre-Sales Systems Engineer</a><br>Corus360, Pittsburgh PA</td></tr></table=
+><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"padding:6px 2=
+0px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8l/_r=
+NxGDlAMUGDE4Z_YlQ5FQ2/b3t2G/-7SgKv6gHQNO/i_XSZ/W" style=3D"color:#fff;font-=
+weight:bold;text-decoration:none">View</a></td></tr></table></a></td></tr><=
+tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px"><a hr=
+ef=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/71d87f=
+2dd4f26b24/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/X/1/Project+Manager/1=
+5201" style=3D"text-decoration:none"><table><tr><td style=3D"padding:0 0 8p=
+x 0;color:#525253"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGD=
+lAMUGDE4Z_YlQ5FQ2/71d87f2dd4f26b24/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_X=
+SZ/X/1/Project+Manager/15201" style=3D"color:#525253;font-weight:bold;font-=
+size:17px;text-decoration:none">Project Manager</a><br>RedZone Robotics, In=
+c., Pittsburgh PA</td></tr></table><table><tr><td align=3D"center" bgcolor=
+=3D"#4cb050" style=3D"padding:6px 20px;border-radius:4px"><a href=3D"http:/=
+/www.jobsearchsite.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/71d87f2dd4f26b24/Q=
+032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/X/1/Project+Manager/15201" style=
+=3D"color:#fff;font-weight:bold;text-decoration:none">View</a></td></tr></t=
+able></a></td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;paddin=
+g:13px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMU=
+GDE4Z_YlQ5FQ2/b3pQt/-7SgKv6gHQNO/i_XSZ/Y" style=3D"text-decoration:none"><t=
+able><tr><td style=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http://ww=
+w.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/b3pQt/-7SgKv6gHQNO/i_=
+XSZ/Y" style=3D"color:#525253;font-weight:bold;font-size:17px;text-decorati=
+on:none">Systems Engineer - Linux</a><br>Curtiss Wright, Cheswick PA</td></=
+tr></table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"pad=
+ding:6px 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/=
+v15/D8l/_rNxGDlAMUGDE4Z_YlQ5FQ2/b3pQt/-7SgKv6gHQNO/i_XSZ/Y" style=3D"color:=
+#fff;font-weight:bold;text-decoration:none">View</a></td></tr></table></a><=
+/td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 1=
+9px"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5=
+FQ2/48bf9fb948faa440/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/Z/1/Project=
++Manager/15201" style=3D"text-decoration:none"><table><tr><td style=3D"padd=
+ing:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite.com/t/v24/=
+D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/48bf9fb948faa440/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv=
+6gHQNO/i_XSZ/Z/1/Project+Manager/15201" style=3D"color:#525253;font-weight:=
+bold;font-size:17px;text-decoration:none">Project Manager</a><br>Murtech Co=
+nsulting, Pittsburgh PA</td></tr></table><table><tr><td align=3D"center" bg=
+color=3D"#4cb050" style=3D"padding:6px 20px;border-radius:4px"><a href=3D"h=
+ttp://www.jobsearchsite.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/48bf9fb948faa=
+440/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/Z/1/Project+Manager/15201" s=
+tyle=3D"color:#fff;font-weight:bold;text-decoration:none">View</a></td></tr=
+></table></a></td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;pa=
+dding:13px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v15/D8m/_rNxGD=
+lAMUGDE4Z_YlQ5FQ2/ZGwbh/-7SgKv6gHQNO/i_XSZ/a" style=3D"text-decoration:none=
+"><table><tr><td style=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http:=
+//www.jobsearchsite.com/t/v15/D8m/_rNxGDlAMUGDE4Z_YlQ5FQ2/ZGwbh/-7SgKv6gHQN=
+O/i_XSZ/a" style=3D"color:#525253;font-weight:bold;font-size:17px;text-deco=
+ration:none">Consulting Systems Engineer</a><br>Primetals Technologies USA =
+LLC, Canonsburg PA</td></tr></table><table><tr><td align=3D"center" bgcolor=
+=3D"#4cb050" style=3D"padding:6px 20px;border-radius:4px"><a href=3D"http:/=
+/www.jobsearchsite.com/t/v15/D8l/_rNxGDlAMUGDE4Z_YlQ5FQ2/ZGwbh/-7SgKv6gHQNO=
+/i_XSZ/a" style=3D"color:#fff;font-weight:bold;text-decoration:none">View</=
+a></td></tr></table></a></td></tr><tr><td style=3D"border-bottom:1px dotted=
+ #c0c0c0;padding:13px 0 19px"><a href=3D"http://www.jobsearchsite.com/t/v24=
+/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/9765472234cf8f03/Q032JWjb-ECMUqhTQ0a-2A2/-7SgK=
+v6gHQNO/i_XSZ/b/1/Project+Manager/15201" style=3D"text-decoration:none"><ta=
+ble><tr><td style=3D"padding:0 0 8px 0;color:#525253"><a href=3D"http://www=
+.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/9765472234cf8f03/Q032J=
+Wjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/b/1/Project+Manager/15201" style=3D"c=
+olor:#525253;font-weight:bold;font-size:17px;text-decoration:none">Project =
+Manager</a><br>Impact Consulting Solutions, Inc., Pittsburgh PA</td></tr></=
+table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"padding:=
+6px 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/v24/D=
+8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/9765472234cf8f03/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6=
+gHQNO/i_XSZ/b/1/Project+Manager/15201" style=3D"color:#fff;font-weight:bold=
+;text-decoration:none">View</a></td></tr></table></a></td></tr><tr><td styl=
+e=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px"><a href=3D"http:=
+//www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/c03db5444b1ef41c/=
+Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/c/1/Project+Manager/15201" style=
+=3D"text-decoration:none"><table><tr><td style=3D"padding:0 0 8px 0;color:#=
+525253"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_Y=
+lQ5FQ2/c03db5444b1ef41c/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/c/1/Proj=
+ect+Manager/15201" style=3D"color:#525253;font-weight:bold;font-size:17px;t=
+ext-decoration:none">Agile Project Coordinator</a><br>TEK Connexion, Pittsb=
+urgh PA</td></tr></table><table><tr><td align=3D"center" bgcolor=3D"#4cb050=
+" style=3D"padding:6px 20px;border-radius:4px"><a href=3D"http://www.jobsea=
+rchsite.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/c03db5444b1ef41c/Q032JWjb-ECM=
+UqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/c/1/Project+Manager/15201" style=3D"color:#f=
+ff;font-weight:bold;text-decoration:none">View</a></td></tr></table></a></t=
+d></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19p=
+x"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ=
+2/a9a65c85865ad05b/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/d/1/Project+M=
+anager/15201" style=3D"text-decoration:none"><table><tr><td style=3D"paddin=
+g:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite.com/t/v24/D8=
+o/_rNxGDlAMUGDE4Z_YlQ5FQ2/a9a65c85865ad05b/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6g=
+HQNO/i_XSZ/d/1/Project+Manager/15201" style=3D"color:#525253;font-weight:bo=
+ld;font-size:17px;text-decoration:none">Technical Project Manager</a><br>Co=
+nsulting Professional Resources, Pittsburgh PA</td></tr></table><table><tr>=
+<td align=3D"center" bgcolor=3D"#4cb050" style=3D"padding:6px 20px;border-r=
+adius:4px"><a href=3D"http://www.jobsearchsite.com/t/v24/D8n/_rNxGDlAMUGDE4=
+Z_YlQ5FQ2/a9a65c85865ad05b/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/d/1/P=
+roject+Manager/15201" style=3D"color:#fff;font-weight:bold;text-decoration:=
+none">View</a></td></tr></table></a></td></tr><tr><td style=3D"border-botto=
+m:1px dotted #c0c0c0;padding:13px 0 19px"><a href=3D"http://www.jobsearchsi=
+te.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/61ede7b3b74bf339/Q032JWjb-ECMUqhTQ=
+0a-2A2/-7SgKv6gHQNO/i_XSZ/e/1/Project+Manager/15201" style=3D"text-decorati=
+on:none"><table><tr><td style=3D"padding:0 0 8px 0;color:#525253"><a href=
+=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/61ede7b3=
+b74bf339/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/e/1/Project+Manager/152=
+01" style=3D"color:#525253;font-weight:bold;font-size:17px;text-decoration:=
+none">Assistant Construction Manager</a><br>Hatch, Pittsburgh PA</td></tr><=
+/table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"padding=
+:6px 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/v24/=
+D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/61ede7b3b74bf339/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv=
+6gHQNO/i_XSZ/e/1/Project+Manager/15201" style=3D"color:#fff;font-weight:bol=
+d;text-decoration:none">View</a></td></tr></table></a></td></tr><tr><td sty=
+le=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px"><a href=3D"http=
+://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/a0c8aead1d8fe3ba=
+/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/f/1/Project+Manager/15201" styl=
+e=3D"text-decoration:none"><table><tr><td style=3D"padding:0 0 8px 0;color:=
+#525253"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_=
+YlQ5FQ2/a0c8aead1d8fe3ba/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/f/1/Pro=
+ject+Manager/15201" style=3D"color:#525253;font-weight:bold;font-size:17px;=
+text-decoration:none">Project Manager</a><br>AECOM, Pittsburgh PA</td></tr>=
+</table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"paddin=
+g:6px 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/v24=
+/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/a0c8aead1d8fe3ba/Q032JWjb-ECMUqhTQ0a-2A2/-7SgK=
+v6gHQNO/i_XSZ/f/1/Project+Manager/15201" style=3D"color:#fff;font-weight:bo=
+ld;text-decoration:none">View</a></td></tr></table></a></td></tr><tr><td st=
+yle=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px"><a href=3D"htt=
+p://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/9283b091836971a=
+0/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/g/1/Project+Manager/15201" sty=
+le=3D"text-decoration:none"><table><tr><td style=3D"padding:0 0 8px 0;color=
+:#525253"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z=
+_YlQ5FQ2/9283b091836971a0/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/g/1/Pr=
+oject+Manager/15201" style=3D"color:#525253;font-weight:bold;font-size:17px=
+;text-decoration:none">Project Manager</a><br>DVSport, Pittsburgh PA</td></=
+tr></table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"pad=
+ding:6px 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/=
+v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/9283b091836971a0/Q032JWjb-ECMUqhTQ0a-2A2/-7=
+SgKv6gHQNO/i_XSZ/g/1/Project+Manager/15201" style=3D"color:#fff;font-weight=
+:bold;text-decoration:none">View</a></td></tr></table></a></td></tr><tr><td=
+ style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px"><a href=3D"=
+http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/bea678eed2d8=
+8916/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/h/1/Project+Manager/15201" =
+style=3D"text-decoration:none"><table><tr><td style=3D"padding:0 0 8px 0;co=
+lor:#525253"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGD=
+E4Z_YlQ5FQ2/bea678eed2d88916/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/h/1=
+/Project+Manager/15201" style=3D"color:#525253;font-weight:bold;font-size:1=
+7px;text-decoration:none">Project Manager</a><br>Synerfac, Pittsburgh PA</t=
+d></tr></table><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D=
+"padding:6px 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite.co=
+m/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/bea678eed2d88916/Q032JWjb-ECMUqhTQ0a-2A=
+2/-7SgKv6gHQNO/i_XSZ/h/1/Project+Manager/15201" style=3D"color:#fff;font-we=
+ight:bold;text-decoration:none">View</a></td></tr></table></a></td></tr><tr=
+><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 19px"><a href=
+=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/48f8b8a4=
+63dd97af/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/i/1/Project+Manager/152=
+01" style=3D"text-decoration:none"><table><tr><td style=3D"padding:0 0 8px =
+0;color:#525253"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlA=
+MUGDE4Z_YlQ5FQ2/48f8b8a463dd97af/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ=
+/i/1/Project+Manager/15201" style=3D"color:#525253;font-weight:bold;font-si=
+ze:17px;text-decoration:none">Project Manager</a><br>Synergy Staffing, Pitt=
+sburgh PA</td></tr></table><table><tr><td align=3D"center" bgcolor=3D"#4cb0=
+50" style=3D"padding:6px 20px;border-radius:4px"><a href=3D"http://www.jobs=
+earchsite.com/t/v24/D8n/_rNxGDlAMUGDE4Z_YlQ5FQ2/48f8b8a463dd97af/Q032JWjb-E=
+CMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/i/1/Project+Manager/15201" style=3D"color:=
+#fff;font-weight:bold;text-decoration:none">View</a></td></tr></table></a><=
+/td></tr><tr><td style=3D"border-bottom:1px dotted #c0c0c0;padding:13px 0 1=
+9px"><a href=3D"http://www.jobsearchsite.com/t/v24/D8o/_rNxGDlAMUGDE4Z_YlQ5=
+FQ2/1d32b7ee90befae3/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQNO/i_XSZ/j/1/Project=
++Manager/15201" style=3D"text-decoration:none"><table><tr><td style=3D"padd=
+ing:0 0 8px 0;color:#525253"><a href=3D"http://www.jobsearchsite.com/t/v24/=
+D8o/_rNxGDlAMUGDE4Z_YlQ5FQ2/1d32b7ee90befae3/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv=
+6gHQNO/i_XSZ/j/1/Project+Manager/15201" style=3D"color:#525253;font-weight:=
+bold;font-size:17px;text-decoration:none">Project Manager--Information Tech=
+nology</a><br>GNC - General Nutrition Centers, Pittsburgh PA</td></tr></tab=
+le><table><tr><td align=3D"center" bgcolor=3D"#4cb050" style=3D"padding:6px=
+ 20px;border-radius:4px"><a href=3D"http://www.jobsearchsite.com/t/v24/D8n/=
+_rNxGDlAMUGDE4Z_YlQ5FQ2/1d32b7ee90befae3/Q032JWjb-ECMUqhTQ0a-2A2/-7SgKv6gHQ=
+NO/i_XSZ/j/1/Project+Manager/15201" style=3D"color:#fff;font-weight:bold;te=
+xt-decoration:none">View</a></td></tr></table></a></td></tr><tr><td></td></=
+tr>
+            </table>
+
+          </td>
+        </tr>        =20
+        <tr>
+          <td align=3D"left" style=3D"padding:20px 15px 20px 20px">
+            <table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+              <tr>
+                <td align=3D"left" style=3D"padding: 0 0 15px">
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" >=
+<tr><td colspan=3D"2"><a stylm=3D"display: block; width: 300px; height: 250=
+px;" href=3D"https://data.nexxt.com/t/t.aspx?tetr=3D&ttid=3D2&td=3D5pIglcL-=
+81HMeetDWn9_pc7_XeROLWXcKQAJH7Kzf5zd44FtZKm947MvHuoK7uLR9Ngb4JLN1ScOjeY1rpA=
+EFkc2c3t4dLv98TfGPCCmHWvutTUD7HX5_1C88fRfOzCdYA-EgR0acO60fA_3ixOmqz3e60RG-X=
+Ze9yvVbO-NlAM82_G4RK2RQ1s2KOW9I3WO_MdGyPACvlplxQ3Eaz3NqryQ5YEpcgxiCqrSWpbyA=
+qpYHLplV8BVb_Ul3CqzOOw9wr92afA2AZmDgmJYqowoSV9YHAyMrXB0WsQlm-FrmrgXmuiNGqHw=
+L7b8fNtNob4BeXw4tn7_TdJAsV0QMmeWgobkIr8r-w66eGgqwOBPtDqKiFd4en-L_P5UPogdIff=
+CDrH1H3UPDp0hXa2sn_IwMn9kHics-V7Amx28l9QJPxeLBMGF--MQcJNLiZfzumgCMSTdZ058MD=
+Hluc3laijbvhIXfFjJoxUlxgcRJ_8EaKl_9fsXfGYc9ylGfzXpMLvaeFiOByFyij3iEAlBLqE8f=
+QWLTA1aJ8nDotFJmP0hNkQ*" rel=3D"nofollow"><img src=3D"http://li.nexxt.com/i=
+mp?s=3D221458&sz=3D300x250&li=3DRON&m=3D6cc9724a530a26f625b93e6d7962bbea&p=
+=3D20180427143800" border=3D"0" width=3D"300" height=3D"250"/></a></td></tr=
+><tr stylm=3D"display:block; height:1px; line-height:1px;"><td><img src=3D"=
+http://li.nexxt.com/imp?s=3D221459&sz=3D1x1&li=3DRON&m=3D6cc9724a530a26f625=
+b93e6d7962bbea&p=3D20180427143800" height=3D"1" width=3D"10" /></td><td><im=
+g src=3D"http://li.nexxt.com/imp?s=3D221460&sz=3D1x1&li=3DRON&m=3D6cc9724a5=
+30a26f625b93e6d7962bbea&p=3D20180427143800" height=3D"1" width=3D"10" /></t=
+d></tr><tr><td align=3D"left"><a href=3D"https://data.nexxt.com/t/t.aspx?te=
+tr=3D&ttid=3D2&td=3D5pIglcL-81HMeetDWn9_pc7_XeROLWXcKQAJH7Kzf5zd44FtZKm947M=
+vHuoK7uLR9Ngb4JLN1ScOjeY1rpAEFkc2c3t4dLv98TfGPCCmHWvutTUD7HX5_1C88fRfOzCdYA=
+-EgR0acO60fA_3ixOmqz3e60RG-XZe9yvVbO-NlAM82_G4RK2RQ1s2KOW9I3WO_MdGyPACvlplx=
+Q3Eaz3NqryQ5YEpcgxiCqrSWpbyAqo3OGSCJd9gvbAH3gSv84RPrD52m-XT_hjkFivvNNxE_ogx=
+301ja4hhrb-l9vMOtj9fTqEOYK2v1qZ_Ez6h5F-mz9rndEumxLeROybfkjeoW-ZqhJGHLKujH11=
+GL2v2Y1ERM_97K6vbInNjJx1wV0VcR_ZUw4pZMNoFZj75EtpFkK7smSba4gx4EJBYiyp4N8yoHc=
+sEs2lSzqlJ-GTFQtodnMhICCpqCwgqXjnDkLo0LFRsY_1pEKj5n341mlUpI4yd7vQdFlv5f_X7X=
+zaHzK-4TtlyxPtYXr95At5sqZWjW94vm0qcd6s63HLiOq9sgZY*" rel=3D"nofollow"><img =
+src=3D"http://li.nexxt.com/imp?s=3D89009&sz=3D116x15&li=3DRON&m=3D6cc9724a5=
+30a26f625b93e6d7962bbea&p=3D20180427143800" border=3D"0"/></a></td><td alig=
+n=3D"right"><a href=3D"https://data.nexxt.com/t/t.aspx?tetr=3D&ttid=3D2&td=
+=3D5pIglcL-81HMeetDWn9_pc7_XeROLWXcKQAJH7Kzf5zd44FtZKm947MvHuoK7uLR9Ngb4JLN=
+1ScOjeY1rpAEFkc2c3t4dLv98TfGPCCmHWvutTUD7HX5_1C88fRfOzCdYA-EgR0acO60fA_3ixO=
+mqz3e60RG-XZe9yvVbO-NlAM82_G4RK2RQ1s2KOW9I3WO_MdGyPACvlplxQ3Eaz3NqryQ5YEpcg=
+xiCqrSWpbyAqqr2Ljju0QbT_sG92zflTuvbQF9iu8MwDY9urB1Pw3DfHJSIgxIwzF8KWZCtX6gW=
+G1rsZ0CVc6xyQ_nINd17st_KYABq-BgQqSokH7bGaUJc9pY2mqFH4dWy4LQ2_r2YECxFfQ3wYZN=
+9W2KP4TImS5TvHqEsBl8C2vo4QAkFRgl1SnLrciYTTBRYRGL220Up_S4xoKZZS8eA_wg7X9KP5E=
+uniWS5rb04yPAuRp7v17-xJKHr_UqAEwZoSzF8rhvG4THXYO7X6DUmgSqbU8Ducudn2XmVfhAv-=
+emZpga7R_X-4LWFGXou8IBP8R9kEOw9cs*" rel=3D"nofollow"><img src=3D"http://li.=
+nexxt.com/imp?s=3D96468&sz=3D69x15&li=3DRON&m=3D6cc9724a530a26f625b93e6d796=
+2bbea&p=3D20180427143800" border=3D"0"/></a></td></tr></table><table cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"line-height:0">=
+<img style=3D"display:none;" alt=3D"" height=3D"1" width=3D"1" src=3D"https=
+://data.nexxt.com/t/t.aspx?ttid=3D1&td=3D5pIglcL-81HMeetDWn9_peJCKz4Yfvz_Nd=
+D9Y8LgJu6t3_ZH0YyXjKeKxQqGR5SDwsdBJl9wltb6p_kobb0TryCLMh3sOOm2ii6ozakwmFMVV=
+PEKUIyFjgdB73IzX86eU9wQyqVslwQbV76zSMsRX1jPJjNBf8c8xxkXuO8AFFe25YY1R1acjvW9=
+CXTlukXiaM_dfAxijME5NsYUORWojiNYAgsoBOfE_BKF9Uc5envUGjQfF8t90H6-pp81M-aoiTi=
+clP4DM2fujUAyJkuSEsaiYBJ2coyjMXnkDFVV7bw5bJwr-XRffJWyG_6r7Wppre1MzHCRjQ6vR-=
+xDXFHl5A**" /></td></tr></table>
+                </td>
+              </tr>
+            </table>
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" ><tr><t=
+d colspan=3D"2"><a style=3D"display: block; width: 300px; height: 250px;" h=
+ref=3D"https://data.nexxt.com/t/t.aspx?tetr=3D&ttid=3D2&td=3DJwXV0of7JpFXxV=
+tc9eakAvyRZNQ91V1XHc4dD_2BJW68KXp24g-WfXfTTtLCRrAGHGs17uhwvQpSI39XDdgElc5tL=
+rRdclN3dECPqgcozghf_FUSAe6yX-vd4JBkMFLqKLt9uaMHxamt_3vXtVWHdWlpBr9GqdBU40DD=
+WmDJUEXr5zdqmSe3crl9U_uAKEFdgxhx6CkSuQzcLSbePmtckZh2clKQzeY5JDpH4WA7SiVMcFl=
+5e6R8nfA2cjfJiB13a5ZPt37JEu2Hct66KIFPewvHivCXirP59cPKm5VyzB59PNBNP5U99-xAeP=
+nrvLK72bAxm3AsGTYTG8EHFGQ0waYUUk4DAtKTiWjkQexfahZFtaXbsoShZfHhYqvhXjaYut0oQ=
+VdLFmbVKnPXjDFycMu7k9z9jRP766oGTSraa76DzSzMYFeodfpvLaReTLbOyGYCR78P6I1TBMjw=
+Eo07gwnvPmKqSILw59pViQiTBLEClkvsavNDSiUmS-cyC9Ow3uTCIWLNThAsJxAJRd9LJTtJYWh=
+q2wn4PA_8nYBBMxzIQvZ5D7_TKmYmYfeFGv5q" rel=3D"nofollow"><img src=3D"http://=
+li.nexxt.com/imp?s=3D132613&sz=3D300x250&li=3D300X250_2&m=3D6cc9724a530a26f=
+625b93e6d7962bbea&p=3D20180427143800" border=3D"0" width=3D"300" height=3D"=
+250"/></a></td></tr><tr style=3D"display:block; height:1px; line-height:1px=
+;"><td><img src=3D"http://li.nexxt.com/imp?s=3D132614&sz=3D1x1&li=3D300X250=
+_2&m=3D6cc9724a530a26f625b93e6d7962bbea&p=3D20180427143800" height=3D"1" wi=
+dth=3D"10" /></td><td><img src=3D"http://li.nexxt.com/imp?s=3D132615&sz=3D1=
+x1&li=3D300X250_2&m=3D6cc9724a530a26f625b93e6d7962bbea&p=3D20180427143800" =
+height=3D"1" width=3D"10" /></td></tr><tr><td align=3D"left"><a href=3D"htt=
+ps://data.nexxt.com/t/t.aspx?tetr=3D&ttid=3D2&td=3DJwXV0of7JpFXxVtc9eakAvyR=
+ZNQ91V1XHc4dD_2BJW68KXp24g-WfXfTTtLCRrAGHGs17uhwvQpSI39XDdgElc5tLrRdclN3dEC=
+Pqgcozghf_FUSAe6yX-vd4JBkMFLqKLt9uaMHxamt_3vXtVWHdWlpBr9GqdBU40DDWmDJUEXr5z=
+dqmSe3crl9U_uAKEFdgxhx6CkSuQzcLSbePmtckZh2clKQzeY5JDpH4WA7SiXqbybVpcSdcbElX=
+UnJwOHxrbhXJC4lKzUC9ghER8fCvPOZtn87moX0Z_YiiY5fq3khYg_riIIKyGuebnQ3xIL0VfKT=
+Qv4Z0fV2RxEgCDJoAoFh0uZlzGv237TC01czEad-kfbDr0GjQfW9GCdwHz8fDqH5PRM4uYgXWU3=
+Aa3nLFM9rRQl7PYmvtQQifW5B01K8Zn_ijhQRdxugBQ8kO4DE33N72vGYA1cReq1axZFMNQDoAy=
+B7LCWMsfuiBcVjqM45KP1ItQIfJ7eZp_Sg6gWTSPUE8rtLWvQ76oP0Jh-VthOhjokziOcDt_IQq=
+GVU-Lc8OW7eO-isKP1kupwGYdqi" rel=3D"nofollow"><img src=3D"http://li.nexxt.c=
+om/imp?s=3D89009&sz=3D116x15&li=3D300X250_2&m=3D6cc9724a530a26f625b93e6d796=
+2bbea&p=3D20180427143800" border=3D"0"/></a></td><td align=3D"right"><a hre=
+f=3D"https://data.nexxt.com/t/t.aspx?tetr=3D&ttid=3D2&td=3DJwXV0of7JpFXxVtc=
+9eakAvyRZNQ91V1XHc4dD_2BJW68KXp24g-WfXfTTtLCRrAGHGs17uhwvQpSI39XDdgElc5tLrR=
+dclN3dECPqgcozghf_FUSAe6yX-vd4JBkMFLqKLt9uaMHxamt_3vXtVWHdWlpBr9GqdBU40DDWm=
+DJUEXr5zdqmSe3crl9U_uAKEFdgxhx6CkSuQzcLSbePmtckZh2clKQzeY5JDpH4WA7SiWNYr57L=
+fTNslgNhDx_3TRcU0x6ckkZ2fc7CQ-a4Os-nUsJWn113VAHGBOoB6KB-ZqCZJkbtWTtK_VBv5I1=
+J9j5ZH-gO0iESdfQw5-m6aEMLGpZypbrGedhR8GzbmLzHFv_BbyBuTffM7cuU1I8QqKQkbo9t8k=
+K1-_qF8GoxQdoUrPomd7kUlJrCY4_B5OkyOeypzfetDXnwUaT4dgq4nbN8ZtsD-RKZqMvMXoeXf=
+qYGGCj4PmVsLzF-1vqMe9JC7B4kiBsdQFG8BM5MMoLYmf8R4QmvRHFth1l595-DXtNLqhXESol-=
+tW2Wf3qnMshLKbX58ZvFH9XrBjSWoJ3Ty9h" rel=3D"nofollow"><img src=3D"http://li=
+.nexxt.com/imp?s=3D96468&sz=3D69x15&li=3D300X250_2&m=3D6cc9724a530a26f625b9=
+3e6d7962bbea&p=3D20180427143800" border=3D"0"/></a></td></tr></table><table=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"line-hei=
+ght:0"><img style=3D"display:none;" alt=3D"" height=3D"1" width=3D"1" src=
+=3D"https://data.nexxt.com/t/t.aspx?ttid=3D1&td=3DJwXV0of7JpFXxVtc9eakAmSNg=
+caOU51WhA6RsvD0Y4q-TZ0xxRjeIaBBt2t-EBaGFY_G4Yud_c170ybYSesx6OozjGOyeJF-Tbfc=
+xuAjkKkUXX7fuKrSk0mFjgVsYh1pzogyB0sclCDTAY4m86coTmG92C1cs5tvvbFx4zLGvU2JIFt=
+U1zAmPYF022A3gz8-U1W_zobOwxTSqGMXo3_qKoBKn-9By_zz3kK6wOPLYHn_uFyIjTwspKDLG2=
+EdGw7vrSpnKvqq2mWrUTrdNX5dMzcmcMHqPFOyJybkKpuoaQJntmpPWP_L35cUenqwj0m4Onoz1=
+ztG_ITh4mW9gNa45g**" /></td></tr></table>
+          </td>
+        </tr>      =20
+        <tr>
+            <td class=3D"gmailspacer" height=3D"1" style=3D"padding:0;margi=
+n:0">
+              <img src=3D"https://df0lrsxzbmkll.cloudfront.net/assets/email=
+s/1/spacer.gif" style=3D"display:block;min-height:1px;max-height:1px;width:=
+300px;min-width:300px;" alt=3D"" width=3D"300" height=3D"1" border=3D"0">
+            </td>
+        </tr>=20
+      </table>
+
+    </td>
+  </tr>
+  <tr>
+    <td align=3D"left" style=3D"padding:20px 15px;color:#525253;font-size:1=
+2px">
+      <span class=3D"appleLinksFooter">If you wish to discontinue receiving=
+ this Jobs from the Web alert</span>, <a href=3D"https://www.nexxt.com/comm=
+on/track/trackgeneral.asp?tcid=3D106&ttid=3D2&cid=3D123745713&emid=3D16395&=
+tv1=3DUnsubscribe&tl2=3Dsd&tv2=3D20180427+14%3a40&red=3D/js/general/autosta=
+rt.asp?sid=3D1871B3FE-4039-4131-8313-867F62543915%26intsti=3DN%26red=3D/my/=
+careeralerts/apioptout" style=3D"color:#525253">click here</a>.<br /><br />
+      <span class=3D"appleLinksFooter">Jobs from the Web sent by Nexxt c/o =
+Nexxt Inc 45 E City Ave # 1609, Bala Cynwyd, PA 19004</span>
+    </td>
+  </tr>
+</table>
+
+
+
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"40" height=
+=3D"6"><tbody><tr><td><img src=3D"http://li.nexxt.com/imp?s=3D123836200&sz=
+=3D2x1&li=3DRON&m=3D6cc9724a530a26f625b93e6d7962bbea&p=3D20180427143800" wi=
+dth=3D"2" height=3D"6" border=3D"0" /></td><td><img src=3D"http://li.nexxt.=
+com/imp?s=3D123836201&sz=3D2x1&li=3DRON&m=3D6cc9724a530a26f625b93e6d7962bbe=
+a&p=3D20180427143800" width=3D"2" height=3D"6" border=3D"0" /></td><td><img=
+ src=3D"http://li.nexxt.com/imp?s=3D123836202&sz=3D2x1&li=3DRON&m=3D6cc9724=
+a530a26f625b93e6d7962bbea&p=3D20180427143800" width=3D"2" height=3D"6" bord=
+er=3D"0" /></td><td><img src=3D"http://li.nexxt.com/imp?s=3D123836203&sz=3D=
+2x1&li=3DRON&m=3D6cc9724a530a26f625b93e6d7962bbea&p=3D20180427143800" width=
+=3D"2" height=3D"6" border=3D"0" /></td><td><img src=3D"http://li.nexxt.com=
+/imp?s=3D123836204&sz=3D2x1&li=3DRON&m=3D6cc9724a530a26f625b93e6d7962bbea&p=
+=3D20180427143800" width=3D"2" height=3D"6" border=3D"0" /></td><td><img sr=
+c=3D"http://li.nexxt.com/imp?s=3D123836205&sz=3D2x1&li=3DRON&m=3D6cc9724a53=
+0a26f625b93e6d7962bbea&p=3D20180427143800" width=3D"2" height=3D"6" border=
+=3D"0" /></td><td><img src=3D"http://li.nexxt.com/imp?s=3D123836206&sz=3D2x=
+1&li=3DRON&m=3D6cc9724a530a26f625b93e6d7962bbea&p=3D20180427143800" width=
+=3D"2" height=3D"6" border=3D"0" /></td><td><img src=3D"http://li.nexxt.com=
+/imp?s=3D123836207&sz=3D2x1&li=3DRON&m=3D6cc9724a530a26f625b93e6d7962bbea&p=
+=3D20180427143800" width=3D"2" height=3D"6" border=3D"0" /></td><td><img sr=
+c=3D"http://li.nexxt.com/imp?s=3D123836208&sz=3D2x1&li=3DRON&m=3D6cc9724a53=
+0a26f625b93e6d7962bbea&p=3D20180427143800" width=3D"2" height=3D"6" border=
+=3D"0" /></td><td><img src=3D"http://li.nexxt.com/imp?s=3D123836209&sz=3D2x=
+1&li=3DRON&m=3D6cc9724a530a26f625b93e6d7962bbea&p=3D20180427143800" width=
+=3D"2" height=3D"6" border=3D"0" /></td><td><img src=3D"http://li.nexxt.com=
+/imp?s=3D123836210&sz=3D2x1&li=3DRON&m=3D6cc9724a530a26f625b93e6d7962bbea&p=
+=3D20180427143800" width=3D"2" height=3D"6" border=3D"0" /></td><td><img sr=
+c=3D"http://li.nexxt.com/imp?s=3D123836211&sz=3D2x1&li=3DRON&m=3D6cc9724a53=
+0a26f625b93e6d7962bbea&p=3D20180427143800" width=3D"2" height=3D"6" border=
+=3D"0" /></td><td><img src=3D"http://li.nexxt.com/imp?s=3D123836212&sz=3D2x=
+1&li=3DRON&m=3D6cc9724a530a26f625b93e6d7962bbea&p=3D20180427143800" width=
+=3D"2" height=3D"6" border=3D"0" /></td><td><img src=3D"http://li.nexxt.com=
+/imp?s=3D123836213&sz=3D2x1&li=3DRON&m=3D6cc9724a530a26f625b93e6d7962bbea&p=
+=3D20180427143800" width=3D"2" height=3D"6" border=3D"0" /></td><td><img sr=
+c=3D"http://li.nexxt.com/imp?s=3D123836214&sz=3D2x1&li=3DRON&m=3D6cc9724a53=
+0a26f625b93e6d7962bbea&p=3D20180427143800" width=3D"2" height=3D"6" border=
+=3D"0" /></td><td><img src=3D"http://li.nexxt.com/imp?s=3D123836215&sz=3D2x=
+1&li=3DRON&m=3D6cc9724a530a26f625b93e6d7962bbea&p=3D20180427143800" width=
+=3D"2" height=3D"6" border=3D"0" /></td><td><img src=3D"http://li.nexxt.com=
+/imp?s=3D123836216&sz=3D2x1&li=3DRON&m=3D6cc9724a530a26f625b93e6d7962bbea&p=
+=3D20180427143800" width=3D"2" height=3D"6" border=3D"0" /></td><td><img sr=
+c=3D"http://li.nexxt.com/imp?s=3D123836217&sz=3D2x1&li=3DRON&m=3D6cc9724a53=
+0a26f625b93e6d7962bbea&p=3D20180427143800" width=3D"2" height=3D"6" border=
+=3D"0" /></td><td><img src=3D"http://li.nexxt.com/imp?s=3D123836218&sz=3D2x=
+1&li=3DRON&m=3D6cc9724a530a26f625b93e6d7962bbea&p=3D20180427143800" width=
+=3D"2" height=3D"6" border=3D"0" /></td><td><img src=3D"http://li.nexxt.com=
+/imp?s=3D123836219&sz=3D2x1&li=3DRON&m=3D6cc9724a530a26f625b93e6d7962bbea&p=
+=3D20180427143800" width=3D"2" height=3D"6" border=3D"0" /></td></tr></tbod=
+y></table>
+
+
+</body>
+</html>

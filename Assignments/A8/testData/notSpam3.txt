@@ -1,0 +1,16 @@
+Chandu,
+
+ 
+
+This is still a work in progress. Nginx has been recompiled with the Shibboleth modules. We are now working on preparing some Nginx config containing the needed Shibboleth. We will keep you updated as we go through the process.
+
+ 
+
+Sincerely,
+
+ 
+
+Diamon Wiggins
+Systems Engineer
+Department of Computer Science
+Old Dominion University
