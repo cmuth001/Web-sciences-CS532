@@ -24,10 +24,13 @@ for i in range(1,11):
           notSpamStatus = cl.classify(txt)
           if notSpamStatus == 'Not Spam':
           	output['tp']+=1
+          	print("Not Spam ",i,": ",notSpamStatus)
           else:
           	output['fn']+=1
-
-          print("Not Spam ",i,": ",notSpamStatus)
+          	print("Not Spam ",i,": ",notSpamStatus)
+          	print('check why not spam')
+          print('\n')
+          
           # print("Not_Spam ",x,": ",cl.classify(email), file=open('output.txt', 'a+'))
 
     with open('./trainData/spam'+str(i)+'.txt') as f:
@@ -39,4 +42,3 @@ for i in range(1,11):
           	output['fp']+=1
           print("Spam ",i,": ",spamStatus)
 print(output)
-print( cl.classify('You should now be able to use the alias ibhert@cs.odu.edu for communication. ') )
