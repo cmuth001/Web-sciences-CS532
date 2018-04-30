@@ -19,7 +19,7 @@ docclass.checkSpamOrNot(cl)
 #classify text: "the banking dinner" as spam or not spam
 output = {'tp':0, 'tn':0, 'fp':0, 'fn':0}
 for i in range(1,11):
-    with open('./trainData/notSpam'+str(i)+'.txt') as f:
+    with open('./testData/notSpam'+str(i)+'.txt') as f:
           txt = f.read()
           notSpamStatus = cl.classify(txt)
           if notSpamStatus == 'Not Spam':
@@ -33,7 +33,7 @@ for i in range(1,11):
           
           # print("Not_Spam ",x,": ",cl.classify(email), file=open('output.txt', 'a+'))
 
-    with open('./trainData/spam'+str(i)+'.txt') as f:
+    with open('./testData/spam'+str(i)+'.txt') as f:
           txt = f.read()
           spamStatus = cl.classify(txt)
           if spamStatus == 'Spam':
