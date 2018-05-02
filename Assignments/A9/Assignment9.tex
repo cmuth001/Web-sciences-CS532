@@ -1,0 +1,112 @@
+\documentclass[letterpaper,11pt]{article}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage[super]{nth}
+\usepackage[hyphens]{url}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage[makeroom]{cancel}
+\usepackage[table]{xcolor}
+\usepackage{comment}
+\usepackage[space]{grffile}
+\usepackage{csvsimple}
+\usepackage{longtable}
+\usepackage{adjustbox}
+
+
+\newcommand*{\srcPath}{../src}%
+
+\lstset{
+	basicstyle=\footnotesize,
+	breaklines=true,
+}
+
+\begin{document}
+
+\begin{titlepage}
+
+\begin{center}
+
+\Huge{Assignment 9}
+
+\Large{CS 532:  Introduction to Web Science}
+
+\Large{Spring 2018}
+
+\Large{Chandrasekhar Reddy Muthyala}
+
+
+\end{center}
+
+\end{titlepage}
+
+\newpage
+
+
+% =================================
+% First question
+% =================================
+\section*{1}
+
+\subsection*{Question}
+
+\begin{verbatim}
+1.  Using the data from A8:
+
+- Consider each row in the blog-term matrix as a 
+1000 dimension vector, corresponding to a blog.  
+
+- From chapter 8, replace numpredict.euclidean() with 
+cosine as the distance metric. In other words, you'll 
+be computing the cosine between vectors of 1000 dimensions.  
+
+- Use knnestimate() to compute the nearest neighbors for both:
+
+http://f-measure.blogspot.com/
+http://ws-dl.blogspot.com/
+
+for k={1,2,5,10,20}.
+\end{verbatim}
+
+\clearpage
+\subsection*{Answer}
+
+To solve this question I used the blog data I previously received in assignment 7 \textbf{blogdata.txt} and the code provided by the Programming Collective Intelligence book \cite{collectiveIntell}. 
+
+Euclidean distance is probably the one that you are most familiar with; it is essentially the magnitude of the vector obtained by subtracting the training data point from the point to be classified. Another common metric is Cosine similarity. Rather than calculating a magnitude, Cosine similarity instead uses the difference in direction between two vectors \cite{medium}.
+
+\[similarity 
+	=COS(\Theta )
+	= \dfrac{A . B}{|| A || || B ||}
+  	
+\]
+To calculate the cosine distance metric \textbf{numpredict.py} had to be modified to accompany this new function. The methods that changed in this file were the \textit{knnestimate} and \textit{getdistances} functions. In the \textit{getdistances} function I simply swapped out the euclidean function for cosine as shown in Listing \ref{lst:q1numpred}. In the \textit{knnestimate} function and return a list of sorted distances in descending order.
+
+I then went filtered the F-measure and Web Science research group's blogs and create separate vectors with their values. These vectors were used for the cosine measurement against the vector with all blogs. 
+
+\lstinputlisting[firstline=48,lastline=87,frame=single,caption={Python script with included cosine function and knnestimate changes},label=lst:q1numpred,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{numpredict.py}
+
+\lstinputlisting[frame=single,caption={Python script to find KNN values},label=lst:q1knncalc,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{knnFinding.py}
+\subsection*{OutPut:}
+\lstinputlisting[frame=single,caption={Output of the knnestimate for two given blogs },label=lst:q1knncalc,captionpos=b,numbers=left,showspaces=false,showstringspaces=false,basicstyle=\footnotesize]{finalOutput.txt}
+
+
+\clearpage
+
+
+% =================================
+% Bibliography
+% =================================
+
+\begin{thebibliography}{9}
+\bibitem{github}
+\url{https://github.com/cmuth001/anwala.github.io/tree/master/Assignments/A7}.
+\bibitem{collectiveIntell}
+Segaran, Toby. ``Programming Collective Intelligence''. O' Reilly, 2007. Web. 6 April 2017. \url{http://shop.oreilly.com/product/9780596529321.do}.
+\bibitem{wiki}
+\url{https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm}
+\bibitem{medium}
+\url(https://towardsdatascience.com/introduction-to-k-nearest-neighbors-3b534bb11d26)
+\end{thebibliography}
+
+\end{document}

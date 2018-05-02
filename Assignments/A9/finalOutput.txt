@@ -1,0 +1,100 @@
+
+
+************	F-Measure	************
+('k =', 1)
+DaveCromwell Writes
+--------
+('k =', 2)
+DaveCromwell Writes
+The Jeopardy of Contentment
+--------
+('k =', 5)
+DaveCromwell Writes
+The Jeopardy of Contentment
+Pithy Title Here
+KiDCHAIR
+Alex Denney
+--------
+('k =', 10)
+DaveCromwell Writes
+The Jeopardy of Contentment
+Pithy Title Here
+KiDCHAIR
+Alex Denney
+Skiptrack music
+New Amusements
+My Name Is Blue Canary
+The Slow Music Movement
+.
+--------
+('k =', 20)
+DaveCromwell Writes
+The Jeopardy of Contentment
+Pithy Title Here
+KiDCHAIR
+Alex Denney
+Skiptrack music
+New Amusements
+My Name Is Blue Canary
+The Slow Music Movement
+.
+Diagnosis: No Radio
+The Power of Independent Trucking
+Did Not Chart
+Captain Panda's Local & Independent Music Showcase
+PSI LAB
+unter diesem gesichtspunkt
+Lyrically Speaking
+macthemost
+Notes from a Genius
+She May Be Naked
+--------
+************	Web Science and Digital Libraries Research Group	************
+('k =', 1)
+unter diesem gesichtspunkt
+--------
+('k =', 2)
+unter diesem gesichtspunkt
+Myopiamuse
+--------
+('k =', 5)
+unter diesem gesichtspunkt
+Myopiamuse
+She May Be Naked
+Alex Denney
+DaveCromwell Writes
+--------
+('k =', 10)
+unter diesem gesichtspunkt
+Myopiamuse
+She May Be Naked
+Alex Denney
+DaveCromwell Writes
+Pithy Title Here
+The Power of Independent Trucking
+The Professional Daydreamer
+Diagnosis: No Radio
+My Name Is Blue Canary
+--------
+('k =', 20)
+unter diesem gesichtspunkt
+Myopiamuse
+She May Be Naked
+Alex Denney
+DaveCromwell Writes
+Pithy Title Here
+The Power of Independent Trucking
+The Professional Daydreamer
+Diagnosis: No Radio
+My Name Is Blue Canary
+Mile In Mine
+Morgan's Blog
+Media Coursework
+.
+macthemost
+New Amusements
+ELLIA TOWNSEND A2
+hello my name is justin.
+PSI LAB
+Nothing But Ordinary Glances At Extraordinary Things
+--------
